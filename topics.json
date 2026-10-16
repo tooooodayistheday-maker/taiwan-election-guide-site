@@ -1,0 +1,192 @@
+{
+  "checkedAt": "2026-10-16",
+  "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
+  "topics": [
+    {
+      "id": "tsai-kang-yung",
+      "title": "蔡康永出席競選活動，為何成為選舉話題？",
+      "shortTitle": "蔡康永與政治參與",
+      "category": "民主與媒體",
+      "symbol": "✦",
+      "county": "臺北市",
+      "districts": [],
+      "relatedNames": [
+        "沈伯洋",
+        "蔣萬安"
+      ],
+      "date": "2026-10-15",
+      "summary": "從到場聽政見、中國網路反應，到回應另一陣營邀請；分開看參與活動與公開支持的差別。",
+      "steps": [
+        {
+          "speaker": "事件脈絡",
+          "text": "10/4，蔡康永出席沈伯洋競總成立活動。他的團隊說明，是為可能的訪問做前期了解；到場不應直接改寫成正式背書。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610050104.aspx"
+          ]
+        },
+        {
+          "speaker": "不同回應",
+          "text": "事件引發中國網路反應。沈伯洋談聽政見的自由，蔣萬安也主張應尊重台灣民主，並邀蔡康永參加自己的競總活動。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610050082.aspx"
+          ]
+        },
+        {
+          "speaker": "已知最新進度",
+          "text": "10/15報導：蔡康永表示預計10/26到蔣萬安競總體驗觀摩、不上台。本版查核時活動尚未舉行，不能寫成已出席。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/amov/202610150105.aspx"
+          ]
+        }
+      ],
+      "question": "公眾人物到場聆聽、接受訪問與正式背書，應該如何區分？"
+    },
+    {
+      "id": "social-workers",
+      "title": "「社工供毒」說引發爭論：原話與分工怎麼看？",
+      "shortTitle": "社工角色與減害爭論",
+      "category": "政策攻防",
+      "symbol": "◇",
+      "county": "臺北市",
+      "districts": [],
+      "relatedNames": [
+        "沈伯洋",
+        "蔣萬安"
+      ],
+      "date": "2026-10-10",
+      "summary": "李彥秀評論沈伯洋舊文後，社工團體要求道歉，衛福部說明醫療與社工角色。李彥秀是立委，本事件不當作她參選地方公職的證據。",
+      "steps": [
+        {
+          "speaker": "原話脈絡",
+          "text": "聯合報10/10報導，李彥秀前一日評論沈伯洋舊文時，形容未來社工在社區提供毒品。報導沒有把「社工是藥頭」列為她的直接原話。",
+          "sourceUrls": [
+            "https://udn.com/news/story/7266/9806514"
+          ]
+        },
+        {
+          "speaker": "專業方的說明",
+          "text": "社工界要求道歉。報導引述衛福部說明：減害服務依醫療與社工專業分工，社工協助個案管理、支持與資源連結，不能直接等同發放毒品。",
+          "sourceUrls": [
+            "https://udn.com/news/story/7266/9806514"
+          ]
+        },
+        {
+          "speaker": "選戰回應",
+          "text": "蔣萬安說討論源頭是2014年舊文；沈伯洋要求為社工汙名化道歉。李彥秀辦公室回應認同科學與跨專業合作，且社工不是毒品提供者。這些是各方說法，需與原政策分開核對。",
+          "sourceUrls": [
+            "https://udn.com/news/story/124652/9806164"
+          ]
+        }
+      ],
+      "question": "舊文、現行制度與本屆政見，哪些相同，哪些需要重新確認？"
+    },
+    {
+      "id": "taipei-trees",
+      "title": "台北砍樹爭議：樹木數量與樹冠面積是同一件事嗎？",
+      "shortTitle": "台北路樹與城市綠蔭",
+      "category": "公共治理",
+      "symbol": "♧",
+      "county": "臺北市",
+      "districts": [],
+      "relatedNames": [
+        "蔣萬安",
+        "沈伯洋"
+      ],
+      "date": "2026-10-14",
+      "summary": "護樹團體質疑樹冠流失及統計口徑，市府公布處置說明與查詢平台；雙方資料需要分項比對。",
+      "steps": [
+        {
+          "speaker": "公共質疑",
+          "text": "9/30中央社報導，護樹團體關注樹冠面積流失，並質疑市府以新增樹木數量回應及將私有樹納入統計。這是團體提出的質疑。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202609300337.aspx"
+          ]
+        },
+        {
+          "speaker": "市府回應",
+          "text": "10/14北市府公布「小樹保衛站」，說明爭議個案的處置原因，並提出新增喬木統計。官方說明是當事方資料，應與個案紀錄一起閱讀。",
+          "sourceUrls": [
+            "https://www.gov.taipei/News_Content.aspx?n=74806083EBDF5A03&s=F45F9A604DB40A91&sms=72544237BBE4C5F6"
+          ]
+        },
+        {
+          "speaker": "本站判讀提示",
+          "text": "樹木棵數、樹冠面積、公有與私有土地，以及移除、修剪、移植，是不同指標；單一總數不能直接回答每個爭議個案。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202609300337.aspx",
+            "https://www.gov.taipei/News_Content.aspx?n=74806083EBDF5A03&s=F45F9A604DB40A91&sms=72544237BBE4C5F6"
+          ]
+        }
+      ],
+      "question": "候選人如何承諾公開每次移除與補植的理由、位置及成效？"
+    },
+    {
+      "id": "keelung-scooters",
+      "title": "基隆電動機車承諾：原目標、已發放與續辦要分開看",
+      "shortTitle": "機車補助與政策履約",
+      "category": "政策攻防",
+      "symbol": "↗",
+      "county": "基隆市",
+      "districts": [],
+      "relatedNames": [
+        "謝國樑"
+      ],
+      "date": "2026-09-16",
+      "summary": "市議會就五萬輛承諾與連任說法質詢；報導中的發放數字有自己的時間點。",
+      "steps": [
+        {
+          "speaker": "事件脈絡",
+          "text": "9/16中央社報導，議員就原五萬輛承諾及連任說法質詢。當日報導已發出26,813輛，這不是本站查核日的即時統計。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202609160198.aspx"
+          ]
+        },
+        {
+          "speaker": "當事人回應",
+          "text": "謝國樑表示相信自己會連任，並將追加預算延續電動機車政策。這是政策延續主張，需與先前目標及實際執行分開檢視。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202609160198.aspx"
+          ]
+        },
+        {
+          "speaker": "本站判讀提示",
+          "text": "這是全基隆的政策議題，不是某一區特有事件。可以追問受益對象、追加經費及下一階段可查核的目標。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202609160198.aspx"
+          ]
+        }
+      ],
+      "question": "怎樣的政策成果，才足以讓你判斷承諾有沒有兌現？"
+    },
+    {
+      "id": "cec-eligibility",
+      "title": "登記成功就能參選？資格審定與正式公告的差別",
+      "shortTitle": "候選資格與司法紀錄",
+      "category": "選務資訊",
+      "symbol": "⚑",
+      "county": null,
+      "districts": [],
+      "relatedNames": [],
+      "date": "2026-10-16",
+      "summary": "全國名冊保留登記歷史。中選會已審定縣市長及議員資格，部分登記人不符；地方職別另須核對地方公告。",
+      "steps": [
+        {
+          "speaker": "選務程序",
+          "text": "9月登記名冊、10/16資格審定、抽號與11月正式候選名單，屬不同程序。本站保留登記紀錄，並將資格不符者另行標示。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/central/article/65213",
+            "https://web.cec.gov.tw/central/article/61722"
+          ]
+        },
+        {
+          "speaker": "資料判讀",
+          "text": "資格不符原因可能涉及刑事判決、戶籍或其他法定條件。不是每一位不合格者都有犯罪紀錄；通過審定也不是無前科證明。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/central/article/65213"
+          ]
+        }
+      ],
+      "question": "你看到的是登記紀錄、審定結果，還是最新正式名單？"
+    }
+  ]
+}
