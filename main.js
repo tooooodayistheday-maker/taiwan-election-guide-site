@@ -38,7 +38,7 @@ function updateCoordinates(){const meta=countyMeta();$('#county-theme-title').te
 function coordinateMatch(c){if(!state.town)return true;if(c.officeKey==='mayor')return true;if(c.officeKey==='council')return c.districtAreas?.length?c.districtAreas.includes(state.town):true;if(c.district!==state.town)return false;return !state.village||!c.village||c.village===state.village;}
 function baseRecords(){return state.scope==='national'?(searchIndex||[]):candidates.filter(coordinateMatch);}
 function updateFilters(){optionList($('#directory-county'),data.counties.map(c=>c.name),state.scope==='national'?'':state.county,'全台灣（不限縣市）');const list=baseRecords();const keys=Object.keys(officeInfo).filter(k=>list.some(c=>c.officeKey===k));if(state.office!=='all'&&!keys.includes(state.office))state.office='all';optionList($('#office'),[{value:'all',label:'全部職務'},...keys.map(k=>({value:k,label:officeInfo[k].label}))],state.office,null);const byOffice=list.filter(c=>state.office==='all'||c.officeKey===state.office);const many=state.scope==='national'&&(state.office==='all'||state.office==='village');const cons=many?[]:[...new Set(byOffice.map(c=>c.constituency))];$('#constituency').disabled=many;if(state.constituency&&!cons.includes(state.constituency))state.constituency='';optionList($('#constituency'),cons,state.constituency,'全部選區');const parties=[...new Set(byOffice.map(c=>c.party))];if(state.party&&!parties.includes(state.party))state.party='';optionList($('#party'),parties,state.party,'全部政黨');$('#scope').value=state.scope;$('#judicial-filter').value=state.judicial;$('#eligibility-filter').value=state.eligibility;}
-function filtered(){const q=normal(state.search.trim());return baseRecords().filter(c=>(state.office==='all'||c.officeKey===state.office)&&(!state.constituency||c.constituency===state.constituency)&&(!state.party||c.party===state.party)&&(!state.judicial||(c.judicialStatus||'not_checked')===state.judicial)&&(!state.eligibility||(state.eligibility==='eligible'?c.eligibleToRun===true:state.eligibility==='ineligible'?c.eligibleToRun===false:c.eligibleToRun==null))&&(!q||normal([c.name,c.county,c.district,c.village,c.party,c.constituency].join(' ')).includes(q)));}
+function filtered(){const q=normal(state.search.trim());return baseRecords().filter(c=>(state.office==='all'||c.officeKey===state.office)&&(!state.constituency||c.constituency===state.constituency)&&(!state.party||c.party===state.party)&&(!state.judicial||(c.judicialStatus||'not_checked')===state.judicial)&&(!state.eligibility||(state.eligibility==='not_ineligible'?c.eligibleToRun!==false:state.eligibility==='eligible'?c.eligibleToRun===true:state.eligibility==='ineligible'?c.eligibleToRun===false:c.eligibleToRun==null))&&(!q||normal([c.name,c.county,c.district,c.village,c.party,c.constituency].join(' ')).includes(q)));}
 function statusText(c){return c.eligibleToRun===false?'資格不符・歷史登記':c.eligibleToRun===true?'資格審定通過':'已登記・審定未核實';}
 const partyCodes=new Map([["民主進步黨","dpp"],["中國國民黨","kmt"],["台灣民眾黨","tpp"],["時代力量","npp"],["親民黨","pfp"],["台灣基進","tsp"],["台灣綠黨","green"],["社會民主黨","sdp"],["小民參政歐巴桑聯盟","obs"],["勞動黨","labor"]].map(([name,code])=>[normal(name),code]));
 function partyCode(party){return normal(party)==='無政黨推薦'?'independent':partyCodes.get(normal(party))||'other';}
@@ -162,3 +162,133 @@ async function setupJudicialRecords(){
  }catch{ $('#judicial-record-grid').innerHTML='<div class="judicial-empty"><p>刑事紀錄資料未能載入，請重新整理。</p><button class="text-button" id="retry-judicial">重新讀取資料 ↻</button></div>';$('#retry-judicial')?.addEventListener('click',setupJudicialRecords,{once:true}); }
 }
 setupJudicialRecords();
+
+// Source-backed party facts, card labels, and local-only household guidance.
+let voterGuideData=null,partyGuideData=null,addressChoice=null,addressRequest=0;
+const countyChangeBeforeGuide=setCounty,coordinateChangeBeforeGuide=onCoordinateChange;
+setCounty=function(...args){addressRequest++;return countyChangeBeforeGuide(...args);};
+onCoordinateChange=function(){addressRequest++;return coordinateChangeBeforeGuide();};
+const voterNorm=s=>String(s||'').normalize('NFKC').replace(/台/g,'臺').replace(/[\s,，。]/g,'');
+function parseHouseholdAddress(raw,lookup){
+ const input=voterNorm(raw).replace(/^\d{3,6}/,'');
+ const county=lookup.counties.find(c=>input.startsWith(voterNorm(c.name)));
+ if(!county)return{error:'請先填入縣市全名，例如「臺北市」或「新竹縣」。'};
+ const rest=input.slice(voterNorm(county.name).length),town=county.towns.find(t=>rest.startsWith(voterNorm(t)));
+ if(!town)return{error:'請接著填入鄉鎮市區，例如「'+county.name+county.towns[0]+'」。'};
+ const tail=rest.slice(voterNorm(town).length),villages=[...(county.villages[town]||[])].sort((a,b)=>b.length-a.length);
+ const village=villages.find(v=>tail.startsWith(voterNorm(v)))||'';
+ return{county:county.name,town,village};
+}
+function councilChoices(location,identity='unsure',lookup=voterGuideData){
+ if(!lookup)return[];
+ return lookup.council.filter(r=>{
+  if(r.county!==location.county||!r.towns.includes(location.town))return false;
+  if(r.indigenous){if(identity==='general')return false;if(identity==='plain'&&!String(r.indigenousType||r.scope).includes('平地'))return false;if(identity==='mountain'&&!String(r.indigenousType||r.scope).includes('山地'))return false;return true;}
+  if(identity==='plain'||identity==='mountain')return false;
+  if(r.kind==='village'&&location.village)return r.members.some(m=>m.town===location.town&&m.village===location.village);
+  return r.kind==='town'||r.kind==='village';
+ });
+}
+function candidateCardTags(c){
+ const status=c.judicialStatus||'not_checked',tags=[];
+ if(status==='confirmed_conviction')for(const tag of voterGuideData?.criminalTags[c.id]||[])tags.push(`<button class="chip conviction-type" data-profile="${esc(c.id)}" data-tab="judicial" title="已核實刑事有罪確定；點開查看裁判與來源">定讞｜${esc(tag.text)} ↗</button>`);
+ else if(status==='non_final')tags.push('<span class="chip ongoing">案件尚未定讞</span>');
+ else if(status==='reported_conviction')tags.push('<span class="chip ongoing">報導紀錄・原始裁判待補</span>');
+ else if(status==='searched_no_verified_conviction')tags.push('<span class="chip" title="只代表目前查核範圍；不是無前科證明">查核範圍內未查得定讞</span>');
+ else tags.push('<span class="chip pending">司法尚待查核</span>');
+ for(const tag of voterGuideData?.personTags[c.id]||[])tags.push(`<span class="chip ${tag.kind==='experience'?'experience':'policy-topic'}" title="${esc(tag.detail||'已有公開來源，點開圖鑑閱讀原文與限制')}">${esc(tag.text)}</span>`);
+ tags.push(`<span class="chip">${c.hasBio?'經歷附來源':'經歷待補'}</span>`);
+ if(!voterGuideData?.personTags[c.id]?.some(t=>t.kind==='policy'))tags.push(`<span class="chip">${c.hasPolicy?'政策有資料':'本屆政見待補'}</span>`);
+ if(c.nameVerificationStatus?.includes('待'))tags.push('<span class="chip ongoing">姓名特殊字待核對</span>');
+ return tags.join('');
+}
+const plainCard=card;
+card=function(c){return plainCard(c).replace(/<div class="candidate-chips">[\s\S]*?<\/div>/,`<div class="candidate-chips" aria-label="${esc(c.name)}的資料標籤">${candidateCardTags(c)}</div>`);};
+partyPill=function(party){return `<button type="button" class="party-pill" data-party-code="${partyCode(party)}" data-party-info="${esc(party)}" title="推薦政黨：${esc(party)}；點開介紹" aria-label="認識${esc(party)}">${esc(party)} ↗</button>`;};
+const plainCoordinateMatch=coordinateMatch;
+coordinateMatch=function(c){
+ if(c.officeKey==='council'&&state.town&&voterGuideData){const rule=voterGuideData.council.find(r=>r.county===c.county&&r.constituency===c.constituency);
+  if(rule?.kind==='village')return state.village?rule.members.some(m=>m.town===state.town&&m.village===state.village):rule.towns.includes(state.town);
+ }
+ return plainCoordinateMatch(c);
+};
+function syncLocalFilters(){
+ if(!data)return;
+ optionList($('#directory-town'),countyMeta().towns,state.town,'全縣市');$('#directory-town').disabled=state.scope==='national';
+ const vs=[...new Set(candidates.filter(c=>c.officeKey==='village'&&c.district===state.town).map(c=>c.village).filter(Boolean))];
+ optionList($('#directory-village'),vs,state.village,'全部村里');$('#directory-village').disabled=state.scope==='national'||!state.town;
+ if(addressChoice&&(addressChoice.county!==state.county||addressChoice.town!==state.town)){addressChoice=null;$('#address-results').innerHTML='';$('#address-status').textContent='座標已變更；可以重新輸入戶籍地。';$('#household-address').value='';optionList($('#address-village'),[],'','先輸入縣市與鄉鎮區');$('#address-village').disabled=true;}
+ if(addressChoice){addressChoice.village=state.village;optionList($('#address-village'),vs,state.village,'請確認戶籍村里');$('#address-village').disabled=false;renderAddressResults();}
+}
+function renderConstituencyGuide(){
+ const box=$('#constituency-guide');if(!box||!voterGuideData||!data)return;
+ if(state.scope==='national'){box.innerHTML='<h4>先選縣市與鄉鎮區，找到你的議員選區。</h4><p>全台搜尋目前包含不同選區；切換到所在地後，會顯示正式選區範圍。</p>';return;}
+ if(state.office!=='council'){box.innerHTML='';return;}
+ if(!state.town){box.innerHTML='<h4>議員要看哪一區？</h4><p>先選「鄉鎮市區」，這裡會對照正式議員選區；行政區和選舉區不一定相同。</p>';return;}
+ const location={county:state.county,town:state.town,village:state.village},identity=addressChoice&&addressChoice.county===state.county&&addressChoice.town===state.town?$('#voter-identity').value:'unsure',choices=councilChoices(location,identity),needsVillage=choices.some(r=>r.kind==='village')&&!state.village;
+ box.innerHTML=`<h4>${esc(state.county+'・'+state.town+(state.village?'・'+state.village:''))}，議員看這裡</h4>${needsVillage?'<p><strong>這個行政區分屬不同議員選區，請再選戶籍村里。</strong></p>':''}<ul>${choices.map(r=>`<li><button class="text-button" data-guide-constituency="${esc(r.constituency)}">${esc(r.constituency)}${r.indigenous?'（'+esc(r.indigenousType||'原住民身分條件')+'）':''} →</button>${r.scope.length>55?`<details class="district-scope-details"><summary>展開完整選區範圍</summary><span class="district-scope-label">${esc(r.scope)}</span></details>`:`<span class="district-scope-label">範圍：${esc(r.scope)}</span>`}</li>`).join('')}</ul><p>${choices.length?'原住民選區另有身分條件；以上條件選區不是每位居民都可投。':'目前無法精確比對，請直接選正式選舉區並核對公告。'} ${link(voterGuideData.sourceUrl,'正式選區公告')}</p>`;
+}
+const plainUpdateFilters=updateFilters;
+updateFilters=function(){plainUpdateFilters();syncLocalFilters();renderConstituencyGuide();
+ if(state.office==='council'&&state.scope==='county'&&voterGuideData){const select=$('#constituency');const options=[...new Set(baseRecords().filter(c=>c.officeKey==='council').map(c=>c.constituency))].map(value=>{const r=voterGuideData.council.find(r=>r.county===state.county&&r.constituency===value);return{value,label:value+(r?'｜'+(r.kind==='village'?(r.towns.join('、')+'・依村里劃分'):r.scope):'')};});optionList(select,options,state.constituency,'全部相關選區');}
+};
+const plainRenderDirectory=renderDirectory;
+renderDirectory=function(){plainRenderDirectory();renderConstituencyGuide();};
+function partyDetails(p){
+ if(!p)return'<p>政黨介紹暫時無法讀取，請重新整理。</p>';
+ const facts=[['成立日期',p.founded],['備案日期',p.registered],['內政部政黨編號',p.registryNumber],['備案狀態',p.status],['負責人（查核日資料）',p.leader],['本版名冊推薦登記',p.registrations.toLocaleString()+' 筆']].filter(([,v])=>v);
+ const note=p.registryLabel&&p.registryLabel!==p.registryName?p.registryLabel:'';
+ const sources=[{url:p.sourceUrl,title:'內政部備案資料／名冊依據'},{url:p.website,title:'政黨官方網站'},{url:p.charterUrl,title:'政黨章程'}].filter(s=>/^https?:\/\//.test(s.url||'')).map(s=>`<a href="${esc(s.url)}" target="_blank" rel="noopener noreferrer">${esc(s.title)} ↗</a>`).join('');
+ return `<h3>${esc(p.name)}</h3><p>${esc(p.description)}</p>${note?`<p class="party-notice">官方備案附註：${esc(note)}</p>`:''}<dl class="party-facts">${facts.map(([k,v])=>`<div><dt>${esc(k)}</dt><dd>${esc(v)}</dd></div>`).join('')}</dl><p>推薦筆數包含本版的資格不符歷史登記，不是黨員數、席次或支持度。查核日期：${esc(partyGuideData.checkedAt)}。</p><div class="party-guide-actions"><div class="source-links">${sources}</div><button class="text-button" data-party-candidates="${esc(p.name)}">閱讀此推薦欄位的全台登記者 →</button></div>`;
+}
+function renderPartyIntro(name){const p=partyGuideData?.parties.find(p=>p.name===name);$('#party-intro-card').innerHTML=p?partyDetails(p):'<p>選擇名稱，查看有來源的政黨基本資料、官方網站與章程。</p>';}
+async function showPartyInfo(name){await voterFeaturesReady;const p=partyGuideData.parties.find(p=>p.name===name);$('#party-dialog-content').innerHTML=`<div class="dialog-header"><h2>政黨介紹</h2><button class="close-dialog" data-close="party-dialog" aria-label="關閉政黨介紹">×</button></div><div class="party-intro-card">${partyDetails(p)}</div>`;$('#party-dialog').showModal();}
+async function lookupHousehold(){
+ const request=++addressRequest;await voterFeaturesReady;if(request!==addressRequest)return;
+ if(!voterGuideData){$('#address-status').textContent='選區對照資料未能載入，請重新整理；也可用下方選單。';return;}
+ const found=parseHouseholdAddress($('#household-address').value,voterGuideData);
+ if(found.error){$('#address-status').textContent=found.error;return;}
+ await countyChangeBeforeGuide(found.county,found.town,found.village);if(request!==addressRequest||state.county!==found.county||state.town!==found.town||state.village!==found.village)return;
+ addressChoice=found;$('#household-address').value=[found.county,found.town,found.village].filter(Boolean).join('');
+ const county=voterGuideData.counties.find(c=>c.name===found.county);optionList($('#address-village'),county.villages[found.town]||[],found.village,'請確認戶籍村里');$('#address-village').disabled=false;
+ $('#address-status').textContent='已找到 '+found.county+'・'+found.town+(found.village?'・'+found.village:'；尚未辨識村里，請補選，才能找里長及細分選區。');
+ renderAddressResults();
+}
+function addressBallot(title,detail,buttonText,attrs='',source=null,fullScope=''){return `<article class="address-ballot"><h4>${esc(title)}</h4><p>${esc(detail)}</p>${buttonText?`<button class="text-button" ${attrs}>${esc(buttonText)} →</button>`:''}${fullScope?`<details class="district-scope-details"><summary>展開完整選區範圍</summary><p>${esc(fullScope)}</p></details>`:''}${source?links([{url:source,title:'正式選區公告'}]):''}</article>`;}
+function renderAddressResults(){
+ if(!addressChoice||!voterGuideData)return;
+ const loc=addressChoice,identity=$('#voter-identity').value,rows=candidates.filter(c=>c.eligibleToRun!==false),parts=[];
+ const mayors=rows.filter(c=>c.officeKey==='mayor');if(mayors.length)parts.push(addressBallot('縣市長｜'+loc.county,'全縣市為同一個首長選區。','查看 '+mayors.length+' 筆登記','data-address-office="mayor"'));
+ const council=councilChoices(loc,identity);
+ if(identity==='unsure')parts.push(addressBallot('議員選票｜先確認身分條件','下列分列一般與原住民條件選區；請在上方選擇適用身分，再縮小名單。',''));
+ for(const r of council){const needsVillage=r.kind==='village'&&!loc.village;const count=rows.filter(c=>c.officeKey==='council'&&c.constituency===r.constituency).length;
+  parts.push(addressBallot(r.constituency+(r.indigenous?'｜'+(r.indigenousType||'原住民條件'):'｜一般選區'),needsVillage?'請先確認戶籍村里，再縮小到適用選區。':r.kind==='village'?'已依確認的戶籍村里比對；完整範圍可展開查看。':'選區範圍：'+r.scope,needsVillage?'':'查看 '+count+' 筆登記',`data-address-office="council" data-address-constituency="${esc(r.constituency)}"`,r.sourceUrl,r.kind==='village'?r.scope:''));}
+ if(!council.length)parts.push(addressBallot('議員選區｜需要進一步確認','目前條件未能精確對照；請核對身分、村里與官方選區公告，不以零筆結果判定沒有選票。','', '',voterGuideData.sourceUrl));
+ for(const key of ['township_mayor','indigenous_district_head']){const list=rows.filter(c=>c.officeKey===key&&c.district===loc.town);if(list.length)parts.push(addressBallot(officeInfo[key].label+'｜'+loc.town,'依戶籍鄉鎮市／自治區比對。','查看 '+list.length+' 筆登記',`data-address-office="${key}"`));}
+ if(loc.village){const list=rows.filter(c=>c.officeKey==='village'&&c.district===loc.town&&c.village===loc.village);parts.push(addressBallot('村里長｜'+loc.village,'只查看此村里的登記資料。',list.length?'查看 '+list.length+' 筆登記':'', 'data-address-office="village"'));}
+ else parts.push(addressBallot('村里長｜還差一個村里','請在上方補選戶籍村里；完整路名門牌不會自動拿去外部服務查詢。',''));
+ for(const key of ['township_rep','indigenous_district_rep'])if(rows.some(c=>c.officeKey===key&&c.district===loc.town))parts.push(addressBallot(officeInfo[key].label+'｜代表選區待確認','已找到同鄉鎮區的登記資料；代表選區與村里的細部對照仍待補，請再核對正式選區。','查看此鄉鎮區的代表名冊',`data-address-office="${key}"`));
+ $('#address-results').innerHTML=parts.join('');
+}
+async function jumpAddressOffice(key,constituency=''){
+ if(!addressChoice)return;
+ state.scope='county';state.office=key;state.constituency=constituency;state.eligibility='not_ineligible';state.judicial='';state.party='';state.search='';state.page=1;$('#search').value='';updateFilters();renderDirectory();$('#directory').scrollIntoView({behavior:'smooth'});
+}
+$('#directory-town').addEventListener('change',e=>{state.town=e.target.value;state.village='';onCoordinateChange();});
+$('#directory-village').addEventListener('change',e=>{state.village=e.target.value;onCoordinateChange();});
+$('#address-form').addEventListener('submit',e=>{e.preventDefault();lookupHousehold().catch(()=>{$('#address-status').textContent='查詢未成功，請用下方選單或重新整理。';});});
+$('#address-village').addEventListener('change',e=>{if(!addressChoice)return;state.village=e.target.value;addressChoice.village=e.target.value;onCoordinateChange();$('#household-address').value=[state.county,state.town,state.village].filter(Boolean).join('');$('#address-status').textContent=state.village?'已確認 '+[state.county,state.town,state.village].join('・'):'尚未確認村里，請補選後再看里長與細分選區。';});
+$('#voter-identity').addEventListener('change',()=>{renderAddressResults();renderConstituencyGuide();});
+$('#party-intro-select').addEventListener('change',e=>renderPartyIntro(e.target.value));
+document.addEventListener('click',async e=>{const b=e.target.closest('button');if(!b)return;
+ try{if(b.dataset.partyInfo)await showPartyInfo(b.dataset.partyInfo);
+  if(b.dataset.partyCandidates){if($('#party-dialog').open)$('#party-dialog').close();state.office='all';state.judicial='';state.eligibility='';state.search='';$('#search').value='';await setScope('national');state.party=b.dataset.partyCandidates;updateFilters();renderDirectory();$('#directory').scrollIntoView({behavior:'smooth'});}
+  if(b.dataset.guideConstituency){state.constituency=b.dataset.guideConstituency;state.page=1;updateFilters();renderDirectory();}
+  if(b.dataset.addressOffice)await jumpAddressOffice(b.dataset.addressOffice,b.dataset.addressConstituency||'');
+ }catch{toast('這筆資料未能讀取，請重新整理後再試。');}
+});
+$('#party-dialog').addEventListener('click',e=>{if(e.target!==e.currentTarget)return;const r=e.target.getBoundingClientRect();if(e.clientX<r.left||e.clientX>r.right||e.clientY<r.top||e.clientY>r.bottom)e.target.close();});
+const voterFeaturesReady=Promise.all([fetchJson('voter-guide.json'),fetchJson('parties.json')]).then(([guide,parties])=>{
+ voterGuideData=guide;partyGuideData=parties;optionList($('#party-intro-select'),parties.parties.map(p=>({value:p.name,label:p.name+'（'+p.registrations.toLocaleString()+' 筆登記）'})),'','選擇要認識的政黨／推薦欄位');
+ if(data&&candidates.length&&candidates[0].county===state.county){updateFilters();renderDirectory();}return true;
+}).catch(()=>{$('#party-intro-card').innerHTML='<p>政黨資料未能讀取，請重新整理。</p>';$('#address-status').textContent='選區對照資料未能載入，請用原本選單或重新整理。';return false;});
