@@ -210,3 +210,7 @@ button.party-pill{cursor:pointer;font-family:inherit;text-align:left;max-width:1
 @media(max-width:780px){.voter-guide{padding:21px}.address-input-row{display:block}.address-input-row input{width:100%;box-sizing:border-box}.address-input-row button{width:100%;margin-top:10px}.address-options,.address-results,.party-facts{grid-template-columns:1fr}.address-options{gap:0}.party-intro-card{padding:20px}.voter-guide-limit{font-size:13px}.constituency-guide{padding:16px}.address-ballot h4{font-size:21px}}
 
 @media(max-width:780px){.filter-panel{display:block}.filter-panel label{display:block}.filter-panel select,.filter-panel input{width:100%;display:block}}
+
+/* Candidate directory office shortcuts share the sidebar selection. */
+.directory-office-shortcuts{display:flex;flex-wrap:wrap;gap:10px;margin:20px 0 17px}.directory-office-shortcuts button{display:inline-flex;align-items:center;justify-content:center;gap:9px;min-height:44px;padding:8px 16px;border:1px solid var(--line);border-radius:999px;background:var(--panel);color:var(--ink);font-size:16px;line-height:1.5;font-weight:600}.directory-office-shortcuts button span{font-size:12px;font-weight:400;white-space:nowrap;opacity:.8}.directory-office-shortcuts button[aria-pressed=true]{background:var(--primary);border-color:var(--primary);color:var(--on-primary)}
+@media(max-width:600px){.directory-office-shortcuts{gap:8px}.directory-office-shortcuts button{padding:9px 12px;font-size:15px}}
