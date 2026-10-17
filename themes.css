@@ -79,8 +79,25 @@ html[data-theme=fantasy] .map-county-label.active .map-label-bg{fill:var(--prima
 [data-party-code=obs]{--party-stripe:linear-gradient(90deg,#236b3a 0 33.33%,#835730 33.33% 66.66%,#bfa02b 66.66%)}
 [data-party-code=labor]{--party-stripe:linear-gradient(90deg,#bd3535 0 60%,#327b49 60% 80%,#e9c53d 80%)}
 
-/* Optional, muted opening film; native controls retain pause and sound access. */
-.hero-actions{flex-wrap:wrap}.opening-film{background:var(--chapter-four);border-block:1px solid var(--line);scroll-margin-top:100px}
-.intro-film-frame{max-width:1080px;margin:auto;aspect-ratio:16/9;border:1px solid var(--line);background:#fff;overflow:hidden;border-radius:var(--radius)}
-.intro-film-frame video{display:block;width:100%;height:100%;object-fit:contain}.film-note{max-width:1080px;margin:14px auto 0;color:var(--muted);font-size:14px;line-height:1.9}
-@media print{.opening-film{display:none}}
+/* One full-viewport opening film, independent of the page sections. */
+.hero-actions{flex-wrap:wrap}.intro-replay{padding:0;text-decoration:underline;text-underline-offset:6px;font-size:17px}
+.intro-overlay{position:fixed;inset:0;width:100%;max-width:none;height:100%;height:100dvh;max-height:none;margin:0;padding:0;border:0;border-radius:0;background:#fff;overflow:hidden;z-index:1000;box-shadow:none}
+.intro-overlay:not([open]){display:none}.intro-overlay::backdrop{background:#fff;backdrop-filter:none}
+.intro-overlay video{display:block;width:100%;height:100%;object-fit:contain;background:#fff}
+html:has(#opening-intro[open]){overflow:hidden}
+.intro-skip-form{position:absolute;top:max(20px,env(safe-area-inset-top));right:max(20px,env(safe-area-inset-right));margin:0}
+.intro-control{background:#202123;color:#fff;border:1px solid #74716c;border-radius:5px;min-height:44px;padding:9px 17px;font-size:16px;line-height:1.6;box-shadow:0 2px 12px #0002}
+.intro-control:focus-visible{outline:3px solid #80694c;outline-offset:4px}
+.intro-playback{position:absolute;left:max(20px,env(safe-area-inset-left));right:max(20px,env(safe-area-inset-right));bottom:max(20px,env(safe-area-inset-bottom));display:flex;justify-content:space-between;gap:16px;pointer-events:none}
+.intro-playback button{pointer-events:auto}
+@media(max-width:780px){.intro-control{font-size:14px;padding:8px 13px}.intro-skip-form{top:max(16px,env(safe-area-inset-top));right:max(16px,env(safe-area-inset-right))}.intro-playback{left:max(16px,env(safe-area-inset-left));right:max(16px,env(safe-area-inset-right));bottom:max(16px,env(safe-area-inset-bottom))}.intro-replay{font-size:16px}}
+@media(prefers-reduced-motion:reduce){.intro-overlay[open]:not([data-manual=true]){display:none}}
+@media print{.intro-overlay{display:none!important}}
+
+@media(max-width:780px){
+.filter-panel label[for=directory-county]{grid-column:1/-1;grid-row:4}#directory-county{grid-column:1/-1;grid-row:5}
+.filter-panel label[for=search]{grid-row:6}#search{grid-row:7}
+.filter-panel label[for=constituency],.filter-panel label[for=party]{grid-row:8}#constituency,#party{grid-row:9}
+.filter-panel label[for=judicial-filter]{grid-row:10}#judicial-filter{grid-row:11}
+.filter-panel label[for=eligibility-filter]{grid-row:12}#eligibility-filter{grid-row:13}
+}
