@@ -137,3 +137,54 @@ html:has(#opening-intro[open]){overflow:hidden}
 }
 @media(prefers-reduced-motion:reduce){.chapter-links{scroll-behavior:auto}}
 @media print{.chapter-dock{display:none}main,.theme-bar,footer{margin-left:0}body{padding-bottom:0}}
+
+/* Evidence-based criminal record directory. Party color remains confined to person markers. */
+:root{--chapter-judicial:#eee5df}
+:root[data-theme=fantasy]{--chapter-judicial:#242029}
+:root[data-theme=pixel]{--chapter-judicial:#e0dddd}
+#judicial-records{background:var(--chapter-judicial);border-block:1px solid var(--line);scroll-margin-top:100px}
+.judicial-overview{display:grid;grid-template-columns:repeat(3,1fr);gap:16px;margin-bottom:22px}
+.judicial-overview>div{display:flex;align-items:center;gap:16px;padding:18px 22px;border:1px solid var(--line);border-radius:var(--radius);background:var(--panel)}
+.judicial-overview strong{font:36px/1.3 Georgia,serif;color:var(--ink)}
+.judicial-overview span{font-size:15px;line-height:1.6}
+.judicial-coverage-note{border-left:4px solid var(--danger);padding:15px 19px;background:var(--panel);font-size:16px;line-height:1.8;margin-bottom:26px}
+.judicial-filter-label{font-size:15px;color:var(--muted);margin:0 0 10px}
+.judicial-type-filters,.judicial-eligibility-filters{display:flex;gap:8px;flex-wrap:wrap}
+.judicial-type-filters{margin-bottom:23px}
+.judicial-type-filters button,.judicial-eligibility-filters button{border:1px solid var(--line);background:var(--panel);color:var(--ink);border-radius:99px;padding:8px 14px;min-height:44px;font-size:15px;line-height:1.6}
+.judicial-type-filters button span{display:inline-block;margin-left:5px;font-size:12px}
+.judicial-type-filters button[aria-pressed=true],.judicial-eligibility-filters button[aria-pressed=true]{background:var(--primary);border-color:var(--primary);color:var(--on-primary)}
+.judicial-scope-controls{display:flex;align-items:end;gap:25px;justify-content:space-between;padding:20px 0;border-block:1px solid var(--line);margin-bottom:16px}
+.judicial-scope-controls>div:last-child{width:200px;flex-shrink:0}
+.judicial-scope-controls label{font-size:15px}
+.judicial-filter-note,.judicial-results-count{font-size:14px;color:var(--muted);line-height:1.8;margin-bottom:22px}
+.judicial-results-count{font-size:17px;font-weight:500;color:var(--ink)}
+.judicial-record-grid{display:grid;grid-template-columns:repeat(3,minmax(0,1fr));gap:20px}
+.judicial-record-card{background:var(--panel);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;min-width:0}
+.judicial-record-content{padding:23px}
+.judicial-final-label{font-size:14px;color:var(--danger);font-weight:700;margin-bottom:11px}
+.judicial-record-card h3{font:700 29px/1.6 var(--heading);margin-bottom:7px}
+.judicial-person-meta{font-size:14px;color:var(--muted);margin-bottom:12px;line-height:1.8}
+.judicial-eligibility{border:1px solid var(--line);background:var(--soft);font-size:14px;padding:8px 10px;border-radius:4px;line-height:1.7;margin:0 0 18px}
+.judicial-eligibility.is-history{color:var(--muted)}
+.judicial-case-list{list-style:none;padding:0;margin:0 0 20px}
+.judicial-case-list>li{border-top:1px dashed var(--line);padding-top:16px;margin-top:16px}
+.judicial-case-list h4{font-size:20px;line-height:1.6;margin:0 0 9px}
+.judicial-evidence-kind,.judicial-case-number{font-size:13px;line-height:1.8;color:var(--muted);margin-bottom:8px;overflow-wrap:anywhere}
+.judicial-case-list details{font-size:15px;margin:12px 0}
+.judicial-case-list summary{cursor:pointer;font-size:14px;min-height:35px;padding:5px 0;text-decoration:underline;text-underline-offset:4px}
+.judicial-case-list details p{margin:12px 0;line-height:1.9}
+.judicial-source-limit{border-left:2px solid var(--line);padding-left:11px;color:var(--muted)}
+.judicial-case-list .source-links a{font-size:13px;line-height:1.8;overflow-wrap:anywhere}
+.judicial-empty{grid-column:1/-1;background:var(--panel);border:1px dashed var(--line);border-radius:var(--radius);padding:35px}
+.judicial-empty h3{font:600 23px/1.7 var(--heading);margin-bottom:12px}
+.judicial-empty p{font-size:16px;color:var(--muted);line-height:1.9;margin-bottom:12px}
+.judicial-pending{margin-top:30px;padding:19px 23px;background:var(--panel);border:1px solid var(--line);border-radius:var(--radius)}
+.judicial-pending summary{cursor:pointer;font-size:17px;min-height:35px}
+.judicial-pending>p{font-size:15px;color:var(--muted);margin:16px 0}
+.judicial-pending ul{list-style:none;margin:0;padding:0}
+.judicial-pending li{display:flex;justify-content:space-between;align-items:center;gap:16px;border-top:1px dashed var(--line);padding:14px 0;font-size:16px}
+.judicial-pending small{display:block;font-size:14px;color:var(--muted)}
+.judicial-pending button{white-space:nowrap;font-size:14px}
+@media(max-width:1150px){.judicial-record-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.judicial-overview>div{display:block;padding:15px}.judicial-overview strong{display:block;margin-bottom:5px}}
+@media(max-width:780px){.judicial-record-grid{grid-template-columns:1fr}.judicial-record-content{padding:21px}.judicial-overview{gap:8px}.judicial-overview>div{padding:12px 10px}.judicial-overview strong{font-size:29px}.judicial-overview span{font-size:12px}.judicial-scope-controls{display:block}.judicial-scope-controls>div:last-child{width:100%;margin-top:18px}.judicial-type-filters button,.judicial-eligibility-filters button{font-size:14px;padding:8px 12px}.judicial-pending li{display:block}.judicial-pending button{margin-top:7px}.judicial-empty{padding:25px}.judicial-coverage-note{font-size:15px}}

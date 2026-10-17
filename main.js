@@ -128,3 +128,37 @@ function setupChapterNavigation(){
  update();
 }
 setupChapterNavigation();
+
+const judicialView={category:'all',eligibility:'all',county:''};
+let judicialIndex=null;
+function judicialSelection(index,view){
+ return index.people.filter(c=>(view.category==='all'||c.categoryIds.includes(view.category))&&(!view.county||c.county===view.county)&&(view.eligibility==='all'||view.eligibility==='eligible'&&c.eligibleToRun===true||view.eligibility==='history'&&c.eligibleToRun===false));
+}
+function renderJudicialRecordCard(c){
+ const visibleCases=c.cases.filter(e=>judicialView.category==='all'||e.categoryIds.includes(judicialView.category));
+ return `<article class="judicial-record-card" data-party-code="${partyCode(c.party)}" data-judicial-card="${esc(c.id)}"><div class="party-stripe" aria-hidden="true"></div><div class="judicial-record-content"><p class="judicial-final-label">刑事有罪確定・已核實</p><h3>${esc(c.name)}</h3><p class="judicial-person-meta">${esc(c.county)} · ${esc(c.office)} · ${esc(c.constituency||'')}</p>${partyPill(c.party)}<p class="judicial-eligibility ${c.eligibleToRun===false?'is-history':''}">${c.eligibleToRun===false?'資格審定不合格・歷史登記':c.eligibleToRun===true?'本屆資格審定通過':'本屆資格仍待核對'}</p><ul class="judicial-case-list">${visibleCases.map(e=>`<li><h4>${esc(e.offense)}</h4><p class="judicial-evidence-kind">${esc(e.basis)} · ${esc(e.latestKnownDate)}</p><p class="judicial-case-number">${esc(e.courtCase||'官方公告未提供法院案號')}</p><details><summary>判決摘要與來源限制</summary><p>${esc(e.summary)}</p>${e.limitation?`<p class="judicial-source-limit">${esc(e.limitation)}</p>`:''}${e.response?`<p><b>當事人回應：</b>${esc(e.response)}</p>`:''}</details>${links(e.sources)}</li>`).join('')}</ul><button class="text-button" data-profile="${esc(c.id)}" data-tab="judicial">查看完整司法資料 ↗</button></div></article>`;
+}
+function renderJudicialRecords(){
+ if(!judicialIndex)return;
+ const index=judicialIndex,selected=judicialSelection(index,judicialView),label=judicialView.category==='all'?'全部犯罪類型':index.categories.find(c=>c.id===judicialView.category).label;
+ document.querySelectorAll('[data-crime-category]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.crimeCategory===judicialView.category)));
+ document.querySelectorAll('[data-crime-eligibility]').forEach(b=>b.setAttribute('aria-pressed',String(b.dataset.crimeEligibility===judicialView.eligibility)));
+ $('#judicial-results-count').textContent=`${judicialView.county||'全台'} · ${label} · ${selected.length} 位已核實登記者`;
+ $('#judicial-record-grid').innerHTML=selected.length?selected.map(renderJudicialRecordCard).join(''):`<div class="judicial-empty"><h3>這個條件下，尚未收錄已核實資料。</h3><p>不代表全台沒有相關紀錄，也不代表其他登記者沒有前科；本版仍在逐人補查。</p>${judicialView.eligibility!=='all'||judicialView.county?'<button class="text-button" data-crime-reset>查看此類型的全台登記 →</button>':''}</div>`;
+}
+async function setupJudicialRecords(){
+ const section=$('#judicial-records');if(!section)return;
+ try{
+  judicialIndex=await fetchJson('judicial.json');const index=judicialIndex;
+  $('#judicial-overview').innerHTML=[['已核實刑事有罪確定',index.counts.confirmedPeople],['其中資格審定通過',index.counts.eligibleConfirmed],['資格不符・歷史登記',index.counts.ineligibleConfirmed]].map(([label,count])=>`<div><strong>${count}</strong><span>${label}</span></div>`).join('');
+  $('#judicial-coverage-note').textContent=`本版尚有 ${index.counts.notChecked.toLocaleString()} / ${index.counts.totalRegistrations.toLocaleString()} 位登記者未完成個別司法查核；沒有列出或沒有標記，不代表沒有犯罪紀錄。`;
+  $('#crime-category-filters').innerHTML=[{id:'all',label:'全部類型',count:index.counts.confirmedPeople},...index.categories].map(c=>`<button data-crime-category="${c.id}" aria-pressed="${c.id==='all'}">${esc(c.label)} <span>${c.count}</span></button>`).join('');
+  $('#crime-eligibility-filters').innerHTML=[['all','全部登記',index.counts.confirmedPeople],['eligible','資格審定通過',index.counts.eligibleConfirmed],['history','資格不符歷史',index.counts.ineligibleConfirmed]].map(([id,label,count])=>`<button data-crime-eligibility="${id}" aria-pressed="${id==='all'}">${label} ${count}</button>`).join('');
+  const counties=await (data?Promise.resolve(data.counties):fetchJson('data.json').then(d=>d.counties));optionList($('#crime-county'),counties.map(c=>c.name),'','全部縣市');
+  $('#judicial-pending-list').innerHTML=index.pending.map(c=>`<li><span><strong>${esc(c.name)}</strong> · ${esc(c.county)} · ${esc(c.office)}<small>${esc(judicialLabels[c.judicialStatus])}</small></span><button class="text-button" data-profile="${esc(c.id)}" data-tab="judicial">閱讀程序狀態 ↗</button></li>`).join('');
+  $('#judicial-pending-count').textContent=index.pending.length;
+  section.addEventListener('click',e=>{const b=e.target.closest('button');if(!b)return;let changed=false;if(b.dataset.crimeCategory){judicialView.category=b.dataset.crimeCategory;changed=true;}if(b.dataset.crimeEligibility){judicialView.eligibility=b.dataset.crimeEligibility;changed=true;}if(b.hasAttribute('data-crime-reset')){judicialView.eligibility='all';judicialView.county='';$('#crime-county').value='';changed=true;}if(changed)renderJudicialRecords();});
+  $('#crime-county').addEventListener('change',e=>{judicialView.county=e.target.value;renderJudicialRecords();});renderJudicialRecords();
+ }catch{ $('#judicial-record-grid').innerHTML='<div class="judicial-empty"><p>刑事紀錄資料未能載入，請重新整理。</p><button class="text-button" id="retry-judicial">重新讀取資料 ↻</button></div>';$('#retry-judicial')?.addEventListener('click',setupJudicialRecords,{once:true}); }
+}
+setupJudicialRecords();
