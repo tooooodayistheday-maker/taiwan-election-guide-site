@@ -104,3 +104,27 @@ $('#county').addEventListener('change',e=>setCounty(e.target.value));$('#town').
 document.addEventListener('keydown',async e=>{if(e.key==='Escape'&&e.target.closest('.hot-widget')&&!$('#hot-widget-panel').hidden){e.preventDefault();setHotWidget(false);return;}const c=e.target.closest('[data-county]');if(c&&['Enter',' '].includes(e.key)){e.preventDefault();await setCounty(c.dataset.county);return;}const b=e.target.closest('[role="tab"]');if(!b||!['ArrowLeft','ArrowRight','Home','End'].includes(e.key))return;const isIssue=!!b.dataset.issue,list=isIssue?issues.map(i=>i.id):['bio','policy','judicial','controversy'];let i=list.indexOf(isIssue?b.dataset.issue:b.dataset.profileTab);i=e.key==='Home'?0:e.key==='End'?list.length-1:(i+(e.key==='ArrowRight'?1:-1)+list.length)%list.length;e.preventDefault();if(isIssue){state.issue=list[i];renderIssue();$(`[data-issue="${list[i]}"]`).focus();}else{await profile(state.current,list[i]);$(`[data-profile-tab="${list[i]}"]`).focus();}});
 const openingFinished=setupOpeningFilm();
 init();
+
+function setupChapterNavigation(){
+ const dock=document.querySelector('.chapter-dock');if(!dock||typeof requestAnimationFrame!=='function')return;
+ const list=dock.querySelector('.chapter-links'),links=[...dock.querySelectorAll('a[href^="#"]')];
+ const sections=links.map(a=>document.getElementById(a.hash.slice(1)));
+ let current='',queued=false;
+ function mark(id){
+  if(current===id)return;current=id;
+  for(const a of links){if(a.hash==='#'+id)a.setAttribute('aria-current','location');else a.removeAttribute('aria-current');}
+  if(matchMedia('(max-width:1279px)').matches){const a=links.find(a=>a.hash==='#'+id);if(a)list.scrollTo({left:a.offsetLeft-(list.clientWidth-a.offsetWidth)/2,behavior:matchMedia('(prefers-reduced-motion:reduce)').matches?'auto':'smooth'});}
+ }
+ function update(){
+  queued=false;const header=document.querySelector('.site-header'),line=Math.max((header?.getBoundingClientRect().height||0)+24,innerHeight*.28);
+  let selected=sections[0];for(const section of sections){if(section.getBoundingClientRect().top<=line)selected=section;else break;}
+  if(innerHeight+scrollY>=document.documentElement.scrollHeight-4)selected=sections.at(-1);
+  mark(selected.id);
+ }
+ function schedule(){if(!queued){queued=true;requestAnimationFrame(update);}}
+ for(const a of links)a.addEventListener('click',()=>{const section=document.getElementById(a.hash.slice(1)),heading=section.querySelector('h2');mark(section.id);const hotPanel=document.getElementById('hot-widget-panel');if(hotPanel&&!hotPanel.hidden)setHotWidget(false);if(heading){heading.setAttribute('tabindex','-1');requestAnimationFrame(()=>heading.focus({preventScroll:true}));}});
+ addEventListener('scroll',schedule,{passive:true});addEventListener('resize',()=>{current='';schedule();});addEventListener('load',schedule);
+ if(typeof ResizeObserver!=='undefined')new ResizeObserver(schedule).observe(document.querySelector('main'));
+ update();
+}
+setupChapterNavigation();
