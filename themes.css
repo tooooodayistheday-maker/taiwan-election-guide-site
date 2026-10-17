@@ -35,3 +35,19 @@ html[data-theme=fantasy]{--bg:#17272e;--panel:#21373e;--ink:#f2ead3;--muted:#bdc
 .atlas-frame{align-self:start}
 
 .county-theme-banner h3,.adventure-stats strong{color:var(--ink)}
+
+/* Current election office and an optional floating topic reader. */
+.directory-selection{padding:0 0 21px;margin-bottom:19px;border-bottom:1px solid var(--line)}
+.directory-selection .eyebrow{font-size:13px;margin-bottom:8px;color:var(--muted)}
+.directory-selection h3{font-family:var(--heading);font-size:clamp(29px,3.3vw,42px);line-height:1.6;margin:0;color:var(--ink);overflow-wrap:anywhere}
+.hot-widget{position:fixed;right:24px;bottom:24px;z-index:40;display:flex;flex-direction:column;align-items:flex-end;gap:12px;max-width:calc(100% - 32px)}
+.hot-widget-toggle{display:flex;align-items:center;gap:9px;min-height:50px;padding:10px 18px;background:var(--panel);color:var(--ink);border:1px solid var(--accent);border-radius:99px;box-shadow:0 5px 24px #0004;font-size:16px;font-weight:600}
+.hot-widget-toggle>span:first-child{color:var(--accent);font-size:22px}.hot-widget-count{font-size:12px;min-width:23px;padding:0 6px;border:1px solid var(--line);border-radius:99px;line-height:1.8}.hot-widget-arrow{font-size:17px}.hot-widget-toggle[aria-expanded=true] .hot-widget-arrow{transform:rotate(180deg)}
+.hot-widget-panel{width:390px;max-width:100%;max-height:calc(100dvh - 175px);overflow-y:auto;padding:20px;background:var(--panel);border:1px solid var(--accent);border-radius:var(--radius);box-shadow:0 10px 40px #0005}
+.hot-widget-panel[hidden]{display:none}.hot-widget-header{display:flex;justify-content:space-between;align-items:flex-start;gap:15px}.hot-widget-header .eyebrow{font-size:11px;margin:0 0 5px;color:var(--muted)}.hot-widget-header h2{font-size:25px;line-height:1.6}.hot-widget-header button{flex:0 0 44px;min-height:44px;font-size:25px;line-height:1;background:var(--bg);border:1px solid var(--line);border-radius:var(--radius)}
+.hot-widget-note{font-size:13px;color:var(--muted);margin:10px 0 13px}.hot-widget-topics{display:flex;gap:12px;overflow-x:auto;scroll-snap-type:x mandatory;overscroll-behavior-x:contain;padding:3px 2px 15px;margin-bottom:9px}
+.hot-widget-topic{flex:0 0 91%;min-width:0;display:flex;flex-direction:column;align-items:flex-start;gap:10px;scroll-snap-align:start;padding:17px;text-align:left;background:var(--bg);border:1px solid var(--line);border-radius:var(--radius)}
+.hot-widget-topic>span{font-size:12px;color:var(--muted)}.hot-widget-topic>strong{font:21px/1.7 var(--heading);color:var(--ink)}.hot-widget-topic>small{font-size:15px;line-height:1.8;color:var(--muted);display:-webkit-box;-webkit-box-orient:vertical;-webkit-line-clamp:3;overflow:hidden}.hot-widget-topic>b{font-size:14px;font-weight:500;color:var(--accent);margin-top:auto;padding-top:4px}.hot-widget-panel>.text-link{font-size:14px}
+body:has(#compare-tray:not([hidden])) .hot-widget{bottom:120px}
+@media(max-width:780px){.directory-selection h3{font-size:30px}.directory-selection{padding-bottom:17px;margin-bottom:17px}.hot-widget{right:16px;bottom:16px}.hot-widget-toggle{font-size:14px;padding:8px 14px;min-height:46px}.hot-widget-panel{padding:17px;max-height:calc(100dvh - 150px)}.hot-widget-header h2{font-size:23px}.hot-widget-topic>strong{font-size:20px}body:has(#compare-tray:not([hidden])) .hot-widget{bottom:145px}}
+@media print{.hot-widget{display:none}}
