@@ -11,3 +11,27 @@ html[data-theme=fantasy]{--bg:#17272e;--panel:#21373e;--ink:#f2ead3;--muted:#bdc
 .reported-banner{padding:10px 13px;background:#fff1d7;color:#805014;border-bottom:1px solid #c99c51}.reported-banner button{background:none;color:inherit;text-align:left;font-size:15px;line-height:1.7}.ballot-card>p,.candidate-summary,.hot-card>p,.policy-item p,.method-grid p,.street-bubble{font-size:18px}html[data-theme=fantasy] .reported-banner{background:#4e432c;color:#f6d59d}html.large-type .ballot-card>p,html.large-type .candidate-summary,html.large-type .hot-card>p,html.large-type .policy-item p,html.large-type .method-grid p,html.large-type .street-bubble,html.large-type .profile-body p,html.large-type .profile-body li,html.large-type .record-guide p{font-size:21px}html.large-type .candidate-position,html.large-type .source-links a,html.large-type .inline-notice,html.large-type .filter-note{font-size:18px}
 @media(max-width:600px){.map-container{overflow-x:auto;padding-bottom:8px}.map-container svg{min-width:530px;max-height:none}.map-bottom>span:after{content:'・手機可左右滑動';display:block;font-size:12px}.map-label{font-size:19px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}*{transition:none!important}}@media print{.site-header,.theme-bar,.atlas-frame,.hero-actions,.filter-panel,.compare-tray,.candidate-bottom,.pagination,footer{display:none}.wrap{padding:0}.section{padding-block:20px}body{background:white;color:black}dialog[open]{position:relative;width:100%;max-height:none;border:0}.close-dialog,.profile-tabs{display:none}.candidate-grid{grid-template-columns:repeat(2,1fr)}}
+
+/* Chapter links, editorial county themes, and swipeable topic cards. */
+.chapter-shortcuts{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:12px;margin:28px 0}
+.chapter-shortcuts a{display:flex;flex-direction:column;gap:7px;border:1px solid var(--line);border-radius:var(--radius);background:var(--panel);padding:15px;text-decoration:none}
+.chapter-shortcuts a:hover,.chapter-shortcuts a:focus-visible{border-color:var(--accent);outline:2px solid var(--accent);outline-offset:2px}
+.chapter-number{font-size:12px;letter-spacing:1.3px;color:var(--accent);display:flex;justify-content:space-between}.chapter-number i{font-style:normal}
+.chapter-shortcuts strong{font-size:18px;line-height:1.5}.chapter-shortcuts small{font-size:14px;line-height:1.7;color:var(--muted)}
+.county-theme-banner{padding:23px 0;border-bottom:1px dashed var(--line);margin-bottom:24px}.county-theme-banner .eyebrow{font-size:13px;margin-bottom:10px}
+.county-theme-banner h3{font:clamp(23px,3vw,32px) var(--heading);line-height:1.7;margin:0 0 9px;color:var(--primary)}.county-theme-banner>p:last-child{font-size:14px;line-height:1.8;color:var(--muted);margin:0}
+.candidate-slogans blockquote{margin:14px 0;padding:10px 18px;border-left:3px solid var(--accent);font:25px var(--heading);line-height:1.8;color:var(--ink)}
+.hot-disclosure{border-top:1px solid var(--line)}.hot-disclosure>summary{cursor:pointer;list-style:none;padding:17px 0;display:flex;justify-content:space-between;gap:20px;color:var(--ink);font-size:18px}.hot-disclosure>summary::-webkit-details-marker{display:none}
+.hot-disclosure>summary:focus-visible{outline:2px solid var(--accent);outline-offset:4px}.hot-disclosure[open] .hot-when-closed,.hot-disclosure:not([open]) .hot-when-open{display:none}.hot-disclosure:not([open])>summary>span:last-child{transform:rotate(180deg)}
+.hot-disclosure-content{padding-top:6px}.hot-scroll-controls{display:flex;justify-content:space-between;align-items:center;gap:18px;margin-bottom:15px}.hot-scroll-controls p{font-size:15px;color:var(--muted);margin:0}.hot-scroll-controls>div{display:flex;gap:10px}.hot-scroll-controls button{border:1px solid var(--line);border-radius:50%;min-width:44px;min-height:44px;background:var(--panel);font-size:22px}
+.hot-grid{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;scroll-behavior:smooth;overscroll-behavior-x:contain;gap:22px;padding:4px 2px 18px;scroll-padding-inline:2px;align-items:stretch}
+.hot-grid>.hot-card{flex:0 0 calc((100% - 44px)/3);min-width:0;scroll-snap-align:start}.hot-grid:focus-visible{outline:2px solid var(--accent);outline-offset:4px}
+#coordinates,#ballot,#directory,#hot-topics,#perspectives{scroll-margin-top:100px}
+@media(max-width:1000px){.hot-grid>.hot-card{flex-basis:calc((100% - 22px)/2)}}
+@media(max-width:600px){.chapter-shortcuts{gap:10px}.chapter-shortcuts a{padding:13px}.chapter-shortcuts small{font-size:13px}.hot-grid>.hot-card{flex-basis:86%;padding:22px}.county-theme-banner h3{font-size:25px}.coordinate-presets>span{flex-basis:100%}}
+@media(prefers-reduced-motion:reduce){.hot-grid{scroll-behavior:auto}}
+
+/* Keep chapter navigation visible near the title and align the atlas with the opening content. */
+.atlas-frame{align-self:start}
+
+.county-theme-banner h3,.adventure-stats strong{color:var(--ink)}

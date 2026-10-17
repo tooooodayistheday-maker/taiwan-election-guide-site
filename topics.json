@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-16",
+  "checkedAt": "2026-10-17",
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
@@ -187,6 +187,242 @@
         }
       ],
       "question": "你看到的是登記紀錄、審定結果，還是最新正式名單？"
+    },
+    {
+      "id": "penghu-songshan-access",
+      "title": "松山機場遷移討論，離島就醫與日常交通怎麼保障？",
+      "shortTitle": "松機遷移與離島交通",
+      "category": "公共治理",
+      "symbol": "✈",
+      "county": "澎湖縣",
+      "districts": [],
+      "relatedNames": [
+        "吳淑瑾",
+        "陳振中",
+        "蔣萬安"
+      ],
+      "date": "2026-10-16",
+      "summary": "台北城市發展構想延伸到澎湖選戰；比較機場遷移主張、保留立場與離島居民的實際使用需求。",
+      "steps": [
+        {
+          "speaker": "事件背景",
+          "text": "10/16中央社報導，蔣萬安提出遷移松山機場、打造AI園區的構想，成為澎湖縣長選戰討論議題。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610160348.aspx"
+          ]
+        },
+        {
+          "speaker": "當事人主張",
+          "text": "吳淑瑾強調松機關係澎湖居民轉診、回診與日常往返；陳振中先前已表明反對遷移，同時尊重台北討論城市發展。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610160348.aspx"
+          ]
+        },
+        {
+          "speaker": "待核對事項",
+          "text": "機場遷移仍是討論中的主張。後續應分別核對急重症後送、定期就醫與一般旅運的替代方案，不能用一種需求概括全部。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610160348.aspx"
+          ]
+        }
+      ],
+      "question": "你會要求候選人提出哪些時間、費用與就醫可近性的比較資料？"
+    },
+    {
+      "id": "taichung-transit-service",
+      "title": "台中市民公車免費主張，班次與司機人力如何一起改善？",
+      "shortTitle": "免費公車與服務品質",
+      "category": "交通政策",
+      "symbol": "↗",
+      "county": "臺中市",
+      "districts": [],
+      "relatedNames": [
+        "江啟臣"
+      ],
+      "date": "2026-10-16",
+      "summary": "免費票價、密集接駁與人行安全是不同承諾，可逐項追問資源與執行時程。",
+      "steps": [
+        {
+          "speaker": "事件背景",
+          "text": "江啟臣10/16發表交通政見，提出市民公車免費，並以密集接駁建構20分鐘生活圈。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610160324.aspx"
+          ]
+        },
+        {
+          "speaker": "當事人主張",
+          "text": "他同時主張提升公車司機待遇與服務品質，優先改善學校、醫院及大眾運輸節點周邊步道。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610160324.aspx"
+          ]
+        },
+        {
+          "speaker": "待核對事項",
+          "text": "以上是競選主張。比較時可分別核對免費適用資格、班距、人力補充與預算，並追問偏遠地區如何納入。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610160324.aspx"
+          ]
+        }
+      ],
+      "question": "票價、候車時間、轉乘便利與人行安全，你最重視哪一項可查核的改善？"
+    },
+    {
+      "id": "hsinchu-watershed-monitoring",
+      "title": "竹縣智慧污染監控與全流域治水，如何追蹤成效？",
+      "shortTitle": "環境監測與流域防洪",
+      "category": "環境與防災",
+      "symbol": "≈",
+      "county": "新竹縣",
+      "districts": [],
+      "relatedNames": [
+        "徐欣瑩"
+      ],
+      "date": "2026-10-16",
+      "summary": "從公開監測資訊到分區防洪措施，辨識設備建置、資訊透明與實際防災成果的差別。",
+      "steps": [
+        {
+          "speaker": "事件背景",
+          "text": "徐欣瑩10/16提出頭前溪親水廊道、智慧污染監控中心及全流域治水3項環境政見。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610160223.aspx"
+          ]
+        },
+        {
+          "speaker": "當事人主張",
+          "text": "她主張整合污染監測資料並公開案件進度；治水則依上游山區、農業區及都會區，分別規劃保水、滯洪與雨水滲透措施。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610160223.aspx"
+          ]
+        },
+        {
+          "speaker": "待核對事項",
+          "text": "這些措施仍屬競選規劃。後續可核對監測涵蓋範圍、資料公開頻率、治理責任與分期工程目標。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610160223.aspx"
+          ]
+        }
+      ],
+      "question": "哪些公開指標，能讓你判斷污染監控與防洪措施有沒有改善生活？"
+    },
+    {
+      "id": "chiayi-aging-support",
+      "title": "嘉義市高齡政策，居家改善與交通補助如何回應不同需求？",
+      "shortTitle": "居家安全與敬老卡",
+      "category": "高齡與照護",
+      "symbol": "⌂",
+      "county": "嘉義市",
+      "districts": [],
+      "relatedNames": [
+        "王美惠",
+        "張啓楷"
+      ],
+      "date": "2026-10-05",
+      "summary": "兩位市長參選人分別提出居家安全與敬老卡方案；適用資格、使用便利與財源都值得檢視。",
+      "steps": [
+        {
+          "speaker": "事件背景",
+          "text": "10/5中央社整理嘉義市長參選人的高齡政策：王美惠談居家安全改善，張啓楷提出敬老卡調整。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610050211.aspx"
+          ]
+        },
+        {
+          "speaker": "當事人主張",
+          "text": "王美惠主張擴大長者居家安全補助對象，不再受限失能或身心障礙身分；張啓楷主張將敬老卡計程車單趟補助上限提高到100點。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610050211.aspx"
+          ]
+        },
+        {
+          "speaker": "待核對事項",
+          "text": "兩項主張處理的需求不同，不能只比較補助數字。後續可核對申請條件、服務供給、使用次數及年度預算。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610050211.aspx"
+          ]
+        }
+      ],
+      "question": "對長輩而言，補助額度、申請便利與實際找得到服務，哪個最需要優先改善？"
+    },
+    {
+      "id": "hualien-policy-exchange",
+      "title": "花蓮共同政見交流邀請，各陣營如何回應？",
+      "shortTitle": "公開政見交流與選民知情",
+      "category": "民主與媒體",
+      "symbol": "◇",
+      "county": "花蓮縣",
+      "districts": [],
+      "relatedNames": [
+        "魏嘉賢",
+        "游淑貞",
+        "張峻"
+      ],
+      "date": "2026-10-16",
+      "summary": "區分自行邀辦的交流會、公辦政見發表會與線上政策資訊，不把尚未確定的活動寫成已舉行。",
+      "steps": [
+        {
+          "speaker": "事件背景",
+          "text": "魏嘉賢10/16邀其他花蓮縣長參選人共同辦政見發表會，表示時間、地點與形式均願配合。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610160329.aspx"
+          ]
+        },
+        {
+          "speaker": "陣營回應",
+          "text": "游淑貞團隊表示以公辦政見發表會為主；張峻團隊表示正在籌備競總活動，當時尚未討論這項邀請。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610160329.aspx"
+          ]
+        },
+        {
+          "speaker": "待核對事項",
+          "text": "報導未確認共同交流會的日期或形式。後續應核對是否成局，以及各陣營提供政策全文、提問與回應的方式。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610160329.aspx"
+          ]
+        }
+      ],
+      "question": "你希望候選人透過辯論、政見發表、書面答覆或線上問答，回答哪些共同問題？"
+    },
+    {
+      "id": "kaohsiung-fishing-port-service",
+      "title": "前鎮漁港兩年試營運，政策成效該看什麼？",
+      "shortTitle": "漁港試營運與產業服務",
+      "category": "產業與建設",
+      "symbol": "⚓",
+      "county": "高雄市",
+      "districts": [
+        "前鎮區"
+      ],
+      "relatedNames": [
+        "賴瑞隆",
+        "柯志恩"
+      ],
+      "date": "2026-09-18",
+      "summary": "中央公布試營運與改善措施，兩位市長參選人各述爭取過程；把政治主張與營運結果分開檢視。",
+      "steps": [
+        {
+          "speaker": "事件背景",
+          "text": "9/18中央社報導前鎮漁港兩年試營運計畫，包括補助漁民進駐運銷中心、國際漁工住宿，以及動線、降溫與攤位設備改善。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202609180163.aspx"
+          ]
+        },
+        {
+          "speaker": "當事人主張",
+          "text": "賴瑞隆強調整修補助與產業競爭力，並爭取增加接駁班次；柯志恩表示先前已提出租金補貼及空調改善，並持續要求接駁營運支持。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202609180163.aspx"
+          ]
+        },
+        {
+          "speaker": "待核對事項",
+          "text": "各方的爭取說法不等於營運成效。後續可核對進駐率、實際費用、作業動線、住宿與交通服務，以及試營運期滿安排。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202609180163.aspx"
+          ]
+        }
+      ],
+      "question": "你會用哪些漁民、攤商與漁工可感受到的指標，評估公共建設是否發揮作用？"
     }
   ]
 }
