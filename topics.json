@@ -3,6 +3,56 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "senior-health-premium-20261018",
+      "title": "長者健保費由誰補助？中央修法與地方承諾分開看",
+      "shortTitle": "長者健保費與財源",
+      "category": "高齡與照護",
+      "symbol": "◇",
+      "county": null,
+      "districts": [],
+      "relatedNames": [
+        "周春米",
+        "蔣萬安"
+      ],
+      "date": "2026-10-18",
+      "summary": "從10/16三讀報導到10/18各方回應，分清中央負擔、地方自行編列與尚待核對的實施細節。",
+      "steps": [
+        {
+          "speaker": "已報導的修法程序",
+          "text": "中央社10/16報導立院三讀長者健保費補助相關條文，設有所得條件。這是立法程序報導，不能直接當作所有長者已免繳或可立即申請；公布、施行與申辦細節仍要核對正式公告。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610160144.aspx"
+          ]
+        },
+        {
+          "speaker": "支持方的主張",
+          "text": "黃國昌10/18主張中央補助可改善不同縣市的待遇差異、減輕家庭負擔，並反對將政策解讀為世代對立。這是支持方的政策判斷，不是本站認證的財務結果。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610180072.aspx"
+          ]
+        },
+        {
+          "speaker": "財源與權責的疑慮",
+          "text": "民進黨回應應區分地方自編預算與修法增加中央支出；衛福部長石崇良則提出中央財源、保費與其他支出遭排擠的風險。這些是各方說法與估計，未來保費是否調整尚非本版確認的既定事實。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610180074.aspx",
+            "https://www.cna.com.tw/news/ahel/202610180038.aspx"
+          ]
+        },
+        {
+          "speaker": "留待核對的資料",
+          "text": "比較地方候選人承諾時，可追問對象、年度成本、財源及與中央補助如何銜接。本版未替任何人判斷補助資格，也未將各陣營的合憲或財務主張當成確定結論。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610160144.aspx",
+            "https://www.cna.com.tw/news/aipl/202610180072.aspx",
+            "https://www.cna.com.tw/news/aipl/202610180074.aspx",
+            "https://www.cna.com.tw/news/ahel/202610180038.aspx"
+          ]
+        }
+      ],
+      "question": "你會如何比較長者照顧、家庭負擔與長期財源？"
+    },
+    {
       "id": "tsai-kang-yung",
       "title": "蔡康永出席競選活動，為何成為選舉話題？",
       "shortTitle": "蔡康永與政治參與",
