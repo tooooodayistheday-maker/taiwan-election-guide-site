@@ -591,6 +591,82 @@
         }
       ],
       "question": "閱讀涉案新聞時，你會先確認姓名、程序階段與裁判是否確定嗎？"
+    },
+    {
+      "id": "hsinchu-regional-mobility-20261018",
+      "title": "新竹縣通勤政見：地方路網與跨區治理怎麼落實？",
+      "shortTitle": "新竹通勤與交通協作",
+      "category": "交通與通勤",
+      "symbol": "◇",
+      "county": "新竹縣",
+      "districts": [],
+      "relatedNames": [
+        "鄭朝方",
+        "徐欣瑩"
+      ],
+      "date": "2026-10-18",
+      "summary": "整理10/17至18兩位縣長參選人的運輸主張，並檢視地方工程與跨縣市合作各需哪些條件。",
+      "steps": [
+        {
+          "speaker": "鄭朝方的主張",
+          "text": "10/18報導其提出寶山道路與號誌整合、發展電動公車，處理在地通勤需求。屬競選方案，非已完成工程。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610180102.aspx"
+          ]
+        },
+        {
+          "speaker": "徐欣瑩的主張",
+          "text": "10/17報導其主張跨區交通協作與共同投資，結合智慧運輸、替代運具與軌道，推進交通建設。尚非跨機關已達成的決議。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610170172.aspx"
+          ]
+        },
+        {
+          "speaker": "後續核對",
+          "text": "本站提醒追問路段優先序、財源、主管機關與協調時程，再用通行時間及安全指標評估；報導沒有提供完整預算。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610180102.aspx",
+            "https://www.cna.com.tw/news/aipl/202610170172.aspx"
+          ]
+        }
+      ],
+      "question": "你希望哪些通勤瓶頸優先改善，並公開什麼進度資料？"
+    },
+    {
+      "id": "election-impersonation-fraud-20261018",
+      "title": "免費競選小物、看板投資：選舉熱潮中的冒名詐騙",
+      "shortTitle": "選舉小物與冒名防詐",
+      "category": "選務與資訊查核",
+      "symbol": "◇",
+      "county": null,
+      "districts": [],
+      "relatedNames": [],
+      "date": "2026-10-18",
+      "summary": "依刑事局10/18提醒的報導，辨認冒名送小物、募款或投資話術；不將被冒名者列為涉案候選人。",
+      "steps": [
+        {
+          "speaker": "已報導的警示",
+          "text": "中央社引述刑事局，整理假贈品、候選人廣告投資、冒名帳號借款及假獻金採購四類話術；並非候選人本人犯罪的證據。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/asoc/202610180107.aspx"
+          ]
+        },
+        {
+          "speaker": "常見誘導方式",
+          "text": "報導說明部分假贈品訊息以驗證名義引導操作網銀，另有宣稱當選可獲利、私下借款或以支票騙取貨物的情況。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/asoc/202610180107.aspx"
+          ]
+        },
+        {
+          "speaker": "查核與身分限制",
+          "text": "警方提醒先核對正式網站與競選團隊；遇不明金流驗證停止操作，有疑問向165查詢。本版未猜測報導未公開的姓名，也未新增犯罪標籤。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/asoc/202610180107.aspx"
+          ]
+        }
+      ],
+      "question": "看到陌生帳號以選舉名義要求操作帳戶，你會如何核對來源？"
     }
   ]
 }
