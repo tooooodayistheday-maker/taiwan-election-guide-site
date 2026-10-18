@@ -17,7 +17,7 @@ function pending(s){return `<div class="pending-box"><p>${esc(s)}</p></div>`;}
 function toast(s){$('#toast').textContent=s;$('#toast').hidden=false;clearTimeout(toastTimer);toastTimer=setTimeout(()=>$('#toast').hidden=true,4500);}
 function optionList(el,items,value,placeholder){el.innerHTML=(placeholder!=null?`<option value="">${placeholder}</option>`:'')+items.map(x=>{const v=typeof x==='string'?x:x.value,l=typeof x==='string'?x:x.label;return `<option value="${esc(v)}" ${value===v?'selected':''}>${esc(l)}</option>`;}).join('');}
 function countyMeta(){return data.counties.find(c=>c.name===state.county);}
-async function fetchJson(path){const r=await fetch(path);if(!r.ok)throw new Error(`Unable to load ${path}`);return r.json();}
+async function fetchJson(path){const r=await fetch(path,{cache:'no-store'});if(!r.ok)throw new Error(`Unable to load ${path}`);return r.json();}
 async function loadCounty(name){if(countyCache.has(name))return countyCache.get(name);const meta=data.counties.find(c=>c.name===name);if(!meta)throw new Error('Unknown county');const rows=(await fetchJson(meta.file)).map(hydrate);countyCache.set(name,rows);rows.forEach(c=>candidateCache.set(c.id,c));return rows;}
 async function loadSearch(){if(!searchIndex)searchIndex=await fetchJson('search.json');return searchIndex;}
 function updateURL(){try{const url=new URL(location.href);for(const [k,v] of Object.entries({theme:state.theme,county:state.county,town:state.town,village:state.village,office:state.office})){v?url.searchParams.set(k,v):url.searchParams.delete(k);}history.replaceState(null,'',url.href);}catch{}}
