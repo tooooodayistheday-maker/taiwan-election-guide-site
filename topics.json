@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-17",
+  "checkedAt": "2026-10-18",
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
@@ -423,6 +423,124 @@
         }
       ],
       "question": "你會用哪些漁民、攤商與漁工可感受到的指標，評估公共建設是否發揮作用？"
+    },
+    {
+      "id": "keelung-senior-payment-20261018",
+      "title": "基隆敬老金加倍主張，適用條件與財源怎麼看？",
+      "shortTitle": "基隆敬老金與照顧",
+      "category": "政策與預算",
+      "symbol": "◇",
+      "county": "基隆市",
+      "districts": [],
+      "relatedNames": [
+        "童子瑋",
+        "謝國樑"
+      ],
+      "date": "2026-10-18",
+      "summary": "區分童子瑋提出的給付目標、支持者說法與待查預算，也看見選戰中不同施政訴求。",
+      "steps": [
+        {
+          "speaker": "已公開的主張",
+          "text": "中央社10/18報導童子瑋提出提高敬老金：重陽由1,000元增為2,000元，春節、端午、中秋各由3,000元增為6,000元。這是競選提案，尚不能當作已上路給付。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610180080.aspx"
+          ]
+        },
+        {
+          "speaker": "不同陣營的訴求",
+          "text": "同篇報導中，蔡適應支持增加長者照顧支出；黃敏惠則陪謝國樑拜票，肯定其兒童遊憩設施等施政。兩人的支持發言並非預算或成效的獨立認證。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610180080.aspx"
+          ]
+        },
+        {
+          "speaker": "待核對事項",
+          "text": "本站提醒核對設籍與年齡條件、給付人數、年度增支、財源及與其他照顧服務的配置。這些是後續查核問題，並非本報導已提供答案。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610180080.aspx"
+          ]
+        }
+      ],
+      "question": "現金給付與交通、醫療、照顧服務，你希望如何配置預算？"
+    },
+    {
+      "id": "taipei-preschool-dialogue-20261018",
+      "title": "臺北幼兒園長會議爭議：出席承諾與制度怎麼核對？",
+      "shortTitle": "幼教溝通與園長會議",
+      "category": "公共治理",
+      "symbol": "◇",
+      "county": "臺北市",
+      "districts": [],
+      "relatedNames": [
+        "蔣萬安",
+        "沈伯洋"
+      ],
+      "date": "2026-10-18",
+      "summary": "分開呈現對出席紀錄的質疑、市府制度說明與蔣萬安最新回應，避免沿用已澄清的說法。",
+      "steps": [
+        {
+          "speaker": "爭議緣起",
+          "text": "中央社報導蘇傳臣質疑蔣萬安近四年未出席園長會議；副市長林奕華以雙北制度不同說明。這是質疑與回應，本版未取得完整會議出席紀錄作獨立驗證。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610180070.aspx"
+          ]
+        },
+        {
+          "speaker": "當事人最新回應",
+          "text": "蔣萬安10/18表示願出席下次會議，強調不以連任為條件。沈伯洋同日主張應立即補強與第一線的溝通。不能只保留「連任後才去」的早期轉述。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610180070.aspx",
+            "https://www.cna.com.tw/news/aloc/202610180077.aspx"
+          ]
+        },
+        {
+          "speaker": "待核對事項",
+          "text": "本站後續要查會議職掌、召集與出席紀錄、第一線意見如何納入政策，以及承諾後續落實。出席次數本身不能代替幼教品質評估。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610180070.aspx",
+            "https://www.cna.com.tw/news/aloc/202610180077.aspx"
+          ]
+        }
+      ],
+      "question": "你會如何檢驗首長與幼教第一線的溝通是否有效？"
+    },
+    {
+      "id": "pingtung-checheng-investigation-20261017",
+      "title": "車城疑涉禮盒賄選案：羈押與定罪要分開看",
+      "shortTitle": "車城涉賄案程序",
+      "category": "選務與司法程序",
+      "symbol": "⚖",
+      "county": "屏東縣",
+      "districts": [
+        "車城鄉"
+      ],
+      "relatedNames": [],
+      "date": "2026-10-17",
+      "summary": "依10/17報導、10/18更新整理偵查程序；報導未公開完整姓名，未對應到任何候選人卡片。",
+      "steps": [
+        {
+          "speaker": "已報導的程序",
+          "text": "中央社引述屏東地檢署說明，一名車城鄉代參選人疑以酒類、月餅等禮盒行賄，檢方搜索、訊問後聲請羈押禁見，法院准許，仍在偵查。這是涉嫌及程序進展。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/asoc/202610170106.aspx"
+          ]
+        },
+        {
+          "speaker": "身分與結論限制",
+          "text": "報導只揭露姓氏，無法與本站名冊作唯一身分核對，因此沒有猜測姓名，也未新增任何人的案件紀錄或犯罪標籤。羈押程序不等同刑事定罪。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/asoc/202610170106.aspx"
+          ]
+        },
+        {
+          "speaker": "後續查核",
+          "text": "後續需取得可核對身分的正式資料，追蹤是否起訴、裁判與確定情形。本版沒有將此案列入「已核實刑事紀錄」，也不由偵查推定參選資格結果。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/asoc/202610170106.aspx"
+          ]
+        }
+      ],
+      "question": "閱讀涉案新聞時，你會先確認姓名、程序階段與裁判是否確定嗎？"
     }
   ]
 }
