@@ -208,7 +208,7 @@ function renderJudicialRecords(){
  $('#judicial-results-count').textContent=`${judicialView.county||'全台'} · ${label} · ${selected.length} 位已核實登記者`;
  $('#judicial-record-grid').innerHTML=selected.length?selected.map(renderJudicialRecordCard).join(''):`<div class="judicial-empty"><h3>這個條件下，尚未收錄已核實資料。</h3><p>不代表${judicialView.county?esc(judicialView.county):'全台'}沒有相關紀錄，也不代表其他登記者沒有前科；本版仍在逐人補查。</p>${judicialView.eligibility!=='all'||judicialView.category!=='all'?'<button class="text-button" data-crime-reset>重設類型與資格篩選 →</button>':''}</div>`;
  const pending=index.pending.filter(c=>!judicialView.county||c.county===judicialView.county);
- $('#judicial-pending-list').innerHTML=pending.length?pending.map(c=>`<li><span><strong>${esc(c.name)}</strong> · ${esc(c.county)} · ${esc(c.office)}<small>${esc(judicialLabels[c.judicialStatus])}</small></span><button class="text-button" data-profile="${esc(c.id)}" data-tab="judicial">閱讀程序狀態 ↗</button></li>`).join(''):'<li>目前縣市範圍尚未收錄這類程序資料。</li>';
+ $('#judicial-pending-list').innerHTML=pending.length?pending.map(c=>`<li><span><strong>${esc(c.name)}</strong> · ${esc(c.county)} · ${esc(c.office)}<small>${esc(c.procedureLabel||judicialLabels[c.judicialStatus])}</small></span><button class="text-button" data-profile="${esc(c.id)}" data-tab="judicial">閱讀程序狀態 ↗</button></li>`).join(''):'<li>目前縣市範圍尚未收錄這類程序資料。</li>';
  $('#judicial-pending-count').textContent=pending.length;
 }
 async function setupJudicialRecords(){
