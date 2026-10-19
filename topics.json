@@ -3,6 +3,46 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "taipei-debate-format-20261017",
+      "title": "台北市長辯論怎麼問？政見發表、交叉詰問與選民判讀",
+      "shortTitle": "辯論形式與市政問答",
+      "category": "選民知情與政策",
+      "symbol": "◇",
+      "county": "臺北市",
+      "districts": [],
+      "relatedNames": [
+        "沈伯洋",
+        "蔣萬安"
+      ],
+      "date": "2026-10-17",
+      "summary": "由10/11雙方說法與10/17後續主張，分清辯論協調、各自立場及尚待確認的規則。",
+      "steps": [
+        {
+          "speaker": "形式仍須核對",
+          "text": "中央社10/11報導沈伯洋要求交叉詰問，蔣萬安表示細節可討論、重點是參與協調。本版未取得最終協議，不將邀約場數、形式或日期當作已敲定。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610110172.aspx"
+          ]
+        },
+        {
+          "speaker": "沈方後續說法",
+          "text": "沈伯洋10/17表示，辯論應讓選民了解雙方立場並針對問題回答。這是參選人的公開主張，並非本站認定其表現較佳。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610170032.aspx"
+          ]
+        },
+        {
+          "speaker": "選民可以追問",
+          "text": "可比較答題是否說明市府權限、預算、時程、衡量方式，並核對完整影音與引用資料。安排與規則應以主辦單位最終公告為準。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610110172.aspx",
+            "https://www.cna.com.tw/news/aloc/202610170032.aspx"
+          ]
+        }
+      ],
+      "question": "你希望辯論問哪些具體問題，才能比較候選人的治理方案？"
+    },
+    {
       "id": "yilan-policy-comparison-20261018",
       "title": "宜蘭科技產業政見爭議：主張相近，如何查證差異？",
       "shortTitle": "宜蘭政策爭議與查證",
