@@ -3,42 +3,6 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
-      "id": "election-fraud-prevention-20261018",
-      "title": "競選小物、廣告投資與私訊募款：如何核對選舉詐騙？",
-      "shortTitle": "選舉防詐四種手法",
-      "category": "選民資訊安全",
-      "symbol": "◇",
-      "county": null,
-      "districts": [],
-      "relatedNames": [],
-      "date": "2026-10-18",
-      "summary": "刑事局10/18公告、10/19更新提醒四種假冒手法；不代表被冒名候選人涉案。",
-      "steps": [
-        {
-          "speaker": "官方公告",
-          "text": "刑事局列出假送競選小物、假稱投資候選人廣告、冒名帳號借款募款，以及假借政治獻金採購後支票跳票四類手法。",
-          "sourceUrls": [
-            "https://www.cib.npa.gov.tw/ch/app/news/view?id=1887&module=news&serno=63199e06-b24c-4423-8157-b7f0711f308a"
-          ]
-        },
-        {
-          "speaker": "事實與冒名分開",
-          "text": "公告描述詐騙者冒用政治人物或支持者名義；不能據此指稱候選人涉詐，也不把預防提醒當成法院判決或個人犯罪標籤。",
-          "sourceUrls": [
-            "https://www.cib.npa.gov.tw/ch/app/news/view?id=1887&module=news&serno=63199e06-b24c-4423-8157-b7f0711f308a"
-          ]
-        },
-        {
-          "speaker": "選民可以核對",
-          "text": "從自行查得的官方管道確認身分與款項用途；陌生連結要求網銀驗證、提款碼或匯款時先停下。可向165查詢，勿直接使用私訊提供的客服管道。",
-          "sourceUrls": [
-            "https://www.cib.npa.gov.tw/ch/app/news/view?id=1887&module=news&serno=63199e06-b24c-4423-8157-b7f0711f308a"
-          ]
-        }
-      ],
-      "question": "收到送小物或不公開募款私訊時，你能從哪個獨立管道確認真偽？"
-    },
-    {
       "id": "taipei-debate-format-20261017",
       "title": "台北市長辯論怎麼問？政見發表、交叉詰問與選民判讀",
       "shortTitle": "辯論形式與市政問答",
@@ -757,7 +721,7 @@
       "districts": [],
       "relatedNames": [],
       "date": "2026-10-18",
-      "summary": "依刑事局10/18提醒的報導，辨認冒名送小物、募款或投資話術；不將被冒名者列為涉案候選人。",
+      "summary": "依10/18報導，補入刑事局原始公告（10/19更新）；辨認四類冒名手法，不將被冒名者列為涉案候選人。",
       "steps": [
         {
           "speaker": "已報導的警示",
@@ -778,6 +742,13 @@
           "text": "警方提醒先核對正式網站與競選團隊；遇不明金流驗證停止操作，有疑問向165查詢。本版未猜測報導未公開的姓名，也未新增犯罪標籤。",
           "sourceUrls": [
             "https://www.cna.com.tw/news/asoc/202610180107.aspx"
+          ]
+        },
+        {
+          "speaker": "10/19原始公告核對",
+          "text": "刑事局原始公告列出假贈小物、廣告投資、冒名借款及假獻金採購四類手法，提醒勿依陌生客服要求操作網銀驗證；有疑義可向165查詢。被冒用名義不等於候選人涉案。",
+          "sourceUrls": [
+            "https://www.cib.npa.gov.tw/ch/app/news/view?id=1887&module=news&serno=63199e06-b24c-4423-8157-b7f0711f308a"
           ]
         }
       ],
