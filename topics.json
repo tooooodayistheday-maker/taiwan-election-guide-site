@@ -3,6 +3,84 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "penghu-tourism-markets-20261019",
+      "title": "澎湖觀光客從哪裡來？多元市場、小三通與在地收益",
+      "shortTitle": "澎湖觀光市場與收益",
+      "category": "產業與生活",
+      "symbol": "◇",
+      "county": "澎湖縣",
+      "districts": [],
+      "relatedNames": [
+        "陳振中",
+        "吳淑瑾"
+      ],
+      "date": "2026-10-19",
+      "summary": "兩位縣長參選人提出客源方向；分清市場主張、航空銜接與收益條件，不把期待當成成效。",
+      "steps": [
+        {
+          "speaker": "陳振中的方向",
+          "text": "主張爭取含小三通的各地客源，同時經營國旅、國際市場與在地文化旅遊內容；尚非航路已恢復的證明。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610190213.aspx"
+          ]
+        },
+        {
+          "speaker": "吳淑瑾的方向",
+          "text": "提出引導訪台國際旅客轉進澎湖，結合航空與文化旅遊；對單一市場依賴提出疑慮，屬參選人立場。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610190213.aspx"
+          ]
+        },
+        {
+          "speaker": "仍待比較的條件",
+          "text": "可追問航班及航路權責、旅費與季節性、在地商家收益和環境負荷；目前來源未提供落實成果，不預判哪個方案較好。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610190213.aspx"
+          ]
+        }
+      ],
+      "question": "旅客增加時，在地收益、交通與環境如何一起衡量？"
+    },
+    {
+      "id": "keelung-station-advertising-20261019",
+      "title": "車站選舉廣告與行政中立：雙方說法及台鐵回應",
+      "shortTitle": "車站廣告與行政中立",
+      "category": "公共治理",
+      "symbol": "◇",
+      "county": "基隆市",
+      "districts": [],
+      "relatedNames": [
+        "童子瑋",
+        "謝國樑"
+      ],
+      "date": "2026-10-19",
+      "summary": "整理謝方質疑、童方承租說明及台鐵10/19回應；公司法規說明與法院認定分開。",
+      "steps": [
+        {
+          "speaker": "謝方質疑",
+          "text": "謝國樑競辦質疑車站宣傳與先前市政筆記本事件的處理標準；這是競辦的質疑，未當作違法認定。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610190165.aspx"
+          ]
+        },
+        {
+          "speaker": "童方回應",
+          "text": "童子瑋辦公室表示依一般程序承租廣告空間；是否履約與公平對待仍應核對契約及完整規範。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610190165.aspx"
+          ]
+        },
+        {
+          "speaker": "台鐵說明",
+          "text": "台鐵稱商業標租廣告尚符現行相關法規，並表示2027年起終止此類出租業務；這是公司說明，並非本站或法院判決。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610190165.aspx"
+          ]
+        }
+      ],
+      "question": "車站商業廣告的公平標準、租約與未來政策要如何公開核對？"
+    },
+    {
       "id": "taipei-debate-format-20261017",
       "title": "台北市長辯論怎麼問？政見發表、交叉詰問與選民判讀",
       "shortTitle": "辯論形式與市政問答",
@@ -359,17 +437,18 @@
     },
     {
       "id": "taichung-transit-service",
-      "title": "台中市民公車免費主張，班次與司機人力如何一起改善？",
+      "title": "台中公車：免費票價之外，運能、路網與駕駛人力怎麼改善？",
       "shortTitle": "免費公車與服務品質",
       "category": "交通政策",
       "symbol": "↗",
       "county": "臺中市",
       "districts": [],
       "relatedNames": [
-        "江啟臣"
+        "江啟臣",
+        "何欣純"
       ],
-      "date": "2026-10-16",
-      "summary": "免費票價、密集接駁與人行安全是不同承諾，可逐項追問資源與執行時程。",
+      "date": "2026-10-19",
+      "summary": "在既有10/16免費公車主張外，補入何欣純10/19四項改善方案；各自承諾與服務成效分開核對。",
       "steps": [
         {
           "speaker": "事件背景",
@@ -390,6 +469,13 @@
           "text": "以上是競選主張。比較時可分別核對免費適用資格、班距、人力補充與預算，並追問偏遠地區如何納入。",
           "sourceUrls": [
             "https://www.cna.com.tw/news/aloc/202610160324.aspx"
+          ]
+        },
+        {
+          "speaker": "10/19新增主張",
+          "text": "何欣純提出運能、App、路網與駕駛勞動四方向；這是競選方案，班次、人力、成本與實施結果仍須核對。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610190150.aspx"
           ]
         }
       ],
