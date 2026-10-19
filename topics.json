@@ -1,7 +1,46 @@
 {
-  "checkedAt": "2026-10-18",
+  "checkedAt": "2026-10-19",
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
+    {
+      "id": "yilan-policy-comparison-20261018",
+      "title": "宜蘭科技產業政見爭議：主張相近，如何查證差異？",
+      "shortTitle": "宜蘭政策爭議與查證",
+      "category": "政策與查證",
+      "symbol": "◇",
+      "county": "宜蘭縣",
+      "districts": [],
+      "relatedNames": [
+        "吳宗憲",
+        "林國漳"
+      ],
+      "date": "2026-10-18",
+      "summary": "10/18中央社報導兩陣營就科技產業政見交鋒；指控、回應與政策原文查核分開。",
+      "steps": [
+        {
+          "speaker": "已報導的交鋒",
+          "text": "中央社報導吳宗憲競辦指控林國漳政見抄襲，林方競辦則批評對方流於口水戰。能確認的是雙方公開說法，尚非抄襲事實已獲認定。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610180177.aspx"
+          ]
+        },
+        {
+          "speaker": "吳方的指控",
+          "text": "吳方以北宜科技產業合作構想及計畫名稱為例，並要求辯論。這是競辦主張，本版未取得兩方完整版本及首發時序作獨立比對。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610180177.aspx"
+          ]
+        },
+        {
+          "speaker": "林方回應與待查",
+          "text": "林方要求對手開放總部、與民眾交流政策。本版尚待核對各項方案的原文、財源、權責及差異，不把互相批評寫成司法結論。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610180177.aspx"
+          ]
+        }
+      ],
+      "question": "比較政策時，你會要求哪些原文、日期及具體執行差異？"
+    },
     {
       "id": "senior-health-premium-20261018",
       "title": "長者健保費由誰補助？中央修法與地方承諾分開看",
