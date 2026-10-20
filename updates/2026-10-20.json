@@ -1,0 +1,81 @@
+{
+  "date": "2026-10-20",
+  "checked_at": "2026-10-20T10:22:07.396573+08:00",
+  "county_scope": [
+    "桃園市",
+    "臺中市"
+  ],
+  "accepted_facts": 4,
+  "updated_people": 4,
+  "summary": "本日完成局部來源查核；新增通過逐條原文核對的資料 4 項。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/central/article/65213",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://web.cec.gov.tw/tyec/article/65247",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://web.cec.gov.tw/tcec/article/65217",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://web.cec.gov.tw/tcec/article/65195",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://web.cec.gov.tw/tcec/article/64901",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://www.moi.gov.tw/LocalOfficial_Content.aspx?TYP=KND0007&_PARENT_ID=MYR11112HG0348&_TYP=MYR&n=577",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://webc.hakka.gov.tw/epaper/1120324782/epaper-long.htm",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://www.tccc.gov.tw/ebook/no03/files/basic-html/page62.html",
+      "title": "本次查核來源頁"
+    }
+  ],
+  "limitations": [
+    "本次為局部來源查核，不代表所有縣市或候選人已完整核實。",
+    "本次沒有自動改動司法、爭議、資格及名冊；新線索只保留在私人待核紀錄。"
+  ],
+  "review_leads_count": 3,
+  "rejected_count": 13,
+  "changes": [
+    {
+      "name": "高華駿",
+      "county": "桃園市",
+      "field": "education",
+      "text": "國立體育大學畢業",
+      "url": "https://www.moi.gov.tw/LocalOfficial_Content.aspx?TYP=KND0007&_PARENT_ID=MYR11112HG0348&_TYP=MYR&n=577"
+    },
+    {
+      "name": "林昭賢",
+      "county": "桃園市",
+      "field": "experience",
+      "text": "桃園市政府客家事務局局長",
+      "url": "https://webc.hakka.gov.tw/epaper/1120324782/epaper-long.htm"
+    },
+    {
+      "name": "林汝洲",
+      "county": "臺中市",
+      "field": "experience",
+      "text": "鄉民代表、鄉長",
+      "url": "https://www.tccc.gov.tw/ebook/no03/files/basic-html/page62.html"
+    },
+    {
+      "name": "張耀中",
+      "county": "臺中市",
+      "field": "experience",
+      "text": "台中市議員張耀中",
+      "url": "https://www.cna.com.tw/news/aloc/202006170215.aspx"
+    }
+  ]
+}
