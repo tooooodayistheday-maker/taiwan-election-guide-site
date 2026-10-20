@@ -3,6 +3,97 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "kaohsiung-nanliao-muzi-registration-20261016",
+      "title": "南寮里、木梓里第二次登記：受理已截止，抽籤訂11月9日",
+      "shortTitle": "南寮木梓里登記與抽籤",
+      "symbol": "◇",
+      "category": "地方選務異動",
+      "county": "高雄市",
+      "districts": [
+        "彌陀區",
+        "杉林區"
+      ],
+      "relatedNames": [],
+      "date": "2026-10-16",
+      "eventDate": "2026-10-19",
+      "checkedAt": "2026-10-21",
+      "dailyUpdateKind": "new",
+      "summary": "高雄選委會10/16公告彌陀區南寮里、杉林區木梓里第二次登記，受理10/19至20日，至本次10/21查核時已截止；公告另列11/9抽籤。本次未取得新增登記者名單。",
+      "steps": [
+        {
+          "speaker": "適用里別與時間",
+          "text": "用印公告第1頁列彌陀區南寮里及杉林區木梓里，第二次登記期間為2026/10/19至10/20，每日08:00–12:00、13:30–17:30，分別在彌陀區公所、杉林區公所辦理。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/khec/article/65270",
+            "https://web.cec.gov.tw/api/file/67748779-68f3-47b7-9b55-af7414d6502f.pdf"
+          ]
+        },
+        {
+          "speaker": "保證金與後續抽籤",
+          "text": "第3頁列每位候選人保證金3萬元，候選人號次抽籤日期為11/9，地點同登記處。這是兩個特定里別的安排，不能套用為全高雄市長或議員抽籤日。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/khec/article/65270",
+            "https://web.cec.gov.tw/api/file/67748779-68f3-47b7-9b55-af7414d6502f.pdf"
+          ]
+        },
+        {
+          "speaker": "本次尚待確認",
+          "text": "10/21查核時，這一受理期間已結束。公告未敘明具體再登記事由，也不是完成登記者名冊；本站不自行新增姓名、號次，或推論原登記者失格。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/khec/article/65270",
+            "https://web.cec.gov.tw/api/file/67748779-68f3-47b7-9b55-af7414d6502f.pdf"
+          ]
+        }
+      ],
+      "question": "第二次登記後的實際名單、審定與號次，是否已有可逐人核對的正式公告？"
+    },
+    {
+      "id": "kaohsiung-huasheng-stop-20261020",
+      "title": "新興華聲里選舉停止：原登記快照與重行選舉要分開",
+      "shortTitle": "華聲里停止選舉",
+      "symbol": "◇",
+      "category": "地方選務異動",
+      "county": "高雄市",
+      "districts": [
+        "新興區"
+      ],
+      "relatedNames": [
+        "林禮志"
+      ],
+      "date": "2026-10-20",
+      "eventDate": "2026-10-17",
+      "checkedAt": "2026-10-21",
+      "dailyUpdateKind": "new",
+      "summary": "高雄選委會10/20公告華聲里里長選舉停止，原因為唯一登記候選人林禮志10/17逝世，將另辦重行選舉。本版保留歷史登記快照，不把它當成仍在進行的原選舉或刑事不合格。",
+      "steps": [
+        {
+          "speaker": "公告確認的事實",
+          "text": "用印公告記載：華聲里僅林禮志1人申請登記，其於2026/10/17逝世；高雄選委會10/20公告停止該里第5屆里長選舉。姓名、行政區與里別均和本站歷史登記資料一致。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/khec/article/65258",
+            "https://web.cec.gov.tw/api/file/29b6f569-c793-4206-8355-5b144546e4b2.pdf"
+          ]
+        },
+        {
+          "speaker": "後續程序與資料邊界",
+          "text": "公告表示將依法辦理重行選舉，但本次公告沒有列出重行投票日期或新名單。本站不推估日期；原9月登記快照可作歷史查詢，不應用來推論該里11/28仍照原名單投票。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/khec/article/65258",
+            "https://web.cec.gov.tw/api/file/29b6f569-c793-4206-8355-5b144546e4b2.pdf"
+          ]
+        },
+        {
+          "speaker": "不是司法或不合格標籤",
+          "text": "停止特定選舉與個人刑事有罪、資格審定不符是不同事項。本版以選務話題揭示公告與待確認進度，沒有增加犯罪或資格不符標籤。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/khec/article/65258",
+            "https://web.cec.gov.tw/api/file/29b6f569-c793-4206-8355-5b144546e4b2.pdf"
+          ]
+        }
+      ],
+      "question": "重行選舉公告發布後，應如何清楚區分原登記快照、新登記者與新的投票日期？"
+    },
+    {
       "id": "tainan-ballot-draw-instructions-20261017",
       "symbol": "◇",
       "relatedNames": [],

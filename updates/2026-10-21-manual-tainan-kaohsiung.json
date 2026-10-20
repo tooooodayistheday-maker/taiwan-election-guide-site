@@ -1,0 +1,100 @@
+{
+  "entry_id": "2026-10-21-manual-tainan-kaohsiung",
+  "kind": "manual",
+  "session_label": "臺南高雄人工補核",
+  "date": "2026-10-21",
+  "checked_at": "2026-10-21T06:42:42.149857+08:00",
+  "county_scope": [
+    "臺南市",
+    "高雄市"
+  ],
+  "accepted_facts": 4,
+  "updated_people": 4,
+  "summary": "補充臺南2項本屆公開主張及1項2022公報自填學歷；逐頁閱讀高雄選委會4頁用印PDF，新增2項選務異動話題。華聲里原登記者圖鑑亦註明停止選舉，未改為刑事或資格不符。",
+  "official_checks": [
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202609010168.aspx",
+      "title": "人工閱讀原始報導、公報或選委會用印公告"
+    },
+    {
+      "url": "https://eebulletin.cec.gov.tw/111/06%E8%87%BA%E5%8D%97%E5%B8%82/02%E5%B8%82%E8%AD%B0%E5%93%A1/%E7%AC%AC%E5%85%AB%E9%81%B8%E8%88%89%E5%8D%80.pdf",
+      "title": "人工閱讀原始報導、公報或選委會用印公告"
+    },
+    {
+      "url": "https://web.cec.gov.tw/khec/article/65258",
+      "title": "人工閱讀原始報導、公報或選委會用印公告"
+    },
+    {
+      "url": "https://web.cec.gov.tw/api/file/29b6f569-c793-4206-8355-5b144546e4b2.pdf",
+      "title": "人工閱讀原始報導、公報或選委會用印公告"
+    },
+    {
+      "url": "https://web.cec.gov.tw/khec/article/65270",
+      "title": "人工閱讀原始報導、公報或選委會用印公告"
+    },
+    {
+      "url": "https://web.cec.gov.tw/api/file/67748779-68f3-47b7-9b55-af7414d6502f.pdf",
+      "title": "人工閱讀原始報導、公報或選委會用印公告"
+    }
+  ],
+  "limitations": [
+    "2022公報是歷史自填，不認證學位或2026現職。",
+    "9/1提案非10/21新發布。",
+    "高雄原名冊保留為歷史登記快照，停止選舉及待確認的新名單另列話題。",
+    "未變更任何刑事、司法或個人資格不符標籤。"
+  ],
+  "changes": [
+    {
+      "name": "謝龍介",
+      "county": "臺南市",
+      "field": "policy",
+      "text": "9/1登記參選臺南市長時，公開承諾當選後不尋求連任。",
+      "url": "https://www.cna.com.tw/news/aipl/202609010168.aspx"
+    },
+    {
+      "name": "陳亭妃",
+      "county": "臺南市",
+      "field": "policy",
+      "text": "9/1提出大新營、曾文南科、濱海藍帶、大目降、府城新豐五個觀光軸，以區域特色與移動路線串聯景點、產業及就業。",
+      "url": "https://www.cna.com.tw/news/aipl/202609010168.aspx"
+    },
+    {
+      "name": "江明宗",
+      "county": "臺南市",
+      "field": "education",
+      "text": "111年（2022）臺南第8選區選舉公報自填：中國科技大學資訊管理系（此為歷史自述，未據此認證畢業、學位或2026現況）。",
+      "url": "https://eebulletin.cec.gov.tw/111/06%E8%87%BA%E5%8D%97%E5%B8%82/02%E5%B8%82%E8%AD%B0%E5%93%A1/%E7%AC%AC%E5%85%AB%E9%81%B8%E8%88%89%E5%8D%80.pdf"
+    },
+    {
+      "name": "林禮志",
+      "county": "高雄市",
+      "field": "election_notice",
+      "text": "選務異動：高雄選委會2026/10/20公告，華聲里唯一登記候選人林禮志10/17逝世，該里選舉停止、將另辦重行選舉；本頁保留9月歷史登記，不代表原選舉仍照常辦理。此非司法或個人資格不符標籤。",
+      "url": "https://web.cec.gov.tw/api/file/29b6f569-c793-4206-8355-5b144546e4b2.pdf"
+    }
+  ],
+  "topic_updates": [
+    {
+      "id": "kaohsiung-huasheng-stop-20261020",
+      "title": "新興華聲里選舉停止：原登記快照與重行選舉要分開",
+      "kind": "new",
+      "summary": "高雄選委會10/20公告華聲里里長選舉停止，原因為唯一登記候選人林禮志10/17逝世，將另辦重行選舉。本版保留歷史登記快照，不把它當成仍在進行的原選舉或刑事不合格。",
+      "sources": [
+        "https://web.cec.gov.tw/khec/article/65258",
+        "https://web.cec.gov.tw/api/file/29b6f569-c793-4206-8355-5b144546e4b2.pdf"
+      ]
+    },
+    {
+      "id": "kaohsiung-nanliao-muzi-registration-20261016",
+      "title": "南寮里、木梓里第二次登記：受理已截止，抽籤訂11月9日",
+      "kind": "new",
+      "summary": "高雄選委會10/16公告彌陀區南寮里、杉林區木梓里第二次登記，受理10/19至20日，至本次10/21查核時已截止；公告另列11/9抽籤。本次未取得新增登記者名單。",
+      "sources": [
+        "https://web.cec.gov.tw/khec/article/65270",
+        "https://web.cec.gov.tw/api/file/67748779-68f3-47b7-9b55-af7414d6502f.pdf"
+      ]
+    }
+  ],
+  "review_leads_count": 0,
+  "rejected_count": 0
+}
