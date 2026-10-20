@@ -5,7 +5,7 @@
     "kind": "manual",
     "session_label": "20:38起・第二輪人工續查",
     "started_at": "2026-10-20T20:38:25+08:00",
-    "checked_at": "2026-10-20T21:23:20.490056+08:00",
+    "checked_at": "2026-10-20T21:27:18.791977+08:00",
     "county_scope": [
       "基隆市"
     ],
@@ -290,6 +290,14 @@
       {
         "url": "https://www.cna.com.tw/news/aloc/202610190232.aspx",
         "title": "李登輝手植榕樹染褐根病移除　護樹團體質疑坐視枯死 | 地方 | 中央社 CNA"
+      },
+      {
+        "url": "https://pkl.gov.taipei/News_Content.aspx?n=43E05059FCC72525&s=7170902B661BA766&sms=72544237BBE4C5F6",
+        "title": "臺北市政府工務局公園路燈工程管理處-新聞稿-美崙公園李登輝總統及李元簇副總統樹114年鑑定罹患褐根病  為確保公園內活動民眾安全 已於115年4月移除"
+      },
+      {
+        "url": "https://www.civilmedia.tw/archives/141650",
+        "title": "【新聞稿】美崙公園消失的李登輝總統樹追追追！總統副總統樹應加強列管保護 | 公民行動影音紀錄資料庫"
       }
     ],
     "limitations": [
@@ -2089,7 +2097,9 @@
         "summary": "10/19市府說明與護樹團體質疑，針對的是4月已移除的美崙公園兩株老榕樹；事件日期與最新說明日期分開記錄。",
         "eventDate": "2026-04-24",
         "sources": [
-          "https://www.cna.com.tw/news/aloc/202610190232.aspx"
+          "https://www.cna.com.tw/news/aloc/202610190232.aspx",
+          "https://pkl.gov.taipei/News_Content.aspx?n=43E05059FCC72525&s=7170902B661BA766&sms=72544237BBE4C5F6",
+          "https://www.civilmedia.tw/archives/141650"
         ]
       }
     ],
