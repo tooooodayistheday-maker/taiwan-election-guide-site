@@ -4,7 +4,7 @@
   "kind": "manual",
   "session_label": "21:40起・延長人工查核",
   "started_at": "2026-10-20T21:39:54+08:00",
-  "checked_at": "2026-10-20T21:55:31.035517+08:00",
+  "checked_at": "2026-10-20T22:04:29.841501+08:00",
   "county_scope": [
     "南投縣",
     "嘉義市",
@@ -27,15 +27,15 @@
     "雲林縣",
     "高雄市"
   ],
-  "accepted_facts": 46,
-  "updated_people": 37,
+  "accepted_facts": 57,
+  "updated_people": 40,
   "field_counts": {
     "education": 0,
-    "experience": 1,
-    "policy": 45,
+    "experience": 3,
+    "policy": 54,
     "judicial_procedure": 0
   },
-  "summary": "延長人工查核：20縣市37人新增46項來源資料，含永續韌性與學校午餐倡議承諾；新增2則政策比較回顧。",
+  "summary": "延長人工查核：20縣市40人新增57項來源資料，含倡議承諾、基隆政策與部分經歷；新增3則政策與程序話題。",
   "official_checks": [
     {
       "url": "https://gcaa.org.tw/16804/",
@@ -46,12 +46,52 @@
       "title": "2026學校午餐升級—候選人請承諾！ | 大享食育協會─讓學校營養午餐變得更好"
     },
     {
+      "url": "https://www.klcg.gov.tw/tw/klcg1/3168-319070.html",
+      "title": "基隆市政府－市政新聞－基隆達成一區一公托！公托據點翻倍成長，2處新公托7月10日起開放登記"
+    },
+    {
+      "url": "https://www.klcg.gov.tw/tw/klcg1/3168-316141.html",
+      "title": "基隆市政府－市政新聞－邱佩琳主持市立醫院長照工程開工 盼提升整體服務量能"
+    },
+    {
+      "url": "https://www.klcg.gov.tw/tw/klcg1/3168-321523.html",
+      "title": "基隆市政府－市政新聞－基隆首創「複合式立體防災」 沙德爾颱風前夕謝國樑視察大武崙溪防汛整備"
+    },
+    {
+      "url": "https://t-ziwei.com/archives/2631",
+      "title": "公車維新 真正的生活公車 – 童子瑋"
+    },
+    {
+      "url": "https://t-ziwei.com/archives/2825",
+      "title": "we care 教育政策 – 童子瑋"
+    },
+    {
+      "url": "https://t-ziwei.com/archives/2421",
+      "title": "挺第一線社工夥伴！四大政見強化基隆社安網 – 童子瑋"
+    },
+    {
+      "url": "https://t-ziwei.com/archives/2767",
+      "title": "基隆醫療全面升級 – 童子瑋"
+    },
+    {
+      "url": "https://t-ziwei.com/archives/2740",
+      "title": "與原住民族「童在一起」 – 童子瑋"
+    },
+    {
+      "url": "https://www.tdns.net.tw/news_view.php?new_sn=122857",
+      "title": "深耕基隆15年，林孟泓登記國民黨中正區議員初選！（天地傳媒，通天透地，貫穿古今）"
+    },
+    {
       "url": "https://www.cdnspg.com/articles/75166",
       "title": "九合一選舉 仁愛區五搶三 信義區九搶五 - 中華日報航運電子報"
     },
     {
       "url": "https://www.vac.gov.tw/cp-26-189260-101.html",
       "title": "基隆市榮服處慶祝第47屆榮民節 傳承榮民精神向前輩致敬\r\n        -\r\n      國軍退除役官兵輔導委員會 基隆市榮民服務處"
+    },
+    {
+      "url": "https://newtalk.tw/news/view/2026-09-30/1062732",
+      "title": "基隆市議員參選人曾維祥「代父出征」遭搜索 父弊案追查、送月餅涉賄2版本傳言 | 政治 | Newtalk新聞"
     },
     {
       "url": "https://e-info.org.tw/node/243963",
@@ -64,18 +104,28 @@
     {
       "url": "https://six-cities.gcaa.org.tw/",
       "title": "2026六都永續韌性城市承諾・公開簽署表"
+    },
+    {
+      "url": "https://www.klc.moj.gov.tw/media/457040/1151016基檢偵辦基隆市議員候選人-里長候選人涉旅遊賄選案新聞稿.pdf?mediaDL=true",
+      "title": "基隆地檢署2026/10/16郵輪旅遊案原始公告"
+    },
+    {
+      "url": "https://news.pts.org.tw/article/831747",
+      "title": "涉招待郵輪旅遊賄選 基隆市議員、里長參選人遭約談 ｜ 公視新聞網 PNN"
     }
   ],
   "limitations": [
     "主辦團體列載的民間倡議承諾，非已施行政策、政策成效或逐份親簽鑑定。",
     "午餐名單截至10/6；永續新聞稿日期10/12，均非10/20新發生的簽署。",
     "永續倡議公開表與10/12稿件對李四川、江啟臣的狀態不同，未提供異動日；本輪不在兩人個人頁新增此項承諾或拒絕結論。",
-    "林廷奕經歷以2026參選報導銜接2025政府公告；沒有額外推論任期、學歷或服務成效。",
+    "林廷奕經歷以2026參選報導銜接2025政府公告；曾維祥工作經歷為單一媒體列載，任期與聘僱文件仍待查。",
+    "基隆官網競選主張與市府設計、施工中計畫分開記錄；不把預計名額、床位與滯洪量寫成已完成成果。",
+    "郵輪案原始公告只列姓氏，本輪以匿名話題說明程序，不映射個人，也不新增犯罪標籤。",
     "未列名不等於拒絕、反對或無政策；犯罪、司法、政黨及資格欄位本輪未更動。"
   ],
   "coverage_change": {
-    "new_biographies": 1,
-    "new_policy_profiles": 1
+    "new_biographies": 2,
+    "new_policy_profiles": 2
   },
   "review_leads_count": 2,
   "rejected_count": 0,
@@ -273,6 +323,30 @@
       "url": "https://www.foodiedu.org/project/3156"
     },
     {
+      "id": "kl-m-001",
+      "name": "謝國樑",
+      "county": "基隆市",
+      "field": "policy",
+      "text": "公共托育24處目標與分區服務：7/9市府公告在新增2處公托招生時，謝國樑表示持續朝全市24處公共托育據點邁進；24處是後續目標，不能寫成已設立24處。",
+      "url": "https://www.klcg.gov.tw/tw/klcg1/3168-319070.html"
+    },
+    {
+      "id": "kl-m-001",
+      "name": "謝國樑",
+      "county": "基隆市",
+      "field": "policy",
+      "text": "市立醫院長照整修與社福園區床位規劃：5/4市府公告市立醫院長照整修開工、預計增加99床，另規劃社福園區至少400床。中央補助約1.2億元、市府近3000多萬元為該整修案說明，不能套作400床園區總經費。",
+      "url": "https://www.klcg.gov.tw/tw/klcg1/3168-316141.html"
+    },
+    {
+      "id": "kl-m-001",
+      "name": "謝國樑",
+      "county": "基隆市",
+      "field": "policy",
+      "text": "大武崙溪球場、停車與滯洪複合園區：8/26市府稱棒球場滯洪園區處於設計階段，核定115至116年度設計補助3600萬元；構想結合球場、停車與滯洪，預估蓄洪7.2至8.7萬噸。設計費非全部工程預算，蓄洪量亦非完工實測。",
+      "url": "https://www.klcg.gov.tw/tw/klcg1/3168-321523.html"
+    },
+    {
       "id": "kl-m-003",
       "name": "童子瑋",
       "county": "基隆市",
@@ -281,12 +355,76 @@
       "url": "https://www.foodiedu.org/project/3156"
     },
     {
+      "id": "kl-m-003",
+      "name": "童子瑋",
+      "county": "基隆市",
+      "field": "policy",
+      "text": "市區公車三級路網、車隊與駕駛待遇：8/6官網提出幹線、區域支線及小黃公車分工，優先採購電動與低地板車，改善駕駛薪資和缺額，更新電子站牌；30分鐘生活圈是目標，非已達成運能。",
+      "url": "https://t-ziwei.com/archives/2631"
+    },
+    {
+      "id": "kl-m-003",
+      "name": "童子瑋",
+      "county": "基隆市",
+      "field": "policy",
+      "text": "教師支持：助理員、備課假與專業協助：9/24官網提出各校教學助理、工程由市府專責、教師每年9天備課假及3天身心調適假、禮金提高至2000元，另設教師支持辦公室與名譽修復機制。皆為提案。",
+      "url": "https://t-ziwei.com/archives/2825"
+    },
+    {
+      "id": "kl-m-003",
+      "name": "童子瑋",
+      "county": "基隆市",
+      "field": "policy",
+      "text": "社工留任、安全與跨局處合作：3/30官網提出隨年資增加的留任獎金、執業安全設備、市長主持跨局處會報，以及整合公私資源；獎金金額、人力規模和總預算尚待明細。",
+      "url": "https://t-ziwei.com/archives/2421"
+    },
+    {
+      "id": "kl-m-003",
+      "name": "童子瑋",
+      "county": "基隆市",
+      "field": "policy",
+      "text": "就醫交通、醫療園區與預防照顧方案：9/17官網提出醫療公車、復康交通及爬梯機補助，並規劃醫養用地整合、與中央合作增加急重症及兒童專科量能；另提特定疫苗與篩檢補助。此為政治主張，非醫療建議或已核定服務。",
+      "url": "https://t-ziwei.com/archives/2767"
+    },
+    {
+      "id": "kl-m-003",
+      "name": "童子瑋",
+      "county": "基隆市",
+      "field": "policy",
+      "text": "族群行政窗口與原住民族青年社宅：9/1官網主張成立族群關係處整合多元族群業務，並在社會住宅保留比例供合資格原住民族青年申請；未公布保留比例、戶數與期程。",
+      "url": "https://t-ziwei.com/archives/2740"
+    },
+    {
+      "id": "kl-c-002",
+      "name": "林孟泓",
+      "county": "基隆市",
+      "field": "policy",
+      "text": "青年就業與長者照顧（方向性發言）：3/27初選登記報導轉述其關注青年工作與長者照顧；屬方向性發言，未提供具體方案、服務量、經費或執行時間，不能補成完整政策白皮書。",
+      "url": "https://www.tdns.net.tw/news_view.php?new_sn=122857"
+    },
+    {
       "id": "kl-c-017",
       "name": "林廷奕",
       "county": "基隆市",
       "field": "experience",
       "text": "2026/08參選報導列載：陸戰隊退伍協會理事長；2025/10基隆榮服處公告列同名人士為基隆市海軍陸戰隊退伍協會理事長（任期起訖未另核）。",
       "url": "https://www.cdnspg.com/articles/75166"
+    },
+    {
+      "id": "kl-c-019",
+      "name": "曾維祥",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "2026/09新頭殼列載：國民黨仁愛區民眾服務站主任（任期未另核）。",
+      "url": "https://newtalk.tw/news/view/2026-09-30/1062732"
+    },
+    {
+      "id": "kl-c-019",
+      "name": "曾維祥",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "2026/09新頭殼列載：曾任父親曾紀嚴服務處助理（聘僱及任期文件未取得）。",
+      "url": "https://newtalk.tw/news/view/2026-09-30/1062732"
     },
     {
       "id": "tw-cf9a8a29c4b578b4",
@@ -471,6 +609,17 @@
       "sources": [
         "https://www.foodiedu.org/project/3156",
         "https://www.cna.com.tw/news/ahel/202609040048.aspx"
+      ]
+    },
+    {
+      "id": "keelung-cruise-inquiry-20261016",
+      "title": "基隆郵輪旅遊案：搜索、交保與定罪有什麼不同？",
+      "kind": "new",
+      "summary": "檢方10/16公告前一日搜索、訊問後的交保處分，涉及疑似以5、6月郵輪旅遊提供投票對價；公告只列姓氏，本頁不猜測個人身分，也不列為前科。",
+      "eventDate": "2026-10-15",
+      "sources": [
+        "https://www.klc.moj.gov.tw/media/457040/1151016基檢偵辦基隆市議員候選人-里長候選人涉旅遊賄選案新聞稿.pdf?mediaDL=true",
+        "https://news.pts.org.tw/article/831747"
       ]
     }
   ]
