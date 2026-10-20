@@ -4,7 +4,7 @@
   "kind": "manual",
   "session_label": "21:40起・延長人工查核",
   "started_at": "2026-10-20T21:39:54+08:00",
-  "checked_at": "2026-10-20T22:04:29.841501+08:00",
+  "checked_at": "2026-10-20T22:11:01.197798+08:00",
   "county_scope": [
     "南投縣",
     "嘉義市",
@@ -27,15 +27,15 @@
     "雲林縣",
     "高雄市"
   ],
-  "accepted_facts": 57,
-  "updated_people": 40,
+  "accepted_facts": 62,
+  "updated_people": 44,
   "field_counts": {
     "education": 0,
-    "experience": 3,
+    "experience": 8,
     "policy": 54,
     "judicial_procedure": 0
   },
-  "summary": "延長人工查核：20縣市40人新增57項來源資料，含倡議承諾、基隆政策與部分經歷；新增3則政策與程序話題。",
+  "summary": "延長人工查核：20縣市44人新增62項來源資料，含倡議承諾、基隆政策與部分經歷；新增3則政策與程序話題。",
   "official_checks": [
     {
       "url": "https://gcaa.org.tw/16804/",
@@ -94,6 +94,38 @@
       "title": "基隆市議員參選人曾維祥「代父出征」遭搜索 父弊案追查、送月餅涉賄2版本傳言 | 政治 | Newtalk新聞"
     },
     {
+      "url": "https://www.kljs.klcg.gov.tw/tw/kljs/752-94869.html",
+      "title": "基隆市中山區公所－社區發展協會－社區理事長通訊錄"
+    },
+    {
+      "url": "https://www.kljs.klcg.gov.tw/tw/kljs/749-98503.html",
+      "title": "中山區公所｜仙洞里"
+    },
+    {
+      "url": "https://www.klcg.gov.tw/wSite/public/Attachment/01307/f1771923279700.pdf",
+      "title": "基隆市115年度社區照顧關懷據點及巷弄長照站名冊（2/24版，PDF第5頁）"
+    },
+    {
+      "url": "https://www.kljs.klcg.gov.tw/tw/kljs/749-98500.html",
+      "title": "中山區公所｜太白里"
+    },
+    {
+      "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E6%98%8E%E5%85%89%E5%A0%82-%E5%9F%BA%E9%9A%86%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+      "title": "基隆市選委會・2018中山區太白里里長公報（PDF第15頁）"
+    },
+    {
+      "url": "https://eebulletin.cec.gov.tw/111/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E4%B8%AD%E5%B1%B1%E5%8D%80/134%E5%A4%AA%E7%99%BD%E9%87%8C.pdf",
+      "title": "基隆市選委會・2022中山區太白里里長公報（PDF第1頁）"
+    },
+    {
+      "url": "https://www.kljs.klcg.gov.tw/tw/kljs/749-98488.html",
+      "title": "中山區公所｜西定里"
+    },
+    {
+      "url": "https://web.cec.gov.tw/api/file/40d9bee4-3f73-40ae-8ea5-43f4920681fa.pdf",
+      "title": "基隆市中山區西定里第22屆里長補選當選人名單"
+    },
+    {
       "url": "https://e-info.org.tw/node/243963",
       "title": "氣候調適、防災韌性獲跨黨派關注 六都13名參選人簽「永續韌性城市」承諾 - 環境資訊中心"
     },
@@ -124,7 +156,7 @@
     "未列名不等於拒絕、反對或無政策；犯罪、司法、政黨及資格欄位本輪未更動。"
   ],
   "coverage_change": {
-    "new_biographies": 2,
+    "new_biographies": 5,
     "new_policy_profiles": 2
   },
   "review_leads_count": 2,
@@ -425,6 +457,46 @@
       "field": "experience",
       "text": "2026/09新頭殼列載：曾任父親曾紀嚴服務處助理（聘僱及任期文件未取得）。",
       "url": "https://newtalk.tw/news/view/2026-09-30/1062732"
+    },
+    {
+      "id": "kl-v-172",
+      "name": "賴正男",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "中山區公所通訊錄列載：仙洞社區發展協會理事長（頁面2020發布、2026/03更新；個人任期起訖未載，不逕認2026現職）。",
+      "url": "https://www.kljs.klcg.gov.tw/tw/kljs/752-94869.html"
+    },
+    {
+      "id": "kl-v-172",
+      "name": "賴正男",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "2026/02/24基隆市社區照顧關懷據點名冊列載：中山區仙洞里里長，為該里辦公處據點聯絡人（僅記錄該日期名冊職務）。",
+      "url": "https://www.klcg.gov.tw/wSite/public/Attachment/01307/f1771923279700.pdf"
+    },
+    {
+      "id": "kl-v-173",
+      "name": "鄭吉雄",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "中山區公所通訊錄列載：太白社區發展協會理事長（頁面2020發布、2026/03更新；個人任期起訖未載，不逕認2026現職）。",
+      "url": "https://www.kljs.klcg.gov.tw/tw/kljs/752-94869.html"
+    },
+    {
+      "id": "kl-v-178",
+      "name": "陳萬昌",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "中山區公所通訊錄列載：西華社區發展協會理事長（頁面2020發布、2026/03更新；個人任期起訖未載，不逕認2026現職）。",
+      "url": "https://www.kljs.klcg.gov.tw/tw/kljs/752-94869.html"
+    },
+    {
+      "id": "kl-v-179",
+      "name": "翁木梨",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "2026/02/24基隆市社區照顧關懷據點名冊列載：中山區西定里里長，為該里辦公處據點聯絡人（僅記錄該日期名冊職務）。",
+      "url": "https://www.klcg.gov.tw/wSite/public/Attachment/01307/f1771923279700.pdf"
     },
     {
       "id": "tw-cf9a8a29c4b578b4",
