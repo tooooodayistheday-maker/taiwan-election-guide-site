@@ -1,0 +1,73 @@
+{
+  "entry_id": "election-20261021-0527-2h-r03",
+  "kind": "manual",
+  "session_label": "election-20261021-0527-2h・第3輪",
+  "date": "2026-10-21",
+  "checked_at": "2026-10-21T06:35:18.861854+08:00",
+  "county_scope": [
+    "臺南市",
+    "高雄市"
+  ],
+  "accepted_facts": 0,
+  "updated_people": 0,
+  "summary": "加開時段第3輪：新增0項通過來源核對的資料；另查核兩則選舉話題。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/api/central/article/65213",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/api/tnec/article/65234",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/api/tnec/article/65235",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/api/khec/article/65258",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/api/khec/article/65270",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/api/central/article/61722",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202609010168.aspx",
+      "title": "本輪原始資料來源"
+    }
+  ],
+  "limitations": [
+    "局部來源查核，不代表全體候選人背景已完整核實。",
+    "司法、爭議與資格新線索僅保留待查，不自動修改標籤。"
+  ],
+  "review_leads_count": 2,
+  "rejected_count": 3,
+  "changes": [],
+  "topic_updates": [
+    {
+      "id": "tainan-ballot-draw-instructions-20261017",
+      "title": "臺南10月23日抽籤：報到、代抽與選區地點怎麼核對？",
+      "kind": "new",
+      "summary": "臺南選委會10月17日說明，市長及第12、13選區議員於10月23日上午8時10分起報到、8時30分抽籤；可依規定委託代抽，未依程序抽籤者由主持人代抽。",
+      "sources": [
+        "https://web.cec.gov.tw/api/tnec/article/65234",
+        "https://web.cec.gov.tw/api/tnec/article/65235"
+      ]
+    },
+    {
+      "id": "kaohsiung-cultural-industry-policy-20261020",
+      "title": "柯志恩提文化產業方案：人才、認證與聚落怎麼落實？",
+      "kind": "new",
+      "summary": "中央社10月20日報導，柯志恩提出在地演出產業認證平台、文化人才五年計畫及文化科技聚落，希望讓活動帶來的機會延伸至在地業者、青年與文化企業。這些仍屬競選主張。",
+      "sources": [
+        "https://www.cna.com.tw/news/aipl/202610200123.aspx",
+        "https://web.cec.gov.tw/api/central/article/61722"
+      ]
+    }
+  ]
+}

@@ -3,6 +3,90 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "tainan-ballot-draw-instructions-20261017",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "臺南10月23日抽籤：報到、代抽與選區地點怎麼核對？",
+      "shortTitle": "臺南抽籤時間與代抽須知",
+      "category": "每日選舉話題",
+      "county": "臺南市",
+      "date": "2026-10-17",
+      "summary": "臺南選委會10月17日說明，市長及第12、13選區議員於10月23日上午8時10分起報到、8時30分抽籤；可依規定委託代抽，未依程序抽籤者由主持人代抽。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "臺南選委會10月17日說明，市長及第12、13選區議員於10月23日上午8時10分起報到、8時30分抽籤；可依規定委託代抽，未依程序抽籤者由主持人代抽。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/api/tnec/article/65234"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "第1至11選區另有同日發布的抽籤須知與各區場地附件，應查閱對應選區文件，不能一概前往同一場地。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/api/tnec/article/65235"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：抽籤尚未舉行，不能預填號次；本人及代抽所需證件、委託書與場地應依官方通知核對。本輪尚未逐一讀完所有場地圖。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/api/tnec/article/65234",
+            "https://web.cec.gov.tw/api/tnec/article/65235"
+          ]
+        }
+      ],
+      "question": "參加抽籤前，如何確認自己的選區場地、證件與委託程序？",
+      "checkedAt": "2026-10-21",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "f9ad57ee5e1eb49f5b6ebdd31768a28710f1968bcef61261685e279f18f015c3"
+      ]
+    },
+    {
+      "id": "kaohsiung-cultural-industry-policy-20261020",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "柯志恩提文化產業方案：人才、認證與聚落怎麼落實？",
+      "shortTitle": "高雄文化產業方案待檢視",
+      "category": "每日選舉話題",
+      "county": "高雄市",
+      "date": "2026-10-20",
+      "summary": "中央社10月20日報導，柯志恩提出在地演出產業認證平台、文化人才五年計畫及文化科技聚落，希望讓活動帶來的機會延伸至在地業者、青年與文化企業。這些仍屬競選主張。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社10月20日報導，柯志恩提出在地演出產業認證平台、文化人才五年計畫及文化科技聚落，希望讓活動帶來的機會延伸至在地業者、青年與文化企業。這些仍屬競選主張。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610200123.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "中選會2025年10月31日訂定本屆工作日程：直轄市長候選人名單預定2026年11月12日公告，公辦政見發表會安排11月13日至27日。此為既定選務時程。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/api/central/article/61722"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：主張尚無成效證明；後續應追問認證標準、培訓名額、五年預算、聚落用地及政府與民間分工，並在完整政見或公辦發表會核對。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610200123.aspx",
+            "https://web.cec.gov.tw/api/central/article/61722"
+          ]
+        }
+      ],
+      "question": "如何公開人才培訓、在地接單與企業留駐的目標、預算和年度進度？",
+      "checkedAt": "2026-10-21",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "66fcee2b8820f1f064dd4f713dd17c0f4ea0ce2f93d81069a6ea56a9054b4ca2"
+      ]
+    },
+    {
       "id": "tucheng-qingshui-second-registration-20261020",
       "symbol": "◇",
       "title": "土城清水里第二次登記：10月27日至29日受理",
