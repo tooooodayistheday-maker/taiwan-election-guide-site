@@ -1,0 +1,66 @@
+{
+  "entry_id": "2026-10-21-manual-taoyuan-taichung",
+  "kind": "manual",
+  "session_label": "桃園臺中人工補核",
+  "date": "2026-10-21",
+  "checked_at": "2026-10-21T06:12:54.558858+08:00",
+  "county_scope": [
+    "桃園市",
+    "臺中市"
+  ],
+  "accepted_facts": 4,
+  "updated_people": 2,
+  "summary": "人工確認黃世杰8/13所提2項本屆政見；黃朝淵本人網站2項履歷以自述列載，保留學位、畢業及任職起訖未獨立核實的限制。",
+  "official_checks": [
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202608130196.aspx",
+      "title": "中央社原始採訪報導"
+    },
+    {
+      "url": "https://xn--44q144acugjwo.tw/",
+      "title": "候選人本人網站自述"
+    },
+    {
+      "url": "https://youth.pfpnext.com/2026/candidate-detail.php?id=pfp2026-007",
+      "title": "提名政黨身分資料"
+    }
+  ],
+  "limitations": [
+    "8/13提案是歷史刊登日，10/21為本站查核日。",
+    "本人網站自述不等於已取得畢業、學位、律師資格或任職證明。",
+    "本批未更改司法、政黨、選區與資格。"
+  ],
+  "changes": [
+    {
+      "name": "黃世杰",
+      "county": "桃園市",
+      "field": "policy",
+      "text": "重整公車路網並引進市營公車概念",
+      "url": "https://www.cna.com.tw/news/aipl/202608130196.aspx"
+    },
+    {
+      "name": "黃世杰",
+      "county": "桃園市",
+      "field": "policy",
+      "text": "透明托育地圖",
+      "url": "https://www.cna.com.tw/news/aipl/202608130196.aspx"
+    },
+    {
+      "name": "黃朝淵",
+      "county": "臺中市",
+      "field": "education",
+      "text": "本人競選網站列載：東海大學法律學研究所（頁面未註明學位與畢業年份；本輪未另核畢業證明）。",
+      "url": "https://xn--44q144acugjwo.tw/"
+    },
+    {
+      "name": "黃朝淵",
+      "county": "臺中市",
+      "field": "experience",
+      "text": "本人競選網站列載：永旭法律事務所法務長（任期未註明，本輪未另核聘任資料）。",
+      "url": "https://xn--44q144acugjwo.tw/"
+    }
+  ],
+  "topic_updates": [],
+  "review_leads_count": 0,
+  "rejected_count": 0
+}
