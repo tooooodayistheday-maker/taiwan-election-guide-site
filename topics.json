@@ -3,6 +3,122 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "campaign-billboard-waste-20261019",
+      "title": "選舉看板減量：宣傳、環境與公平參政怎麼兼顧？",
+      "shortTitle": "競選看板與選後廢棄物",
+      "symbol": "♧",
+      "category": "全國選舉與環境",
+      "county": null,
+      "districts": [],
+      "relatedNames": [],
+      "date": "2026-10-19",
+      "eventDate": "2026-10-19",
+      "checkedAt": "2026-10-21",
+      "dailyUpdateKind": "review",
+      "summary": "環境部長表示將跨單位討論減少一次性競選看板；目前是研議方向，不能寫成已施行的新禁令。",
+      "steps": [
+        {
+          "speaker": "新聞記錄（中央社10/19）",
+          "text": "環境部長在媒體聯訪中表示，將和中選會等單位討論減少短期、一次性的競選看板，並呼籲參選人思考環境負擔。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/ahel/202610190221.aspx"
+          ]
+        },
+        {
+          "speaker": "目前進度",
+          "text": "報導未公布新的看板數量上限、全面禁止規定或執行日期；跨單位研議與正式法規必須分開。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/ahel/202610190221.aspx"
+          ]
+        },
+        {
+          "speaker": "本站判讀：如何比較",
+          "text": "可追問看板是否可重複使用、選後如何拆除回收、由誰付費，以及減量安排是否仍讓資源較少的參選人有合理宣傳機會。這是本站的檢視問題。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/ahel/202610190221.aspx"
+          ]
+        },
+        {
+          "speaker": "查核邊界",
+          "text": "本站沒有逐一盤點各候選人的看板、材料或廢棄物量；不能憑看到幾面看板就評定某人環保表現，也不能由研議新聞判定某面看板違法。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/ahel/202610190221.aspx"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-10-21重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/ahel/202610190221.aspx",
+            "https://www.daan.taichung.gov.tw/983279/983309/983312/4034880"
+          ]
+        }
+      ],
+      "question": "你希望候選人公開哪些看板材料、回收及選後拆除資訊，才足以比較宣傳的環境成本？",
+      "dailyEvidenceFingerprints": [
+        "c2ed7a9ca7016f3e2d11cf1c29e25ee05e0dc0bff5b95c404f01e4c97ffd9a3f"
+      ]
+    },
+    {
+      "id": "taichung-transit-service",
+      "title": "台中公車：免費票價之外，運能、路網與駕駛人力怎麼改善？",
+      "shortTitle": "免費公車與服務品質",
+      "category": "交通政策",
+      "symbol": "↗",
+      "county": "臺中市",
+      "districts": [],
+      "relatedNames": [
+        "江啟臣",
+        "何欣純"
+      ],
+      "date": "2026-10-19",
+      "summary": "在既有10/16免費公車主張外，補入何欣純10/19四項改善方案；各自承諾與服務成效分開核對。",
+      "steps": [
+        {
+          "speaker": "事件背景",
+          "text": "江啟臣10/16發表交通政見，提出市民公車免費，並以密集接駁建構20分鐘生活圈。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610160324.aspx"
+          ]
+        },
+        {
+          "speaker": "當事人主張",
+          "text": "他同時主張提升公車司機待遇與服務品質，優先改善學校、醫院及大眾運輸節點周邊步道。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610160324.aspx"
+          ]
+        },
+        {
+          "speaker": "待核對事項",
+          "text": "以上是競選主張。比較時可分別核對免費適用資格、班距、人力補充與預算，並追問偏遠地區如何納入。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610160324.aspx"
+          ]
+        },
+        {
+          "speaker": "10/19新增主張",
+          "text": "何欣純提出運能、App、路網與駕駛勞動四方向；這是競選方案，班次、人力、成本與實施結果仍須核對。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610190150.aspx"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-10-21重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610190150.aspx",
+            "https://www.cna.com.tw/news/aloc/202610160324.aspx"
+          ]
+        }
+      ],
+      "question": "票價、候車時間、轉乘便利與人行安全，你最重視哪一項可查核的改善？",
+      "checkedAt": "2026-10-21",
+      "dailyUpdateKind": "review",
+      "dailyEvidenceFingerprints": [
+        "534216f207c85f0177d72d59c861b9e9b599aedb40d9ebe883006d4dcb1d989f"
+      ]
+    },
+    {
       "id": "new-taipei-ballot-draw-typhoon-20261020",
       "symbol": "◇",
       "relatedNames": [],
@@ -295,52 +411,6 @@
         }
       ],
       "question": "在形成判斷前，你最想核對費用支付、邀約內容、當事人回應，還是後續處分文件？"
-    },
-    {
-      "id": "campaign-billboard-waste-20261019",
-      "title": "選舉看板減量：宣傳、環境與公平參政怎麼兼顧？",
-      "shortTitle": "競選看板與選後廢棄物",
-      "symbol": "♧",
-      "category": "全國選舉與環境",
-      "county": null,
-      "districts": [],
-      "relatedNames": [],
-      "date": "2026-10-19",
-      "eventDate": "2026-10-19",
-      "checkedAt": "2026-10-20",
-      "dailyUpdateKind": "new",
-      "summary": "環境部長表示將跨單位討論減少一次性競選看板；目前是研議方向，不能寫成已施行的新禁令。",
-      "steps": [
-        {
-          "speaker": "新聞記錄（中央社10/19）",
-          "text": "環境部長在媒體聯訪中表示，將和中選會等單位討論減少短期、一次性的競選看板，並呼籲參選人思考環境負擔。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/ahel/202610190221.aspx"
-          ]
-        },
-        {
-          "speaker": "目前進度",
-          "text": "報導未公布新的看板數量上限、全面禁止規定或執行日期；跨單位研議與正式法規必須分開。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/ahel/202610190221.aspx"
-          ]
-        },
-        {
-          "speaker": "本站判讀：如何比較",
-          "text": "可追問看板是否可重複使用、選後如何拆除回收、由誰付費，以及減量安排是否仍讓資源較少的參選人有合理宣傳機會。這是本站的檢視問題。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/ahel/202610190221.aspx"
-          ]
-        },
-        {
-          "speaker": "查核邊界",
-          "text": "本站沒有逐一盤點各候選人的看板、材料或廢棄物量；不能憑看到幾面看板就評定某人環保表現，也不能由研議新聞判定某面看板違法。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/ahel/202610190221.aspx"
-          ]
-        }
-      ],
-      "question": "你希望候選人公開哪些看板材料、回收及選後拆除資訊，才足以比較宣傳的環境成本？"
     },
     {
       "id": "taipei-meilun-tree-records-20261019",
@@ -906,52 +976,6 @@
         }
       ],
       "question": "你會要求候選人提出哪些時間、費用與就醫可近性的比較資料？"
-    },
-    {
-      "id": "taichung-transit-service",
-      "title": "台中公車：免費票價之外，運能、路網與駕駛人力怎麼改善？",
-      "shortTitle": "免費公車與服務品質",
-      "category": "交通政策",
-      "symbol": "↗",
-      "county": "臺中市",
-      "districts": [],
-      "relatedNames": [
-        "江啟臣",
-        "何欣純"
-      ],
-      "date": "2026-10-19",
-      "summary": "在既有10/16免費公車主張外，補入何欣純10/19四項改善方案；各自承諾與服務成效分開核對。",
-      "steps": [
-        {
-          "speaker": "事件背景",
-          "text": "江啟臣10/16發表交通政見，提出市民公車免費，並以密集接駁建構20分鐘生活圈。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610160324.aspx"
-          ]
-        },
-        {
-          "speaker": "當事人主張",
-          "text": "他同時主張提升公車司機待遇與服務品質，優先改善學校、醫院及大眾運輸節點周邊步道。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610160324.aspx"
-          ]
-        },
-        {
-          "speaker": "待核對事項",
-          "text": "以上是競選主張。比較時可分別核對免費適用資格、班距、人力補充與預算，並追問偏遠地區如何納入。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610160324.aspx"
-          ]
-        },
-        {
-          "speaker": "10/19新增主張",
-          "text": "何欣純提出運能、App、路網與駕駛勞動四方向；這是競選方案，班次、人力、成本與實施結果仍須核對。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610190150.aspx"
-          ]
-        }
-      ],
-      "question": "票價、候車時間、轉乘便利與人行安全，你最重視哪一項可查核的改善？"
     },
     {
       "id": "hsinchu-watershed-monitoring",

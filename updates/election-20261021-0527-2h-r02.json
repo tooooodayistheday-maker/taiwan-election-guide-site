@@ -1,0 +1,96 @@
+{
+  "entry_id": "election-20261021-0527-2h-r02",
+  "kind": "manual",
+  "session_label": "election-20261021-0527-2h・第2輪",
+  "date": "2026-10-21",
+  "checked_at": "2026-10-21T06:07:14.572153+08:00",
+  "county_scope": [
+    "桃園市",
+    "臺中市"
+  ],
+  "accepted_facts": 2,
+  "updated_people": 2,
+  "summary": "加開時段第2輪：新增2項通過來源核對的資料；另查核兩則選舉話題。",
+  "official_checks": [
+    {
+      "url": "https://www.cec.gov.tw/central/article/list/11150?beginDate=&endDate=&keyword=&page=1",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/central/article/65213",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/tyec?Lang=zh-tw",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/tcec",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/tcec/article/65217",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.daan.taichung.gov.tw/983279/983309/983312/4034880",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://news.tycg.gov.tw/News_Content.aspx?n=5016&s=636345",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://cdn.www.taichung.gov.tw/8868/8872/9962/1782017/",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202608130196.aspx",
+      "title": "本輪原始資料來源"
+    }
+  ],
+  "limitations": [
+    "局部來源查核，不代表全體候選人背景已完整核實。",
+    "司法、爭議與資格新線索僅保留待查，不自動修改標籤。"
+  ],
+  "review_leads_count": 1,
+  "rejected_count": 6,
+  "changes": [
+    {
+      "name": "蔡永芳",
+      "county": "桃園市",
+      "field": "experience",
+      "text": "市議員蔡永芳",
+      "url": "https://news.tycg.gov.tw/News_Content.aspx?n=5016&s=636345"
+    },
+    {
+      "name": "王朝坤",
+      "county": "臺中市",
+      "field": "experience",
+      "text": "台中市議員王朝坤",
+      "url": "https://cdn.www.taichung.gov.tw/8868/8872/9962/1782017/"
+    }
+  ],
+  "topic_updates": [
+    {
+      "id": "campaign-billboard-waste-20261019",
+      "title": "選舉看板減量：宣傳、環境與公平參政怎麼兼顧？",
+      "kind": "review",
+      "summary": "來源複核：本次無新增可確認進度。",
+      "sources": [
+        "https://www.cna.com.tw/news/ahel/202610190221.aspx",
+        "https://www.daan.taichung.gov.tw/983279/983309/983312/4034880"
+      ]
+    },
+    {
+      "id": "taichung-transit-service",
+      "title": "台中公車：免費票價之外，運能、路網與駕駛人力怎麼改善？",
+      "kind": "review",
+      "summary": "來源複核：本次無新增可確認進度。",
+      "sources": [
+        "https://www.cna.com.tw/news/aipl/202610190150.aspx",
+        "https://www.cna.com.tw/news/aloc/202610160324.aspx"
+      ]
+    }
+  ]
+}
