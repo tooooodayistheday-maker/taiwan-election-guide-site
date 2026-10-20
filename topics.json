@@ -3,6 +3,49 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "tucheng-qingshui-second-registration-20261020",
+      "symbol": "◇",
+      "title": "土城清水里第二次登記：10月27日至29日受理",
+      "shortTitle": "清水里第二次登記",
+      "category": "地方選務公告",
+      "county": "新北市",
+      "districts": [
+        "土城區"
+      ],
+      "relatedNames": [],
+      "date": "2026-10-20",
+      "eventDate": "2026-10-20",
+      "checkedAt": "2026-10-21",
+      "dailyUpdateKind": "new",
+      "summary": "新北選委會10/20公告清水里里長選舉第二次候選人登記，10/27至29日在土城區公所受理；本版不推測重辦原因，也不據此更改個人資格。",
+      "steps": [
+        {
+          "speaker": "公告與受理期間",
+          "text": "用印公告日期為2026/10/20。清水里第5屆里長選舉第二次登記期間為10/27至10/29，每日08:00至12:00、13:30至17:30，地點為土城區公所。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/tpcec/article/65288",
+            "https://web.cec.gov.tw/api/file/9a9e953f-a612-4829-ac6d-2ebd65f48353.pdf"
+          ]
+        },
+        {
+          "speaker": "領表、文件與保證金",
+          "text": "公告第3頁列10/22至10/29可於上述時段領表，每位候選人的保證金為新臺幣3萬元。完整表件、學歷證明及代理申請規定，應逐項依公告辦理。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/api/file/9a9e953f-a612-4829-ac6d-2ebd65f48353.pdf"
+          ]
+        },
+        {
+          "speaker": "選民判讀與待確認",
+          "text": "這是特定里別的第二次登記程序，不等於全新北重新登記。公告未敘明本次重辦的具體事由及後續名單；本站不從公告標題推論任何人退選、死亡、涉案或喪失資格，名冊異動仍待有姓名的正式資料核對。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/tpcec/article/65288",
+            "https://web.cec.gov.tw/api/file/9a9e953f-a612-4829-ac6d-2ebd65f48353.pdf"
+          ]
+        }
+      ],
+      "question": "第二次登記結束後，選委會何時公布可逐一核對的名單、資格與號次？"
+    },
+    {
       "id": "campaign-billboard-waste-20261019",
       "title": "選舉看板減量：宣傳、環境與公平參政怎麼兼顧？",
       "shortTitle": "競選看板與選後廢棄物",

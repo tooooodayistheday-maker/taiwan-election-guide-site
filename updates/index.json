@@ -1,5 +1,111 @@
 [
   {
+    "entry_id": "2026-10-21-manual-policy-context",
+    "kind": "manual",
+    "session_label": "雙北政見人工補核",
+    "date": "2026-10-21",
+    "checked_at": "2026-10-21T06:09:46.279418+08:00",
+    "county_scope": [
+      "臺北市",
+      "新北市"
+    ],
+    "accepted_facts": 7,
+    "updated_people": 3,
+    "summary": "人工閱讀4篇中央社報導的2026參選身分、日期及競選上下文，補入3人7項公開提案與待追問事項。另逐頁閱讀選委會用印PDF，補充清水里第二次登記公告。",
+    "official_checks": [
+      {
+        "url": "https://www.cna.com.tw/news/aipl/202610180194.aspx",
+        "title": "中央社原始採訪報導（人工核對刊登日與競選語境）"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aipl/202610200322.aspx",
+        "title": "中央社原始採訪報導（人工核對刊登日與競選語境）"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aipl/202610200166.aspx",
+        "title": "中央社原始採訪報導（人工核對刊登日與競選語境）"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aloc/202610170032.aspx",
+        "title": "中央社原始採訪報導（人工核對刊登日與競選語境）"
+      },
+      {
+        "url": "https://web.cec.gov.tw/tpcec/article/65288",
+        "title": "新北市選舉委員會公告與用印PDF（第1至3頁人工閱讀）"
+      }
+    ],
+    "limitations": [
+      "屬競選公開主張，不代表已施行、核定或完成。",
+      "只補核本批提案，不代表候選人完整政見或履歷已建齊。",
+      "本批未更改司法、政黨、選區或資格標籤。"
+    ],
+    "changes": [
+      {
+        "name": "沈伯洋",
+        "county": "臺北市",
+        "field": "policy",
+        "text": "應重新盤點安置方案並保存九大聚落",
+        "url": "https://www.cna.com.tw/news/aloc/202610170032.aspx"
+      },
+      {
+        "name": "沈伯洋",
+        "county": "臺北市",
+        "field": "policy",
+        "text": "「大巨蛋好鄰居計畫」",
+        "url": "https://www.cna.com.tw/news/aipl/202610180194.aspx"
+      },
+      {
+        "name": "沈伯洋",
+        "county": "臺北市",
+        "field": "policy",
+        "text": "「市長，我不想幹了！」降低國中小師生比",
+        "url": "https://www.cna.com.tw/news/aipl/202610180194.aspx"
+      },
+      {
+        "name": "李四川",
+        "county": "新北市",
+        "field": "policy",
+        "text": "未來若擔任市長，一定會協助解決清運難題",
+        "url": "https://www.cna.com.tw/news/aipl/202610200322.aspx"
+      },
+      {
+        "name": "李四川",
+        "county": "新北市",
+        "field": "policy",
+        "text": "將全力推動「捷運中和光復線」延伸",
+        "url": "https://www.cna.com.tw/news/aipl/202610200322.aspx"
+      },
+      {
+        "name": "蘇巧慧",
+        "county": "新北市",
+        "field": "policy",
+        "text": "加速推動台62線延伸萬里、金山",
+        "url": "https://www.cna.com.tw/news/aipl/202610200166.aspx"
+      },
+      {
+        "name": "蘇巧慧",
+        "county": "新北市",
+        "field": "policy",
+        "text": "「新皇冠海岸」觀光計畫",
+        "url": "https://www.cna.com.tw/news/aipl/202610200166.aspx"
+      }
+    ],
+    "topic_updates": [
+      {
+        "id": "tucheng-qingshui-second-registration-20261020",
+        "title": "土城清水里第二次登記：10月27日至29日受理",
+        "kind": "new",
+        "summary": "新北選委會10/20公告清水里里長選舉第二次候選人登記，10/27至29日在土城區公所受理；本版不推測重辦原因，也不據此更改個人資格。",
+        "sources": [
+          "https://web.cec.gov.tw/tpcec/article/65288",
+          "https://web.cec.gov.tw/api/file/9a9e953f-a612-4829-ac6d-2ebd65f48353.pdf"
+        ]
+      }
+    ],
+    "review_leads_count": 0,
+    "rejected_count": 0
+  },
+  {
     "entry_id": "election-20261021-0527-2h-r02",
     "kind": "manual",
     "session_label": "election-20261021-0527-2h・第2輪",
