@@ -1,7 +1,156 @@
 {
-  "checkedAt": "2026-10-19",
+  "checkedAt": "2026-10-20",
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
+    {
+      "id": "keelung-poll-methods-20261020",
+      "title": "基隆民調怎麼看？委託者、抽樣與雙方回應",
+      "shortTitle": "基隆民調與抽樣限制",
+      "symbol": "◉",
+      "category": "民調與資訊判讀",
+      "county": "基隆市",
+      "districts": [],
+      "relatedNames": [
+        "謝國樑",
+        "童子瑋"
+      ],
+      "date": "2026-10-20",
+      "checkedAt": "2026-10-20",
+      "dailyUpdateKind": "new",
+      "summary": "國民黨基隆市黨部公布委託民調；數字須連同調查方法與候選人回應閱讀，不能視為選舉結果。",
+      "steps": [
+        {
+          "speaker": "資料記錄（中央社報導轉述）",
+          "text": "國民黨基隆市黨部委託全國公信力調查，謝國樑支持度41.3%、童子瑋35.7%。這是委託民調，不是本站調查。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610200198.aspx"
+          ]
+        },
+        {
+          "speaker": "調查方法（報導所載）",
+          "text": "10月13日至16日，訪問基隆設籍20歲以上民眾，有效樣本1,071人；以住宅電話簿尾數隨機抽樣。報導列95%信心水準、抽樣誤差約±2.99個百分點。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610200198.aspx"
+          ]
+        },
+        {
+          "speaker": "雙方回應（非本站立場）",
+          "text": "謝國樑表示差距不大，會繼續拜票；童子瑋質疑黨部公布民調的意義，表示將依原步調爭取認同。兩者均為候選人說法。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610200198.aspx"
+          ]
+        },
+        {
+          "speaker": "查核邊界",
+          "text": "本次未取得完整問卷、加權及原始交叉表，也未核對問卷如何處理其他參選人；不把媒體轉述當成完整資料集。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610200198.aspx"
+          ]
+        },
+        {
+          "speaker": "本站判讀",
+          "text": "先看委託與執行單位、訪問日期及抽樣對象，再比較方法相近的多次調查。住宅電話樣本的涵蓋範圍與未表態者需留意；不能只靠一份民調預測勝負。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610200198.aspx"
+          ]
+        }
+      ],
+      "question": "你能在看到百分比前，先找到誰委託、怎麼抽樣、何時訪問及哪些資料尚未公開嗎？"
+    },
+    {
+      "id": "election-ai-information-20261020",
+      "title": "AI介選警訊：如何分辨情報評估、平台證據與個人立場？",
+      "shortTitle": "AI介選與資訊識讀",
+      "symbol": "✦",
+      "category": "全國選舉與社群",
+      "county": null,
+      "districts": [],
+      "relatedNames": [],
+      "date": "2026-10-20",
+      "checkedAt": "2026-10-20",
+      "dailyUpdateKind": "new",
+      "summary": "中央社引述國安人士，提醒AI假帳號與分眾訊息風險；閱讀時仍須核對來源與證據，不能憑立場替個別帳號定性。",
+      "steps": [
+        {
+          "speaker": "新聞記錄（來源性質）",
+          "text": "中央社10月20日引述未具名國安人士的簡報說法，指AI被用於假帳號與分眾訊息投放。這是新聞轉述的情報評估，本站未獨立驗證其全部原始資料。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
+          ]
+        },
+        {
+          "speaker": "報導列出的風險",
+          "text": "報導轉述的操作包括依族群設計訊息、滲透同溫層、打擊政治參與意願，以及用民生爭議挑動情緒。這些是風險描述，不能自動歸因於某一候選人或支持者。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
+          ]
+        },
+        {
+          "speaker": "尚待核實",
+          "text": "本次未取得帳號逐筆清單、平台調查結論或可重現的完整資料；因此不在候選人頁加入與此相關的司法或犯罪標籤。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
+          ]
+        },
+        {
+          "speaker": "本站判讀",
+          "text": "看到大量相似貼文時，先追最早出處、完整影音及可核對文件，再確認日期與上下文。單看帳號立場、頭像或境外註冊線索，不足以證明個別帳號是假帳號或受指揮。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
+          ]
+        }
+      ],
+      "question": "你看到的內容，是有文件支持的事實、可追溯的評估，還是尚無證據的推測？"
+    },
+    {
+      "id": "keelung-station-advertising-20261019",
+      "title": "車站選舉廣告與行政中立：雙方說法及台鐵回應",
+      "shortTitle": "車站廣告與行政中立",
+      "category": "公共治理",
+      "symbol": "◇",
+      "county": "基隆市",
+      "districts": [],
+      "relatedNames": [
+        "童子瑋",
+        "謝國樑"
+      ],
+      "date": "2026-10-20",
+      "summary": "10月20日雙方對車站看板再交鋒；保留台鐵先前回應，陣營指控與已確認事實分開看。",
+      "steps": [
+        {
+          "speaker": "謝方質疑",
+          "text": "謝國樑競辦質疑車站宣傳與先前市政筆記本事件的處理標準；這是競辦的質疑，未當作違法認定。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610190165.aspx"
+          ]
+        },
+        {
+          "speaker": "童方回應",
+          "text": "童子瑋辦公室表示依一般程序承租廣告空間；是否履約與公平對待仍應核對契約及完整規範。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610190165.aspx"
+          ]
+        },
+        {
+          "speaker": "台鐵說明",
+          "text": "台鐵稱商業標租廣告尚符現行相關法規，並表示2027年起終止此類出租業務；這是公司說明，並非本站或法院判決。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610190165.aspx"
+          ]
+        },
+        {
+          "speaker": "10/20進度（中央社轉述雙方說法）",
+          "text": "謝國樑質疑存在特殊安排；童子瑋否認，表示依台鐵規定合法租用，並反批抹黑。這些是雙方政治攻防，不是本站確認有不法安排；台鐵10月19日回應仍見前述來源。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610200127.aspx"
+          ]
+        }
+      ],
+      "question": "車站商業廣告的公平標準、租約與未來政策要如何公開核對？",
+      "eventDate": "2026-10-19",
+      "checkedAt": "2026-10-20",
+      "dailyUpdateKind": "progress"
+    },
     {
       "id": "penghu-tourism-markets-20261019",
       "title": "澎湖觀光客從哪裡來？多元市場、小三通與在地收益",
@@ -40,45 +189,6 @@
         }
       ],
       "question": "旅客增加時，在地收益、交通與環境如何一起衡量？"
-    },
-    {
-      "id": "keelung-station-advertising-20261019",
-      "title": "車站選舉廣告與行政中立：雙方說法及台鐵回應",
-      "shortTitle": "車站廣告與行政中立",
-      "category": "公共治理",
-      "symbol": "◇",
-      "county": "基隆市",
-      "districts": [],
-      "relatedNames": [
-        "童子瑋",
-        "謝國樑"
-      ],
-      "date": "2026-10-19",
-      "summary": "整理謝方質疑、童方承租說明及台鐵10/19回應；公司法規說明與法院認定分開。",
-      "steps": [
-        {
-          "speaker": "謝方質疑",
-          "text": "謝國樑競辦質疑車站宣傳與先前市政筆記本事件的處理標準；這是競辦的質疑，未當作違法認定。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610190165.aspx"
-          ]
-        },
-        {
-          "speaker": "童方回應",
-          "text": "童子瑋辦公室表示依一般程序承租廣告空間；是否履約與公平對待仍應核對契約及完整規範。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610190165.aspx"
-          ]
-        },
-        {
-          "speaker": "台鐵說明",
-          "text": "台鐵稱商業標租廣告尚符現行相關法規，並表示2027年起終止此類出租業務；這是公司說明，並非本站或法院判決。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610190165.aspx"
-          ]
-        }
-      ],
-      "question": "車站商業廣告的公平標準、租約與未來政策要如何公開核對？"
     },
     {
       "id": "taipei-debate-format-20261017",
