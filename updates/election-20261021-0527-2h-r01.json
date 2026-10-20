@@ -1,0 +1,115 @@
+{
+  "entry_id": "election-20261021-0527-2h-r01",
+  "kind": "manual",
+  "session_label": "election-20261021-0527-2h・第1輪",
+  "date": "2026-10-21",
+  "checked_at": "2026-10-21T05:42:36.087662+08:00",
+  "county_scope": [
+    "臺北市",
+    "新北市"
+  ],
+  "accepted_facts": 3,
+  "updated_people": 2,
+  "summary": "加開時段第1輪：新增3項通過來源核對的資料；另查核兩則選舉話題。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/mect",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/api/tpcec/article/65283",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/api/central/article/65213",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/api/central/article/61722",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.president.gov.tw/News/39838",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/api/tpcec/article/65288",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aloc/202610170060.aspx",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aloc/202509010094.aspx",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aloc/202610170032.aspx",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202610180194.aspx",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202610200322.aspx",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202610200166.aspx",
+      "title": "本輪原始資料來源"
+    }
+  ],
+  "limitations": [
+    "局部來源查核，不代表全體候選人背景已完整核實。",
+    "司法、爭議與資格新線索僅保留待查，不自動修改標籤。"
+  ],
+  "review_leads_count": 1,
+  "rejected_count": 7,
+  "changes": [
+    {
+      "name": "羅文崇",
+      "county": "新北市",
+      "field": "experience",
+      "text": "行政院政務顧問羅文崇",
+      "url": "https://www.president.gov.tw/News/39838"
+    },
+    {
+      "name": "羅文崇",
+      "county": "新北市",
+      "field": "experience",
+      "text": "前新北議員羅文崇",
+      "url": "https://www.cna.com.tw/news/aloc/202610170060.aspx"
+    },
+    {
+      "name": "劉品妡",
+      "county": "臺北市",
+      "field": "experience",
+      "text": "過去曾在立法院工作",
+      "url": "https://www.cna.com.tw/news/aloc/202509010094.aspx"
+    }
+  ],
+  "topic_updates": [
+    {
+      "id": "new-taipei-ballot-draw-typhoon-20261020",
+      "title": "新北抽籤颱風應變：宣布停班才改至10月27日",
+      "kind": "new",
+      "summary": "新北選委會10月20日公告，市長及市議員號次抽籤原訂10月23日上午9時起辦理；若當日市府宣布停班，改至10月27日同時段，未停班則照常舉行。這是附條件的應變安排。",
+      "sources": [
+        "https://web.cec.gov.tw/api/tpcec/article/65283",
+        "https://web.cec.gov.tw/api/central/article/61722"
+      ]
+    },
+    {
+      "id": "taipei-debate-format-20261017",
+      "title": "台北市長辯論怎麼問？政見發表、交叉詰問與選民判讀",
+      "kind": "review",
+      "summary": "來源複核：本次無新增可確認進度。",
+      "sources": [
+        "https://www.cna.com.tw/news/aloc/202610170032.aspx",
+        "https://www.cna.com.tw/news/aipl/202610110172.aspx"
+      ]
+    }
+  ]
+}

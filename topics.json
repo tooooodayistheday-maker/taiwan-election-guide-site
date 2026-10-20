@@ -1,7 +1,102 @@
 {
-  "checkedAt": "2026-10-20",
+  "checkedAt": "2026-10-21",
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
+    {
+      "id": "new-taipei-ballot-draw-typhoon-20261020",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "新北抽籤颱風應變：宣布停班才改至10月27日",
+      "shortTitle": "新北抽籤與颱風應變",
+      "category": "每日選舉話題",
+      "county": "新北市",
+      "date": "2026-10-20",
+      "summary": "新北選委會10月20日公告，市長及市議員號次抽籤原訂10月23日上午9時起辦理；若當日市府宣布停班，改至10月27日同時段，未停班則照常舉行。這是附條件的應變安排。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "新北選委會10月20日公告，市長及市議員號次抽籤原訂10月23日上午9時起辦理；若當日市府宣布停班，改至10月27日同時段，未停班則照常舉行。這是附條件的應變安排。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/api/tpcec/article/65283"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "中選會於2025年10月31日公布本屆地方選舉工作日程，投票日為2026年11月28日，抽籤與正式候選人名單公告另有各自時程。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/api/central/article/61722"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：是否順延，須核對新北市府當日停班決定及選委會後續通知；目前不能寫成已延期。此公告涉及市長、市議員抽籤，不能自行套用到其他職別。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/api/tpcec/article/65283",
+            "https://web.cec.gov.tw/api/central/article/61722"
+          ]
+        }
+      ],
+      "question": "候選人與選民將如何取得停班、抽籤異動及正式號次的同一版本通知？",
+      "checkedAt": "2026-10-21",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "7af98e7e515365371064aed4d307ea8d4659c8e9255eb152e369e690d56aa2b9"
+      ]
+    },
+    {
+      "id": "taipei-debate-format-20261017",
+      "title": "台北市長辯論怎麼問？政見發表、交叉詰問與選民判讀",
+      "shortTitle": "辯論形式與市政問答",
+      "category": "選民知情與政策",
+      "symbol": "◇",
+      "county": "臺北市",
+      "districts": [],
+      "relatedNames": [
+        "沈伯洋",
+        "蔣萬安"
+      ],
+      "date": "2026-10-17",
+      "summary": "由10/11雙方說法與10/17後續主張，分清辯論協調、各自立場及尚待確認的規則。",
+      "steps": [
+        {
+          "speaker": "形式仍須核對",
+          "text": "中央社10/11報導沈伯洋要求交叉詰問，蔣萬安表示細節可討論、重點是參與協調。本版未取得最終協議，不將邀約場數、形式或日期當作已敲定。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610110172.aspx"
+          ]
+        },
+        {
+          "speaker": "沈方後續說法",
+          "text": "沈伯洋10/17表示，辯論應讓選民了解雙方立場並針對問題回答。這是參選人的公開主張，並非本站認定其表現較佳。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610170032.aspx"
+          ]
+        },
+        {
+          "speaker": "選民可以追問",
+          "text": "可比較答題是否說明市府權限、預算、時程、衡量方式，並核對完整影音與引用資料。安排與規則應以主辦單位最終公告為準。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610110172.aspx",
+            "https://www.cna.com.tw/news/aloc/202610170032.aspx"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-10-21重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610170032.aspx",
+            "https://www.cna.com.tw/news/aipl/202610110172.aspx"
+          ]
+        }
+      ],
+      "question": "你希望辯論問哪些具體問題，才能比較候選人的治理方案？",
+      "checkedAt": "2026-10-21",
+      "dailyUpdateKind": "review",
+      "dailyEvidenceFingerprints": [
+        "bad64e88b8edd84a2e2659d95f5f837858fd34e9c4741f37cdc4402490572c5f"
+      ]
+    },
     {
       "id": "six-city-resilience-pledge-20261012",
       "title": "永續韌性承諾：全簽、部分簽與資料異動怎麼分辨？",
@@ -496,46 +591,6 @@
         }
       ],
       "question": "旅客增加時，在地收益、交通與環境如何一起衡量？"
-    },
-    {
-      "id": "taipei-debate-format-20261017",
-      "title": "台北市長辯論怎麼問？政見發表、交叉詰問與選民判讀",
-      "shortTitle": "辯論形式與市政問答",
-      "category": "選民知情與政策",
-      "symbol": "◇",
-      "county": "臺北市",
-      "districts": [],
-      "relatedNames": [
-        "沈伯洋",
-        "蔣萬安"
-      ],
-      "date": "2026-10-17",
-      "summary": "由10/11雙方說法與10/17後續主張，分清辯論協調、各自立場及尚待確認的規則。",
-      "steps": [
-        {
-          "speaker": "形式仍須核對",
-          "text": "中央社10/11報導沈伯洋要求交叉詰問，蔣萬安表示細節可討論、重點是參與協調。本版未取得最終協議，不將邀約場數、形式或日期當作已敲定。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610110172.aspx"
-          ]
-        },
-        {
-          "speaker": "沈方後續說法",
-          "text": "沈伯洋10/17表示，辯論應讓選民了解雙方立場並針對問題回答。這是參選人的公開主張，並非本站認定其表現較佳。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610170032.aspx"
-          ]
-        },
-        {
-          "speaker": "選民可以追問",
-          "text": "可比較答題是否說明市府權限、預算、時程、衡量方式，並核對完整影音與引用資料。安排與規則應以主辦單位最終公告為準。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610110172.aspx",
-            "https://www.cna.com.tw/news/aloc/202610170032.aspx"
-          ]
-        }
-      ],
-      "question": "你希望辯論問哪些具體問題，才能比較候選人的治理方案？"
     },
     {
       "id": "yilan-policy-comparison-20261018",
