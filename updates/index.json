@@ -1,5 +1,1065 @@
 [
   {
+    "entry_id": "2026-10-20-manual-2038",
+    "date": "2026-10-20",
+    "kind": "manual",
+    "session_label": "20:38起・第二輪人工續查",
+    "started_at": "2026-10-20T20:38:25+08:00",
+    "checked_at": "2026-10-20T21:05:42.360741+08:00",
+    "county_scope": [
+      "基隆市"
+    ],
+    "accepted_facts": 115,
+    "updated_people": 37,
+    "field_counts": {
+      "education": 20,
+      "experience": 73,
+      "policy": 20,
+      "judicial_procedure": 2
+    },
+    "summary": "第二輪人工續查：基隆37位登記者新增115項有來源資料，補足32人的經歷；新增2則選舉話題。",
+    "official_checks": [
+      {
+        "url": "https://news.pchome.com.tw/politics/upmedia/20260901/index-78824576002506236001.html",
+        "title": "基隆中正區議員「8搶4」混戰　3.5萬粉絲美食旅遊網紅宣布參選 - 政治新聞 - PChome Online 新聞"
+      },
+      {
+        "url": "https://keelungplay.com/profile-2/",
+        "title": "【新聞】優先推動公廁設立、人本友善串聯在地商圈，市議員候選人王珍玨邀地方業者共擬中正區觀光規劃 - 基隆大玩咖"
+      },
+      {
+        "url": "https://eebulletin.cec.gov.tw/111/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E4%BF%A1%E7%BE%A9%E5%8D%80/46%E7%BE%A9%E6%B0%91%E9%87%8C.pdf",
+        "title": "基隆市選委會・2022信義區義民里里長公報（第1頁）"
+      },
+      {
+        "url": "https://www.crntt.tw/doc/docDetailCreate.jsp?coluid=92&docid=160054802&kindid=0",
+        "title": "台灣中評網：黃申棟：藍拉攏小草難　要重視有趣新平台"
+      },
+      {
+        "url": "https://www.pfp.org.tw/tw/News/ugC_News_Detail.asp?hidNewsCatID=4&hidNewsID=3283",
+        "title": "2026-08-06【親民黨基隆市議員候選人再添兩名女將】 - 最新消息 - 親民黨中央黨部-全球資訊網"
+      },
+      {
+        "url": "https://youth.pfpnext.com/2026/candidate-detail.php?id=pfp2026-009",
+        "title": "親民黨 鄭素禎 基隆市 第二選區 (信義)市議員候選人 | 2026 PFP NEXT by 親民黨青年團"
+      },
+      {
+        "url": "https://www.cdnspg.com/articles/63508",
+        "title": "前議員莊榮欽 交棒子莊傑宇參選 - 中華日報航運電子報"
+      },
+      {
+        "url": "https://www.klc.moj.gov.tw/media/455059/1151001基檢偵辦基隆市議員候選人里長候選人涉禮品賄選案新聞稿.pdf?mediaDL=true",
+        "title": "基隆地檢署・月餅禮盒案新聞稿（2026/10/1）"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/asoc/202610010068.aspx",
+        "title": "中央社・曾維祥50萬元交保（2026/10/1）"
+      },
+      {
+        "url": "https://news.nextapple.com/local/20261001/E01DC13C674B2B115F99F51C87BAE0F4",
+        "title": "壹蘋・完整姓名與福仁里身分交叉報導（2026/10/1）"
+      },
+      {
+        "url": "https://udn.com/news/story/7321/9787052?from=udn-referralnews_ch2artbottom",
+        "title": "聯合報・家屬否認違法並表示配合調查（2026/10/1）"
+      },
+      {
+        "url": "https://news.nextapple.com/local/20260603/A214C65EC7B034BB0EADE784B46D7C85",
+        "title": "基隆政壇世代交替！莊傑宇投入選戰　7屆議員父力挺授經驗｜壹蘋新聞網"
+      },
+      {
+        "url": "https://udn.com/news/story/7328/9766442",
+        "title": "曾任市長秘書、現任市黨部發言人林祐德選議員 謝國樑、林沛祥助講 | 基宜花東 | 地方 | 聯合新聞網"
+      },
+      {
+        "url": "https://886.news/archives/365191",
+        "title": "許孟修競選辦公室10月10日成立 深耕地方服務、持續關注弱勢與公益 - 台灣新聞雲-關心台灣大小事"
+      },
+      {
+        "url": "https://udn.com/news/story/124652/9407574",
+        "title": "藍基隆議員首波11人登記提名10人 謝國樑前秘書、前立委之子在列 | 縣市長議員選戰 | 要聞 | 聯合新聞網"
+      },
+      {
+        "url": "https://www.tcpttw.com/local/2026/09/30/315731/",
+        "title": "投入安樂區議員選舉之際關懷弱勢　黃忠賢號召「為愛傳承」率先捐4.8萬元 - 警政時報"
+      },
+      {
+        "url": "https://www.klcg.gov.tw/tw/children/4249-291353.html",
+        "title": "基隆市政府兒童及少年事務處－市政新聞－「台灣同心·守護新住民童心」基隆攜手社福 關懷新住民家庭"
+      },
+      {
+        "url": "https://youth.pfpnext.com/2026/candidate-detail.php?id=pfp2026-008",
+        "title": "親民黨 黃舒琳 基隆市 第五選區 (安樂)市議員候選人 | 2026 PFP NEXT by 親民黨青年團"
+      },
+      {
+        "url": "https://youth.pfpnext.com/2026/candidate-detail.php?id=pfp2026-001",
+        "title": "親民黨 楊秀玉 基隆市 第七選區 (七堵)市議員候選人 | 2026 PFP NEXT by 親民黨青年團"
+      },
+      {
+        "url": "https://udn.com/vote2026/story/124652/9669249",
+        "title": "兩年前「拆樑」領銜人宣布參選市議員 戴璟安：謝國樑根本沒有改變 | 2026九合一選舉"
+      },
+      {
+        "url": "https://bulletin.cec.gov.tw/01%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1/06%E7%B8%A3%E5%B8%82%E8%AD%B0%E5%93%A1/111%E5%B9%B4/20%E5%9F%BA%E9%9A%86%E5%B8%82/%E7%AC%AC3%E9%81%B8%E8%88%89%E5%8D%80/%E5%9F%BA%E9%9A%86%E5%B8%82%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1_%E7%AC%AC%E4%B8%89%E9%81%B8%E5%8D%80.pdf",
+        "title": "基隆市選委會・2022第三、八選區議員公報"
+      },
+      {
+        "url": "https://www.tbc.cip.gov.tw/master/Teacher/Index/664?courseid=7477&url=keelung",
+        "title": "部落大學-講師簡介"
+      },
+      {
+        "url": "https://tw.news.yahoo.com/%E4%B8%8D%E7%88%AD%E5%8F%96%E6%94%BF%E9%BB%A8%E6%8F%90%E5%90%8D-%E5%9F%BA%E9%9A%86%E5%B1%B1%E5%8E%9F%E8%AD%B0%E5%93%A1%E5%8F%83%E9%81%B8%E4%BA%BA%E6%B5%AE%E4%B8%8A%E6%9E%B1%E9%9D%A2-131144220.html",
+        "title": "不爭取政黨提名   基隆山原議員參選人浮上枱面"
+      },
+      {
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/31%E6%B8%AF%E9%80%9A%E9%87%8C.pdf",
+        "title": "基隆市選委會・2018中正區港通里里長公報（PDF第1頁）"
+      },
+      {
+        "url": "https://taiwanpost.net/2026/local/174887/",
+        "title": "林志宏27年二信高中退休決定用水電專長守護砂灣　參選里長開啟服務人生新篇章 - 臺灣郵報"
+      },
+      {
+        "url": "https://udn.com/news/story/124652/9729375",
+        "title": "夫婦里長戰！新北「貓村」里夫妻對決 基隆這對夫妻各選一里 | 縣市長議員選戰 | 要聞 | 聯合新聞網"
+      },
+      {
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/240-241%E5%A0%B5%E5%8D%97%E9%87%8C.pdf",
+        "title": "基隆市選委會・2018七堵區堵南里里長公報（PDF第1頁）"
+      },
+      {
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/224-225%E6%AD%A3%E6%98%8E%E9%87%8C.pdf",
+        "title": "基隆市選委會・2018七堵區正明里里長公報（PDF第1頁）"
+      },
+      {
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E5%9F%BA%E9%9A%86%E5%B8%82%E6%9A%96%E6%9A%96%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+        "title": "基隆市選委會・2018暖暖區暖東里里長公報（PDF第9頁）"
+      },
+      {
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E5%9F%BA%E9%9A%86%E5%B8%82%E4%BB%81%E6%84%9B%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+        "title": "基隆市選委會・2018仁愛區書院里里長公報（PDF第23頁）"
+      },
+      {
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E6%98%8E%E5%85%89%E5%A0%82-%E5%9F%BA%E9%9A%86%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+        "title": "基隆市選委會・2018中山區德安里里長公報（PDF第22頁）"
+      },
+      {
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E6%98%8E%E5%85%89%E5%A0%82-%E5%9F%BA%E9%9A%86%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1-20.%E5%92%8C%E6%85%B6%E9%87%8C.pdf",
+        "title": "基隆市選委會・2018中山區和慶里里長公報（PDF第1頁）"
+      },
+      {
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E6%98%8E%E5%85%89%E5%A0%82-%E5%9F%BA%E9%9A%86%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+        "title": "基隆市選委會・2018信義區東光里里長公報（PDF第13頁）"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/ahel/202610190221.aspx",
+        "title": "彭啓明盼減少選舉看板　將與中選會跨單位討論 | 生活 | 中央社 CNA"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aloc/202610190232.aspx",
+        "title": "李登輝手植榕樹染褐根病移除　護樹團體質疑坐視枯死 | 地方 | 中央社 CNA"
+      }
+    ],
+    "limitations": [
+      "本輪為基隆部分人工查核，仍非全體登記者完整背景調查。",
+      "2018及2022官方公報是當年候選人自填資料，不等於2026現職、本屆政見或獨立學位認證。",
+      "政黨與競選頁列載內容屬自述；只採固定政見欄，未引用其AI即時生成內容。",
+      "新增司法摘要是同一宗月餅案的2位當事人之未定讞程序，來源進度日期10/1；不列前科、不改候選資格。",
+      "沒有資料或沒有標記不能解讀為沒有犯罪或爭議；議員、里長主張仍須核對權限、人力與財源。"
+    ],
+    "coverage_change": {
+      "new_biographies": 32,
+      "new_policy_profiles": 9
+    },
+    "review_leads_count": 0,
+    "rejected_count": 0,
+    "changes": [
+      {
+        "name": "張文彬",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2026/09上報報導列載：禾豐百貨董事長。",
+        "url": "https://news.pchome.com.tw/politics/upmedia/20260901/index-78824576002506236001.html"
+      },
+      {
+        "name": "王珍玨",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2026/10協辦單位報導：主辦中正區觀光商圈交流會，邀集業者、店家及居民討論正濱與和平島環境。",
+        "url": "https://keelungplay.com/profile-2/"
+      },
+      {
+        "name": "王珍玨",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2026/09上報報導：製作基隆旅遊、美食與舞蹈影音的社群創作者。",
+        "url": "https://news.pchome.com.tw/politics/upmedia/20260901/index-78824576002506236001.html"
+      },
+      {
+        "name": "王珍玨",
+        "county": "基隆市",
+        "field": "policy",
+        "text": "正濱、和平島公廁與友善步行：提出彙整公廁需求、評估設置與維管，並改善正濱一帶連續步行動線、輪椅通行及照明。來源為交流會協辦單位報導。",
+        "url": "https://keelungplay.com/profile-2/"
+      },
+      {
+        "name": "王珍玨",
+        "county": "基隆市",
+        "field": "policy",
+        "text": "假日徒步區與港邊商圈串聯：提出正濱港邊假日徒步區、市集與夜間照明構想，串連海大、正濱和平島及新濱町商圈；路段、時段與交通配套仍待討論。",
+        "url": "https://keelungplay.com/profile-2/"
+      },
+      {
+        "name": "王珍玨",
+        "county": "基隆市",
+        "field": "policy",
+        "text": "女性技能授課與寵物補助資訊：9月報導轉述主張，協助女性運用既有技能開課或從事文化導覽，並協助民眾了解及申請寵物疫苗、結紮補助。未列執行規模及新增預算。",
+        "url": "https://news.pchome.com.tw/politics/upmedia/20260901/index-78824576002506236001.html"
+      },
+      {
+        "name": "李程祥",
+        "county": "基隆市",
+        "field": "education",
+        "text": "2022義民里長公報自述：土木工程科專科學校畢業（未列校名）。",
+        "url": "https://eebulletin.cec.gov.tw/111/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E4%BF%A1%E7%BE%A9%E5%8D%80/46%E7%BE%A9%E6%B0%91%E9%87%8C.pdf"
+      },
+      {
+        "name": "李程祥",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2022義民里長公報自述：基隆市營造業職業工會理事長。",
+        "url": "https://eebulletin.cec.gov.tw/111/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E4%BF%A1%E7%BE%A9%E5%8D%80/46%E7%BE%A9%E6%B0%91%E9%87%8C.pdf"
+      },
+      {
+        "name": "李程祥",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2022義民里長公報自述：基隆市總工會理事。",
+        "url": "https://eebulletin.cec.gov.tw/111/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E4%BF%A1%E7%BE%A9%E5%8D%80/46%E7%BE%A9%E6%B0%91%E9%87%8C.pdf"
+      },
+      {
+        "name": "李程祥",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2022義民里長公報自述：義勇消防總隊信義中隊幹事。",
+        "url": "https://eebulletin.cec.gov.tw/111/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E4%BF%A1%E7%BE%A9%E5%8D%80/46%E7%BE%A9%E6%B0%91%E9%87%8C.pdf"
+      },
+      {
+        "name": "黃申棟",
+        "county": "基隆市",
+        "field": "education",
+        "text": "2024/09受訪自述：大安高工畢業。",
+        "url": "https://www.crntt.tw/doc/docDetailCreate.jsp?coluid=92&docid=160054802&kindid=0"
+      },
+      {
+        "name": "黃申棟",
+        "county": "基隆市",
+        "field": "education",
+        "text": "2024/09受訪自述：就讀中國科技大學建築系（未據此認定畢業）。",
+        "url": "https://www.crntt.tw/doc/docDetailCreate.jsp?coluid=92&docid=160054802&kindid=0"
+      },
+      {
+        "name": "黃申棟",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2024/09報導列載：曾經營工程公司。",
+        "url": "https://www.crntt.tw/doc/docDetailCreate.jsp?coluid=92&docid=160054802&kindid=0"
+      },
+      {
+        "name": "黃申棟",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2024/09報導列載：曾任國民黨基隆市黨部信義區主任。",
+        "url": "https://www.crntt.tw/doc/docDetailCreate.jsp?coluid=92&docid=160054802&kindid=0"
+      },
+      {
+        "name": "黃申棟",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2024/09報導列載：當時任國民黨青工會北區執行長、基隆市黨部發言人及立委林沛祥服務處發言人。",
+        "url": "https://www.crntt.tw/doc/docDetailCreate.jsp?coluid=92&docid=160054802&kindid=0"
+      },
+      {
+        "name": "鄭素禎",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2026/08親民黨提名新聞稿列載：曾任基層公務員。",
+        "url": "https://www.pfp.org.tw/tw/News/ugC_News_Detail.asp?hidNewsCatID=4&hidNewsID=3283"
+      },
+      {
+        "name": "鄭素禎",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2026競選頁自述：曾任基隆市環保局辦事員、科員。",
+        "url": "https://youth.pfpnext.com/2026/candidate-detail.php?id=pfp2026-009"
+      },
+      {
+        "name": "鄭素禎",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2026競選頁自述：曾任正濱國小、深澳國小、大德國中、暖暖高中幹事、組長。",
+        "url": "https://youth.pfpnext.com/2026/candidate-detail.php?id=pfp2026-009"
+      },
+      {
+        "name": "鄭素禎",
+        "county": "基隆市",
+        "field": "policy",
+        "text": "信義交通與老舊管線改善：競選頁主張改善幹道、巷弄瓶頸與路面，並檢修老舊水電管線。未列路段清單、資產權責或經費。",
+        "url": "https://youth.pfpnext.com/2026/candidate-detail.php?id=pfp2026-009"
+      },
+      {
+        "name": "鄭素禎",
+        "county": "基隆市",
+        "field": "policy",
+        "text": "公辦都更與鄰里綠地：競選頁主張由公部門引導都市更新，並增加街區公園與休憩空間；土地取得、居民同意與管理方案尚未具體列出。",
+        "url": "https://youth.pfpnext.com/2026/candidate-detail.php?id=pfp2026-009"
+      },
+      {
+        "name": "林杏潔",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2026/03中華日報報導：基隆市閩南同鄉會顧問。",
+        "url": "https://www.cdnspg.com/articles/63508"
+      },
+      {
+        "name": "林杏潔",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2026/03中華日報報導：台灣白內障及屈光手術醫學會秘書（不是醫師資格認證）。",
+        "url": "https://www.cdnspg.com/articles/63508"
+      },
+      {
+        "name": "曾維祥",
+        "county": "基隆市",
+        "field": "judicial_procedure",
+        "text": "中秋月餅禮盒案：交保偵查程序（最新已讀進度2026/10/1）：地檢署10/1公告指仁愛區曾姓議員參選人等涉嫌藉中秋贈月餅禮盒賄選，9/30搜索、通知44人說明，訊後命曾姓參選人50萬元交保。中央社以完整姓名報導為曾維祥；這是檢方指控與偵查處分，並非定罪。",
+        "url": "https://www.klc.moj.gov.tw/media/455059/1151001基檢偵辦基隆市議員候選人里長候選人涉禮品賄選案新聞稿.pdf?mediaDL=true"
+      },
+      {
+        "name": "莊傑宇",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2026/06壹蘋報導：曾任職業軍人。",
+        "url": "https://news.nextapple.com/local/20260603/A214C65EC7B034BB0EADE784B46D7C85"
+      },
+      {
+        "name": "莊傑宇",
+        "county": "基隆市",
+        "field": "policy",
+        "text": "共享運具與遊客大眾運輸：提出鼓勵旅客搭火車、客運到基隆，再轉用公共自行車與共享機車；另提出電桿地下化方向。路線、場站與經費尚待補。",
+        "url": "https://news.nextapple.com/local/20260603/A214C65EC7B034BB0EADE784B46D7C85"
+      },
+      {
+        "name": "莊傑宇",
+        "county": "基隆市",
+        "field": "policy",
+        "text": "醫療量能與身障友善就業：主張爭取醫學中心等級資源，並擴大身障友善工作場地與支持。報導沒有核定機構、財源或服務量能數字。",
+        "url": "https://news.nextapple.com/local/20260603/A214C65EC7B034BB0EADE784B46D7C85"
+      },
+      {
+        "name": "莊傑宇",
+        "county": "基隆市",
+        "field": "policy",
+        "text": "青年運動空間與雨天寵物活動：提出活化既有運動空間供街舞、健身使用，並評估橋下等遮雨空間作為寵物友善場所。尚無具體場址、管理及安全方案。",
+        "url": "https://news.nextapple.com/local/20260603/A214C65EC7B034BB0EADE784B46D7C85"
+      },
+      {
+        "name": "林祐德",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2026/09聯合報報導：曾任基隆市長謝國樑秘書。",
+        "url": "https://udn.com/news/story/7328/9766442"
+      },
+      {
+        "name": "林祐德",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2026/09聯合報報導：當時擔任國民黨基隆市黨部發言人。",
+        "url": "https://udn.com/news/story/7328/9766442"
+      },
+      {
+        "name": "林祐德",
+        "county": "基隆市",
+        "field": "policy",
+        "text": "交通、長者照顧與居住環境三主軸：9月服務處成立時提出交通便利、高齡照顧及宜居環境三個方向；報導未列具體工程、經費或完成時程。",
+        "url": "https://udn.com/news/story/7328/9766442"
+      },
+      {
+        "name": "許孟修",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2026/10台灣新聞雲報導：曾任職議員服務處，從事陳情與社區公共事務服務（未列明職稱與任期）。",
+        "url": "https://886.news/archives/365191"
+      },
+      {
+        "name": "許孟修",
+        "county": "基隆市",
+        "field": "policy",
+        "text": "兒少、弱勢、交通、建設與長者五方向：10月報導列出五項關注方向；尚無具體制度、工程、預算或時程，不能解讀為完整政策方案。",
+        "url": "https://886.news/archives/365191"
+      },
+      {
+        "name": "張家馨",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2026/03聯合報報導：曾任基隆市長謝國樑秘書。",
+        "url": "https://udn.com/news/story/124652/9407574"
+      },
+      {
+        "name": "黃忠賢",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2026/09警政時報報導：基隆市為愛傳承關懷協會理事長。",
+        "url": "https://www.tcpttw.com/local/2026/09/30/315731/"
+      },
+      {
+        "name": "黃舒琳",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2026競選頁列載：親民黨青年團副團長（現職時效依該頁，未另核任期）。",
+        "url": "https://youth.pfpnext.com/2026/candidate-detail.php?id=pfp2026-008"
+      },
+      {
+        "name": "黃舒琳",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2026競選頁自述：曾任自然保育與環境資訊基金會專案執行。",
+        "url": "https://youth.pfpnext.com/2026/candidate-detail.php?id=pfp2026-008"
+      },
+      {
+        "name": "黃舒琳",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2026競選頁自述：曾任配客嘉股份有限公司循環包裝商業開發助理。",
+        "url": "https://youth.pfpnext.com/2026/candidate-detail.php?id=pfp2026-008"
+      },
+      {
+        "name": "黃舒琳",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2026競選頁自述：曾任臺北大學臺北校區第五屆學生會秘書部部長。",
+        "url": "https://youth.pfpnext.com/2026/candidate-detail.php?id=pfp2026-008"
+      },
+      {
+        "name": "黃舒琳",
+        "county": "基隆市",
+        "field": "policy",
+        "text": "安樂通勤班次與候車資訊：競選頁主張依尖峰需求調整客運班次、推動跳蛙公車、改善候車雨遮與排隊空間，並提供車上餘位資訊。",
+        "url": "https://youth.pfpnext.com/2026/candidate-detail.php?id=pfp2026-008"
+      },
+      {
+        "name": "黃舒琳",
+        "county": "基隆市",
+        "field": "policy",
+        "text": "反對四接與保育山海環境：競選頁表明反對協和電廠四接開發，主張保護外木山、大武崙及葉鼻蝠生態，結合社區文化與生態行動。這是候選人立場，非環評或司法結論。",
+        "url": "https://youth.pfpnext.com/2026/candidate-detail.php?id=pfp2026-008"
+      },
+      {
+        "name": "黃舒琳",
+        "county": "基隆市",
+        "field": "policy",
+        "text": "預立醫療、生育檢查與敬老點數：競選頁提出預立醫療、生殖保存及孕期篩檢補助，並構想將健康篩檢與敬老卡點數連結。補助資格、額度與財源未列明。",
+        "url": "https://youth.pfpnext.com/2026/candidate-detail.php?id=pfp2026-008"
+      },
+      {
+        "name": "黃舒琳",
+        "county": "基隆市",
+        "field": "policy",
+        "text": "人行障礙、通學與日常設施改善：競選頁主張移除人行道障礙、改善通學減速設施與水溝蓋，並調整公車扶手、管理菸蒂及活化停車空間。未逐項提出位置與時程。",
+        "url": "https://youth.pfpnext.com/2026/candidate-detail.php?id=pfp2026-008"
+      },
+      {
+        "name": "楊秀玉",
+        "county": "基隆市",
+        "field": "policy",
+        "text": "七堵校園環境與身障就業空間：2026競選頁主張改善校園周邊環境與教學品質，並爭取在七堵設身障洗車中心；未列選址、營運和經費。",
+        "url": "https://youth.pfpnext.com/2026/candidate-detail.php?id=pfp2026-001"
+      },
+      {
+        "name": "楊秀玉",
+        "county": "基隆市",
+        "field": "policy",
+        "text": "停車綠能與社區公園維護：2026競選頁提出開元停車場及百福車站停車空間的太陽能雨陽棚、充換電設施構想，並主張維護公園與綠化。",
+        "url": "https://youth.pfpnext.com/2026/candidate-detail.php?id=pfp2026-001"
+      },
+      {
+        "name": "陳安淇",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2026/08聯合報報導：中小企業主，並參與公益、動保與社團活動。",
+        "url": "https://udn.com/vote2026/story/124652/9669249"
+      },
+      {
+        "name": "陳安淇",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2026/08聯合報報導：擔任七堵慶濟宮監察委員及關懷組長。",
+        "url": "https://udn.com/vote2026/story/124652/9669249"
+      },
+      {
+        "name": "戴璟安",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2024年基隆市長罷免案連署提案領銜人（2026/08報導回顧；不是市長罷免成功紀錄）。",
+        "url": "https://udn.com/vote2026/story/124652/9669249"
+      },
+      {
+        "name": "拔耐．茹妮老王",
+        "county": "基隆市",
+        "field": "education",
+        "text": "2022公報自述：醒吾科技大學行銷與流通管理系畢業。",
+        "url": "https://bulletin.cec.gov.tw/01%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1/06%E7%B8%A3%E5%B8%82%E8%AD%B0%E5%93%A1/111%E5%B9%B4/20%E5%9F%BA%E9%9A%86%E5%B8%82/%E7%AC%AC3%E9%81%B8%E8%88%89%E5%8D%80/%E5%9F%BA%E9%9A%86%E5%B8%82%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1_%E7%AC%AC%E4%B8%89%E9%81%B8%E5%8D%80.pdf"
+      },
+      {
+        "name": "拔耐．茹妮老王",
+        "county": "基隆市",
+        "field": "education",
+        "text": "2022公報自述：醒吾科技大學行銷與流通系碩士在職專班研究生（非碩士畢業認證）。",
+        "url": "https://bulletin.cec.gov.tw/01%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1/06%E7%B8%A3%E5%B8%82%E8%AD%B0%E5%93%A1/111%E5%B9%B4/20%E5%9F%BA%E9%9A%86%E5%B8%82/%E7%AC%AC3%E9%81%B8%E8%88%89%E5%8D%80/%E5%9F%BA%E9%9A%86%E5%B8%82%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1_%E7%AC%AC%E4%B8%89%E9%81%B8%E5%8D%80.pdf"
+      },
+      {
+        "name": "拔耐．茹妮老王",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2022公報自述：基隆市議員王醒之辦公室主任。",
+        "url": "https://bulletin.cec.gov.tw/01%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1/06%E7%B8%A3%E5%B8%82%E8%AD%B0%E5%93%A1/111%E5%B9%B4/20%E5%9F%BA%E9%9A%86%E5%B8%82/%E7%AC%AC3%E9%81%B8%E8%88%89%E5%8D%80/%E5%9F%BA%E9%9A%86%E5%B8%82%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1_%E7%AC%AC%E4%B8%89%E9%81%B8%E5%8D%80.pdf"
+      },
+      {
+        "name": "拔耐．茹妮老王",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2022公報自述：基隆市原住民族部落大學講師。",
+        "url": "https://bulletin.cec.gov.tw/01%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1/06%E7%B8%A3%E5%B8%82%E8%AD%B0%E5%93%A1/111%E5%B9%B4/20%E5%9F%BA%E9%9A%86%E5%B8%82/%E7%AC%AC3%E9%81%B8%E8%88%89%E5%8D%80/%E5%9F%BA%E9%9A%86%E5%B8%82%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1_%E7%AC%AC%E4%B8%89%E9%81%B8%E5%8D%80.pdf"
+      },
+      {
+        "name": "拔耐．茹妮老王",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2022公報自述：基隆市凡扎萊教室負責人。",
+        "url": "https://bulletin.cec.gov.tw/01%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1/06%E7%B8%A3%E5%B8%82%E8%AD%B0%E5%93%A1/111%E5%B9%B4/20%E5%9F%BA%E9%9A%86%E5%B8%82/%E7%AC%AC3%E9%81%B8%E8%88%89%E5%8D%80/%E5%9F%BA%E9%9A%86%E5%B8%82%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1_%E7%AC%AC%E4%B8%89%E9%81%B8%E5%8D%80.pdf"
+      },
+      {
+        "name": "拔耐．茹妮老王",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2022公報自述：勞動部勞資爭議獨任調解人。",
+        "url": "https://bulletin.cec.gov.tw/01%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1/06%E7%B8%A3%E5%B8%82%E8%AD%B0%E5%93%A1/111%E5%B9%B4/20%E5%9F%BA%E9%9A%86%E5%B8%82/%E7%AC%AC3%E9%81%B8%E8%88%89%E5%8D%80/%E5%9F%BA%E9%9A%86%E5%B8%82%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1_%E7%AC%AC%E4%B8%89%E9%81%B8%E5%8D%80.pdf"
+      },
+      {
+        "name": "拔耐．茹妮老王",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "官方講師頁列載：基隆市雞籠草根文教協會會務秘書（頁面未標更新日期，現職時效待核）。",
+        "url": "https://www.tbc.cip.gov.tw/master/Teacher/Index/664?courseid=7477&url=keelung"
+      },
+      {
+        "name": "徐馬政妘",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2026/05中國時報報導：基隆市原住民族教育文化經濟發展協會理事。",
+        "url": "https://tw.news.yahoo.com/%E4%B8%8D%E7%88%AD%E5%8F%96%E6%94%BF%E9%BB%A8%E6%8F%90%E5%90%8D-%E5%9F%BA%E9%9A%86%E5%B1%B1%E5%8E%9F%E8%AD%B0%E5%93%A1%E5%8F%83%E9%81%B8%E4%BA%BA%E6%B5%AE%E4%B8%8A%E6%9E%B1%E9%9D%A2-131144220.html"
+      },
+      {
+        "name": "林崇道 Motu Quyat",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2026/05中國時報報導：曾連任兩屆基隆市信義區孝忠里長。",
+        "url": "https://tw.news.yahoo.com/%E4%B8%8D%E7%88%AD%E5%8F%96%E6%94%BF%E9%BB%A8%E6%8F%90%E5%90%8D-%E5%9F%BA%E9%9A%86%E5%B1%B1%E5%8E%9F%E8%AD%B0%E5%93%A1%E5%8F%83%E9%81%B8%E4%BA%BA%E6%B5%AE%E4%B8%8A%E6%9E%B1%E9%9D%A2-131144220.html"
+      },
+      {
+        "name": "簡進發",
+        "county": "基隆市",
+        "field": "education",
+        "text": "2018公報自述：高商畢業（公報未列校名）",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/31%E6%B8%AF%E9%80%9A%E9%87%8C.pdf"
+      },
+      {
+        "name": "簡進發",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：基隆市中正區區長",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/31%E6%B8%AF%E9%80%9A%E9%87%8C.pdf"
+      },
+      {
+        "name": "簡進發",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：國際青年商會民國81年會長",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/31%E6%B8%AF%E9%80%9A%E9%87%8C.pdf"
+      },
+      {
+        "name": "簡進發",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：國際同濟會民國91至92年會長",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/31%E6%B8%AF%E9%80%9A%E9%87%8C.pdf"
+      },
+      {
+        "name": "林志宏",
+        "county": "基隆市",
+        "field": "education",
+        "text": "2026/10報導回顧：曾就讀二信高中電機科（未據此認定畢業）。",
+        "url": "https://taiwanpost.net/2026/local/174887/"
+      },
+      {
+        "name": "林志宏",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2026/10報導：在二信高中服務27年，當時預計10月底退休；報導未列具體職稱，不推定為教師資格。",
+        "url": "https://taiwanpost.net/2026/local/174887/"
+      },
+      {
+        "name": "林志宏",
+        "county": "基隆市",
+        "field": "policy",
+        "text": "弱勢住家水電健檢與公共設施通報：提出為弱勢住家提供免費水電健檢，建立路燈、公共設施及水電問題的反映與現勘管道；對象、服務資格及修繕費用未列明。",
+        "url": "https://taiwanpost.net/2026/local/174887/"
+      },
+      {
+        "name": "林志宏",
+        "county": "基隆市",
+        "field": "policy",
+        "text": "社區共學、長者關懷與共餐：主張活化社區空間、辦理學習交流，並連結資源支持長者照護及共餐。場地、服務頻率、人力和財源尚待具體方案。",
+        "url": "https://taiwanpost.net/2026/local/174887/"
+      },
+      {
+        "name": "林志宏",
+        "county": "基隆市",
+        "field": "policy",
+        "text": "蒐集交通需求並追蹤改善：主張蒐集里民意見，向權責單位爭取交通與通行安全改善；未列具體路口、工程設計或期程。",
+        "url": "https://taiwanpost.net/2026/local/174887/"
+      },
+      {
+        "name": "張君瑜",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2026/09聯合報報導：具有近30年護理師工作經驗；報導未列服務機構與任期，未另核證照。",
+        "url": "https://udn.com/news/story/124652/9729375"
+      },
+      {
+        "name": "莊紫濠",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2026/09聯合報回顧：2022年當選新富里長後專職從事里政服務。",
+        "url": "https://udn.com/news/story/124652/9729375"
+      },
+      {
+        "name": "莊紫濠",
+        "county": "基隆市",
+        "field": "policy",
+        "text": "新富、新豐服務資源共享：報導轉述莊紫濠希望兩里服務資源共享，提供急難及刑事事件的求助窗口。這是個人服務構想，不是行政區合併核定。",
+        "url": "https://udn.com/news/story/124652/9729375"
+      },
+      {
+        "name": "余佩儒",
+        "county": "基隆市",
+        "field": "education",
+        "text": "2018公報自述：崇右技術學院附設專科進修學校（公報未註畢業狀態）",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/240-241%E5%A0%B5%E5%8D%97%E9%87%8C.pdf"
+      },
+      {
+        "name": "余佩儒",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：慶中實業股份有限公司業務行政",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/240-241%E5%A0%B5%E5%8D%97%E9%87%8C.pdf"
+      },
+      {
+        "name": "余佩儒",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：堵南里第18至20屆里長",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/240-241%E5%A0%B5%E5%8D%97%E9%87%8C.pdf"
+      },
+      {
+        "name": "謝連堂",
+        "county": "基隆市",
+        "field": "education",
+        "text": "2018公報自述：基隆市立第五中學（公報未註畢業狀態）",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/224-225%E6%AD%A3%E6%98%8E%E9%87%8C.pdf"
+      },
+      {
+        "name": "謝連堂",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：義勇消防總隊七堵第二分隊服務40年，公報列其中擔任分隊長20年後榮退",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/224-225%E6%AD%A3%E6%98%8E%E9%87%8C.pdf"
+      },
+      {
+        "name": "謝連堂",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：七堵區體育會理事長",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/224-225%E6%AD%A3%E6%98%8E%E9%87%8C.pdf"
+      },
+      {
+        "name": "謝連堂",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：正明里第17至20屆里長",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/224-225%E6%AD%A3%E6%98%8E%E9%87%8C.pdf"
+      },
+      {
+        "name": "林淑娟",
+        "county": "基隆市",
+        "field": "education",
+        "text": "2018公報自述：聖心高級中學（公報未註畢業狀態）",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E5%9F%BA%E9%9A%86%E5%B8%82%E6%9A%96%E6%9A%96%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      },
+      {
+        "name": "林淑娟",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：暖東里第20屆里長",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E5%9F%BA%E9%9A%86%E5%B8%82%E6%9A%96%E6%9A%96%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      },
+      {
+        "name": "林淑娟",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：立法委員蔡適應秘書",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E5%9F%BA%E9%9A%86%E5%B8%82%E6%9A%96%E6%9A%96%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      },
+      {
+        "name": "林淑娟",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：添雄公司業務經理",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E5%9F%BA%E9%9A%86%E5%B8%82%E6%9A%96%E6%9A%96%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      },
+      {
+        "name": "熊素蘭",
+        "county": "基隆市",
+        "field": "education",
+        "text": "2018公報自述：基隆市私立光隆商職高級部畢業",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E5%9F%BA%E9%9A%86%E5%B8%82%E4%BB%81%E6%84%9B%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      },
+      {
+        "name": "熊素蘭",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：基隆市民眾日報社辦事員",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E5%9F%BA%E9%9A%86%E5%B8%82%E4%BB%81%E6%84%9B%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      },
+      {
+        "name": "熊素蘭",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：基隆東光藥局業務經理",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E5%9F%BA%E9%9A%86%E5%B8%82%E4%BB%81%E6%84%9B%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      },
+      {
+        "name": "熊素蘭",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：基隆福美行負責人",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E5%9F%BA%E9%9A%86%E5%B8%82%E4%BB%81%E6%84%9B%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      },
+      {
+        "name": "熊素蘭",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：仁德里第15、16、17屆里長",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E5%9F%BA%E9%9A%86%E5%B8%82%E4%BB%81%E6%84%9B%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      },
+      {
+        "name": "陳家斌",
+        "county": "基隆市",
+        "field": "judicial_procedure",
+        "text": "中秋月餅禮盒案：交保偵查程序（最新已讀進度2026/10/1）：地檢署10/1公告指仁愛區陳姓里長參選人與曾姓議員參選人涉嫌發送月餅禮盒賄選，訊後命陳姓參選人30萬元交保。壹蘋同日以完整姓名報導福仁里代理里長陳家斌與曾維祥分別交保30萬、50萬元。此為偵查程序，尚非定罪。",
+        "url": "https://www.klc.moj.gov.tw/media/455059/1151001基檢偵辦基隆市議員候選人里長候選人涉禮品賄選案新聞稿.pdf?mediaDL=true"
+      },
+      {
+        "name": "詹文卿",
+        "county": "基隆市",
+        "field": "education",
+        "text": "2018公報自述：初中",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E5%9F%BA%E9%9A%86%E5%B8%82%E4%BB%81%E6%84%9B%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      },
+      {
+        "name": "詹文卿",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：報關行負責人",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E5%9F%BA%E9%9A%86%E5%B8%82%E4%BB%81%E6%84%9B%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      },
+      {
+        "name": "詹文卿",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：金台峯珠寶店負責人",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E5%9F%BA%E9%9A%86%E5%B8%82%E4%BB%81%E6%84%9B%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      },
+      {
+        "name": "詹文卿",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：仁愛區崇文社區發展協會常務監事",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E5%9F%BA%E9%9A%86%E5%B8%82%E4%BB%81%E6%84%9B%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      },
+      {
+        "name": "詹文卿",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：基隆市志願服務協會及社區照顧關懷點志工",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E5%9F%BA%E9%9A%86%E5%B8%82%E4%BB%81%E6%84%9B%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      },
+      {
+        "name": "許睿雅",
+        "county": "基隆市",
+        "field": "education",
+        "text": "2018公報自述：成功國中、成功國小（公報未註畢業狀態）",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E5%9F%BA%E9%9A%86%E5%B8%82%E4%BB%81%E6%84%9B%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      },
+      {
+        "name": "許睿雅",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：建材行負責人",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E5%9F%BA%E9%9A%86%E5%B8%82%E4%BB%81%E6%84%9B%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      },
+      {
+        "name": "高瑞堂",
+        "county": "基隆市",
+        "field": "education",
+        "text": "2018公報自述：成功國小畢業",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E6%98%8E%E5%85%89%E5%A0%82-%E5%9F%BA%E9%9A%86%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      },
+      {
+        "name": "高瑞堂",
+        "county": "基隆市",
+        "field": "education",
+        "text": "2018公報自述：海洋大學航管研究所畢業（依公報自述，未另認證學位）",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E6%98%8E%E5%85%89%E5%A0%82-%E5%9F%BA%E9%9A%86%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      },
+      {
+        "name": "高瑞堂",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：新建社區理事長",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E6%98%8E%E5%85%89%E5%A0%82-%E5%9F%BA%E9%9A%86%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      },
+      {
+        "name": "高瑞堂",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：新建里里長",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E6%98%8E%E5%85%89%E5%A0%82-%E5%9F%BA%E9%9A%86%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      },
+      {
+        "name": "高瑞堂",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：上揚禮品企業社負責人",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E6%98%8E%E5%85%89%E5%A0%82-%E5%9F%BA%E9%9A%86%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      },
+      {
+        "name": "徐麗玲",
+        "county": "基隆市",
+        "field": "education",
+        "text": "2018公報自述：高中畢業",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E6%98%8E%E5%85%89%E5%A0%82-%E5%9F%BA%E9%9A%86%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      },
+      {
+        "name": "徐麗玲",
+        "county": "基隆市",
+        "field": "education",
+        "text": "2018公報自述：經國管理暨健康學院附設進修學院肄業",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E6%98%8E%E5%85%89%E5%A0%82-%E5%9F%BA%E9%9A%86%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      },
+      {
+        "name": "徐麗玲",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：通化里第18至20屆里長",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E6%98%8E%E5%85%89%E5%A0%82-%E5%9F%BA%E9%9A%86%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      },
+      {
+        "name": "徐麗玲",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：通化社區發展協會理事長",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E6%98%8E%E5%85%89%E5%A0%82-%E5%9F%BA%E9%9A%86%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      },
+      {
+        "name": "徐麗玲",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：吉利堂香舖負責人",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E6%98%8E%E5%85%89%E5%A0%82-%E5%9F%BA%E9%9A%86%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      },
+      {
+        "name": "鄭吉雄",
+        "county": "基隆市",
+        "field": "education",
+        "text": "2018公報自述：國立基隆高級海事職業學校（公報未註畢業狀態）",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E6%98%8E%E5%85%89%E5%A0%82-%E5%9F%BA%E9%9A%86%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      },
+      {
+        "name": "張繼志",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：聖齊實業物流主管",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E6%98%8E%E5%85%89%E5%A0%82-%E5%9F%BA%E9%9A%86%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      },
+      {
+        "name": "張繼志",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：西康里第20屆里長",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E6%98%8E%E5%85%89%E5%A0%82-%E5%9F%BA%E9%9A%86%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      },
+      {
+        "name": "謝銘傳",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：德安里第16至20屆里長",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E6%98%8E%E5%85%89%E5%A0%82-%E5%9F%BA%E9%9A%86%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      },
+      {
+        "name": "謝銘傳",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：德安社區發展協會第一、二屆理事長",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E6%98%8E%E5%85%89%E5%A0%82-%E5%9F%BA%E9%9A%86%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      },
+      {
+        "name": "謝銘傳",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：民國84至91年德和國小家長委員會會長",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E6%98%8E%E5%85%89%E5%A0%82-%E5%9F%BA%E9%9A%86%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      },
+      {
+        "name": "李詹淇",
+        "county": "基隆市",
+        "field": "education",
+        "text": "2018公報自述：私立南山高級商工職業學校（公報未註畢業狀態）",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E6%98%8E%E5%85%89%E5%A0%82-%E5%9F%BA%E9%9A%86%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1-20.%E5%92%8C%E6%85%B6%E9%87%8C.pdf"
+      },
+      {
+        "name": "李詹淇",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：基隆火車站計程車聯誼會會長",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E6%98%8E%E5%85%89%E5%A0%82-%E5%9F%BA%E9%9A%86%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1-20.%E5%92%8C%E6%85%B6%E9%87%8C.pdf"
+      },
+      {
+        "name": "李詹淇",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：基隆市議員楊石城助理",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E6%98%8E%E5%85%89%E5%A0%82-%E5%9F%BA%E9%9A%86%E5%B8%82%E4%B8%AD%E5%B1%B1%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1-20.%E5%92%8C%E6%85%B6%E9%87%8C.pdf"
+      },
+      {
+        "name": "余瑛鋗",
+        "county": "基隆市",
+        "field": "education",
+        "text": "2018公報自述：海洋大學航運管理學系（公報未註畢業狀態）",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E6%98%8E%E5%85%89%E5%A0%82-%E5%9F%BA%E9%9A%86%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      },
+      {
+        "name": "余瑛鋗",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：加拿大溫哥華中華文化中心中文教師",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E6%98%8E%E5%85%89%E5%A0%82-%E5%9F%BA%E9%9A%86%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      },
+      {
+        "name": "余瑛鋗",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：基隆八斗國小教師",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E6%98%8E%E5%85%89%E5%A0%82-%E5%9F%BA%E9%9A%86%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      },
+      {
+        "name": "余瑛鋗",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2018公報自述：基隆德和國小教師",
+        "url": "https://eebulletin.cec.gov.tw/107/21%E5%9F%BA%E9%9A%86%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E6%98%8E%E5%85%89%E5%A0%82-%E5%9F%BA%E9%9A%86%E5%B8%82%E4%BF%A1%E7%BE%A9%E5%8D%80%E9%87%8C%E9%95%B7%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+      }
+    ],
+    "topic_updates": [
+      {
+        "id": "campaign-billboard-waste-20261019",
+        "title": "選舉看板減量：宣傳、環境與公平參政怎麼兼顧？",
+        "kind": "new",
+        "summary": "環境部長表示將跨單位討論減少一次性競選看板；目前是研議方向，不能寫成已施行的新禁令。",
+        "eventDate": "2026-10-19",
+        "sources": [
+          "https://www.cna.com.tw/news/ahel/202610190221.aspx"
+        ]
+      },
+      {
+        "id": "taipei-meilun-tree-records-20261019",
+        "title": "美崙公園老榕樹移除：病害、安全與養護紀錄的爭議",
+        "kind": "new",
+        "summary": "10/19市府說明與護樹團體質疑，針對的是4月已移除的美崙公園兩株老榕樹；事件日期與最新說明日期分開記錄。",
+        "eventDate": "2026-04-24",
+        "sources": [
+          "https://www.cna.com.tw/news/aloc/202610190232.aspx"
+        ]
+      }
+    ],
+    "judicial_procedure_updates": [
+      {
+        "name": "曾維祥",
+        "event": {
+          "title": "中秋月餅禮盒案：交保偵查程序（最新已讀進度2026/10/1）",
+          "type": "刑事・偵查中，未定罪（來源日期2026/10/1）",
+          "summary": "地檢署10/1公告指仁愛區曾姓議員參選人等涉嫌藉中秋贈月餅禮盒賄選，9/30搜索、通知44人說明，訊後命曾姓參選人50萬元交保。中央社以完整姓名報導為曾維祥；這是檢方指控與偵查處分，並非定罪。",
+          "latestKnownDate": "2026-10-01",
+          "response": "聯合報10/1報導其家屬表示團隊沒有違法，會配合調查、等待釐清。這是家屬說法；本輪未取得本人更近期、可核實的直接回應。",
+          "limitation": "本輪於2026/10/20查讀來源，最新已核對案件處分日期為10/1，未取得更後續的起訴、不起訴或法院裁判；不推定今日程序完全未變。交保不等於有罪，不列犯罪類別、不改參選資格。其他人的案件、親屬案件及未確認完整姓名者均不移轉到此人名下。",
+          "sources": [
+            {
+              "url": "https://www.klc.moj.gov.tw/media/455059/1151001基檢偵辦基隆市議員候選人里長候選人涉禮品賄選案新聞稿.pdf?mediaDL=true",
+              "title": "基隆地檢署・月餅禮盒案新聞稿（2026/10/1）"
+            },
+            {
+              "url": "https://www.cna.com.tw/news/asoc/202610010068.aspx",
+              "title": "中央社・曾維祥50萬元交保（2026/10/1）"
+            },
+            {
+              "url": "https://news.nextapple.com/local/20261001/E01DC13C674B2B115F99F51C87BAE0F4",
+              "title": "壹蘋・完整姓名與福仁里身分交叉報導（2026/10/1）"
+            },
+            {
+              "url": "https://udn.com/news/story/7321/9787052?from=udn-referralnews_ch2artbottom",
+              "title": "聯合報・家屬否認違法並表示配合調查（2026/10/1）"
+            }
+          ]
+        }
+      },
+      {
+        "name": "陳家斌",
+        "event": {
+          "title": "中秋月餅禮盒案：交保偵查程序（最新已讀進度2026/10/1）",
+          "type": "刑事・偵查中，未定罪（來源日期2026/10/1）",
+          "summary": "地檢署10/1公告指仁愛區陳姓里長參選人與曾姓議員參選人涉嫌發送月餅禮盒賄選，訊後命陳姓參選人30萬元交保。壹蘋同日以完整姓名報導福仁里代理里長陳家斌與曾維祥分別交保30萬、50萬元。此為偵查程序，尚非定罪。",
+          "latestKnownDate": "2026-10-01",
+          "response": "本輪未取得陳家斌本人或辯護人對此案可核實的直接回應；不將缺乏回應解讀為承認指控。",
+          "limitation": "本輪於2026/10/20查讀來源，最新已核對案件處分日期為10/1，未取得更後續的起訴、不起訴或法院裁判；不推定今日程序完全未變。交保不等於有罪，不列犯罪類別、不改參選資格。其他人的案件、親屬案件及未確認完整姓名者均不移轉到此人名下。",
+          "sources": [
+            {
+              "url": "https://www.klc.moj.gov.tw/media/455059/1151001基檢偵辦基隆市議員候選人里長候選人涉禮品賄選案新聞稿.pdf?mediaDL=true",
+              "title": "基隆地檢署・月餅禮盒案新聞稿（2026/10/1）"
+            },
+            {
+              "url": "https://www.cna.com.tw/news/asoc/202610010068.aspx",
+              "title": "中央社・曾維祥50萬元交保（2026/10/1）"
+            },
+            {
+              "url": "https://news.nextapple.com/local/20261001/E01DC13C674B2B115F99F51C87BAE0F4",
+              "title": "壹蘋・完整姓名與福仁里身分交叉報導（2026/10/1）"
+            }
+          ]
+        }
+      }
+    ]
+  },
+  {
     "date": "2026-10-20",
     "kind": "manual",
     "started_at": "2026-10-20T19:57:17+08:00",

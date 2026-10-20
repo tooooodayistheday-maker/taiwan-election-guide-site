@@ -3,6 +3,100 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "campaign-billboard-waste-20261019",
+      "title": "選舉看板減量：宣傳、環境與公平參政怎麼兼顧？",
+      "shortTitle": "競選看板與選後廢棄物",
+      "symbol": "♧",
+      "category": "全國選舉與環境",
+      "county": null,
+      "districts": [],
+      "relatedNames": [],
+      "date": "2026-10-19",
+      "eventDate": "2026-10-19",
+      "checkedAt": "2026-10-20",
+      "dailyUpdateKind": "new",
+      "summary": "環境部長表示將跨單位討論減少一次性競選看板；目前是研議方向，不能寫成已施行的新禁令。",
+      "steps": [
+        {
+          "speaker": "新聞記錄（中央社10/19）",
+          "text": "環境部長在媒體聯訪中表示，將和中選會等單位討論減少短期、一次性的競選看板，並呼籲參選人思考環境負擔。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/ahel/202610190221.aspx"
+          ]
+        },
+        {
+          "speaker": "目前進度",
+          "text": "報導未公布新的看板數量上限、全面禁止規定或執行日期；跨單位研議與正式法規必須分開。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/ahel/202610190221.aspx"
+          ]
+        },
+        {
+          "speaker": "本站判讀：如何比較",
+          "text": "可追問看板是否可重複使用、選後如何拆除回收、由誰付費，以及減量安排是否仍讓資源較少的參選人有合理宣傳機會。這是本站的檢視問題。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/ahel/202610190221.aspx"
+          ]
+        },
+        {
+          "speaker": "查核邊界",
+          "text": "本站沒有逐一盤點各候選人的看板、材料或廢棄物量；不能憑看到幾面看板就評定某人環保表現，也不能由研議新聞判定某面看板違法。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/ahel/202610190221.aspx"
+          ]
+        }
+      ],
+      "question": "你希望候選人公開哪些看板材料、回收及選後拆除資訊，才足以比較宣傳的環境成本？"
+    },
+    {
+      "id": "taipei-meilun-tree-records-20261019",
+      "title": "美崙公園老榕樹移除：病害、安全與養護紀錄的爭議",
+      "shortTitle": "美崙老樹與養護紀錄",
+      "symbol": "♧",
+      "category": "地方治理與環境",
+      "county": "臺北市",
+      "districts": [
+        "士林區"
+      ],
+      "relatedNames": [],
+      "date": "2026-10-19",
+      "eventDate": "2026-04-24",
+      "checkedAt": "2026-10-20",
+      "dailyUpdateKind": "new",
+      "summary": "10/19市府說明與護樹團體質疑，針對的是4月已移除的美崙公園兩株老榕樹；事件日期與最新說明日期分開記錄。",
+      "steps": [
+        {
+          "speaker": "事件與時間（報導所載）",
+          "text": "爭議涉及1995年手植的兩株榕樹及紀念碑。報導載樹木於2026/4/24移除；10/19是市府公開說明與民間質疑的日期，不是當天新砍樹。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610190232.aspx"
+          ]
+        },
+        {
+          "speaker": "市府說明（媒體轉述）",
+          "text": "市府表示，2024年底調查發現疑似病害，2025年11月邀專家現勘後判斷感染褐根病，因安全考量辦理解除列管及移除；紀念碑另行保存。這是機關對流程的說法。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610190232.aspx"
+          ]
+        },
+        {
+          "speaker": "護樹團體質疑（媒體轉述）",
+          "text": "台灣樹人會質疑受保護樹木的養護管理與染病後處理，認為不能只在枯死後解除保護再移除。這是民間團體的批評，尚非法院或監察機關的違失認定。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610190232.aspx"
+          ]
+        },
+        {
+          "speaker": "尚待核對與本站判讀",
+          "text": "本輪未取得完整樹況、診斷、治療養護紀錄及解列公文；需並讀時間線、替代處置與安全評估，才能判斷是否有可避免的管理問題。未在任何候選人名下新增犯罪標籤。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610190232.aspx"
+          ]
+        }
+      ],
+      "question": "在判斷移除是否必要之前，你想先看到哪些診斷、養護、專家現勘及決策文件？"
+    },
+    {
       "id": "keelung-poll-methods-20261020",
       "title": "基隆民調怎麼看？委託者、抽樣與雙方回應",
       "shortTitle": "基隆民調與抽樣限制",
