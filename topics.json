@@ -3,6 +3,90 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "hsinchu-ballot-draw-typhoon-20261021",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "新竹市抽籤颱風應變：10月23日停班才順延",
+      "shortTitle": "新竹抽籤颱風應變",
+      "category": "每日選舉話題",
+      "county": "新竹市",
+      "date": "2026-10-21",
+      "summary": "新竹市選委會10月21日公告：市長、市議員號次抽籤原訂10月23日上午10時在市稅務局B2文康中心舉行。只有當日因颱風宣布停班，才順延至10月27日同時同地；正常上班則照原安排。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "新竹市選委會10月21日公告：市長、市議員號次抽籤原訂10月23日上午10時在市稅務局B2文康中心舉行。只有當日因颱風宣布停班，才順延至10月27日同時同地；正常上班則照原安排。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/api/hcec/article/65309"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "中選會10月16日資格審查公告列出10月23日抽籤安排；新竹市今天另公布當地停班時的應變方式。今天公告也說明，反賄選說明會在該條件發生時，改於10月27日上午8時30分在稅務局B2舉行。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/api/central/article/65213"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：這是附停班條件的備案，不能寫成抽籤已延期。市長、市議員抽籤與里長選務範圍須分開；是否啟用備案，仍須核對新竹市政府10月23日停班公告。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/api/hcec/article/65309",
+            "https://web.cec.gov.tw/api/central/article/65213"
+          ]
+        }
+      ],
+      "question": "抽籤與反賄選說明會若調整，你會從哪些官方公告核對時間、地點與適用職別？",
+      "checkedAt": "2026-10-21",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "f2169886a600b558d93db7a2c1f04a2828752b59688a70d642af53dc0954b264"
+      ]
+    },
+    {
+      "id": "hsinchu-xiangshan-development-policy-20261021",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "莊競程提香山發展政見：市場、照顧與交通如何落實？",
+      "shortTitle": "香山市場與生活服務政見",
+      "category": "每日選舉話題",
+      "county": "新竹市",
+      "date": "2026-10-21",
+      "summary": "中央社10月21日報導，莊競程提出香山公有市場、全齡生活館與南香山親子館，並主張加強幸福小黃、增加YouBike站點及長期爭取捷運延伸；另提出水岸運動服務與漁港活化構想。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社10月21日報導，莊競程提出香山公有市場、全齡生活館與南香山親子館，並主張加強幸福小黃、增加YouBike站點及長期爭取捷運延伸；另提出水岸運動服務與漁港活化構想。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610210109.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "10月5日中央社曾報導他提出關埔的教育擴充、公共運輸及全齡生活館方案。今天的新內容針對香山地區，應與較早的關埔提案分別核對服務範圍及設置資源。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610050095.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：以上均為競選主張。市場與生活館須核對用地、營運、人力、預算及期程；捷運跨區延伸另涉中央及鄰近縣市協調。不能把站點覆蓋目標或建設構想當成已完成服務。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610210109.aspx",
+            "https://www.cna.com.tw/news/aloc/202610050095.aspx"
+          ]
+        }
+      ],
+      "question": "你希望先公開哪些用地、年度經費、營運方式與時程資料，才能比較香山各項建設的優先次序？",
+      "checkedAt": "2026-10-21",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "4fed1c802739cbc8a0a5706f593ca32427bb25c1458fdb1a6bcb48deec4ce36a"
+      ]
+    },
+    {
       "id": "kaohsiung-nanliao-muzi-registration-20261016",
       "title": "南寮里、木梓里第二次登記：受理已截止，抽籤訂11月9日",
       "shortTitle": "南寮木梓里登記與抽籤",

@@ -1,0 +1,103 @@
+{
+  "entry_id": "election-20261021-1437-1h-r01",
+  "kind": "manual",
+  "session_label": "election-20261021-1437-1h・第1輪",
+  "date": "2026-10-21",
+  "checked_at": "2026-10-21T14:52:03.412294+08:00",
+  "county_scope": [
+    "基隆市",
+    "新竹市"
+  ],
+  "accepted_facts": 3,
+  "updated_people": 2,
+  "summary": "加開時段第1輪：新增3項通過來源核對的資料；另查核兩則選舉話題。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/klec",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/hcec",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/api/hcec/article/65309",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/api/hcec/article/64637",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/api/central/article/65213",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aloc/201812240190.aspx",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.ey.gov.tw/Page/AF73D471993DF350/cb8fb0f0-1413-4411-aa82-2f5d6e25b825",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202607130133.aspx",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202610210109.aspx",
+      "title": "本輪原始資料來源"
+    }
+  ],
+  "limitations": [
+    "局部來源查核，不代表全體候選人背景已完整核實。",
+    "司法、爭議與資格新線索僅保留待查，不自動修改標籤。"
+  ],
+  "review_leads_count": 0,
+  "rejected_count": 6,
+  "changes": [
+    {
+      "name": "鄭宏輝",
+      "county": "新竹市",
+      "field": "education",
+      "text": "畢業於台大政治系、政治研究所",
+      "url": "https://www.cna.com.tw/news/aloc/201812240190.aspx"
+    },
+    {
+      "name": "鄭宏輝",
+      "county": "新竹市",
+      "field": "experience",
+      "text": "政務顧問鄭宏輝",
+      "url": "https://www.ey.gov.tw/Page/AF73D471993DF350/cb8fb0f0-1413-4411-aa82-2f5d6e25b825"
+    },
+    {
+      "name": "施淑婷",
+      "county": "新竹市",
+      "field": "experience",
+      "text": "民政處長施淑婷請辭獲准",
+      "url": "https://www.cna.com.tw/news/aipl/202607130133.aspx"
+    }
+  ],
+  "topic_updates": [
+    {
+      "id": "hsinchu-ballot-draw-typhoon-20261021",
+      "title": "新竹市抽籤颱風應變：10月23日停班才順延",
+      "kind": "new",
+      "summary": "新竹市選委會10月21日公告：市長、市議員號次抽籤原訂10月23日上午10時在市稅務局B2文康中心舉行。只有當日因颱風宣布停班，才順延至10月27日同時同地；正常上班則照原安排。",
+      "sources": [
+        "https://web.cec.gov.tw/api/hcec/article/65309",
+        "https://web.cec.gov.tw/api/central/article/65213"
+      ]
+    },
+    {
+      "id": "hsinchu-xiangshan-development-policy-20261021",
+      "title": "莊競程提香山發展政見：市場、照顧與交通如何落實？",
+      "kind": "new",
+      "summary": "中央社10月21日報導，莊競程提出香山公有市場、全齡生活館與南香山親子館，並主張加強幸福小黃、增加YouBike站點及長期爭取捷運延伸；另提出水岸運動服務與漁港活化構想。",
+      "sources": [
+        "https://www.cna.com.tw/news/aipl/202610210109.aspx",
+        "https://www.cna.com.tw/news/aloc/202610050095.aspx"
+      ]
+    }
+  ]
+}
