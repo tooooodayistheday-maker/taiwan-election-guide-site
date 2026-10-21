@@ -1,5 +1,70 @@
 [
   {
+    "entry_id": "2026-10-22-manual-source-attribution-audit",
+    "kind": "manual",
+    "session_label": "逐項來源歸屬核對",
+    "date": "2026-10-22",
+    "checked_at": "2026-10-22T06:44:55.499596+08:00",
+    "county_scope": [
+      "基隆市"
+    ],
+    "accepted_facts": 0,
+    "updated_people": 6,
+    "summary": "修正6人來源的支持範圍：歷屆名錄、媒體報導及其他名冊的敘述，不歸到僅載學歷的里長介紹頁；原事實與其原始來源仍保留。",
+    "official_checks": [],
+    "limitations": [
+      "本批為來源關聯修正，不計為新增履歷或背景調查。",
+      "學歷、經歷文字、司法及資格等個人實質欄位未變。"
+    ],
+    "changes": [
+      {
+        "name": "賴正男",
+        "county": "基隆市",
+        "field": "source_attribution",
+        "text": "移除2項不屬此介紹頁的支持關聯，保留該資料原來的獨立來源。",
+        "url": "https://www.kljs.klcg.gov.tw/tw/kljs/749-98503.html"
+      },
+      {
+        "name": "翁木梨",
+        "county": "基隆市",
+        "field": "source_attribution",
+        "text": "移除1項不屬此介紹頁的支持關聯，保留該資料原來的獨立來源。",
+        "url": "https://www.kljs.klcg.gov.tw/tw/kljs/749-98488.html"
+      },
+      {
+        "name": "謝銘傳",
+        "county": "基隆市",
+        "field": "source_attribution",
+        "text": "移除3項不屬此介紹頁的支持關聯，保留該資料原來的獨立來源。",
+        "url": "https://www.kljs.klcg.gov.tw/tw/kljs/749-98494.html"
+      },
+      {
+        "name": "莊紫濠",
+        "county": "基隆市",
+        "field": "source_attribution",
+        "text": "移除1項不屬此介紹頁的支持關聯，保留該資料原來的獨立來源。",
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-265387.html"
+      },
+      {
+        "name": "陳碧琴",
+        "county": "基隆市",
+        "field": "source_attribution",
+        "text": "移除1項不屬此介紹頁的支持關聯，保留該資料原來的獨立來源。",
+        "url": "https://www.klnn.klcg.gov.tw/tw/klnn/865-95569.html"
+      },
+      {
+        "name": "陳清池",
+        "county": "基隆市",
+        "field": "source_attribution",
+        "text": "移除1項不屬此介紹頁的支持關聯，保留該資料原來的獨立來源。",
+        "url": "https://www.klnn.klcg.gov.tw/tw/klnn/865-95568.html"
+      }
+    ],
+    "topic_updates": [],
+    "review_leads_count": 0,
+    "rejected_count": 0
+  },
+  {
     "entry_id": "2026-10-22-manual-official-name-glyph-repairs",
     "kind": "manual",
     "session_label": "官方登記姓名特殊字修復",
