@@ -1,0 +1,60 @@
+{
+  "entry_id": "2026-10-22-manual-official-name-glyph-repairs",
+  "kind": "manual",
+  "session_label": "官方登記姓名特殊字修復",
+  "date": "2026-10-22",
+  "checked_at": "2026-10-22T06:35:49.594329+08:00",
+  "county_scope": [
+    "臺中市",
+    "宜蘭縣"
+  ],
+  "accepted_facts": 0,
+  "updated_people": 3,
+  "corrected_profiles": 3,
+  "summary": "逐筆目視2026官方登記PDF的可顯示字形，並與同區里政府資料交叉核對，修復王鎭樑、蔡豐湶、吳橜達姓名；待核姓名由21降至18，候選人ID及其他資料保持一致。",
+  "official_checks": [
+    {
+      "url": "https://www.dongshi.taichung.gov.tw/982800/982916/982959/1257078",
+      "title": "中嵙里辦公室（姓名字形交叉核對）"
+    },
+    {
+      "url": "https://eebulletin.cec.gov.tw/111/05%E8%87%BA%E4%B8%AD%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E8%87%BA%E4%B8%AD%E5%B8%82%E6%9D%B1%E5%8B%A2%E5%8D%80/%E8%87%BA%E4%B8%AD%E5%B8%82%E6%9D%B1%E5%8B%A2%E5%8D%80%E8%88%88%E9%9A%86%E9%87%8C.pdf",
+      "title": "2022東勢區興隆里官方選舉公報（僅核對姓名字形）"
+    },
+    {
+      "url": "https://www.jw.gov.tw/cp.aspx?n=6200",
+      "title": "壯圍鄉公所美城村介紹（姓名字形交叉核對）"
+    }
+  ],
+  "limitations": [
+    "只修復可視原頁字形且有同區里政府資料支持的3筆；其餘18筆保留□及待核標記。",
+    "2022官方公報僅用於姓名字形佐證，沒有當成本屆政見或資格證明。",
+    "原始私用字、2026名冊頁碼與ID均保留；沒有新增歷屆參選者代替2026登記者。"
+  ],
+  "changes": [
+    {
+      "name": "王鎭樑",
+      "county": "臺中市",
+      "field": "name_correction",
+      "text": "王□樑 → 王鎭樑；2026官方登記PDF第185頁原字形與政府資料交叉核對。",
+      "url": "https://www.dongshi.taichung.gov.tw/982800/982916/982959/1257078"
+    },
+    {
+      "name": "蔡豐湶",
+      "county": "臺中市",
+      "field": "name_correction",
+      "text": "蔡豐□ → 蔡豐湶；2026官方登記PDF第186頁原字形與政府資料交叉核對。",
+      "url": "https://eebulletin.cec.gov.tw/111/05%E8%87%BA%E4%B8%AD%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E8%87%BA%E4%B8%AD%E5%B8%82%E6%9D%B1%E5%8B%A2%E5%8D%80/%E8%87%BA%E4%B8%AD%E5%B8%82%E6%9D%B1%E5%8B%A2%E5%8D%80%E8%88%88%E9%9A%86%E9%87%8C.pdf"
+    },
+    {
+      "name": "吳橜達",
+      "county": "宜蘭縣",
+      "field": "name_correction",
+      "text": "吳□達 → 吳橜達；2026官方登記PDF第588頁原字形與政府資料交叉核對。",
+      "url": "https://www.jw.gov.tw/cp.aspx?n=6200"
+    }
+  ],
+  "topic_updates": [],
+  "review_leads_count": 18,
+  "rejected_count": 0
+}
