@@ -3,6 +3,94 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "taichung-debate-coordination-20261021",
+      "county": "臺中市",
+      "districts": [],
+      "relatedNames": [
+        "江啟臣",
+        "何欣純"
+      ],
+      "date": "2026-10-21",
+      "title": "臺中市長辯論協商：日期、場地與回答語言如何安排？",
+      "shortTitle": "辯論規則與可近性",
+      "category": "政策公開與檢驗",
+      "summary": "10/21報導呈現江啟臣、何欣純陣營對辯論協商的不同說法。本輪未取得共同簽認的最終場次及規則，不把任一陣營說法當成已定案。",
+      "steps": [
+        {
+          "speaker": "江啟臣陣營的說法",
+          "text": "表示曾配合主辦方日期及台北棚內場地安排，並主張交叉詰問加入外語，以檢驗國際交流能力。這是陣營對協商的描述。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610210352.aspx"
+          ]
+        },
+        {
+          "speaker": "何欣純陣營的說法",
+          "text": "表示已同意參加並配合協調，但反對強制指定回答語言，並稱不同媒體場次不宜混談；日期仍需協調。報導記載其稱4日或5日安排尚未最終定案。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610210352.aspx"
+          ]
+        },
+        {
+          "speaker": "本站追問",
+          "text": "雙方說法仍有差異，需核對主辦方公告、會議紀錄、實際日期與提問規則；語言與字幕安排應讓選民能理解政策內容。不能先推定拒絕參加、辯論取消或已敲定某日。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610210352.aspx"
+          ]
+        }
+      ],
+      "question": "你希望辯論如何兼顧政策追問、平等發言與不同語言使用者的理解？",
+      "symbol": "◇",
+      "checkedAt": "2026-10-22",
+      "dailyUpdateKind": "new"
+    },
+    {
+      "id": "election-lottery-typhoon-contingency-20261021",
+      "county": null,
+      "districts": [],
+      "relatedNames": [],
+      "date": "2026-10-21",
+      "title": "號次抽籤遇颱風：條件式順延，須按各地選務公告確認",
+      "shortTitle": "抽籤颱風備案怎麼看",
+      "category": "選務提醒",
+      "summary": "新北與桃園大溪已公布10/23若停班的抽籤備案。這是條件式安排，不代表已宣布停班或全台抽籤一律延期；候選人號次仍待實際抽籤與官方公告。",
+      "steps": [
+        {
+          "speaker": "新北市長、議員",
+          "text": "新北選委會說明，原訂10/23辦理；若新北當日停止上班則改10/27，未停班則照常。市長與議員不同梯次，應查原公告時間，不將上午9時套給所有選區。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610210317.aspx"
+          ]
+        },
+        {
+          "speaker": "里長另看區公所通知",
+          "text": "五股區里長抽籤亦列停班則10/27上午9時、原公所9樓場地的備案；不能把市長、議員所在選委會場地當作里長場地。",
+          "sourceUrls": [
+            "https://www.wugu.ntpc.gov.tw/home.jsp?act=be4f48068b2b0031&dataserno=c39f44f3d49a380760bea5c07dd7aec8&id=293645b402fcfb2e&mserno=cdaefacc2ad6165a92f078e89ecc6b8a"
+          ]
+        },
+        {
+          "speaker": "桃園大溪的例子",
+          "text": "大溪公告若10/23停班則順延10/27，報到8:30、抽籤9:00，地點為多目標體育館2樓；是否實際順延仍依停班公告及正式通知。其他地區不能直接套用。",
+          "sourceUrls": [
+            "https://www.daxi.tycg.gov.tw/News_Content.aspx?n=7532&s=1913924"
+          ]
+        },
+        {
+          "speaker": "本站提醒",
+          "text": "前往前核對所屬選委會或公所最新公告及代理抽籤規定，並確認日期、職別、選區與地點。本輪沒有自行預報停班，也不先填尚未抽出的號次。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610210317.aspx",
+            "https://www.wugu.ntpc.gov.tw/home.jsp?act=be4f48068b2b0031&dataserno=c39f44f3d49a380760bea5c07dd7aec8&id=293645b402fcfb2e&mserno=cdaefacc2ad6165a92f078e89ecc6b8a",
+            "https://www.daxi.tycg.gov.tw/News_Content.aspx?n=7532&s=1913924"
+          ]
+        }
+      ],
+      "question": "收到抽籤延期訊息時，你是否核對了所在地、職別及公告的觸發條件？",
+      "symbol": "◇",
+      "checkedAt": "2026-10-22",
+      "dailyUpdateKind": "new"
+    },
+    {
       "id": "taitung-road-investigation-bail-20261021",
       "county": "臺東縣",
       "districts": [],

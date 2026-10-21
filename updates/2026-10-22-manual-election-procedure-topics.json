@@ -1,0 +1,63 @@
+{
+  "entry_id": "2026-10-22-manual-election-procedure-topics",
+  "kind": "manual",
+  "session_label": "辯論協商與颱風選務備案補核",
+  "date": "2026-10-22",
+  "checked_at": "2026-10-22T06:28:27.064840+08:00",
+  "county_scope": [
+    "臺中市",
+    "新北市",
+    "桃園市"
+  ],
+  "accepted_facts": 0,
+  "updated_people": 0,
+  "summary": "新增2則近期選務話題：臺中辯論協商的不同說法，以及抽籤遇颱風條件式備案；不預判停班、不將區域公告推及全台，也不填尚未抽出的號次。",
+  "official_checks": [
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202610210352.aspx",
+      "title": "本輪核讀原始採訪或公所選務公告"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aloc/202610210317.aspx",
+      "title": "本輪核讀原始採訪或公所選務公告"
+    },
+    {
+      "url": "https://www.wugu.ntpc.gov.tw/home.jsp?act=be4f48068b2b0031&dataserno=c39f44f3d49a380760bea5c07dd7aec8&id=293645b402fcfb2e&mserno=cdaefacc2ad6165a92f078e89ecc6b8a",
+      "title": "本輪核讀原始採訪或公所選務公告"
+    },
+    {
+      "url": "https://www.daxi.tycg.gov.tw/News_Content.aspx?n=7532&s=1913924",
+      "title": "本輪核讀原始採訪或公所選務公告"
+    }
+  ],
+  "limitations": [
+    "辯論協商是陣營各自說法，最終日期規則尚待主辦公告。",
+    "抽籤順延條件、梯次與地點依各地職別及選區確認。",
+    "未更動候選人號次、名冊、司法或資格資料。"
+  ],
+  "changes": [],
+  "topic_updates": [
+    {
+      "id": "taichung-debate-coordination-20261021",
+      "title": "臺中市長辯論協商：日期、場地與回答語言如何安排？",
+      "kind": "new",
+      "summary": "10/21報導呈現江啟臣、何欣純陣營對辯論協商的不同說法。本輪未取得共同簽認的最終場次及規則，不把任一陣營說法當成已定案。",
+      "sources": [
+        "https://www.cna.com.tw/news/aipl/202610210352.aspx"
+      ]
+    },
+    {
+      "id": "election-lottery-typhoon-contingency-20261021",
+      "title": "號次抽籤遇颱風：條件式順延，須按各地選務公告確認",
+      "kind": "new",
+      "summary": "新北與桃園大溪已公布10/23若停班的抽籤備案。這是條件式安排，不代表已宣布停班或全台抽籤一律延期；候選人號次仍待實際抽籤與官方公告。",
+      "sources": [
+        "https://www.cna.com.tw/news/aloc/202610210317.aspx",
+        "https://www.wugu.ntpc.gov.tw/home.jsp?act=be4f48068b2b0031&dataserno=c39f44f3d49a380760bea5c07dd7aec8&id=293645b402fcfb2e&mserno=cdaefacc2ad6165a92f078e89ecc6b8a",
+        "https://www.daxi.tycg.gov.tw/News_Content.aspx?n=7532&s=1913924"
+      ]
+    }
+  ],
+  "review_leads_count": 0,
+  "rejected_count": 0
+}
