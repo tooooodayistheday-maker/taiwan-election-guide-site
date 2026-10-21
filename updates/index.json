@@ -1,5 +1,153 @@
 [
   {
+    "entry_id": "2026-10-22-manual-policy-newcomer-details",
+    "kind": "manual",
+    "session_label": "本屆政策條件與基隆缺漏經歷補核",
+    "date": "2026-10-22",
+    "checked_at": "2026-10-22T06:13:16.440210+08:00",
+    "county_scope": [
+      "基隆市",
+      "臺東縣",
+      "嘉義縣",
+      "連江縣"
+    ],
+    "accepted_facts": 12,
+    "updated_people": 8,
+    "summary": "為8位登記者新增12項資料（8項政策、4項經歷），其中3人原先缺少經歷；保留來源日期及政策尚待落實條件。",
+    "official_checks": [
+      {
+        "url": "https://www.cna.com.tw/news/aipl/202610150108.aspx",
+        "title": "本輪核讀官方公告或具名原始報導"
+      },
+      {
+        "url": "https://udn.com/news/story/124652/9805021",
+        "title": "本輪核讀官方公告或具名原始報導"
+      },
+      {
+        "url": "https://udn.com/vote2026/story/124652/9805079",
+        "title": "本輪核讀官方公告或具名原始報導"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aloc/202610080246.aspx",
+        "title": "本輪核讀官方公告或具名原始報導"
+      },
+      {
+        "url": "https://ctinews.com/news/items/q9WPPpAmWm",
+        "title": "本輪核讀官方公告或具名原始報導"
+      },
+      {
+        "url": "https://www.speakupppp.com/article/1780277194200",
+        "title": "本輪核讀官方公告或具名原始報導"
+      },
+      {
+        "url": "https://www.klfd.klcg.gov.tw/tw/klfd1/2024-295220.html",
+        "title": "本輪核讀官方公告或具名原始報導"
+      },
+      {
+        "url": "https://www.klchb.klcg.gov.tw/tw/klchbklnn/1672-315521.html",
+        "title": "本輪核讀官方公告或具名原始報導"
+      }
+    ],
+    "limitations": [
+      "部分原始報導為候選人訊息或政策發表引述，不等於已核定預算、執行成果或職業證照認證。",
+      "基隆新人身分依同區里或本屆議員參選語境核對；不以同名公司資料補履歷。",
+      "魏造文及李昀靜仍缺可匯入的完整履歷，不用家屬資料代替本人經歷。",
+      "未更改司法、資格、姓名或黨籍標籤。"
+    ],
+    "changes": [
+      {
+        "name": "吳秀華",
+        "county": "臺東縣",
+        "field": "policy",
+        "text": "10/15提出以1億元為目標的青創基金，搭配青年專責單位、青創基地與一站式平台，並提婚育住宅、租屋支持。基金來源、申請資格及上路日未載，不視為已成立。",
+        "url": "https://www.cna.com.tw/news/aipl/202610150108.aspx"
+      },
+      {
+        "name": "吳秀華",
+        "county": "臺東縣",
+        "field": "policy",
+        "text": "主張青農培力、智慧農業及防災，並加強冷鏈、加工與對外行銷。個別計畫的經費、設備配置和執行時程仍待公布。",
+        "url": "https://www.cna.com.tw/news/aipl/202610150108.aspx"
+      },
+      {
+        "name": "蔡易餘",
+        "county": "嘉義縣",
+        "field": "policy",
+        "text": "10/9提出爭取台82水上至朴子段拓寬、鹿草端分流與嘉科銜接，檢討BRT及發展水上機場貨運。涉及中央審議和跨機關協調，來源未提供各案正式核定或通車日。",
+        "url": "https://udn.com/news/story/124652/9805021"
+      },
+      {
+        "name": "蔡易餘",
+        "county": "嘉義縣",
+        "field": "policy",
+        "text": "提出推進六腳及南靖排水瓶頸改善，並談新埤滯洪池擴大及後溝尾設施構想。應分案查明用地、財源及工程進度，不能把發表會主張當成完工。",
+        "url": "https://udn.com/news/story/124652/9805021"
+      },
+      {
+        "name": "吳品叡",
+        "county": "嘉義縣",
+        "field": "policy",
+        "text": "10/9主張以整體流域規劃結合上游排水、堤防與分洪；長期工程完成前，抽水及滯洪仍需配合。另要求公開既有工程進度與可立即啟動的工作；原文未列完整預算。",
+        "url": "https://udn.com/vote2026/story/124652/9805079"
+      },
+      {
+        "name": "王忠銘",
+        "county": "連江縣",
+        "field": "policy",
+        "text": "10/8表示在配套未明前不急於贊成或反對松機遷移，應由中央通盤考量，讓離島縣市提出需求，避免犧牲居民權益。屬公共議題立場，不等於機場計畫已核定。",
+        "url": "https://www.cna.com.tw/news/aloc/202610080246.aspx"
+      },
+      {
+        "name": "曹爾元",
+        "county": "連江縣",
+        "field": "policy",
+        "text": "10/8表示反對松機遷移及離島航線改至桃園，認為將增加居民往返交通負擔。本文保留本人立場，不把其時間估計當成本站實測，也不推定中央已有遷移決定。",
+        "url": "https://www.cna.com.tw/news/aloc/202610080246.aspx"
+      },
+      {
+        "name": "林猷青",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2026/9/7媒體引述參選訊息列稱：曾從事體育主播工作（媒體未列完整任職機構及起訖）。",
+        "url": "https://ctinews.com/news/items/q9WPPpAmWm"
+      },
+      {
+        "name": "林猷青",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2026/9/7媒體引述參選訊息列稱：籃球裁判（未另核裁判證照、級別或有效狀態）。",
+        "url": "https://ctinews.com/news/items/q9WPPpAmWm"
+      },
+      {
+        "name": "林猷青",
+        "county": "基隆市",
+        "field": "policy",
+        "text": "9/7參選訊息主張整合義昭里場域與設備，協助修繕、排水及老舊設施問題，規劃運動與休閒活動。未列具體工程、預算及期程，不視為已取得經費。",
+        "url": "https://ctinews.com/news/items/q9WPPpAmWm"
+      },
+      {
+        "name": "林孟泓",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "2026/6/1新聞報導列載：台灣好動體育發展協會理事長（按當時報導身分記錄，未另核完整任期）。",
+        "url": "https://www.speakupppp.com/article/1780277194200"
+      },
+      {
+        "name": "黃博源",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "消防局2024年防災活動紀錄、暖暖區衛生所2026/4/17活動公告列載：基隆市議員連恩典秘書；前者並記載代表暖暖區碇祥里（僅記錄公告時點）。",
+        "url": "https://www.klchb.klcg.gov.tw/tw/klchbklnn/1672-315521.html"
+      }
+    ],
+    "topic_updates": [],
+    "review_leads_count": 2,
+    "rejected_count": 0,
+    "coverage_change": {
+      "new_biographies": 3
+    }
+  },
+  {
     "entry_id": "2026-10-22-manual-current-procedure-topics",
     "kind": "manual",
     "session_label": "近期司法程序與基隆辯論邀請補核",
