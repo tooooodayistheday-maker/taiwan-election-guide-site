@@ -1,5 +1,122 @@
 [
   {
+    "entry_id": "2026-10-22-manual-county-topic-gaps",
+    "kind": "manual",
+    "session_label": "補齊五個零話題縣市與地方政策背景",
+    "date": "2026-10-22",
+    "checked_at": "2026-10-22T06:01:58.710320+08:00",
+    "county_scope": [
+      "桃園市",
+      "嘉義縣",
+      "臺東縣",
+      "金門縣",
+      "連江縣"
+    ],
+    "accepted_facts": 0,
+    "updated_people": 0,
+    "summary": "新增收錄6則有來源的地方話題，22縣市均至少有1則；其中2則近期資料、4則明示為舊事件背景補錄，不宣稱新的政策執行進度。",
+    "official_checks": [
+      {
+        "url": "https://dorts.tycg.gov.tw/News_Content.aspx?n=23116&s=1911181",
+        "title": "本輪核讀原始公告或記者採訪"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aipl/202610150108.aspx",
+        "title": "本輪核讀原始公告或記者採訪"
+      },
+      {
+        "url": "https://udn.com/news/story/124652/9805021",
+        "title": "本輪核讀原始公告或記者採訪"
+      },
+      {
+        "url": "https://udn.com/vote2026/story/124652/9805079",
+        "title": "本輪核讀原始公告或記者採訪"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aipl/202610010173.aspx",
+        "title": "本輪核讀原始公告或記者採訪"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aloc/202610020294.aspx",
+        "title": "本輪核讀原始公告或記者採訪"
+      },
+      {
+        "url": "https://www.wra.gov.tw/wrap/News_Content.aspx?n=26382&s=295436&sms=9834",
+        "title": "本輪核讀原始公告或記者採訪"
+      },
+      {
+        "url": "https://www.wra.gov.tw/wrap/News_Content.aspx?n=26383&s=293548",
+        "title": "本輪核讀原始公告或記者採訪"
+      }
+    ],
+    "limitations": [
+      "話題筆數不是聲量或支持度排名。",
+      "4則舊事件保留原日期及背景補錄說明；未取得新進度者不報喜。",
+      "候選人觀點與本站追問分開，不更改司法及資格標籤。"
+    ],
+    "changes": [],
+    "topic_updates": [
+      {
+        "id": "taoyuan-xintaolin-spur-planning-20261020",
+        "title": "桃園新桃林線支線：說明會後，距離核定與通車還有多遠？",
+        "kind": "new",
+        "summary": "捷工局10/20說明龜山端增設支線構想，目標月底提報可行性研究；站位與行車時間仍須檢討，不能當成已核定或通車承諾。",
+        "sources": [
+          "https://dorts.tycg.gov.tw/News_Content.aspx?n=23116&s=1911181"
+        ]
+      },
+      {
+        "id": "taitung-youth-fund-policy-20261015",
+        "title": "台東1億元青創基金主張：資金、居住與農業如何銜接？",
+        "kind": "new",
+        "summary": "10/15吳秀華提出以1億元為目標的青年創業基金，搭配居住及產業措施。這是競選主張，尚非已成立基金；10/22新增收錄，未宣稱有新執行進度。",
+        "sources": [
+          "https://www.cna.com.tw/news/aipl/202610150108.aspx"
+        ]
+      },
+      {
+        "id": "chiayi-county-water-transport-policy-20261009",
+        "title": "嘉義交通與治水攻防：新願景如何對照既有進度？",
+        "kind": "background",
+        "summary": "10/9蔡易餘提出交通治水方案，吳品叡要求說明既有進度與流域配套。10/22補入這場政策討論背景，沒有新的核定或施工進度。",
+        "sources": [
+          "https://udn.com/news/story/124652/9805021",
+          "https://udn.com/vote2026/story/124652/9805079"
+        ]
+      },
+      {
+        "id": "kinmen-whitepaper-draft-consultation-20261001",
+        "title": "金門政策白皮書：草案徵詢、發布承諾與定案要分開",
+        "kind": "background",
+        "summary": "10/1梁文韜公布芻議並規劃徵詢至10/21、11月初出最終版；陳玉珍陣營稱按規劃分項發布。10/22補入背景，未取得最終版，不提前視為定案。",
+        "sources": [
+          "https://www.cna.com.tw/news/aipl/202610010173.aspx"
+        ]
+      },
+      {
+        "id": "lienchiang-hospital-model-policy-20261002",
+        "title": "馬祖醫療要改制還是新設？兩種部立醫院主張比較",
+        "kind": "background",
+        "summary": "曹爾元主張縣立醫院改制部立；王忠銘主張保留縣立並新設部立、改善後送。10/22補入10/2原始採訪背景，未取得中央核定或醫院改制新進度。",
+        "sources": [
+          "https://www.cna.com.tw/news/aloc/202610020294.aspx"
+        ]
+      },
+      {
+        "id": "chiayi-desalination-fishery-bot-background-20260902",
+        "title": "嘉義海淡廠BOT：供水目標與沿海漁業權益如何並看？",
+        "kind": "background",
+        "summary": "水利署公告可行性評估8/26核定，5月公聽會記錄漁業救濟、鹽度監測與地方回饋需求。10/22補入既有背景；評估核定不等於工程完成或已供水。",
+        "sources": [
+          "https://www.wra.gov.tw/wrap/News_Content.aspx?n=26382&s=295436&sms=9834",
+          "https://www.wra.gov.tw/wrap/News_Content.aspx?n=26383&s=293548"
+        ]
+      }
+    ],
+    "review_leads_count": 0,
+    "rejected_count": 0
+  },
+  {
     "entry_id": "2026-10-21-manual-nantou-yunlin-policies",
     "kind": "manual",
     "session_label": "南投與雲林公開政策原文補核",

@@ -1,7 +1,256 @@
 {
-  "checkedAt": "2026-10-21",
+  "checkedAt": "2026-10-22",
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
+    {
+      "id": "taoyuan-xintaolin-spur-planning-20261020",
+      "county": "桃園市",
+      "districts": [
+        "龜山區"
+      ],
+      "relatedNames": [
+        "張善政"
+      ],
+      "date": "2026-10-20",
+      "title": "桃園新桃林線支線：說明會後，距離核定與通車還有多遠？",
+      "shortTitle": "新桃林線支線仍在規劃",
+      "category": "交通與公共建設",
+      "summary": "捷工局10/20說明龜山端增設支線構想，目標月底提報可行性研究；站位與行車時間仍須檢討，不能當成已核定或通車承諾。",
+      "steps": [
+        {
+          "speaker": "已確認的近期進度",
+          "text": "市府召開地方說明會，研議從機捷A8長庚醫院站銜接，沿文明路、文德路擴大服務工業區及生活圈；此為捷工局發布的規劃說明。",
+          "sourceUrls": [
+            "https://dorts.tycg.gov.tw/News_Content.aspx?n=23116&s=1911181"
+          ]
+        },
+        {
+          "speaker": "目前仍有哪些條件",
+          "text": "公告列月底提報交通部的目標，也明示路線、站位及旅運時間須後續評估，並與新北協調。提報、核定、發包與完工是不同階段。",
+          "sourceUrls": [
+            "https://dorts.tycg.gov.tw/News_Content.aspx?n=23116&s=1911181"
+          ]
+        },
+        {
+          "speaker": "本站追問",
+          "text": "後續應核對交通部收件與審查結果、總經費及分攤、施工影響和轉乘需求。本輪未取得核定文件或確定通車日，不以說明會估算保證實際時間。",
+          "sourceUrls": [
+            "https://dorts.tycg.gov.tw/News_Content.aspx?n=23116&s=1911181"
+          ]
+        }
+      ],
+      "question": "你會先要求看到審查進度、財源，還是施工期間的交通配套？",
+      "dailyUpdateKind": "new",
+      "symbol": "◇",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "taitung-youth-fund-policy-20261015",
+      "county": "臺東縣",
+      "districts": [],
+      "relatedNames": [
+        "吳秀華"
+      ],
+      "date": "2026-10-15",
+      "title": "台東1億元青創基金主張：資金、居住與農業如何銜接？",
+      "shortTitle": "青創基金與青年居住",
+      "category": "青年與地方產業",
+      "summary": "10/15吳秀華提出以1億元為目標的青年創業基金，搭配居住及產業措施。這是競選主張，尚非已成立基金；10/22新增收錄，未宣稱有新執行進度。",
+      "steps": [
+        {
+          "speaker": "候選人提出什麼",
+          "text": "方案包含青創資金、青年專責單位、創業基地與服務平台，以及婚育住宅、租屋補貼；農業部分提科技防災、冷鏈及加工行銷。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610150108.aspx"
+          ]
+        },
+        {
+          "speaker": "金額不等於預算已到位",
+          "text": "原始報導使用基金目標金額，未列核定預算、受理資格、每人補助額或上路日。不能將1億元解讀成每位青年可領金額。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610150108.aspx"
+          ]
+        },
+        {
+          "speaker": "本站追問",
+          "text": "應進一步詢問基金來源、補助或貸款形式、審查與退場機制，以及住宅取得方式與衡量成效的指標。本文不代其他候選人補寫同類立場。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610150108.aspx"
+          ]
+        }
+      ],
+      "question": "如果資源有限，你會如何比較創業資金、租屋支持與穩定就業？",
+      "dailyUpdateKind": "new",
+      "symbol": "◇",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "chiayi-county-water-transport-policy-20261009",
+      "county": "嘉義縣",
+      "districts": [],
+      "relatedNames": [
+        "蔡易餘",
+        "吳品叡"
+      ],
+      "date": "2026-10-09",
+      "title": "嘉義交通與治水攻防：新願景如何對照既有進度？",
+      "shortTitle": "台82、BRT與流域治理",
+      "category": "交通與防災",
+      "summary": "10/9蔡易餘提出交通治水方案，吳品叡要求說明既有進度與流域配套。10/22補入這場政策討論背景，沒有新的核定或施工進度。",
+      "steps": [
+        {
+          "speaker": "蔡易餘的方案",
+          "text": "提出台82拓寬與園區銜接、爭取水上機場貨運發展及BRT檢討，並談排水瓶頸、堤防與滯洪設施。各項仍應分別對照主管機關及計畫進度。",
+          "sourceUrls": [
+            "https://udn.com/news/story/124652/9805021"
+          ]
+        },
+        {
+          "speaker": "吳品叡的回應",
+          "text": "表示支持有助地方的建設，但要求交代過去爭取成果和能立即啟動的工作；治水主張整體流域規劃，並保留抽水、滯洪等過渡防線。這是其政策質疑，不是本站認定施政失敗。",
+          "sourceUrls": [
+            "https://udn.com/vote2026/story/124652/9805079"
+          ]
+        },
+        {
+          "speaker": "本站追問",
+          "text": "可用同一張表比較每案財源、權責、用地、核定和工期，再檢驗短期防洪與長期產業運輸的銜接；未核對的成效數字不列為已完成成果。",
+          "sourceUrls": [
+            "https://udn.com/news/story/124652/9805021",
+            "https://udn.com/vote2026/story/124652/9805079"
+          ]
+        }
+      ],
+      "question": "你最想先看到哪個具體工程的經費、期程與責任分工？",
+      "dailyUpdateKind": "background",
+      "symbol": "◇",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "kinmen-whitepaper-draft-consultation-20261001",
+      "county": "金門縣",
+      "districts": [],
+      "relatedNames": [
+        "梁文韜",
+        "陳玉珍"
+      ],
+      "date": "2026-10-01",
+      "title": "金門政策白皮書：草案徵詢、發布承諾與定案要分開",
+      "shortTitle": "白皮書草案與中央權責",
+      "category": "政策公開與檢驗",
+      "summary": "10/1梁文韜公布芻議並規劃徵詢至10/21、11月初出最終版；陳玉珍陣營稱按規劃分項發布。10/22補入背景，未取得最終版，不提前視為定案。",
+      "steps": [
+        {
+          "speaker": "草案的時間與內容",
+          "text": "梁文韜公開跨領域白皮書芻議，包含金廈和平主張。原報導把意見徵詢及最終版日期分列；徵詢期屆滿不等於最終版已發布。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610010173.aspx"
+          ]
+        },
+        {
+          "speaker": "另一陣營如何說",
+          "text": "陳玉珍辦公室表示，能以立委職務爭取者先向中央爭取，需縣府推動者列未來政策，並將依規劃公布不同領域主張。這是陣營說明，非完整方案已交付的證明。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610010173.aspx"
+          ]
+        },
+        {
+          "speaker": "本站追問",
+          "text": "兩岸談判涉及中央權責，候選人亦承認不能強迫中央；比較時應核對地方可做事項、協調機制與正式版本，不把縣長當選視為談判必然成立。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610010173.aspx"
+          ]
+        }
+      ],
+      "question": "你希望白皮書用什麼格式，清楚交代地方權限、經費與執行時程？",
+      "dailyUpdateKind": "background",
+      "symbol": "◇",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "lienchiang-hospital-model-policy-20261002",
+      "county": "連江縣",
+      "districts": [],
+      "relatedNames": [
+        "曹爾元",
+        "王忠銘"
+      ],
+      "date": "2026-10-02",
+      "title": "馬祖醫療要改制還是新設？兩種部立醫院主張比較",
+      "shortTitle": "縣立改制與保留新設",
+      "category": "醫療與離島生活",
+      "summary": "曹爾元主張縣立醫院改制部立；王忠銘主張保留縣立並新設部立、改善後送。10/22補入10/2原始採訪背景，未取得中央核定或醫院改制新進度。",
+      "steps": [
+        {
+          "speaker": "曹爾元主張改制",
+          "text": "認為改制有助專科人力流動與照護品質，並需協商醫保生返鄉服務和衛生所支援；他質疑並存兩院可能造成資源分散。上述為候選人判斷。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610020294.aspx"
+          ]
+        },
+        {
+          "speaker": "王忠銘主張保留再新設",
+          "text": "支持在保留縣立醫院下另設部立，也強調重大傷病後送。其理由包括在地醫事人員、既有支援制度與預算彈性，並非反對部立醫院本身。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610020294.aspx"
+          ]
+        },
+        {
+          "speaker": "本站追問",
+          "text": "應請中央與地方說明醫師配置、急重症後送、院所分工、建置及常年營運費用，避免只比較「部立」名稱。現有資料不足以認定哪案一定較省錢或較有效。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610020294.aspx"
+          ]
+        }
+      ],
+      "question": "對你而言，醫療改革最優先的指標是留住醫師、等候時間，還是後送可靠度？",
+      "dailyUpdateKind": "background",
+      "symbol": "◇",
+      "checkedAt": "2026-10-22"
+    },
+    {
+      "id": "chiayi-desalination-fishery-bot-background-20260902",
+      "county": "嘉義縣",
+      "districts": [
+        "布袋鎮"
+      ],
+      "relatedNames": [
+        "蔡易餘"
+      ],
+      "date": "2026-09-02",
+      "title": "嘉義海淡廠BOT：供水目標與沿海漁業權益如何並看？",
+      "shortTitle": "海淡廠供水與漁業監測",
+      "category": "水資源與環境",
+      "summary": "水利署公告可行性評估8/26核定，5月公聽會記錄漁業救濟、鹽度監測與地方回饋需求。10/22補入既有背景；評估核定不等於工程完成或已供水。",
+      "steps": [
+        {
+          "speaker": "核定的是哪份文件",
+          "text": "9/2公告的是BOT可行性評估報告，並說明公開徵求民間參與前的揭露程序；不能只因「核定」二字推定已完成招商、施工或供水。",
+          "sourceUrls": [
+            "https://www.wra.gov.tw/wrap/News_Content.aspx?n=26382&s=295436&sms=9834"
+          ]
+        },
+        {
+          "speaker": "地方關心什麼",
+          "text": "5/28公聽會紀錄列出漁業救濟、鹽度監測、水質及地方回饋等關切，署方提出先救濟再興建的規劃原則；紀錄不等於補償已發放或監測已驗收。",
+          "sourceUrls": [
+            "https://www.wra.gov.tw/wrap/News_Content.aspx?n=26383&s=293548"
+          ]
+        },
+        {
+          "speaker": "本站追問",
+          "text": "後續應持續核對監測基準、異常處置、漁民參與、費率和契約風險分擔。本輪未逐頁審完可行性報告或取得新工程進度，不判定環境影響已解決。",
+          "sourceUrls": [
+            "https://www.wra.gov.tw/wrap/News_Content.aspx?n=26382&s=295436&sms=9834",
+            "https://www.wra.gov.tw/wrap/News_Content.aspx?n=26383&s=293548"
+          ]
+        }
+      ],
+      "question": "你希望供水建設公開哪些監測與契約資訊，才能兼顧沿海生計？",
+      "dailyUpdateKind": "background",
+      "symbol": "◇",
+      "checkedAt": "2026-10-22"
+    },
     {
       "id": "nantou-transport-connections-policy-20261015",
       "symbol": "◇",
