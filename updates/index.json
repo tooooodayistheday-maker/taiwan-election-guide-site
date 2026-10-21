@@ -1,5 +1,166 @@
 [
   {
+    "entry_id": "2026-10-21-manual-changhua-bios-policy-context",
+    "kind": "manual",
+    "session_label": "機關履歷與政策條件補核",
+    "date": "2026-10-21",
+    "checked_at": "2026-10-21T17:36:04.340636+08:00",
+    "county_scope": [
+      "苗栗縣",
+      "彰化縣"
+    ],
+    "accepted_facts": 17,
+    "updated_people": 6,
+    "summary": "補充2人12項機關頁學經歷及5位縣長參選人各1組政策，共17項資料、涉及6人；保留肄業、補助分類與政策條件。",
+    "official_checks": [
+      {
+        "url": "https://www.changhua.gov.tw/Content/45",
+        "title": "本輪人工核讀的機關頁或原始採訪"
+      },
+      {
+        "url": "https://www.chcc.gov.tw/member/details.aspx?Parser=99,6,40,,,,142",
+        "title": "本輪人工核讀的機關頁或原始採訪"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aloc/202609240221.aspx",
+        "title": "本輪人工核讀的機關頁或原始採訪"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aloc/202609280143.aspx",
+        "title": "本輪人工核讀的機關頁或原始採訪"
+      }
+    ],
+    "limitations": [
+      "機關履歷頁不是獨立學位或目前執照查驗；舊職務保留來源時點。",
+      "政策原提案日期保留，10/21是核讀日期。",
+      "醫療性凍精主張1萬元，不沿用標題最高8萬元；任何申領條件待正式制度確認。"
+    ],
+    "changes": [
+      {
+        "name": "林世賢",
+        "county": "彰化縣",
+        "field": "education",
+        "text": "彰化市公所2024/4/16更新頁刊載：國立屏東農專獸醫科",
+        "url": "https://www.changhua.gov.tw/Content/45"
+      },
+      {
+        "name": "林世賢",
+        "county": "彰化縣",
+        "field": "education",
+        "text": "彰化市公所2024/4/16更新頁刊載：臺灣大學政治所碩士在職專班肄業",
+        "url": "https://www.changhua.gov.tw/Content/45"
+      },
+      {
+        "name": "林世賢",
+        "county": "彰化縣",
+        "field": "experience",
+        "text": "彰化市公所2024/4/16更新頁刊載：彰化縣議會第十八屆縣議員",
+        "url": "https://www.changhua.gov.tw/Content/45"
+      },
+      {
+        "name": "林世賢",
+        "county": "彰化縣",
+        "field": "experience",
+        "text": "彰化市公所2024/4/16更新頁刊載：彰化環保聯盟理事長",
+        "url": "https://www.changhua.gov.tw/Content/45"
+      },
+      {
+        "name": "林世賢",
+        "county": "彰化縣",
+        "field": "experience",
+        "text": "彰化市公所2024/4/16更新頁刊載：賴和文教基金會董事",
+        "url": "https://www.changhua.gov.tw/Content/45"
+      },
+      {
+        "name": "林世賢",
+        "county": "彰化縣",
+        "field": "experience",
+        "text": "彰化市公所2024/4/16更新頁刊載：彰化縣動物防疫所公務員",
+        "url": "https://www.changhua.gov.tw/Content/45"
+      },
+      {
+        "name": "陳重嘉",
+        "county": "彰化縣",
+        "field": "education",
+        "text": "彰化縣議會第20屆議員頁刊載（10/21核讀）：美國海斯堡州立大學通識學士",
+        "url": "https://www.chcc.gov.tw/member/details.aspx?Parser=99,6,40,,,,142"
+      },
+      {
+        "name": "陳重嘉",
+        "county": "彰化縣",
+        "field": "education",
+        "text": "彰化縣議會第20屆議員頁刊載（10/21核讀）：大葉大學電機工程學系碩士",
+        "url": "https://www.chcc.gov.tw/member/details.aspx?Parser=99,6,40,,,,142"
+      },
+      {
+        "name": "陳重嘉",
+        "county": "彰化縣",
+        "field": "experience",
+        "text": "彰化縣議會第20屆議員頁刊載（10/21核讀）：富慶集團啟華科技總經理特助",
+        "url": "https://www.chcc.gov.tw/member/details.aspx?Parser=99,6,40,,,,142"
+      },
+      {
+        "name": "陳重嘉",
+        "county": "彰化縣",
+        "field": "experience",
+        "text": "彰化縣議會第20屆議員頁刊載（10/21核讀）：永晉集團永晉燈飾總經理特助",
+        "url": "https://www.chcc.gov.tw/member/details.aspx?Parser=99,6,40,,,,142"
+      },
+      {
+        "name": "陳重嘉",
+        "county": "彰化縣",
+        "field": "experience",
+        "text": "彰化縣議會第20屆議員頁刊載（10/21核讀）：阡富科技執行長",
+        "url": "https://www.chcc.gov.tw/member/details.aspx?Parser=99,6,40,,,,142"
+      },
+      {
+        "name": "陳重嘉",
+        "county": "彰化縣",
+        "field": "experience",
+        "text": "彰化縣議會第20屆議員頁刊載（10/21核讀）：彰化縣第17、18、19屆縣議員",
+        "url": "https://www.chcc.gov.tw/member/details.aspx?Parser=99,6,40,,,,142"
+      },
+      {
+        "name": "陳品安",
+        "county": "苗栗縣",
+        "field": "policy",
+        "text": "9/24承諾人工生殖及醫療性凍卵各補助8萬元，醫療性凍精補助1萬元；8萬元方案含手術與保管費，不能把標題的最高金額套用到全部項目。",
+        "url": "https://www.cna.com.tw/news/aloc/202609240221.aspx"
+      },
+      {
+        "name": "魏平政",
+        "county": "彰化縣",
+        "field": "policy",
+        "text": "9/28提出當選後補助全縣65歲以上、原住民55歲以上長者健保費，及每鄉鎮設公立失智日照中心等方向，並談長青卡交通服務。",
+        "url": "https://www.cna.com.tw/news/aloc/202609280143.aspx"
+      },
+      {
+        "name": "陳素月",
+        "county": "彰化縣",
+        "field": "policy",
+        "text": "9/28團隊說明教育政策的行政減量、專業支持、法律協助及校園安全四方向，並承諾推動每校配置保全。",
+        "url": "https://www.cna.com.tw/news/aloc/202609280143.aspx"
+      },
+      {
+        "name": "邱建富",
+        "county": "彰化縣",
+        "field": "policy",
+        "text": "9/28發布主張，包含教師節禮金提高至1000元、行政數位化，以及增加校園心理師、社工，另談學校特色與技職合作。",
+        "url": "https://www.cna.com.tw/news/aloc/202609280143.aspx"
+      },
+      {
+        "name": "陳重嘉",
+        "county": "彰化縣",
+        "field": "policy",
+        "text": "9/28公開主張依各鄉鎮條件重新規劃產業，並談以臨時社宅配合居民安置及老舊街區更新；原文是構想，沒有個別核定基地或完整實施方案。",
+        "url": "https://www.cna.com.tw/news/aloc/202609280143.aspx"
+      }
+    ],
+    "topic_updates": [],
+    "review_leads_count": 0,
+    "rejected_count": 0
+  },
+  {
     "entry_id": "2026-10-21-manual-miaoli-accessibility-recovery",
     "kind": "manual",
     "session_label": "ODS附件人工補核與交通來源複核",
