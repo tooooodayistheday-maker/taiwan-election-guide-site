@@ -3,6 +3,98 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "taitung-road-investigation-bail-20261021",
+      "county": "臺東縣",
+      "districts": [],
+      "relatedNames": [
+        "吳秀華",
+        "陳瑩"
+      ],
+      "date": "2026-10-21",
+      "title": "臺東農路案：吳俊立500萬元交保，候選人的回應如何看？",
+      "shortTitle": "交保裁定與選舉攻防分開",
+      "category": "選舉與司法",
+      "summary": "10/21晚間報導記載吳俊立交保、受科技監控，檢方表示將抗告。涉案者、親屬與參選人身分分開呈現；這是偵查及強制處分程序，不是有罪定讞。",
+      "steps": [
+        {
+          "speaker": "案由與時間",
+          "text": "檢調偵辦知本農路拓寬是否圖利渡假村，10/20約談吳俊立並搜索吳秀華服務處。本文依記者採訪整理，尚未取得完整裁定或偵查卷證。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/asoc/202610200122.aspx",
+            "https://www.cna.com.tw/news/asoc/202610210313.aspx"
+          ]
+        },
+        {
+          "speaker": "10/21晚間已知程序",
+          "text": "吳俊立否認犯行。法院認為罪嫌重大，但可透過500萬元具保、境管和科技監控降低風險，無羈押必要；檢方表示將抗告，未取得抗告結果。交保也不是無罪判決。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/asoc/202610210313.aspx"
+          ]
+        },
+        {
+          "speaker": "候選人回應",
+          "text": "吳秀華是吳俊立胞妹，表示尊重司法、盼排除政治干擾並持續參選；陳瑩要求說明開發、土地及資金流向。兩方說法均不能取代法院對個別責任的認定。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/asoc/202610210313.aspx",
+            "https://www.cna.com.tw/news/asoc/202610200122.aspx"
+          ]
+        },
+        {
+          "speaker": "本站如何標示",
+          "text": "不因親屬、助理或服務處涉入，就將他人的指控算成候選人前科。本輪只補程序與回應話題，不調整吳秀華或陳瑩的司法、資格標籤；後續需查抗告與偵結。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/asoc/202610210313.aspx",
+            "https://www.cna.com.tw/news/asoc/202610200122.aspx"
+          ]
+        }
+      ],
+      "question": "你會要求候選人公開哪些公共工程與利益迴避資料，同時保留個別責任和無罪推定？",
+      "symbol": "◇",
+      "checkedAt": "2026-10-22",
+      "dailyUpdateKind": "new"
+    },
+    {
+      "id": "keelung-debate-invitation-estimate-20261021",
+      "county": "基隆市",
+      "districts": [],
+      "relatedNames": [
+        "謝國樑",
+        "童子瑋"
+      ],
+      "date": "2026-10-21",
+      "title": "基隆市長辯論邀請：候選人自估票數，與民調有何不同？",
+      "shortTitle": "辯論邀請尚待共同確認",
+      "category": "政策公開與檢驗",
+      "summary": "10/21謝國樑在專訪邀童子瑋辯論，並自行估計得票率52%至54%。這不是本站預測，也不是已確認辯論日程或一份新民調。",
+      "steps": [
+        {
+          "speaker": "可以確認的發言",
+          "text": "中央社記載謝國樑在受訪時提出同台辯論捷運等議題，並表達自己對選情的估計。本站只把它列為本人公開發言。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610210162.aspx"
+          ]
+        },
+        {
+          "speaker": "還不能確認什麼",
+          "text": "這篇採訪沒有載明雙方共同敲定的場次、規則或日期，也未提供這個估票範圍對應的新調查方法。因此不能據此寫成辯論已排定，或全體選民支持度。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610210162.aspx"
+          ]
+        },
+        {
+          "speaker": "本站追問",
+          "text": "後續應核對各陣營回覆、主辦方正式公告與完整回看；若引用民調，另列委託單位、時間、抽樣及未表態者處理。候選人的自估不能代替實際投票結果。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610210162.aspx"
+          ]
+        }
+      ],
+      "question": "你希望辯論用相同問題、財源與時程，如何比較每位候選人的承諾？",
+      "symbol": "◇",
+      "checkedAt": "2026-10-22",
+      "dailyUpdateKind": "new"
+    },
+    {
       "id": "taoyuan-xintaolin-spur-planning-20261020",
       "county": "桃園市",
       "districts": [

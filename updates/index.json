@@ -1,5 +1,376 @@
 [
   {
+    "entry_id": "2026-10-22-manual-current-procedure-topics",
+    "kind": "manual",
+    "session_label": "近期司法程序與基隆辯論邀請補核",
+    "date": "2026-10-22",
+    "checked_at": "2026-10-22T06:09:40.091727+08:00",
+    "county_scope": [
+      "臺東縣",
+      "基隆市"
+    ],
+    "accepted_facts": 0,
+    "updated_people": 0,
+    "summary": "新增2則10/21近期話題：臺東農路案交保後續及雙方回應、基隆辯論邀請與候選人自估範圍；不推論定罪、抗告結果、民調或已敲定辯論。",
+    "official_checks": [
+      {
+        "url": "https://www.cna.com.tw/news/asoc/202610210313.aspx",
+        "title": "中央社原始採訪與法院說明轉述"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/asoc/202610200122.aspx",
+        "title": "中央社原始採訪與法院說明轉述"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aloc/202610210162.aspx",
+        "title": "中央社原始採訪與法院說明轉述"
+      }
+    ],
+    "limitations": [
+      "司法話題尚未取得完整裁定或抗告結果，不代替個別刑責查核。",
+      "親屬或助理的涉案，不是候選人本人前科證據。",
+      "自估票數並非本站支持度或預測，單方辯論邀請不等於正式場次。"
+    ],
+    "changes": [],
+    "topic_updates": [
+      {
+        "id": "taitung-road-investigation-bail-20261021",
+        "title": "臺東農路案：吳俊立500萬元交保，候選人的回應如何看？",
+        "kind": "new",
+        "summary": "10/21晚間報導記載吳俊立交保、受科技監控，檢方表示將抗告。涉案者、親屬與參選人身分分開呈現；這是偵查及強制處分程序，不是有罪定讞。",
+        "sources": [
+          "https://www.cna.com.tw/news/asoc/202610200122.aspx",
+          "https://www.cna.com.tw/news/asoc/202610210313.aspx"
+        ]
+      },
+      {
+        "id": "keelung-debate-invitation-estimate-20261021",
+        "title": "基隆市長辯論邀請：候選人自估票數，與民調有何不同？",
+        "kind": "new",
+        "summary": "10/21謝國樑在專訪邀童子瑋辯論，並自行估計得票率52%至54%。這不是本站預測，也不是已確認辯論日程或一份新民調。",
+        "sources": [
+          "https://www.cna.com.tw/news/aloc/202610210162.aspx"
+        ]
+      }
+    ],
+    "review_leads_count": 0,
+    "rejected_count": 0
+  },
+  {
+    "entry_id": "2026-10-22-manual-keelung-village-experience",
+    "kind": "manual",
+    "session_label": "基隆信義區里長經歷細項補核",
+    "date": "2026-10-22",
+    "checked_at": "2026-10-22T06:08:41.598926+08:00",
+    "county_scope": [
+      "基隆市"
+    ],
+    "accepted_facts": 34,
+    "updated_people": 12,
+    "summary": "為12位里長登記者補充34項原摘要未收錄的明確職務、訓練或評選紀錄，均註明介紹頁2023/12/14更新與非現職認證限制。",
+    "official_checks": [
+      {
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265420.html",
+        "title": "信義區公所・仁壽里里長張富凱介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265421.html",
+        "title": "信義區公所・仁義里里長王柏力介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265443.html",
+        "title": "信義區公所・義昭里里長童冠睿介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265441.html",
+        "title": "信義區公所・義民里里長連轉旺介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265440.html",
+        "title": "信義區公所・義和里里長蔡麗月介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265439.html",
+        "title": "信義區公所・智慧里里長蔡美玉介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265437.html",
+        "title": "信義區公所・禮儀里里長郭金德介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265436.html",
+        "title": "信義區公所・禮東里里長賴興泉介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265435.html",
+        "title": "信義區公所・信綠里里長吳銘達介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265431.html",
+        "title": "信義區公所・東明里里長翁誠鍾介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265428.html",
+        "title": "信義區公所・東安里里長林睿騰介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265434.html",
+        "title": "信義區公所・東信里里長賴姵綺介紹（學經歷欄）"
+      }
+    ],
+    "limitations": [
+      "不從單獨機構名稱推定任職職稱。",
+      "訓練結訓和績優評選不等於目前證照有效、服務品質或完整履歷認證。",
+      "保留原有學歷、政見、黨籍、司法及資格資料。"
+    ],
+    "changes": [
+      {
+        "name": "張富凱",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "信義區公所介紹頁（2023/12/14更新）經歷欄列載：Youtube頻道A.K.A市長創辦人；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265420.html"
+      },
+      {
+        "name": "王柏力",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "信義區公所介紹頁（2023/12/14更新）經歷欄列載：基隆市信義區衛生所運動保健師；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265421.html"
+      },
+      {
+        "name": "王柏力",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "信義區公所介紹頁（2023/12/14更新）經歷欄列載：基隆市跆拳道委員會副主任委員；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265421.html"
+      },
+      {
+        "name": "童冠睿",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "信義區公所介紹頁（2023/12/14更新）經歷欄列載：第21屆義昭里里長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265443.html"
+      },
+      {
+        "name": "連轉旺",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "信義區公所介紹頁（2023/12/14更新）經歷欄列載：基隆市環保局環保志工小隊長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265441.html"
+      },
+      {
+        "name": "蔡麗月",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "信義區公所介紹頁（2023/12/14更新）經歷欄列載：基隆市溫馨家族朝陽愛心社會員；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265440.html"
+      },
+      {
+        "name": "蔡美玉",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "信義區公所介紹頁（2023/12/14更新）經歷欄列載：基隆市總工會副理事長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265439.html"
+      },
+      {
+        "name": "蔡美玉",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "信義區公所介紹頁（2023/12/14更新）經歷欄列載：基隆市縫紉業職業工會理事長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265439.html"
+      },
+      {
+        "name": "蔡美玉",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "信義區公所介紹頁（2023/12/14更新）經歷欄列載：基隆市信義區智慧社區發展協會理事；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265439.html"
+      },
+      {
+        "name": "郭金德",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "信義區公所介紹頁（2023/12/14更新）經歷欄列載：基隆市中央獅子會秘書；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265437.html"
+      },
+      {
+        "name": "郭金德",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "信義區公所介紹頁（2023/12/14更新）經歷欄列載：基隆市後備指揮部信義區輔導中心主任；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265437.html"
+      },
+      {
+        "name": "賴興泉",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "信義區公所介紹頁（2023/12/14更新）經歷欄列載：基隆市賴姓宗親會總幹事；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265436.html"
+      },
+      {
+        "name": "賴興泉",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "信義區公所介紹頁（2023/12/14更新）經歷欄列載：基隆市拋磚愛心社社員代表；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265436.html"
+      },
+      {
+        "name": "賴興泉",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "信義區公所介紹頁（2023/12/14更新）經歷欄列載：土石流防災專員；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265436.html"
+      },
+      {
+        "name": "賴興泉",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "信義區公所介紹頁（2023/12/14更新）經歷欄列載：麗旭宮委員；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265436.html"
+      },
+      {
+        "name": "吳銘達",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "信義區公所介紹頁（2023/12/14更新）經歷欄列載：基隆市柔力球體健協會理事長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265435.html"
+      },
+      {
+        "name": "吳銘達",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "信義區公所介紹頁（2023/12/14更新）經歷欄列載：歷屆里長協進會信義區聯絡人；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265435.html"
+      },
+      {
+        "name": "吳銘達",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "信義區公所介紹頁（2023/12/14更新）經歷欄列載：基隆市信義區信綠社區發展協會理事長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265435.html"
+      },
+      {
+        "name": "翁誠鍾",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "信義區公所介紹頁（2023/12/14更新）經歷欄列載：救國團委員；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265431.html"
+      },
+      {
+        "name": "翁誠鍾",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "信義區公所介紹頁（2023/12/14更新）經歷欄列載：衛生福利部健康諮詢委員；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265431.html"
+      },
+      {
+        "name": "林睿騰",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "信義區公所介紹頁（2023/12/14更新）經歷欄列載：信義區青工會理事；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265428.html"
+      },
+      {
+        "name": "林睿騰",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "信義區公所介紹頁（2023/12/14更新）經歷欄列載：東光警友站顧問；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265428.html"
+      },
+      {
+        "name": "林睿騰",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "信義區公所介紹頁（2023/12/14更新）經歷欄列載：後備第427期幹部訓練班結訓；屬原頁訓練或評選紀錄，非目前證照效期認證。",
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265428.html"
+      },
+      {
+        "name": "林睿騰",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "信義區公所介紹頁（2023/12/14更新）經歷欄列載：後備幹部安全專業訓練班第225期結訓；屬原頁訓練或評選紀錄，非目前證照效期認證。",
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265428.html"
+      },
+      {
+        "name": "林睿騰",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "信義區公所介紹頁（2023/12/14更新）經歷欄列載：基隆市拋磚愛心社社員代表；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265428.html"
+      },
+      {
+        "name": "林睿騰",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "信義區公所介紹頁（2023/12/14更新）經歷欄列載：基隆市110年信義區績優里長；屬原頁訓練或評選紀錄，非目前證照效期認證。",
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265428.html"
+      },
+      {
+        "name": "賴姵綺",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "信義區公所介紹頁（2023/12/14更新）經歷欄列載：文化大學進修講師；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265434.html"
+      },
+      {
+        "name": "賴姵綺",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "信義區公所介紹頁（2023/12/14更新）經歷欄列載：勞動部技術士技能監評；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265434.html"
+      },
+      {
+        "name": "賴姵綺",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "信義區公所介紹頁（2023/12/14更新）經歷欄列載：市府兩性平等委員；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265434.html"
+      },
+      {
+        "name": "賴姵綺",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "信義區公所介紹頁（2023/12/14更新）經歷欄列載：婦聯會主委；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265434.html"
+      },
+      {
+        "name": "賴姵綺",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "信義區公所介紹頁（2023/12/14更新）經歷欄列載：青工會會長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265434.html"
+      },
+      {
+        "name": "賴姵綺",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "信義區公所介紹頁（2023/12/14更新）經歷欄列載：救國團會長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265434.html"
+      },
+      {
+        "name": "賴姵綺",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "信義區公所介紹頁（2023/12/14更新）經歷欄列載：體育會信義區總幹事；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265434.html"
+      },
+      {
+        "name": "賴姵綺",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "信義區公所介紹頁（2023/12/14更新）經歷欄列載：信義區績優里長；屬原頁訓練或評選紀錄，非目前證照效期認證。",
+        "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265434.html"
+      }
+    ],
+    "topic_updates": [],
+    "review_leads_count": 0,
+    "rejected_count": 0,
+    "coverage_change": {
+      "new_biographies": 0
+    }
+  },
+  {
     "entry_id": "2026-10-22-manual-keelung-village-education",
     "kind": "manual",
     "session_label": "基隆里長介紹頁學歷欄補核",

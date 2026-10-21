@@ -1,0 +1,57 @@
+{
+  "entry_id": "2026-10-22-manual-current-procedure-topics",
+  "kind": "manual",
+  "session_label": "近期司法程序與基隆辯論邀請補核",
+  "date": "2026-10-22",
+  "checked_at": "2026-10-22T06:09:40.091727+08:00",
+  "county_scope": [
+    "臺東縣",
+    "基隆市"
+  ],
+  "accepted_facts": 0,
+  "updated_people": 0,
+  "summary": "新增2則10/21近期話題：臺東農路案交保後續及雙方回應、基隆辯論邀請與候選人自估範圍；不推論定罪、抗告結果、民調或已敲定辯論。",
+  "official_checks": [
+    {
+      "url": "https://www.cna.com.tw/news/asoc/202610210313.aspx",
+      "title": "中央社原始採訪與法院說明轉述"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/asoc/202610200122.aspx",
+      "title": "中央社原始採訪與法院說明轉述"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aloc/202610210162.aspx",
+      "title": "中央社原始採訪與法院說明轉述"
+    }
+  ],
+  "limitations": [
+    "司法話題尚未取得完整裁定或抗告結果，不代替個別刑責查核。",
+    "親屬或助理的涉案，不是候選人本人前科證據。",
+    "自估票數並非本站支持度或預測，單方辯論邀請不等於正式場次。"
+  ],
+  "changes": [],
+  "topic_updates": [
+    {
+      "id": "taitung-road-investigation-bail-20261021",
+      "title": "臺東農路案：吳俊立500萬元交保，候選人的回應如何看？",
+      "kind": "new",
+      "summary": "10/21晚間報導記載吳俊立交保、受科技監控，檢方表示將抗告。涉案者、親屬與參選人身分分開呈現；這是偵查及強制處分程序，不是有罪定讞。",
+      "sources": [
+        "https://www.cna.com.tw/news/asoc/202610200122.aspx",
+        "https://www.cna.com.tw/news/asoc/202610210313.aspx"
+      ]
+    },
+    {
+      "id": "keelung-debate-invitation-estimate-20261021",
+      "title": "基隆市長辯論邀請：候選人自估票數，與民調有何不同？",
+      "kind": "new",
+      "summary": "10/21謝國樑在專訪邀童子瑋辯論，並自行估計得票率52%至54%。這不是本站預測，也不是已確認辯論日程或一份新民調。",
+      "sources": [
+        "https://www.cna.com.tw/news/aloc/202610210162.aspx"
+      ]
+    }
+  ],
+  "review_leads_count": 0,
+  "rejected_count": 0
+}
