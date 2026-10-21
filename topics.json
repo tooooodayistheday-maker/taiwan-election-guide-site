@@ -3,6 +3,86 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "hsinchu-antibribery-briefing-20261020",
+      "symbol": "◇",
+      "county": "新竹市",
+      "districts": [],
+      "relatedNames": [],
+      "title": "新竹市10月27日反賄選說明會：宣導不等於個案涉案證據",
+      "shortTitle": "反賄選說明會與判讀",
+      "category": "選舉程序與司法界線",
+      "date": "2026-10-20",
+      "eventDate": "2026-10-27",
+      "checkedAt": "2026-10-21",
+      "summary": "新竹選委會10/20公告，10/27將在新竹市稅務大樓辦理地方選舉反賄選說明會，由新竹地檢署檢察官說明常見態樣與案例。本次未核讀DOC程序表，不補寫活動時間。",
+      "steps": [
+        {
+          "speaker": "公告確認的安排",
+          "text": "選委會公告列10/27、新竹市稅務大樓，邀請臺灣新竹地方檢察署郭逵檢察官主講常見賄選態樣與案例。附件是DOC程序表；本輪僅核對網頁本文，未把附件未讀到的報到或開始時間補成確定資訊。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/hcec/article/65255"
+          ]
+        },
+        {
+          "speaker": "公告列的宣導範圍",
+          "text": "公告提醒現金、禮品、飲宴、旅遊或其他利益及透過親友、地方團體等管道，可能涉及選罷法相關規定。這是宣導說明，不能僅因活動有餐點、送禮或參加旅遊就自行判定個案成立賄選。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/hcec/article/65255"
+          ]
+        },
+        {
+          "speaker": "與候選人前科分開",
+          "text": "舉辦或受邀參加反賄選宣導，不是某位候選人遭偵辦、起訴或定罪的證據。本話題不替任何人新增刑事標籤；個案身分、程序與是否確定判決，仍須各自核對原始資料。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/hcec/article/65255"
+          ]
+        }
+      ],
+      "question": "選委會能否公開可回看教材、案例條件及諮詢窗口，方便選民把宣導與個案事實分開？",
+      "dailyUpdateKind": "new"
+    },
+    {
+      "id": "keelung-polling-accessibility-check-20261019",
+      "symbol": "◇",
+      "county": "基隆市",
+      "districts": [],
+      "relatedNames": [],
+      "title": "基隆投票所無障礙檢核：284處符合、4處列簡易設施改善",
+      "shortTitle": "投票所無障礙檢核",
+      "category": "投票權與無障礙",
+      "date": "2026-10-19",
+      "eventDate": "2026-10-19",
+      "checkedAt": "2026-10-21",
+      "summary": "基隆選委會10/19公開的統計表列288處投票所：284處檢核符合規定、4處列設置簡易無障礙設施。這是公告統計，不是逐處現場複查完成或全程通行保證。",
+      "steps": [
+        {
+          "speaker": "原始PDF的統計口徑",
+          "text": "PDF第1頁合計288處，符合規定284處；不符合規定的改善方式中，設置簡易無障礙設施4處，專人協助及其他均為0。四處分布為信義區2、仁愛區1、安樂區1；不能把284寫成全市投票所總數。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/klec/article/65238",
+            "https://web.cec.gov.tw/api/file/cca70145-bedd-4ec3-8ee3-367c86e8c911.pdf"
+          ]
+        },
+        {
+          "speaker": "暖暖及其他區別",
+          "text": "暖暖區列30處、全列符合規定；中正42處、中山39處、七堵44處亦全列符合規定。這只是本表的檢核分類，不代表所有出發地至投票所的交通、路面或個別協助需求都已逐一核實。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/api/file/cca70145-bedd-4ec3-8ee3-367c86e8c911.pdf"
+          ]
+        },
+        {
+          "speaker": "公開日期與待查",
+          "text": "10/19是來源網頁的公開日期，10/21是本站閱讀核對日。PDF沒有逐一列出四處名稱、改善驗收日期與動線，也未在表上另列檢核日；尚不能說四處改善已全部完成。需要時仍應向選委會確認個別投票所及適合的協助方式。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/klec/article/65238",
+            "https://web.cec.gov.tw/api/file/cca70145-bedd-4ec3-8ee3-367c86e8c911.pdf"
+          ]
+        }
+      ],
+      "question": "四處簡易設施改善的具體地點、驗收及現場指引，能否另有可查閱的公開資料？",
+      "dailyUpdateKind": "new"
+    },
+    {
       "id": "hsinchu-ballot-draw-typhoon-20261021",
       "symbol": "◇",
       "relatedNames": [],

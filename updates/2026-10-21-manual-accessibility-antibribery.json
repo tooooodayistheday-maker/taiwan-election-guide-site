@@ -1,0 +1,57 @@
+{
+  "entry_id": "2026-10-21-manual-accessibility-antibribery",
+  "kind": "manual",
+  "session_label": "基隆無障礙與新竹選務文件補核",
+  "date": "2026-10-21",
+  "checked_at": "2026-10-21T14:55:54.461283+08:00",
+  "county_scope": [
+    "基隆市",
+    "新竹市"
+  ],
+  "accepted_facts": 0,
+  "updated_people": 0,
+  "summary": "人工閱讀基隆投票所無障礙統計PDF及新竹選委會反賄選說明會本文，補充2則選務話題；本批沒有新增個人履歷或司法認定。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/klec/article/65238",
+      "title": "基隆選委會10/19無障礙檢核統計公告"
+    },
+    {
+      "url": "https://web.cec.gov.tw/api/file/cca70145-bedd-4ec3-8ee3-367c86e8c911.pdf",
+      "title": "無障礙統計原始PDF・第1頁"
+    },
+    {
+      "url": "https://web.cec.gov.tw/hcec/article/65255",
+      "title": "新竹選委會10/20反賄選說明會公告"
+    }
+  ],
+  "limitations": [
+    "檢核統計不代表四處改善已驗收，也不保證每位選民全程通行。",
+    "10/27為未來宣導安排，未核讀DOC程序表，不補寫活動開始時間。",
+    "宣導不是個人涉案或犯罪前科證據，本批未更改候選人資格、司法或黨籍。"
+  ],
+  "topic_updates": [
+    {
+      "id": "keelung-polling-accessibility-check-20261019",
+      "title": "基隆投票所無障礙檢核：284處符合、4處列簡易設施改善",
+      "kind": "new",
+      "summary": "基隆選委會10/19公開的統計表列288處投票所：284處檢核符合規定、4處列設置簡易無障礙設施。這是公告統計，不是逐處現場複查完成或全程通行保證。",
+      "sources": [
+        "https://web.cec.gov.tw/klec/article/65238",
+        "https://web.cec.gov.tw/api/file/cca70145-bedd-4ec3-8ee3-367c86e8c911.pdf"
+      ]
+    },
+    {
+      "id": "hsinchu-antibribery-briefing-20261020",
+      "title": "新竹市10月27日反賄選說明會：宣導不等於個案涉案證據",
+      "kind": "new",
+      "summary": "新竹選委會10/20公告，10/27將在新竹市稅務大樓辦理地方選舉反賄選說明會，由新竹地檢署檢察官說明常見態樣與案例。本次未核讀DOC程序表，不補寫活動時間。",
+      "sources": [
+        "https://web.cec.gov.tw/hcec/article/65255"
+      ]
+    }
+  ],
+  "changes": [],
+  "review_leads_count": 0,
+  "rejected_count": 0
+}

@@ -1,0 +1,190 @@
+{
+  "entry_id": "2026-10-21-manual-chiayi-historical-bios",
+  "kind": "manual",
+  "session_label": "嘉義市歷史公報學經歷補核",
+  "date": "2026-10-21",
+  "checked_at": "2026-10-21T14:56:01.061883+08:00",
+  "county_scope": [
+    "嘉義市"
+  ],
+  "accepted_facts": 23,
+  "updated_people": 4,
+  "summary": "逐格核讀2022官方公報，為4位本屆登記者補充23項歷史自填學經歷；未將當年現任、學位或執照列為2026獨立認證。",
+  "official_checks": [
+    {
+      "url": "https://eebulletin.cec.gov.tw/111/23%E5%98%89%E7%BE%A9%E5%B8%82/02%E5%B8%82%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+      "title": "111年（2022）嘉義市議員第1選區公報・原始PDF第1、2頁（學經歷格人工閱讀）"
+    }
+  ],
+  "limitations": [
+    "僅補歷史公報自填內容，不代表完整背景查核。",
+    "未取得獨立畢業、聘任或目前專業執照證明。",
+    "沒有匯入2022政見、變更推薦政黨或更改司法、資格標籤。"
+  ],
+  "changes": [
+    {
+      "name": "郭文居",
+      "county": "嘉義市",
+      "field": "education",
+      "text": "111年（2022）選舉公報自填：私立輔仁大學體育學系學士學位",
+      "url": "https://eebulletin.cec.gov.tw/111/23%E5%98%89%E7%BE%A9%E5%B8%82/02%E5%B8%82%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "郭文居",
+      "county": "嘉義市",
+      "field": "education",
+      "text": "111年（2022）選舉公報自填：國立中正大學社會科學院戰略暨國際事務研究所戰略暨國家安全碩士學位",
+      "url": "https://eebulletin.cec.gov.tw/111/23%E5%98%89%E7%BE%A9%E5%B8%82/02%E5%B8%82%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "郭文居",
+      "county": "嘉義市",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：統一獅職業棒球隊投手",
+      "url": "https://eebulletin.cec.gov.tw/111/23%E5%98%89%E7%BE%A9%E5%B8%82/02%E5%B8%82%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "郭文居",
+      "county": "嘉義市",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：嘉義市第八屆長竹里里長",
+      "url": "https://eebulletin.cec.gov.tw/111/23%E5%98%89%E7%BE%A9%E5%B8%82/02%E5%B8%82%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "郭文居",
+      "county": "嘉義市",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：嘉義市東區長竹社區發展協會理事長",
+      "url": "https://eebulletin.cec.gov.tw/111/23%E5%98%89%E7%BE%A9%E5%B8%82/02%E5%B8%82%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "郭文居",
+      "county": "嘉義市",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：嘉義市議會第九屆議員",
+      "url": "https://eebulletin.cec.gov.tw/111/23%E5%98%89%E7%BE%A9%E5%B8%82/02%E5%B8%82%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "梁樹綸",
+      "county": "嘉義市",
+      "field": "education",
+      "text": "111年（2022）選舉公報自填：臺灣大學法律學系法學組",
+      "url": "https://eebulletin.cec.gov.tw/111/23%E5%98%89%E7%BE%A9%E5%B8%82/02%E5%B8%82%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "梁樹綸",
+      "county": "嘉義市",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：梁龍法律事務所主持律師",
+      "url": "https://eebulletin.cec.gov.tw/111/23%E5%98%89%E7%BE%A9%E5%B8%82/02%E5%B8%82%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "梁樹綸",
+      "county": "嘉義市",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：勞動部認證勞資爭議調解人",
+      "url": "https://eebulletin.cec.gov.tw/111/23%E5%98%89%E7%BE%A9%E5%B8%82/02%E5%B8%82%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "梁樹綸",
+      "county": "嘉義市",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：嘉義市政府法律扶助顧問",
+      "url": "https://eebulletin.cec.gov.tw/111/23%E5%98%89%E7%BE%A9%E5%B8%82/02%E5%B8%82%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "梁樹綸",
+      "county": "嘉義市",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：嘉義市教師申訴評議委員會主席",
+      "url": "https://eebulletin.cec.gov.tw/111/23%E5%98%89%E7%BE%A9%E5%B8%82/02%E5%B8%82%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "梁樹綸",
+      "county": "嘉義市",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：嘉義市都市計畫、訴願審議、法規審查、勞資爭議調解、性騷擾防治等委員",
+      "url": "https://eebulletin.cec.gov.tw/111/23%E5%98%89%E7%BE%A9%E5%B8%82/02%E5%B8%82%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "林昱孜",
+      "county": "嘉義市",
+      "field": "education",
+      "text": "111年（2022）選舉公報自填：輔英科技大學護理系",
+      "url": "https://eebulletin.cec.gov.tw/111/23%E5%98%89%E7%BE%A9%E5%B8%82/02%E5%B8%82%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "林昱孜",
+      "county": "嘉義市",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：台北醫學附設醫院護理師",
+      "url": "https://eebulletin.cec.gov.tw/111/23%E5%98%89%E7%BE%A9%E5%B8%82/02%E5%B8%82%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "林昱孜",
+      "county": "嘉義市",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：雙和醫院護理師",
+      "url": "https://eebulletin.cec.gov.tw/111/23%E5%98%89%E7%BE%A9%E5%B8%82/02%E5%B8%82%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "林昱孜",
+      "county": "嘉義市",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：大誠保險經理",
+      "url": "https://eebulletin.cec.gov.tw/111/23%E5%98%89%E7%BE%A9%E5%B8%82/02%E5%B8%82%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "林昱孜",
+      "county": "嘉義市",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：小視拾光廣告設計負責人",
+      "url": "https://eebulletin.cec.gov.tw/111/23%E5%98%89%E7%BE%A9%E5%B8%82/02%E5%B8%82%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "凌子楚",
+      "county": "嘉義市",
+      "field": "education",
+      "text": "111年（2022）選舉公報自填：國立台灣大學法學碩士",
+      "url": "https://eebulletin.cec.gov.tw/111/23%E5%98%89%E7%BE%A9%E5%B8%82/02%E5%B8%82%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "凌子楚",
+      "county": "嘉義市",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：嘉義市第10屆市議員（原頁「現任」僅指公報當年）。",
+      "url": "https://eebulletin.cec.gov.tw/111/23%E5%98%89%E7%BE%A9%E5%B8%82/02%E5%B8%82%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "凌子楚",
+      "county": "嘉義市",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：凌生有限公司負責人",
+      "url": "https://eebulletin.cec.gov.tw/111/23%E5%98%89%E7%BE%A9%E5%B8%82/02%E5%B8%82%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "凌子楚",
+      "county": "嘉義市",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：文法解密套書作者",
+      "url": "https://eebulletin.cec.gov.tw/111/23%E5%98%89%E7%BE%A9%E5%B8%82/02%E5%B8%82%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "凌子楚",
+      "county": "嘉義市",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：華視新聞廣場主持人",
+      "url": "https://eebulletin.cec.gov.tw/111/23%E5%98%89%E7%BE%A9%E5%B8%82/02%E5%B8%82%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "凌子楚",
+      "county": "嘉義市",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：嘉義之音電台主持人",
+      "url": "https://eebulletin.cec.gov.tw/111/23%E5%98%89%E7%BE%A9%E5%B8%82/02%E5%B8%82%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    }
+  ],
+  "topic_updates": [],
+  "review_leads_count": 0,
+  "rejected_count": 0
+}
