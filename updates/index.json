@@ -1,5 +1,41 @@
 [
   {
+    "entry_id": "2026-10-22-manual-keelung-youth-plan",
+    "kind": "manual",
+    "session_label": "基隆青年施政計畫核對",
+    "date": "2026-10-22",
+    "checked_at": "2026-10-22T06:52:42.399587+08:00",
+    "county_scope": [
+      "基隆市"
+    ],
+    "accepted_facts": 1,
+    "updated_people": 1,
+    "summary": "收錄10/21市府發布的基隆青年3+1培育計畫，明確標示施政計畫、非純個人競選承諾，也不當成已完成成效。",
+    "official_checks": [
+      {
+        "url": "https://www.klcg.gov.tw/tw/klcg1/3168-323774.html",
+        "title": "基隆市政府・謝國樑啟動基隆青年3+1計畫"
+      }
+    ],
+    "limitations": [
+      "計畫宣布不等於培育成果；經費、資格、期程及績效尚待後續。",
+      "童子瑋10/21公車改革說法與已收錄官網8/6主張重複，本輪不再把同一主張當成新政見。",
+      "魏造文未取得足以排除同名的本人履歷，仍保留待補。"
+    ],
+    "changes": [
+      {
+        "name": "謝國樑",
+        "county": "基隆市",
+        "field": "policy",
+        "text": "基隆青年3+1人才培育計畫：10/21市府宣布啟動青年培育，涵蓋音樂、表演、街舞與潮流競技，規劃專業訓練、作品製作、展演及產業媒合；首發為基隆好聲音。這是市府發布的施政計畫，不等於新增個人競選承諾或已完成培育成效，經費、參與資格、期程及成果仍須後續查核。",
+        "url": "https://www.klcg.gov.tw/tw/klcg1/3168-323774.html"
+      }
+    ],
+    "topic_updates": [],
+    "review_leads_count": 1,
+    "rejected_count": 0
+  },
+  {
     "entry_id": "2026-10-22-manual-keelung-role-boundaries",
     "kind": "manual",
     "session_label": "原頁機構職稱與標題更正",
