@@ -1,0 +1,64 @@
+{
+  "entry_id": "2026-10-21-manual-hsinchu-xiangshan-policies",
+  "kind": "manual",
+  "session_label": "新竹香山本屆政見人工補核",
+  "date": "2026-10-21",
+  "checked_at": "2026-10-21T15:00:14.096681+08:00",
+  "county_scope": [
+    "新竹市"
+  ],
+  "accepted_facts": 5,
+  "updated_people": 1,
+  "summary": "核對10/21原始採訪與本屆參選語境，補充莊競程香山5項政策面向；長期捷運願景另註明非已核定工程。",
+  "official_checks": [
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202610210109.aspx",
+      "title": "中央社10/21原始採訪報導"
+    }
+  ],
+  "limitations": [
+    "競選公開主張，不等於已核定、已編預算、已施行或已完成。",
+    "新增內容對應既有香山話題，不另重複建立同一事件的話題。",
+    "未更改個人司法、資格與推薦政黨。"
+  ],
+  "changes": [
+    {
+      "name": "莊競程",
+      "county": "新竹市",
+      "field": "policy",
+      "text": "提出興建香山公有市場，並規劃交通、停車與營運管理。",
+      "url": "https://www.cna.com.tw/news/aipl/202610210109.aspx"
+    },
+    {
+      "name": "莊競程",
+      "county": "新竹市",
+      "field": "policy",
+      "text": "規劃全齡生活館，擴大公托、臨托、夜托及長照服務，另於南香山增設1處親子館。",
+      "url": "https://www.cna.com.tw/news/aipl/202610210109.aspx"
+    },
+    {
+      "name": "莊競程",
+      "county": "新竹市",
+      "field": "policy",
+      "text": "強化幸福小黃、擴增YouBike，目標覆蓋香山24里；捷運延伸香山、竹南科學園區列為長期爭取方向，非已核定工程。",
+      "url": "https://www.cna.com.tw/news/aipl/202610210109.aspx"
+    },
+    {
+      "name": "莊競程",
+      "county": "新竹市",
+      "field": "policy",
+      "text": "主張在17公里自行車道與慢跑路線設置運動驛站，提供休憩、補水和單車簡易維修。",
+      "url": "https://www.cna.com.tw/news/aipl/202610210109.aspx"
+    },
+    {
+      "name": "莊競程",
+      "county": "新竹市",
+      "field": "policy",
+      "text": "主張活化海山漁港，結合那魯灣部落等在地文化，設藝文展演空間與假日市集，延續濕地藝術季成果。",
+      "url": "https://www.cna.com.tw/news/aipl/202610210109.aspx"
+    }
+  ],
+  "topic_updates": [],
+  "review_leads_count": 0,
+  "rejected_count": 0
+}
