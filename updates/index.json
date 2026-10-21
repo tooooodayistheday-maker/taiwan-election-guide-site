@@ -1,5 +1,854 @@
 [
   {
+    "entry_id": "2026-10-22-manual-official-name-glyph-repairs",
+    "kind": "manual",
+    "session_label": "官方登記姓名特殊字修復",
+    "date": "2026-10-22",
+    "checked_at": "2026-10-22T06:35:49.594329+08:00",
+    "county_scope": [
+      "臺中市",
+      "宜蘭縣"
+    ],
+    "accepted_facts": 0,
+    "updated_people": 3,
+    "corrected_profiles": 3,
+    "summary": "逐筆目視2026官方登記PDF的可顯示字形，並與同區里政府資料交叉核對，修復王鎭樑、蔡豐湶、吳橜達姓名；待核姓名由21降至18，候選人ID及其他資料保持一致。",
+    "official_checks": [
+      {
+        "url": "https://www.dongshi.taichung.gov.tw/982800/982916/982959/1257078",
+        "title": "中嵙里辦公室（姓名字形交叉核對）"
+      },
+      {
+        "url": "https://eebulletin.cec.gov.tw/111/05%E8%87%BA%E4%B8%AD%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E8%87%BA%E4%B8%AD%E5%B8%82%E6%9D%B1%E5%8B%A2%E5%8D%80/%E8%87%BA%E4%B8%AD%E5%B8%82%E6%9D%B1%E5%8B%A2%E5%8D%80%E8%88%88%E9%9A%86%E9%87%8C.pdf",
+        "title": "2022東勢區興隆里官方選舉公報（僅核對姓名字形）"
+      },
+      {
+        "url": "https://www.jw.gov.tw/cp.aspx?n=6200",
+        "title": "壯圍鄉公所美城村介紹（姓名字形交叉核對）"
+      }
+    ],
+    "limitations": [
+      "只修復可視原頁字形且有同區里政府資料支持的3筆；其餘18筆保留□及待核標記。",
+      "2022官方公報僅用於姓名字形佐證，沒有當成本屆政見或資格證明。",
+      "原始私用字、2026名冊頁碼與ID均保留；沒有新增歷屆參選者代替2026登記者。"
+    ],
+    "changes": [
+      {
+        "name": "王鎭樑",
+        "county": "臺中市",
+        "field": "name_correction",
+        "text": "王□樑 → 王鎭樑；2026官方登記PDF第185頁原字形與政府資料交叉核對。",
+        "url": "https://www.dongshi.taichung.gov.tw/982800/982916/982959/1257078"
+      },
+      {
+        "name": "蔡豐湶",
+        "county": "臺中市",
+        "field": "name_correction",
+        "text": "蔡豐□ → 蔡豐湶；2026官方登記PDF第186頁原字形與政府資料交叉核對。",
+        "url": "https://eebulletin.cec.gov.tw/111/05%E8%87%BA%E4%B8%AD%E5%B8%82/05%E6%9D%91%E9%87%8C%E9%95%B7/%E8%87%BA%E4%B8%AD%E5%B8%82%E6%9D%B1%E5%8B%A2%E5%8D%80/%E8%87%BA%E4%B8%AD%E5%B8%82%E6%9D%B1%E5%8B%A2%E5%8D%80%E8%88%88%E9%9A%86%E9%87%8C.pdf"
+      },
+      {
+        "name": "吳橜達",
+        "county": "宜蘭縣",
+        "field": "name_correction",
+        "text": "吳□達 → 吳橜達；2026官方登記PDF第588頁原字形與政府資料交叉核對。",
+        "url": "https://www.jw.gov.tw/cp.aspx?n=6200"
+      }
+    ],
+    "topic_updates": [],
+    "review_leads_count": 18,
+    "rejected_count": 0
+  },
+  {
+    "entry_id": "2026-10-22-manual-keelung-expanded-experience",
+    "kind": "manual",
+    "session_label": "基隆四區里長經歷細項補核",
+    "date": "2026-10-22",
+    "checked_at": "2026-10-22T06:37:31.734230+08:00",
+    "county_scope": [
+      "基隆市"
+    ],
+    "accepted_facts": 91,
+    "updated_people": 31,
+    "summary": "為31位里長登記者補充91項原摘要未收錄的明確職務、訓練或評選紀錄，均註明介紹頁更新日期與非現職、證照認證限制。",
+    "official_checks": [
+      {
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-99670.html",
+        "title": "中正區公所・德義里里長張建源介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-99675.html",
+        "title": "中正區公所・正義里里長駱錫賢介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-99659.html",
+        "title": "中正區公所・信義里里長江添丁介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-265391.html",
+        "title": "中正區公所・港通里里長林政宏介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-99658.html",
+        "title": "中正區公所・中船里里長蔣春生介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-99657.html",
+        "title": "中正區公所・中砂里里長廖文雄介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-95925.html",
+        "title": "中正區公所・真砂里里長魏君龍介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-99660.html",
+        "title": "中正區公所・砂灣里里長簡曉東介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-99668.html",
+        "title": "中正區公所・建國里里長王雅蘭介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-99664.html",
+        "title": "中正區公所・和憲里里長蘇來成介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-99663.html",
+        "title": "中正區公所・八斗里里長杜劍秋介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-99662.html",
+        "title": "中正區公所・碧砂里里長黃志強介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-265387.html",
+        "title": "中正區公所・新富里里長莊紫濠介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klnn.klcg.gov.tw/tw/klnn/865-95569.html",
+        "title": "暖暖區公所・八南里里長陳碧琴介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klnn.klcg.gov.tw/tw/klnn/865-95568.html",
+        "title": "暖暖區公所・過港里里長陳清池介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klnn.klcg.gov.tw/tw/klnn/865-95560.html",
+        "title": "暖暖區公所・暖東里里長林嘉萬介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104564.html",
+        "title": "仁愛區公所・崇文里里長陳明楷介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97778.html",
+        "title": "安樂區公所・西川里里長王忠誠介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-265337.html",
+        "title": "安樂區公所・定國里里長徐英俊介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97780.html",
+        "title": "安樂區公所・干城里里長俞秀真介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97781.html",
+        "title": "安樂區公所・永康里里長陳銘坤介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97768.html",
+        "title": "安樂區公所・外寮里里長顏厚廣介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97770.html",
+        "title": "安樂區公所・中崙里里長李源林介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97771.html",
+        "title": "安樂區公所・內寮里里長嚴福神介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97772.html",
+        "title": "安樂區公所・新崙里里長林金龍介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-264938.html",
+        "title": "安樂區公所・三民里里長簡義雄介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97765.html",
+        "title": "安樂區公所・五福里里長舒瑞利介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97764.html",
+        "title": "安樂區公所・六合里里長潘德發介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-264953.html",
+        "title": "安樂區公所・鶯歌里里長邱美足介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97769.html",
+        "title": "安樂區公所・武崙里里長李文財介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97767.html",
+        "title": "安樂區公所・興寮里里長黃書筠介紹（學經歷欄）"
+      }
+    ],
+    "limitations": [
+      "不從單獨機構名稱推定任職職稱。",
+      "訓練結訓和績優評選不等於目前證照有效、服務品質或完整履歷認證。",
+      "保留原有學歷、政見、黨籍、司法及資格資料。"
+    ],
+    "changes": [
+      {
+        "name": "張建源",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "中正區公所介紹頁（2022/08/08更新）經歷欄列載：中正區德義里第15、16、17、18、19、20屆里長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-99670.html"
+      },
+      {
+        "name": "駱錫賢",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "中正區公所介紹頁（2022/08/08更新）經歷欄列載：國際獅子會基隆長青會第28屆會長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-99675.html"
+      },
+      {
+        "name": "駱錫賢",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "中正區公所介紹頁（2022/08/08更新）經歷欄列載：基隆雨港國際青年商會理事、監事；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-99675.html"
+      },
+      {
+        "name": "駱錫賢",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "中正區公所介紹頁（2022/08/08更新）經歷欄列載：基隆市警察局義警信六路分隊顧問；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-99675.html"
+      },
+      {
+        "name": "駱錫賢",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "中正區公所介紹頁（2022/08/08更新）經歷欄列載：基隆市沙發修理業職業工會秘書；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-99675.html"
+      },
+      {
+        "name": "江添丁",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "中正區公所介紹頁（2022/08/08更新）經歷欄列載：正義社區發展協會理事長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-99659.html"
+      },
+      {
+        "name": "江添丁",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "中正區公所介紹頁（2022/08/08更新）經歷欄列載：中正區信義里里長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-99659.html"
+      },
+      {
+        "name": "林政宏",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "中正區公所介紹頁（2022/12/23更新）經歷欄列載：基隆市體育會射箭委員會委員；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-265391.html"
+      },
+      {
+        "name": "林政宏",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "中正區公所介紹頁（2022/12/23更新）經歷欄列載：基隆市後備指揮部組訓顧問團顧問；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-265391.html"
+      },
+      {
+        "name": "蔣春生",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "中正區公所介紹頁（2022/08/08更新）經歷欄列載：品園餐廳負責人；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-99658.html"
+      },
+      {
+        "name": "廖文雄",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "中正區公所介紹頁（2023/02/20更新）經歷欄列載：中砂里辦公處助理；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-99657.html"
+      },
+      {
+        "name": "廖文雄",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "中正區公所介紹頁（2023/02/20更新）經歷欄列載：中砂社區發展協會總幹事；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-99657.html"
+      },
+      {
+        "name": "廖文雄",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "中正區公所介紹頁（2023/02/20更新）經歷欄列載：翊辰書坊連鎖體系負責人；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-99657.html"
+      },
+      {
+        "name": "魏君龍",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "中正區公所介紹頁（2023/02/20更新）經歷欄列載：正濱國小家長會常務委員；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-95925.html"
+      },
+      {
+        "name": "魏君龍",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "中正區公所介紹頁（2023/02/20更新）經歷欄列載：真砂里里長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-95925.html"
+      },
+      {
+        "name": "魏君龍",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "中正區公所介紹頁（2023/02/20更新）經歷欄列載：基隆區漁會代表；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-95925.html"
+      },
+      {
+        "name": "魏君龍",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "中正區公所介紹頁（2023/02/20更新）經歷欄列載：義警安瀾橋分隊長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-95925.html"
+      },
+      {
+        "name": "簡曉東",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "中正區公所介紹頁（2022/08/08更新）經歷欄列載：安瀾所警友站站長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-99660.html"
+      },
+      {
+        "name": "簡曉東",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "中正區公所介紹頁（2022/08/08更新）經歷欄列載：啄木鳥合唱團團長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-99660.html"
+      },
+      {
+        "name": "簡曉東",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "中正區公所介紹頁（2022/08/08更新）經歷欄列載：正濱國小銘傳國中家長會副會長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-99660.html"
+      },
+      {
+        "name": "簡曉東",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "中正區公所介紹頁（2022/08/08更新）經歷欄列載：革實院結訓,後幹班118期結業；屬原頁訓練或評選紀錄，非目前證照效期認證。",
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-99660.html"
+      },
+      {
+        "name": "王雅蘭",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "中正區公所介紹頁（2022/08/08更新）經歷欄列載：早安晨跑總幹事；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-99668.html"
+      },
+      {
+        "name": "蘇來成",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "中正區公所介紹頁（2022/08/08更新）經歷欄列載：基隆沿岸協會理事；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-99664.html"
+      },
+      {
+        "name": "蘇來成",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "中正區公所介紹頁（2022/08/08更新）經歷欄列載：和憲里第19、20、21屆里長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-99664.html"
+      },
+      {
+        "name": "杜劍秋",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "中正區公所介紹頁（2022/08/08更新）經歷欄列載：國立海洋大學通識課講座講師；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-99663.html"
+      },
+      {
+        "name": "黃志強",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "中正區公所介紹頁（2022/08/08更新）經歷欄列載：碧砂里社區理事長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-99662.html"
+      },
+      {
+        "name": "莊紫濠",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "中正區公所介紹頁（2022/12/23更新）經歷欄列載：基隆市警察局第二分局偵查隊小隊長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-265387.html"
+      },
+      {
+        "name": "莊紫濠",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "中正區公所介紹頁（2022/12/23更新）經歷欄列載：基隆市警察局第三分局偵查隊小隊長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-265387.html"
+      },
+      {
+        "name": "莊紫濠",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "中正區公所介紹頁（2022/12/23更新）經歷欄列載：基隆市警察局少年警察隊小隊長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-265387.html"
+      },
+      {
+        "name": "陳碧琴",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "暖暖區公所介紹頁（2021/02/25更新）經歷欄列載：基隆市社會局志工；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klnn.klcg.gov.tw/tw/klnn/865-95569.html"
+      },
+      {
+        "name": "陳碧琴",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "暖暖區公所介紹頁（2021/02/25更新）經歷欄列載：第十八屆里長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klnn.klcg.gov.tw/tw/klnn/865-95569.html"
+      },
+      {
+        "name": "陳清池",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "暖暖區公所介紹頁（2021/02/25更新）經歷欄列載：協昇傳播 (股) 公司總經理；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klnn.klcg.gov.tw/tw/klnn/865-95568.html"
+      },
+      {
+        "name": "陳清池",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "暖暖區公所介紹頁（2021/02/25更新）經歷欄列載：中國時報、自由時報暖暖辦事處主任；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klnn.klcg.gov.tw/tw/klnn/865-95568.html"
+      },
+      {
+        "name": "林嘉萬",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "暖暖區公所介紹頁（2021/02/08更新）經歷欄列載：東安宮管理委員會主任委員；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klnn.klcg.gov.tw/tw/klnn/865-95560.html"
+      },
+      {
+        "name": "陳明楷",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：基隆市義消大隊仁愛中隊顧問；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104564.html"
+      },
+      {
+        "name": "陳明楷",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：基隆市博愛長青協會顧問；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104564.html"
+      },
+      {
+        "name": "王忠誠",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：現任基隆市義消總隊中正二分隊顧問暨技術委員；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97778.html"
+      },
+      {
+        "name": "王忠誠",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：安樂市場攤販（天婦羅）；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97778.html"
+      },
+      {
+        "name": "徐英俊",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2026/10/06更新）經歷欄列載：東引地區指揮部上尉訓練官；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-265337.html"
+      },
+      {
+        "name": "徐英俊",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2026/10/06更新）經歷欄列載：104 旅上尉作戰官；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-265337.html"
+      },
+      {
+        "name": "徐英俊",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2026/10/06更新）經歷欄列載：永慶不動產行銷專員；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-265337.html"
+      },
+      {
+        "name": "徐英俊",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2026/10/06更新）經歷欄列載：遠雄房地產行銷專員；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-265337.html"
+      },
+      {
+        "name": "俞秀真",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：干城里第18、19、20、21、22屆里長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97780.html"
+      },
+      {
+        "name": "陳銘坤",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：市立仁愛之家組長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97781.html"
+      },
+      {
+        "name": "陳銘坤",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：安樂區公所里幹事；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97781.html"
+      },
+      {
+        "name": "顏厚廣",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：曾任立法委員劉文雄服務處 國會助理；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97768.html"
+      },
+      {
+        "name": "顏厚廣",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：曾任臺灣基隆地法院民事調解委員；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97768.html"
+      },
+      {
+        "name": "顏厚廣",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：現任外寮里巡守隊副隊長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97768.html"
+      },
+      {
+        "name": "李源林",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：全國美髮美容技藝競賽裁判長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97770.html"
+      },
+      {
+        "name": "李源林",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：國防部晉任陸軍士官長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97770.html"
+      },
+      {
+        "name": "李源林",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：基隆市後備指揮部副主任；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97770.html"
+      },
+      {
+        "name": "李源林",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：基隆市武崙國小家長會長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97770.html"
+      },
+      {
+        "name": "李源林",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：基隆市中崙志工服務協會理事長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97770.html"
+      },
+      {
+        "name": "李源林",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：基隆市理燙髮職業工會常務理事；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97770.html"
+      },
+      {
+        "name": "李源林",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：基隆社區大學技藝教師；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97770.html"
+      },
+      {
+        "name": "李源林",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：勞動部技能檢定命題委員；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97770.html"
+      },
+      {
+        "name": "李源林",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：勞動部技能檢定監評長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97770.html"
+      },
+      {
+        "name": "李源林",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：OMC 國際技能競賽裁判長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97770.html"
+      },
+      {
+        "name": "李源林",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：中華民國理燙髮美容業工會聯合會理事；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97770.html"
+      },
+      {
+        "name": "嚴福神",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：曾任本里社區發展協會理事長、老人會會長、巡守隊副隊長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97771.html"
+      },
+      {
+        "name": "林金龍",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：基隆市安樂區第 18 、 19 、 20 、 21 屆里長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97772.html"
+      },
+      {
+        "name": "林金龍",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：基隆市拋磚愛心社理事；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97772.html"
+      },
+      {
+        "name": "簡義雄",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：向陽電器行負責人；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-264938.html"
+      },
+      {
+        "name": "舒瑞利",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：歷任臺灣區運網球選手；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97765.html"
+      },
+      {
+        "name": "舒瑞利",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：歷任交通盃臺鐵網球代表隊隊長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97765.html"
+      },
+      {
+        "name": "舒瑞利",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：基隆市山東同鄉會候補理事；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97765.html"
+      },
+      {
+        "name": "舒瑞利",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：基隆市懷魯同鄉會常務理事；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97765.html"
+      },
+      {
+        "name": "舒瑞利",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：國家新城金龍湖生態導覽員；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97765.html"
+      },
+      {
+        "name": "舒瑞利",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：五福社區發展協會理事；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97765.html"
+      },
+      {
+        "name": "舒瑞利",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：基隆市永春早起會總幹事；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97765.html"
+      },
+      {
+        "name": "舒瑞利",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：五福里里長（第21、22屆）；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97765.html"
+      },
+      {
+        "name": "舒瑞利",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：中國國民黨安樂區黨部小組長兼區分部委員；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97765.html"
+      },
+      {
+        "name": "舒瑞利",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：臺灣火車駕駛協會榮譽理事長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97765.html"
+      },
+      {
+        "name": "舒瑞利",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：基隆市後備憲兵荷松協會安樂區分會主任；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97765.html"
+      },
+      {
+        "name": "舒瑞利",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：基隆市體育會網球委員會競賽組裁判長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97765.html"
+      },
+      {
+        "name": "舒瑞利",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：國家新城福德宮管委會副主任委員；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97765.html"
+      },
+      {
+        "name": "舒瑞利",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：長樂國小交通導護志工；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97765.html"
+      },
+      {
+        "name": "舒瑞利",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：基隆市安樂區五福里守望相助隊隊長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97765.html"
+      },
+      {
+        "name": "舒瑞利",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：基隆市五福志工服務協會理事長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97765.html"
+      },
+      {
+        "name": "舒瑞利",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：五福里環保志工隊長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97765.html"
+      },
+      {
+        "name": "舒瑞利",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：五福里老人共餐負責人；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97765.html"
+      },
+      {
+        "name": "潘德發",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：貨櫃運輸公司- 副理/船務代理股份有限公司-主任；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97764.html"
+      },
+      {
+        "name": "潘德發",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：計程車駕駛員/貨櫃倉儲公司管理員；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97764.html"
+      },
+      {
+        "name": "邱美足",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：榕樹下早起會總幹事16年；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-264953.html"
+      },
+      {
+        "name": "李文財",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：武崙社區發展協會創會第一、二屆理事長；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97769.html"
+      },
+      {
+        "name": "李文財",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：基隆市物業管理協會理事；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97769.html"
+      },
+      {
+        "name": "李文財",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：上堤社區管理委員會第11、12屆主委；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97769.html"
+      },
+      {
+        "name": "李文財",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：碧海擎天社區管理委員會第16、17屆主委；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97769.html"
+      },
+      {
+        "name": "李文財",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：金山鎮天宮管理委員會委員；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97769.html"
+      },
+      {
+        "name": "黃書筠",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：浩騰實業公司會計；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97767.html"
+      },
+      {
+        "name": "黃書筠",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "安樂區公所介紹頁（2022/12/23更新）經歷欄列載：頂好家具業務經理；個人任期未載，不逕認目前現職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97767.html"
+      }
+    ],
+    "topic_updates": [],
+    "review_leads_count": 0,
+    "rejected_count": 0,
+    "coverage_change": {
+      "new_biographies": 0
+    }
+  },
+  {
     "entry_id": "2026-10-22-manual-election-procedure-topics",
     "kind": "manual",
     "session_label": "辯論協商與颱風選務備案補核",
