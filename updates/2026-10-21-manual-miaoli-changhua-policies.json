@@ -1,0 +1,59 @@
+{
+  "entry_id": "2026-10-21-manual-miaoli-changhua-policies",
+  "kind": "manual",
+  "session_label": "苗栗與彰化本屆政策原文補核",
+  "date": "2026-10-21",
+  "checked_at": "2026-10-21T17:27:29.567392+08:00",
+  "county_scope": [
+    "苗栗縣",
+    "彰化縣"
+  ],
+  "accepted_facts": 3,
+  "updated_people": 3,
+  "summary": "補核3位縣長參選人本屆主張及待追問事項，保留各自提案日；不把競選宣示當成核定工程或政策成果。",
+  "official_checks": [
+    {
+      "url": "https://www.cna.com.tw/news/aloc/202610090186.aspx",
+      "title": "本屆參選語境與提案日期已核讀的中央社原始採訪"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202609130197.aspx",
+      "title": "本屆參選語境與提案日期已核讀的中央社原始採訪"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202610050097.aspx",
+      "title": "本屆參選語境與提案日期已核讀的中央社原始採訪"
+    }
+  ],
+  "limitations": [
+    "國家風景區構想仍須中央評估，不是已設立。",
+    "區域十年願景不等於開發案已通過、投資已到位。",
+    "教育費補助原有資料保留，本次補充校園、學習及教師支持，未認證成效。"
+  ],
+  "changes": [
+    {
+      "name": "陳品安",
+      "county": "苗栗縣",
+      "field": "policy",
+      "text": "10/9提出以台3線連結森林旅遊，協助露營場安全與合法申設；另爭取中央評估苗東縱谷國家風景區，串聯文化導覽、山區網路與旅遊資訊服務。",
+      "url": "https://www.cna.com.tw/news/aloc/202610090186.aspx"
+    },
+    {
+      "name": "鍾東錦",
+      "county": "苗栗縣",
+      "field": "policy",
+      "text": "9/13競選連任活動提出十年發展方向：以苗中行政經濟及高鐵樞紐、苗北科技產業、苗南產創及濱海物流分區，串連交通、照護、住宅與多元族群等需求。",
+      "url": "https://www.cna.com.tw/news/aipl/202609130197.aspx"
+    },
+    {
+      "name": "魏平政",
+      "county": "彰化縣",
+      "field": "policy",
+      "text": "10/5教育方案除既載的代收代辦費補助，也談校園安全與學生心理支持、雙語及AI學習、技職產學合作、跨校資源及教師行政工作改善。",
+      "url": "https://www.cna.com.tw/news/aipl/202610050097.aspx"
+    }
+  ],
+  "topic_updates": [],
+  "review_leads_count": 0,
+  "rejected_count": 0
+}

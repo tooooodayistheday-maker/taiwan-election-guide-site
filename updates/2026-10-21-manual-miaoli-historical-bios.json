@@ -1,0 +1,400 @@
+{
+  "entry_id": "2026-10-21-manual-miaoli-historical-bios",
+  "kind": "manual",
+  "session_label": "苗栗縣歷史公報學經歷補核",
+  "date": "2026-10-21",
+  "checked_at": "2026-10-21T17:27:17.082234+08:00",
+  "county_scope": [
+    "苗栗縣"
+  ],
+  "accepted_facts": 53,
+  "updated_people": 10,
+  "summary": "逐格核讀2022官方公報，為10位本屆登記者補充53項歷史自填學經歷；未將當年現任、學位或執照列為2026獨立認證。",
+  "official_checks": [
+    {
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf",
+      "title": "111年（2022）苗栗縣議員第1選區公報・原始PDF第1至3頁（學經歷格人工閱讀）"
+    }
+  ],
+  "limitations": [
+    "僅補歷史公報自填內容，不代表完整背景查核。",
+    "未取得獨立畢業、聘任或目前專業執照證明。",
+    "沒有匯入2022政見、變更推薦政黨或更改司法、資格標籤。"
+  ],
+  "changes": [
+    {
+      "name": "曾美露",
+      "county": "苗栗縣",
+      "field": "education",
+      "text": "111年（2022）選舉公報自填：育達科技大學學士",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "曾美露",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：公館鄉公所第十七、十八屆鄉長",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "曾美露",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：公館鄉民代表會第十九屆主席",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "曾美露",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：苗栗縣第十六屆縣議員",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "曾美露",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：立法委員徐耀昌公館服務處主任",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "曾美露",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：公館鄉代表會第十七屆副主席",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "曾美露",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：公館鄉第十五、十六屆代表",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "曾美露",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：苗栗縣消防局婦女防火宣導隊分隊長",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "湯維岳",
+      "county": "苗栗縣",
+      "field": "education",
+      "text": "111年（2022）選舉公報自填：高中畢業",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "湯維岳",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：双獅企業社負責人",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "湯維岳",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：十八、十九屆苗栗縣縣議員",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "許櫻萍",
+      "county": "苗栗縣",
+      "field": "education",
+      "text": "111年（2022）選舉公報自填：親民技術學院二專畢",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "許櫻萍",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：立法委員杜文卿國會秘書",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "許櫻萍",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：油桐花小英之友會會長",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "許櫻萍",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：第19屆苑裡鎮民代表",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "許櫻萍",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：第18、19屆苗栗縣議員",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "張志宇",
+      "county": "苗栗縣",
+      "field": "education",
+      "text": "111年（2022）選舉公報自填：國立臺灣海洋大學學士",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "張志宇",
+      "county": "苗栗縣",
+      "field": "education",
+      "text": "111年（2022）選舉公報自填：國立聯合大學碩士",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "張志宇",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：苗栗縣青工總會總會長",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "張志宇",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：苗栗縣義勇交通警察大隊大隊長",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "張志宇",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：公館後備輔導中心主任",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "張志宇",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：公館警友會顧問團團長",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "張志宇",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：公館守望相助協會理事長",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "孫素娥",
+      "county": "苗栗縣",
+      "field": "education",
+      "text": "111年（2022）選舉公報自填：台灣省立苗栗高級農工職業學校",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "孫素娥",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：公館鄉民代表（第15.16.17屆）",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "孫素娥",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：苗栗縣議員第16.17.18屆",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "孫素娥",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：苗栗縣第19屆縣議員（原頁「現任」僅指2022公報當年）。",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "孫素娥",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：苗栗路跑協會理事長",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "孫素娥",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：苗栗縣身障權益保障推動小組委員",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "林志豪",
+      "county": "苗栗縣",
+      "field": "education",
+      "text": "111年（2022）選舉公報自填：國立苗栗高級中學",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "林志豪",
+      "county": "苗栗縣",
+      "field": "education",
+      "text": "111年（2022）選舉公報自填：私立苗栗建臺中學",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "林志豪",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：立法委員賴香伶苗栗辦公室秘書",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "林志豪",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：苗栗縣政府青年事務委員",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "林志豪",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：苗栗縣托育人員發展協會榮譽顧問",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "林志豪",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：苗栗市建功、啟文國小副會長",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "林志豪",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：新港奉天宮金虎爺苗栗分會會長",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "林志豪",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：苗栗縣傢俱公會理事",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "徐筱菁",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：苗栗縣社會福利促進會副理事長",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "徐筱菁",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：苗栗縣跆拳道委員會副主委",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "徐筱菁",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：苗栗縣徐氏宗親會苗栗分會總幹事",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "鄭碧玉",
+      "county": "苗栗縣",
+      "field": "education",
+      "text": "111年（2022）選舉公報自填：亞太創意技術學院專科部",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "鄭碧玉",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：立法委員辦公室助理",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "鄭碧玉",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：苗栗市民代表會代表第8屆副主席",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "鄭碧玉",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：苗栗縣議會第17、18、19屆議員",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "黃萬盛",
+      "county": "苗栗縣",
+      "field": "education",
+      "text": "111年（2022）選舉公報自填：國立苗栗高級中學",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "黃萬盛",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：苗栗縣愛轉苗栗協會發起人",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "黃萬盛",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：財團法人國語日報顧問",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "黃萬盛",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：苗栗市義消顧問",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "楊明燁",
+      "county": "苗栗縣",
+      "field": "education",
+      "text": "111年（2022）選舉公報自填：國立聯合大學經營管理學系",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "楊明燁",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：第19屆苗栗縣議員",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "楊明燁",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：苗栗縣民防大隊大隊長",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "楊明燁",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：苗栗市體育會理事長",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    },
+    {
+      "name": "楊明燁",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "111年（2022）選舉公報自填：苗栗縣體育會疊杯委員會主任委員",
+      "url": "https://eebulletin.cec.gov.tw/111/09%E8%8B%97%E6%A0%97%E7%B8%A3/02%E7%B8%A3%E8%AD%B0%E5%93%A1/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80/%E7%AC%AC1%E9%81%B8%E8%88%89%E5%8D%80%E8%AD%B0%E5%93%A1%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1.pdf"
+    }
+  ],
+  "topic_updates": [],
+  "review_leads_count": 0,
+  "rejected_count": 0
+}

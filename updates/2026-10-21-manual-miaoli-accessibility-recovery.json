@@ -1,0 +1,67 @@
+{
+  "entry_id": "2026-10-21-manual-miaoli-accessibility-recovery",
+  "kind": "manual",
+  "session_label": "ODS附件人工補核與交通來源複核",
+  "date": "2026-10-21",
+  "checked_at": "2026-10-21T17:28:49.223895+08:00",
+  "county_scope": [
+    "苗栗縣",
+    "新竹縣"
+  ],
+  "accepted_facts": 0,
+  "updated_people": 0,
+  "summary": "補核因ODS附件無法當網頁本文驗證而擋下的苗栗無障礙檢核話題，另複核新竹交通來源；沒有放寬自動驗證。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/api/mlec/article/65298",
+      "title": "人工核讀原始附件、法規或採訪來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/api/file/ddb31480-95fe-4099-83f1-9cab6be70d53.ods",
+      "title": "人工核讀原始附件、法規或採訪來源"
+    },
+    {
+      "url": "https://law.cec.gov.tw/LawContent.aspx?id=GL000292",
+      "title": "人工核讀原始附件、法規或採訪來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202610180102.aspx",
+      "title": "人工核讀原始附件、法規或採訪來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202610170172.aspx",
+      "title": "人工核讀原始附件、法規或採訪來源"
+    }
+  ],
+  "limitations": [
+    "自動第一輪未發布；此批改由人工讀取ODS欄位及獨立加總後匯入。",
+    "公告日期不等於檢核或改善完成日，未取得逐處驗收資料。",
+    "交通話題複核不代表新增工程或預算進展。"
+  ],
+  "changes": [],
+  "topic_updates": [
+    {
+      "id": "miaoli-polling-accessibility-check-20261021",
+      "title": "苗栗投票所檢核：20處列簡易無障礙設施改善類別",
+      "kind": "new",
+      "summary": "10/21公告附件列508處投票所，488處符合規定，20處列簡易無障礙設施改善類別；本輪直接讀取ODS並核對18鄉鎮市加總。",
+      "sources": [
+        "https://web.cec.gov.tw/api/mlec/article/65298",
+        "https://web.cec.gov.tw/api/file/ddb31480-95fe-4099-83f1-9cab6be70d53.ods",
+        "https://law.cec.gov.tw/LawContent.aspx?id=GL000292"
+      ]
+    },
+    {
+      "id": "hsinchu-regional-mobility-20261018",
+      "title": "新竹縣通勤政見：地方路網與跨區治理怎麼落實？",
+      "kind": "review",
+      "summary": "重新核對交通政見原始來源，未新增可確認進展。",
+      "sources": [
+        "https://www.cna.com.tw/news/aipl/202610180102.aspx",
+        "https://www.cna.com.tw/news/aipl/202610170172.aspx"
+      ]
+    }
+  ],
+  "review_leads_count": 0,
+  "rejected_count": 0
+}

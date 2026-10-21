@@ -1,0 +1,42 @@
+{
+  "entry_id": "2026-10-21-manual-changhua-debate",
+  "kind": "manual",
+  "session_label": "彰化縣長公辦辯論規則補核",
+  "date": "2026-10-21",
+  "checked_at": "2026-10-21T17:27:29.975551+08:00",
+  "county_scope": [
+    "彰化縣"
+  ],
+  "accepted_facts": 0,
+  "updated_people": 0,
+  "summary": "新增彰化公辦電視辯論話題，分清發問人提問、候選人交互詰問與陣營另辦提議；不補寫未確認日程。",
+  "official_checks": [
+    {
+      "url": "https://www.cna.com.tw/news/aloc/202610150202.aspx",
+      "title": "中央社10/15採訪選委會及四位參選陣營"
+    },
+    {
+      "url": "https://law.cec.gov.tw/LawContent.aspx?id=FL002023",
+      "title": "中選會主管法規：公辦政見發表會實施辦法第18條之1"
+    }
+  ],
+  "limitations": [
+    "本輪未取得確切日、時、頻道等正式公告。",
+    "10/21是查核日期，不是原事件發生日或新協商結果。"
+  ],
+  "changes": [],
+  "topic_updates": [
+    {
+      "id": "changhua-public-debate-format-20261015",
+      "title": "彰化縣長公辦辯論：由發問人提問，沒有候選人交互詰問",
+      "kind": "new",
+      "summary": "10/15選委會向中央社說明，參選人同意數已達門檻，預計11月辦理公辦電視辯論；另由陣營提議的辯論不等於已定案。",
+      "sources": [
+        "https://www.cna.com.tw/news/aloc/202610150202.aspx",
+        "https://law.cec.gov.tw/LawContent.aspx?id=FL002023"
+      ]
+    }
+  ],
+  "review_leads_count": 0,
+  "rejected_count": 0
+}

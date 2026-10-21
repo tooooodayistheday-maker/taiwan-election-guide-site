@@ -3,6 +3,147 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "miaoli-polling-accessibility-check-20261021",
+      "symbol": "◇",
+      "county": "苗栗縣",
+      "districts": [],
+      "relatedNames": [],
+      "title": "苗栗投票所檢核：20處列簡易無障礙設施改善類別",
+      "shortTitle": "投票所無障礙檢核",
+      "category": "投票近用與選務",
+      "date": "2026-10-21",
+      "checkedAt": "2026-10-21",
+      "summary": "10/21公告附件列508處投票所，488處符合規定，20處列簡易無障礙設施改善類別；本輪直接讀取ODS並核對18鄉鎮市加總。",
+      "steps": [
+        {
+          "speaker": "原始統計表",
+          "text": "附件合計508處，B欄符合規定488處，C欄設置簡易無障礙設施20處，D欄專人協助0處，E欄空白。空白或0是表中分類情形，不能推論所有場所都不需要人力協助。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/api/mlec/article/65298",
+            "https://web.cec.gov.tw/api/file/ddb31480-95fe-4099-83f1-9cab6be70d53.ods"
+          ]
+        },
+        {
+          "speaker": "20處分布",
+          "text": "C欄分布為卓蘭7、三義4、通霄4、竹南2、頭份1、南庄1、泰安1。表列改善方式不代表已改善完成；10/21是公告日期，未列逐處檢核、完工或複查日期。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/api/file/ddb31480-95fe-4099-83f1-9cab6be70d53.ods"
+          ]
+        },
+        {
+          "speaker": "場地與協助的界線",
+          "text": "選罷法第57條要求優先選具無障礙設施場地，無符合場地時使用輔具器材協助，並依情況增加人力。本輪未取得逐處動線或現場驗收資料，不據此認證全程無障礙。",
+          "sourceUrls": [
+            "https://law.cec.gov.tw/LawContent.aspx?id=GL000292",
+            "https://web.cec.gov.tw/api/file/ddb31480-95fe-4099-83f1-9cab6be70d53.ods"
+          ]
+        }
+      ],
+      "question": "能否公開20處的改善完成時間、入口動線與複查結果，讓選民事先確認需求？",
+      "dailyUpdateKind": "new"
+    },
+    {
+      "id": "hsinchu-regional-mobility-20261018",
+      "title": "新竹縣通勤政見：地方路網與跨區治理怎麼落實？",
+      "shortTitle": "新竹通勤與交通協作",
+      "category": "交通與通勤",
+      "symbol": "◇",
+      "county": "新竹縣",
+      "districts": [],
+      "relatedNames": [
+        "鄭朝方",
+        "徐欣瑩"
+      ],
+      "date": "2026-10-18",
+      "summary": "整理10/17至18兩位縣長參選人的運輸主張，並檢視地方工程與跨縣市合作各需哪些條件。",
+      "steps": [
+        {
+          "speaker": "鄭朝方的主張",
+          "text": "10/18報導其提出寶山道路與號誌整合、發展電動公車，處理在地通勤需求。屬競選方案，非已完成工程。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610180102.aspx"
+          ]
+        },
+        {
+          "speaker": "徐欣瑩的主張",
+          "text": "10/17報導其主張跨區交通協作與共同投資，結合智慧運輸、替代運具與軌道，推進交通建設。尚非跨機關已達成的決議。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610170172.aspx"
+          ]
+        },
+        {
+          "speaker": "後續核對",
+          "text": "本站提醒追問路段優先序、財源、主管機關與協調時程，再用通行時間及安全指標評估；報導沒有提供完整預算。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610180102.aspx",
+            "https://www.cna.com.tw/news/aipl/202610170172.aspx"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-10-21重新核讀兩篇原報導，未取得新的工程核定、預算或跨縣市協議。原事件日期與既載內容保留。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610180102.aspx",
+            "https://www.cna.com.tw/news/aipl/202610170172.aspx"
+          ]
+        }
+      ],
+      "question": "你希望哪些通勤瓶頸優先改善，並公開什麼進度資料？",
+      "checkedAt": "2026-10-21",
+      "dailyUpdateKind": "review"
+    },
+    {
+      "id": "changhua-public-debate-format-20261015",
+      "symbol": "◇",
+      "county": "彰化縣",
+      "districts": [],
+      "relatedNames": [
+        "魏平政",
+        "陳素月",
+        "邱建富",
+        "陳重嘉"
+      ],
+      "title": "彰化縣長公辦辯論：由發問人提問，沒有候選人交互詰問",
+      "shortTitle": "公辦辯論形式與另辦提議",
+      "category": "選舉程序與政策檢驗",
+      "date": "2026-10-15",
+      "checkedAt": "2026-10-21",
+      "summary": "10/15選委會向中央社說明，參選人同意數已達門檻，預計11月辦理公辦電視辯論；另由陣營提議的辯論不等於已定案。",
+      "steps": [
+        {
+          "speaker": "選委會確認到哪裡",
+          "text": "依10/15原始採訪，公辦活動規劃申論、發問人提問及結論，沒有參選人交互詰問。報導僅列預計11月，本輪未取得確切日、時及播出頻道公告。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610150202.aspx"
+          ]
+        },
+        {
+          "speaker": "法規中的辯論形式",
+          "text": "現行實施辦法第18條之1，將候選人達三分之二同意列為以辯論方式辦理的條件，程序由主持人說明、政見申論、發問人發問及結論組成；不能只憑「辯論」一詞推定有交互詰問。",
+          "sourceUrls": [
+            "https://law.cec.gov.tw/LawContent.aspx?id=FL002023"
+          ]
+        },
+        {
+          "speaker": "另辦提議與各方回應",
+          "text": "邱建富提議另辦並協助籌款；魏平政表示第三方場次規則可協商；陳素月團隊對公正媒體邀全體參選人、由公正人士提問表示會參加；陳重嘉表示樂見公開辯論。這些回應尚不等於共同主辦、日期或規則已敲定。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610150202.aspx"
+          ]
+        },
+        {
+          "speaker": "接下來如何檢驗",
+          "text": "後續可核對正式日程、完整回看、各人等時回答及提問方式，再比較政策財源和執行條件。本輪是補入10/15事件，不冒稱10/21出現新的協商結果。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610150202.aspx",
+            "https://law.cec.gov.tw/LawContent.aspx?id=FL002023"
+          ]
+        }
+      ],
+      "question": "你最希望每位候選人以相同時間回答哪一項彰化公共政策問題？",
+      "dailyUpdateKind": "new"
+    },
+    {
       "id": "chiayi-aging-support",
       "title": "嘉義市高齡政策，居家改善與交通補助如何回應不同需求？",
       "shortTitle": "居家安全與敬老卡",
@@ -1660,46 +1801,6 @@
         }
       ],
       "question": "閱讀涉案新聞時，你會先確認姓名、程序階段與裁判是否確定嗎？"
-    },
-    {
-      "id": "hsinchu-regional-mobility-20261018",
-      "title": "新竹縣通勤政見：地方路網與跨區治理怎麼落實？",
-      "shortTitle": "新竹通勤與交通協作",
-      "category": "交通與通勤",
-      "symbol": "◇",
-      "county": "新竹縣",
-      "districts": [],
-      "relatedNames": [
-        "鄭朝方",
-        "徐欣瑩"
-      ],
-      "date": "2026-10-18",
-      "summary": "整理10/17至18兩位縣長參選人的運輸主張，並檢視地方工程與跨縣市合作各需哪些條件。",
-      "steps": [
-        {
-          "speaker": "鄭朝方的主張",
-          "text": "10/18報導其提出寶山道路與號誌整合、發展電動公車，處理在地通勤需求。屬競選方案，非已完成工程。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610180102.aspx"
-          ]
-        },
-        {
-          "speaker": "徐欣瑩的主張",
-          "text": "10/17報導其主張跨區交通協作與共同投資，結合智慧運輸、替代運具與軌道，推進交通建設。尚非跨機關已達成的決議。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610170172.aspx"
-          ]
-        },
-        {
-          "speaker": "後續核對",
-          "text": "本站提醒追問路段優先序、財源、主管機關與協調時程，再用通行時間及安全指標評估；報導沒有提供完整預算。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610180102.aspx",
-            "https://www.cna.com.tw/news/aipl/202610170172.aspx"
-          ]
-        }
-      ],
-      "question": "你希望哪些通勤瓶頸優先改善，並公開什麼進度資料？"
     },
     {
       "id": "election-impersonation-fraud-20261018",
