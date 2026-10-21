@@ -1,5 +1,212 @@
 [
   {
+    "entry_id": "2026-10-21-manual-nantou-yunlin-policies",
+    "kind": "manual",
+    "session_label": "南投與雲林公開政策原文補核",
+    "date": "2026-10-21",
+    "checked_at": "2026-10-21T18:00:04.768980+08:00",
+    "county_scope": [
+      "南投縣",
+      "雲林縣"
+    ],
+    "accepted_facts": 3,
+    "updated_people": 3,
+    "summary": "補核3位縣長參選人本屆主張及待追問事項，保留各自提案日；不把競選宣示當成核定工程或政策成果。",
+    "official_checks": [
+      {
+        "url": "https://www.cna.com.tw/news/aloc/202610150261.aspx",
+        "title": "本屆參選語境與提案日期已核讀的中央社原始採訪"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aipl/202610190163.aspx",
+        "title": "本屆參選語境與提案日期已核讀的中央社原始採訪"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aipl/202609290251.aspx",
+        "title": "本屆參選語境與提案日期已核讀的中央社原始採訪"
+      }
+    ],
+    "limitations": [
+      "輕軌仍屬研議，不是已核定路線或工程。",
+      "生育支持網為競選主張，不是現行服務完成或療效認證。",
+      "許淑華資料為任內公開施政方向，非新增競選承諾；未認證農產收益或旅館計畫已完成。"
+    ],
+    "changes": [
+      {
+        "name": "温世政",
+        "county": "南投縣",
+        "field": "policy",
+        "text": "10/15提出加強台鐵、高鐵彰化站接駁，結合通勤服務與車站商圈，並研議以輕軌方式將台中捷運延伸南投。",
+        "url": "https://www.cna.com.tw/news/aloc/202610150261.aspx"
+      },
+      {
+        "name": "張嘉郡",
+        "county": "雲林縣",
+        "field": "policy",
+        "text": "10/19提出串連備孕至產後服務，含健檢、專科資源、求子交通與好孕專車及心理支持；規劃20鄉鎮市衛生所設諮詢入口，跨院或多重需求家庭由個案管理協助。",
+        "url": "https://www.cna.com.tw/news/aipl/202610190163.aspx"
+      },
+      {
+        "name": "許淑華",
+        "county": "南投縣",
+        "field": "policy",
+        "text": "9/29以縣長身分出席旅館簽約活動時，談持續與日月潭管理處合作辦活動，串連區內飯店行銷在地農特產。這是任內公開施政方向，不另包裝成當天新競選承諾。",
+        "url": "https://www.cna.com.tw/news/aipl/202609290251.aspx"
+      }
+    ],
+    "topic_updates": [],
+    "review_leads_count": 0,
+    "rejected_count": 0
+  },
+  {
+    "entry_id": "2026-10-21-manual-changhua-pending-case",
+    "kind": "manual",
+    "session_label": "彰化議員未定罪程序人工查核",
+    "date": "2026-10-21",
+    "checked_at": "2026-10-21T17:59:57.984408+08:00",
+    "county_scope": [
+      "彰化縣"
+    ],
+    "accepted_facts": 1,
+    "updated_people": 1,
+    "summary": "補充謝典霖1件未定罪程序介紹，區分羈押、抗告、辦公室回應與實體有罪裁判；不增加定讞前科或變更資格。",
+    "official_checks": [
+      {
+        "url": "https://www.judicial.gov.tw/tw/cp-1888-1619544-c7438-1.html",
+        "title": "彰化地方法院原始聲請羈押案新聞稿"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/asoc/202609240327.aspx",
+        "title": "中央社9/24：羈押抗告駁回"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/asoc/202609190115.aspx",
+        "title": "中央社9/19：辦公室回應及檢方說明"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aloc/202610200296.aspx",
+        "title": "中央社10/20：羈押背景及競選活動報導"
+      }
+    ],
+    "limitations": [
+      "10/21查核，最新已讀法院處分報導為9/24，另補讀10/20新聞；未取得更後續起訴、不起訴、延押、交保或本案實體裁判原文，不推論今日程序完全未變。羈押、抗告駁回不等於有罪，不新增定讞犯罪分類、不改參選資格。法院另述其他被告的洩密、電磁紀錄及個資罪嫌，不移轉到謝典霖名下。"
+    ],
+    "changes": [
+      {
+        "name": "謝典霖",
+        "county": "彰化縣",
+        "field": "pending_judicial_procedure",
+        "text": "法院原始新聞稿記載，檢方以涉嫌詐取公款、文書及投票行賄等聲請羈押，法院裁定謝典霖羈押並禁止接見通信。9/24中央社報導羈押抗告遭駁回；「不得再抗告」針對羈押程序，不是本案犯罪定讞。10/20報導仍述其遭羈押及競選活動安排，並未記載新的有罪判決。",
+        "url": "https://www.judicial.gov.tw/tw/cp-1888-1619544-c7438-1.html"
+      }
+    ],
+    "topic_updates": [],
+    "review_leads_count": 0,
+    "rejected_count": 0
+  },
+  {
+    "entry_id": "2026-10-21-manual-round2-source-retry",
+    "kind": "manual",
+    "session_label": "第二輪來源502重試驗證",
+    "date": "2026-10-21",
+    "checked_at": "2026-10-21T17:59:18.754720+08:00",
+    "county_scope": [
+      "南投縣",
+      "雲林縣"
+    ],
+    "accepted_facts": 1,
+    "updated_people": 1,
+    "summary": "針對來源暫時502，保留原報告，刪除無法讀取的2024背景敘述，改以已核讀的同篇候選人採訪核驗，新增1項逐字來源資料及2則話題；未放寬原驗證。",
+    "official_checks": [
+      {
+        "url": "https://web.cec.gov.tw/ntec",
+        "title": "本次重新讀取的來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/ylec",
+        "title": "本次重新讀取的來源"
+      },
+      {
+        "url": "https://www.cec.gov.tw/ntec",
+        "title": "本次重新讀取的來源"
+      },
+      {
+        "url": "https://www.cec.gov.tw/ylec",
+        "title": "本次重新讀取的來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/central/article/65213",
+        "title": "本次重新讀取的來源"
+      },
+      {
+        "url": "https://www.ylcc.gov.tw/Congress_Detail.aspx?n=22127&s=514106&sms=21659",
+        "title": "本次重新讀取的來源"
+      },
+      {
+        "url": "https://www.moi.gov.tw/LocalOfficial_Content.aspx?TYP=KND0003&_PARENT_ID=ER11112MC00031&_TYP=REP&n=575",
+        "title": "本次重新讀取的來源"
+      },
+      {
+        "url": "https://www.nantou.gov.tw/big5/news_content.php?cid=252&dptid=376480000&id=107928",
+        "title": "本次重新讀取的來源"
+      },
+      {
+        "url": "https://tkphc.yunlin.gov.tw/News_Content.aspx?n=17193&s=603374",
+        "title": "本次重新讀取的來源"
+      },
+      {
+        "url": "https://tkphc.yunlin.gov.tw/News_Content.aspx?n=8405&s=602622&sms=15407",
+        "title": "本次重新讀取的來源"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aloc/202605190179.aspx",
+        "title": "本次重新讀取的來源"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aipl/202610050190.aspx",
+        "title": "本次重新讀取的來源"
+      }
+    ],
+    "limitations": [
+      "兩輪自動執行均有失敗，已保留原始原因；此批為人工啟動驗證；南投背景改採同篇採訪的草屯方案，未使用無法讀取的2024舊稿。",
+      "來源日期保留，未把舊背景當作新核定或新完成成果。",
+      "未通過PDF或引文條件的學經歷不匯入。"
+    ],
+    "changes": [
+      {
+        "name": "林賜學",
+        "county": "南投縣",
+        "field": "experience",
+        "text": "鎮民代表會主席",
+        "url": "https://www.cna.com.tw/news/aloc/202605190179.aspx"
+      }
+    ],
+    "topic_updates": [
+      {
+        "id": "nantou-transport-connections-policy-20261015",
+        "title": "南投交通政見：鐵路接駁與草屯小巴如何銜接？",
+        "kind": "new",
+        "summary": "中央社10月15日報導，温世政主張加強台鐵與高鐵彰化站接駁，並研議以輕軌延伸台中捷運到南投；張媛婷提出彈性共乘、庄頭巡迴小巴及候車環境改善。這些是本屆競選主張。",
+        "sources": [
+          "https://www.cna.com.tw/news/aloc/202610150261.aspx",
+          "https://www.cna.com.tw/news/aloc/202610150261.aspx"
+        ]
+      },
+      {
+        "id": "yunlin-fertility-support-policy-20261019",
+        "title": "張嘉郡生育支持方案：交通、心理與既有補助怎麼接？",
+        "kind": "new",
+        "summary": "張嘉郡10月19日提出生育政策白皮書，主張串接醫療、求子與孕期交通及心理支持，以衛生所作為諮詢入口，並針對跨院療程或多重需求家庭安排專人追蹤。這仍是競選方案。",
+        "sources": [
+          "https://www.cna.com.tw/news/aipl/202610190163.aspx",
+          "https://tkphc.yunlin.gov.tw/News_Content.aspx?n=8405&s=602622&sms=15407"
+        ]
+      }
+    ],
+    "review_leads_count": 2,
+    "rejected_count": 8
+  },
+  {
     "entry_id": "2026-10-21-manual-changhua-bios-policy-context",
     "kind": "manual",
     "session_label": "機關履歷與政策條件補核",

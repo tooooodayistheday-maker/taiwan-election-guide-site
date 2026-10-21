@@ -1,0 +1,46 @@
+{
+  "entry_id": "2026-10-21-manual-changhua-pending-case",
+  "kind": "manual",
+  "session_label": "彰化議員未定罪程序人工查核",
+  "date": "2026-10-21",
+  "checked_at": "2026-10-21T17:59:57.984408+08:00",
+  "county_scope": [
+    "彰化縣"
+  ],
+  "accepted_facts": 1,
+  "updated_people": 1,
+  "summary": "補充謝典霖1件未定罪程序介紹，區分羈押、抗告、辦公室回應與實體有罪裁判；不增加定讞前科或變更資格。",
+  "official_checks": [
+    {
+      "url": "https://www.judicial.gov.tw/tw/cp-1888-1619544-c7438-1.html",
+      "title": "彰化地方法院原始聲請羈押案新聞稿"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/asoc/202609240327.aspx",
+      "title": "中央社9/24：羈押抗告駁回"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/asoc/202609190115.aspx",
+      "title": "中央社9/19：辦公室回應及檢方說明"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aloc/202610200296.aspx",
+      "title": "中央社10/20：羈押背景及競選活動報導"
+    }
+  ],
+  "limitations": [
+    "10/21查核，最新已讀法院處分報導為9/24，另補讀10/20新聞；未取得更後續起訴、不起訴、延押、交保或本案實體裁判原文，不推論今日程序完全未變。羈押、抗告駁回不等於有罪，不新增定讞犯罪分類、不改參選資格。法院另述其他被告的洩密、電磁紀錄及個資罪嫌，不移轉到謝典霖名下。"
+  ],
+  "changes": [
+    {
+      "name": "謝典霖",
+      "county": "彰化縣",
+      "field": "pending_judicial_procedure",
+      "text": "法院原始新聞稿記載，檢方以涉嫌詐取公款、文書及投票行賄等聲請羈押，法院裁定謝典霖羈押並禁止接見通信。9/24中央社報導羈押抗告遭駁回；「不得再抗告」針對羈押程序，不是本案犯罪定讞。10/20報導仍述其遭羈押及競選活動安排，並未記載新的有罪判決。",
+      "url": "https://www.judicial.gov.tw/tw/cp-1888-1619544-c7438-1.html"
+    }
+  ],
+  "topic_updates": [],
+  "review_leads_count": 0,
+  "rejected_count": 0
+}

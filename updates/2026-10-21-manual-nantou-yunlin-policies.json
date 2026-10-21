@@ -1,0 +1,59 @@
+{
+  "entry_id": "2026-10-21-manual-nantou-yunlin-policies",
+  "kind": "manual",
+  "session_label": "南投與雲林公開政策原文補核",
+  "date": "2026-10-21",
+  "checked_at": "2026-10-21T18:00:04.768980+08:00",
+  "county_scope": [
+    "南投縣",
+    "雲林縣"
+  ],
+  "accepted_facts": 3,
+  "updated_people": 3,
+  "summary": "補核3位縣長參選人本屆主張及待追問事項，保留各自提案日；不把競選宣示當成核定工程或政策成果。",
+  "official_checks": [
+    {
+      "url": "https://www.cna.com.tw/news/aloc/202610150261.aspx",
+      "title": "本屆參選語境與提案日期已核讀的中央社原始採訪"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202610190163.aspx",
+      "title": "本屆參選語境與提案日期已核讀的中央社原始採訪"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202609290251.aspx",
+      "title": "本屆參選語境與提案日期已核讀的中央社原始採訪"
+    }
+  ],
+  "limitations": [
+    "輕軌仍屬研議，不是已核定路線或工程。",
+    "生育支持網為競選主張，不是現行服務完成或療效認證。",
+    "許淑華資料為任內公開施政方向，非新增競選承諾；未認證農產收益或旅館計畫已完成。"
+  ],
+  "changes": [
+    {
+      "name": "温世政",
+      "county": "南投縣",
+      "field": "policy",
+      "text": "10/15提出加強台鐵、高鐵彰化站接駁，結合通勤服務與車站商圈，並研議以輕軌方式將台中捷運延伸南投。",
+      "url": "https://www.cna.com.tw/news/aloc/202610150261.aspx"
+    },
+    {
+      "name": "張嘉郡",
+      "county": "雲林縣",
+      "field": "policy",
+      "text": "10/19提出串連備孕至產後服務，含健檢、專科資源、求子交通與好孕專車及心理支持；規劃20鄉鎮市衛生所設諮詢入口，跨院或多重需求家庭由個案管理協助。",
+      "url": "https://www.cna.com.tw/news/aipl/202610190163.aspx"
+    },
+    {
+      "name": "許淑華",
+      "county": "南投縣",
+      "field": "policy",
+      "text": "9/29以縣長身分出席旅館簽約活動時，談持續與日月潭管理處合作辦活動，串連區內飯店行銷在地農特產。這是任內公開施政方向，不另包裝成當天新競選承諾。",
+      "url": "https://www.cna.com.tw/news/aipl/202609290251.aspx"
+    }
+  ],
+  "topic_updates": [],
+  "review_leads_count": 0,
+  "rejected_count": 0
+}

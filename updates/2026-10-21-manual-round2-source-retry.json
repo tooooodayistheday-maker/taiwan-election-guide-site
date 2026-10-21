@@ -1,0 +1,102 @@
+{
+  "entry_id": "2026-10-21-manual-round2-source-retry",
+  "kind": "manual",
+  "session_label": "第二輪來源502重試驗證",
+  "date": "2026-10-21",
+  "checked_at": "2026-10-21T17:59:18.754720+08:00",
+  "county_scope": [
+    "南投縣",
+    "雲林縣"
+  ],
+  "accepted_facts": 1,
+  "updated_people": 1,
+  "summary": "針對來源暫時502，保留原報告，刪除無法讀取的2024背景敘述，改以已核讀的同篇候選人採訪核驗，新增1項逐字來源資料及2則話題；未放寬原驗證。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/ntec",
+      "title": "本次重新讀取的來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/ylec",
+      "title": "本次重新讀取的來源"
+    },
+    {
+      "url": "https://www.cec.gov.tw/ntec",
+      "title": "本次重新讀取的來源"
+    },
+    {
+      "url": "https://www.cec.gov.tw/ylec",
+      "title": "本次重新讀取的來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/central/article/65213",
+      "title": "本次重新讀取的來源"
+    },
+    {
+      "url": "https://www.ylcc.gov.tw/Congress_Detail.aspx?n=22127&s=514106&sms=21659",
+      "title": "本次重新讀取的來源"
+    },
+    {
+      "url": "https://www.moi.gov.tw/LocalOfficial_Content.aspx?TYP=KND0003&_PARENT_ID=ER11112MC00031&_TYP=REP&n=575",
+      "title": "本次重新讀取的來源"
+    },
+    {
+      "url": "https://www.nantou.gov.tw/big5/news_content.php?cid=252&dptid=376480000&id=107928",
+      "title": "本次重新讀取的來源"
+    },
+    {
+      "url": "https://tkphc.yunlin.gov.tw/News_Content.aspx?n=17193&s=603374",
+      "title": "本次重新讀取的來源"
+    },
+    {
+      "url": "https://tkphc.yunlin.gov.tw/News_Content.aspx?n=8405&s=602622&sms=15407",
+      "title": "本次重新讀取的來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aloc/202605190179.aspx",
+      "title": "本次重新讀取的來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202610050190.aspx",
+      "title": "本次重新讀取的來源"
+    }
+  ],
+  "limitations": [
+    "兩輪自動執行均有失敗，已保留原始原因；此批為人工啟動驗證；南投背景改採同篇採訪的草屯方案，未使用無法讀取的2024舊稿。",
+    "來源日期保留，未把舊背景當作新核定或新完成成果。",
+    "未通過PDF或引文條件的學經歷不匯入。"
+  ],
+  "changes": [
+    {
+      "name": "林賜學",
+      "county": "南投縣",
+      "field": "experience",
+      "text": "鎮民代表會主席",
+      "url": "https://www.cna.com.tw/news/aloc/202605190179.aspx"
+    }
+  ],
+  "topic_updates": [
+    {
+      "id": "nantou-transport-connections-policy-20261015",
+      "title": "南投交通政見：鐵路接駁與草屯小巴如何銜接？",
+      "kind": "new",
+      "summary": "中央社10月15日報導，温世政主張加強台鐵與高鐵彰化站接駁，並研議以輕軌延伸台中捷運到南投；張媛婷提出彈性共乘、庄頭巡迴小巴及候車環境改善。這些是本屆競選主張。",
+      "sources": [
+        "https://www.cna.com.tw/news/aloc/202610150261.aspx",
+        "https://www.cna.com.tw/news/aloc/202610150261.aspx"
+      ]
+    },
+    {
+      "id": "yunlin-fertility-support-policy-20261019",
+      "title": "張嘉郡生育支持方案：交通、心理與既有補助怎麼接？",
+      "kind": "new",
+      "summary": "張嘉郡10月19日提出生育政策白皮書，主張串接醫療、求子與孕期交通及心理支持，以衛生所作為諮詢入口，並針對跨院療程或多重需求家庭安排專人追蹤。這仍是競選方案。",
+      "sources": [
+        "https://www.cna.com.tw/news/aipl/202610190163.aspx",
+        "https://tkphc.yunlin.gov.tw/News_Content.aspx?n=8405&s=602622&sms=15407"
+      ]
+    }
+  ],
+  "review_leads_count": 2,
+  "rejected_count": 8
+}

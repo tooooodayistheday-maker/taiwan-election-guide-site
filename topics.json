@@ -3,6 +3,90 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "nantou-transport-connections-policy-20261015",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "南投交通政見：鐵路接駁與草屯小巴如何銜接？",
+      "shortTitle": "南投接駁與草屯小巴",
+      "category": "每日選舉話題",
+      "county": "南投縣",
+      "date": "2026-10-15",
+      "summary": "中央社10月15日報導，温世政主張加強台鐵與高鐵彰化站接駁，並研議以輕軌延伸台中捷運到南投；張媛婷提出彈性共乘、庄頭巡迴小巴及候車環境改善。這些是本屆競選主張。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社10月15日報導，温世政主張加強台鐵與高鐵彰化站接駁，並研議以輕軌延伸台中捷運到南投；張媛婷提出彈性共乘、庄頭巡迴小巴及候車環境改善。這些是本屆競選主張。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610150261.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "同篇10月15日原始採訪中，張媛婷提出草屯晚間跨區共乘及庄頭巡迴小巴，並談候車設施、公共自行車與路口改善；這是鎮長參選人的主張，不能與縣級軌道構想混成同一權責或核定工程。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610150261.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：應分清縣府、鄉鎮公所、中央運輸單位與營運業者的分工，補核路線、班距、票價、營運補貼及末班接駁時段。輕軌延伸另須確認跨縣市協調、計畫階段與財源，不能把主張當成核定工程。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610150261.aspx",
+            "https://www.cna.com.tw/news/aloc/202610150261.aspx"
+          ]
+        }
+      ],
+      "question": "你會先檢視末班車接駁、庄頭路線與班距，還是長期軌道建設的財源與時程？",
+      "checkedAt": "2026-10-21",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "dcbfb1d59423d44eb2f5b2cc7cfbc5c6df9fadd457691230710d10dbc84e70c9"
+      ]
+    },
+    {
+      "id": "yunlin-fertility-support-policy-20261019",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "張嘉郡生育支持方案：交通、心理與既有補助怎麼接？",
+      "shortTitle": "雲林生育支持方案",
+      "category": "每日選舉話題",
+      "county": "雲林縣",
+      "date": "2026-10-19",
+      "summary": "張嘉郡10月19日提出生育政策白皮書，主張串接醫療、求子與孕期交通及心理支持，以衛生所作為諮詢入口，並針對跨院療程或多重需求家庭安排專人追蹤。這仍是競選方案。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "張嘉郡10月19日提出生育政策白皮書，主張串接醫療、求子與孕期交通及心理支持，以衛生所作為諮詢入口，並針對跨院療程或多重需求家庭安排專人追蹤。這仍是競選方案。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610190163.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "土庫鎮衛生所8月13日公告說明，雲林自2026年1月1日起擴大人工生殖補助對象，另有凍卵、孕期篩檢及婚後孕前健檢等項目，並標明經費用罄為止。既有補助與新主張須分項比較。",
+          "sourceUrls": [
+            "https://tkphc.yunlin.gov.tw/News_Content.aspx?n=8405&s=602622&sms=15407"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：應交代相較中央與縣府既有補助增加哪些服務，以及適用資格、交通補助標準、心理服務人力、衛生所個案管理負擔與穩定財源。提出方案不能證明醫療可近性已提升。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610190163.aspx",
+            "https://tkphc.yunlin.gov.tw/News_Content.aspx?n=8405&s=602622&sms=15407"
+          ]
+        }
+      ],
+      "question": "你最希望先看見新增服務清單、申請資格、交通補助標準，還是服務人力與預算？",
+      "checkedAt": "2026-10-21",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "fc0a38244d075b55e83530e599347c6985ec4d8a65e8c5e6b262c0e87a3e38b1"
+      ]
+    },
+    {
       "id": "miaoli-polling-accessibility-check-20261021",
       "symbol": "◇",
       "county": "苗栗縣",
