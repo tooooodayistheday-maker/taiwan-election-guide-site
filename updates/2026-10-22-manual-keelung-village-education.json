@@ -1,0 +1,953 @@
+{
+  "entry_id": "2026-10-22-manual-keelung-village-education",
+  "kind": "manual",
+  "session_label": "基隆里長介紹頁學歷欄補核",
+  "date": "2026-10-22",
+  "checked_at": "2026-10-22T06:05:21.000896+08:00",
+  "county_scope": [
+    "基隆市"
+  ],
+  "accepted_facts": 84,
+  "updated_people": 84,
+  "summary": "補入84位里長登記者原先空白的學歷欄，逐筆標出區公所頁面更新日期，保留肄業、結業、選修及僅列層級等限制；不認定已獨立驗證學位。",
+  "official_checks": [
+    {
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99071.html",
+      "title": "基隆市七堵區公所・長興里里長介紹・姚琴富（學歷欄）"
+    },
+    {
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99075.html",
+      "title": "基隆市七堵區公所・正光里里長介紹・許正聲（學歷欄）"
+    },
+    {
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99080.html",
+      "title": "基隆市七堵區公所・永安里里長介紹・陳君治（學歷欄）"
+    },
+    {
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99077.html",
+      "title": "基隆市七堵區公所・八德里里長介紹・余文財（學歷欄）"
+    },
+    {
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99078.html",
+      "title": "基隆市七堵區公所・自強里里長介紹・張仁化（學歷欄）"
+    },
+    {
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99058.html",
+      "title": "基隆市七堵區公所・六堵里里長介紹・余良盛（學歷欄）"
+    },
+    {
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99066.html",
+      "title": "基隆市七堵區公所・泰安里里長介紹・詹仁豪（學歷欄）"
+    },
+    {
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99060.html",
+      "title": "基隆市七堵區公所・堵北里里長介紹・謝孟翰（學歷欄）"
+    },
+    {
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99084.html",
+      "title": "基隆市七堵區公所・瑪東里里長介紹・李門長（學歷欄）"
+    },
+    {
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99074.html",
+      "title": "基隆市七堵區公所・友一里里長介紹・蕭雪（學歷欄）"
+    },
+    {
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99073.html",
+      "title": "基隆市七堵區公所・友二里里長介紹・蘇秋福（學歷欄）"
+    },
+    {
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99063.html",
+      "title": "基隆市七堵區公所・百福里里長介紹・何孟翰（學歷欄）"
+    },
+    {
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99082.html",
+      "title": "基隆市七堵區公所・實踐里里長介紹・張曉玫（學歷欄）"
+    },
+    {
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99069.html",
+      "title": "基隆市七堵區公所・長安里里長介紹・陳栓基（學歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103650.html",
+      "title": "基隆市仁愛區公所・林泉里里長介紹・駱俊雄（學歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103657.html",
+      "title": "基隆市仁愛區公所・花崗里里長介紹・姜永國（學歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103659.html",
+      "title": "基隆市仁愛區公所・虹橋里里長介紹・李碧霞（學歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103663.html",
+      "title": "基隆市仁愛區公所・智仁里里長介紹・林志堅（學歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103666.html",
+      "title": "基隆市仁愛區公所・和明里里長介紹・陳建平（學歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103667.html",
+      "title": "基隆市仁愛區公所・忠勇里里長介紹・林羅清梅（學歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103668.html",
+      "title": "基隆市仁愛區公所・玉田里里長介紹・王培宇（學歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104081.html",
+      "title": "基隆市仁愛區公所・仁德里里長介紹・王朝成（學歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104085.html",
+      "title": "基隆市仁愛區公所・博愛里里長介紹・邱三元（學歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-310210.html",
+      "title": "基隆市仁愛區公所・福仁里里長介紹・陳家斌（學歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104087.html",
+      "title": "基隆市仁愛區公所・誠仁里里長介紹・洪棟全（學歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104088.html",
+      "title": "基隆市仁愛區公所・吉仁里里長介紹・李建德（學歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104534.html",
+      "title": "基隆市仁愛區公所・育仁里里長介紹・藍正信（學歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104555.html",
+      "title": "基隆市仁愛區公所・龍門里里長介紹・林宗益（學歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104556.html",
+      "title": "基隆市仁愛區公所・德厚里里長介紹・莊育超（學歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104563.html",
+      "title": "基隆市仁愛區公所・曲水里里長介紹・徐鄭麗鳳（學歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104564.html",
+      "title": "基隆市仁愛區公所・崇文里里長介紹・陳明楷（學歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104565.html",
+      "title": "基隆市仁愛區公所・文安里里長介紹・李隆進（學歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104566.html",
+      "title": "基隆市仁愛區公所・兆連里里長介紹・潘國龍（學歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104567.html",
+      "title": "基隆市仁愛區公所・獅球里里長介紹・林錦榮（學歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104568.html",
+      "title": "基隆市仁愛區公所・書院里里長介紹・林文肯（學歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104579.html",
+      "title": "基隆市仁愛區公所・朝棟里里長介紹・李光健（學歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104580.html",
+      "title": "基隆市仁愛區公所・明德里里長介紹・許文杰（學歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104581.html",
+      "title": "基隆市仁愛區公所・同風里里長介紹・戴學禮（學歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104582.html",
+      "title": "基隆市仁愛區公所・文昌里里長介紹・王明清（學歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104583.html",
+      "title": "基隆市仁愛區公所・新店里里長介紹・陳祐益（學歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104584.html",
+      "title": "基隆市仁愛區公所・光華里里長介紹・陳世豐（學歷欄）"
+    },
+    {
+      "url": "https://www.kljs.klcg.gov.tw/tw/kljs/749-98503.html",
+      "title": "基隆市中山區公所・仙洞里里長介紹・賴正男（學歷欄）"
+    },
+    {
+      "url": "https://www.kljs.klcg.gov.tw/tw/kljs/749-98488.html",
+      "title": "基隆市中山區公所・西定里里長介紹・翁木梨（學歷欄）"
+    },
+    {
+      "url": "https://www.kljs.klcg.gov.tw/tw/kljs/749-98494.html",
+      "title": "基隆市中山區公所・德安里里長介紹・謝銘傳（學歷欄）"
+    },
+    {
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97778.html",
+      "title": "基隆市安樂區公所・西川里里長介紹・王忠誠（學歷欄）"
+    },
+    {
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-265337.html",
+      "title": "基隆市安樂區公所・定國里里長介紹・徐英俊（學歷欄）"
+    },
+    {
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-265340.html",
+      "title": "基隆市安樂區公所・新西里里長介紹・黃世榮（學歷欄）"
+    },
+    {
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97780.html",
+      "title": "基隆市安樂區公所・干城里里長介紹・俞秀真（學歷欄）"
+    },
+    {
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97781.html",
+      "title": "基隆市安樂區公所・永康里里長介紹・陳銘坤（學歷欄）"
+    },
+    {
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-96022.html",
+      "title": "基隆市安樂區公所・嘉仁里里長介紹・王貴美（學歷欄）"
+    },
+    {
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97774.html",
+      "title": "基隆市安樂區公所・安和里里長介紹・童意鵬（學歷欄）"
+    },
+    {
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97768.html",
+      "title": "基隆市安樂區公所・外寮里里長介紹・顏厚廣（學歷欄）"
+    },
+    {
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97770.html",
+      "title": "基隆市安樂區公所・中崙里里長介紹・李源林（學歷欄）"
+    },
+    {
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97771.html",
+      "title": "基隆市安樂區公所・內寮里里長介紹・嚴福神（學歷欄）"
+    },
+    {
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97772.html",
+      "title": "基隆市安樂區公所・新崙里里長介紹・林金龍（學歷欄）"
+    },
+    {
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-264938.html",
+      "title": "基隆市安樂區公所・三民里里長介紹・簡義雄（學歷欄）"
+    },
+    {
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-96024.html",
+      "title": "基隆市安樂區公所・四維里里長介紹・黃雅玲（學歷欄）"
+    },
+    {
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97765.html",
+      "title": "基隆市安樂區公所・五福里里長介紹・舒瑞利（學歷欄）"
+    },
+    {
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97764.html",
+      "title": "基隆市安樂區公所・六合里里長介紹・潘德發（學歷欄）"
+    },
+    {
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-265345.html",
+      "title": "基隆市安樂區公所・七賢里里長介紹・鍾尚倫（學歷欄）"
+    },
+    {
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-264953.html",
+      "title": "基隆市安樂區公所・鶯歌里里長介紹・邱美足（學歷欄）"
+    },
+    {
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97769.html",
+      "title": "基隆市安樂區公所・武崙里里長介紹・李文財（學歷欄）"
+    },
+    {
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97766.html",
+      "title": "基隆市安樂區公所・長樂里里長介紹・張德發（學歷欄）"
+    },
+    {
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97767.html",
+      "title": "基隆市安樂區公所・興寮里里長介紹・黃書筠（學歷欄）"
+    },
+    {
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-265344.html",
+      "title": "基隆市安樂區公所・鶯安里里長介紹・劉大維（學歷欄）"
+    },
+    {
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-264954.html",
+      "title": "基隆市安樂區公所・壯觀里里長介紹・陳威竹（學歷欄）"
+    },
+    {
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265420.html",
+      "title": "基隆市信義區公所・仁壽里里長介紹・張富凱（學歷欄）"
+    },
+    {
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265421.html",
+      "title": "基隆市信義區公所・仁義里里長介紹・王柏力（學歷欄）"
+    },
+    {
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265443.html",
+      "title": "基隆市信義區公所・義昭里里長介紹・童冠睿（學歷欄）"
+    },
+    {
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265442.html",
+      "title": "基隆市信義區公所・義幸里里長介紹・李王環（學歷欄）"
+    },
+    {
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265441.html",
+      "title": "基隆市信義區公所・義民里里長介紹・連轉旺（學歷欄）"
+    },
+    {
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265440.html",
+      "title": "基隆市信義區公所・義和里里長介紹・蔡麗月（學歷欄）"
+    },
+    {
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265439.html",
+      "title": "基隆市信義區公所・智慧里里長介紹・蔡美玉（學歷欄）"
+    },
+    {
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265438.html",
+      "title": "基隆市信義區公所・智誠里里長介紹・何希華（學歷欄）"
+    },
+    {
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265437.html",
+      "title": "基隆市信義區公所・禮儀里里長介紹・郭金德（學歷欄）"
+    },
+    {
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265436.html",
+      "title": "基隆市信義區公所・禮東里里長介紹・賴興泉（學歷欄）"
+    },
+    {
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265435.html",
+      "title": "基隆市信義區公所・信綠里里長介紹・吳銘達（學歷欄）"
+    },
+    {
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265431.html",
+      "title": "基隆市信義區公所・東明里里長介紹・翁誠鍾（學歷欄）"
+    },
+    {
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265428.html",
+      "title": "基隆市信義區公所・東安里里長介紹・林睿騰（學歷欄）"
+    },
+    {
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265427.html",
+      "title": "基隆市信義區公所・孝岡里里長介紹・吳石金（學歷欄）"
+    },
+    {
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265434.html",
+      "title": "基隆市信義區公所・東信里里長介紹・賴姵綺（學歷欄）"
+    },
+    {
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265425.html",
+      "title": "基隆市信義區公所・孝深里里長介紹・郭姵萱（學歷欄）"
+    },
+    {
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265424.html",
+      "title": "基隆市信義區公所・孝賢里里長介紹・莊琬琳（學歷欄）"
+    },
+    {
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265423.html",
+      "title": "基隆市信義區公所・孝德里里長介紹・朱志偉（學歷欄）"
+    }
+  ],
+  "limitations": [
+    "來源頁更新日期範圍為2020至2026年，不能全部當作2026最新履歷。",
+    "機關介紹列載不等於畢業學位或專業資格的獨立驗證。",
+    "本輪未更改政見、經歷、司法、黨籍或參選資格；未轉錄電話及住址。"
+  ],
+  "changes": [
+    {
+      "name": "姚琴富",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2026/05/07）列載學歷：南強高職（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99071.html"
+    },
+    {
+      "name": "許正聲",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2026/08/10）列載學歷：國立空中大學公共行政學系畢業（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99075.html"
+    },
+    {
+      "name": "陳君治",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2026/05/07）列載學歷：培德高職（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99080.html"
+    },
+    {
+      "name": "余文財",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2026/08/10）列載學歷：高中畢（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99077.html"
+    },
+    {
+      "name": "張仁化",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2026/05/07）列載學歷：基隆海事畢（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99078.html"
+    },
+    {
+      "name": "余良盛",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2026/05/07）列載學歷：基隆商工（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99058.html"
+    },
+    {
+      "name": "詹仁豪",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2026/08/10）列載學歷：國中（頁面僅列學歷層級，未列學校或科系）。",
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99066.html"
+    },
+    {
+      "name": "謝孟翰",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2024/10/09）列載學歷：基隆二信高職（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99060.html"
+    },
+    {
+      "name": "李門長",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2026/05/07）列載學歷：基隆市瑪陵國小 基隆市明德國中肄業（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99084.html"
+    },
+    {
+      "name": "蕭雪",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2026/05/07）列載學歷：育達商職（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99074.html"
+    },
+    {
+      "name": "蘇秋福",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2026/05/07）列載學歷：復興國民小學畢.明德國民中學畢（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99073.html"
+    },
+    {
+      "name": "何孟翰",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2026/05/07）列載學歷：中國文化大學音樂系（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99063.html"
+    },
+    {
+      "name": "張曉玫",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2026/05/07）列載學歷：育達商業技術學院財經法律系（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99082.html"
+    },
+    {
+      "name": "陳栓基",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2026/08/10）列載學歷：汐 止 初 中（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99069.html"
+    },
+    {
+      "name": "駱俊雄",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2020/10/28）列載學歷：基隆市私立培德高職畢業（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103650.html"
+    },
+    {
+      "name": "姜永國",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2020/10/28）列載學歷：博士（頁面僅列學歷層級，未列學校或科系）。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103657.html"
+    },
+    {
+      "name": "李碧霞",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2020/10/28）列載學歷：基隆市光隆高職畢業 空中大學選修生社會學系 師範大學成人教育研究中心社區 讀書會領導人第三期結業 淡江大學公關實物培訓第 24 期結業（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103659.html"
+    },
+    {
+      "name": "林志堅",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2023/01/06）列載學歷：國立海洋大學研究所（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103663.html"
+    },
+    {
+      "name": "陳建平",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2020/10/28）列載學歷：國立台北商專畢業 基隆一中畢業 基隆市暖暖國民小學畢業（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103666.html"
+    },
+    {
+      "name": "林羅清梅",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2020/10/28）列載學歷：基隆女中 成功國中 南榮國小（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103667.html"
+    },
+    {
+      "name": "王培宇",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2025/06/10）列載學歷：國立台灣海洋大學食品科學系（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103668.html"
+    },
+    {
+      "name": "王朝成",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2020/10/28）列載學歷：經國管理暨健康學院附設專科進修學校（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104081.html"
+    },
+    {
+      "name": "邱三元",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2020/10/28）列載學歷：自修（頁面僅列學歷層級，未列學校或科系）。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104085.html"
+    },
+    {
+      "name": "陳家斌",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2025/12/02）列載學歷：110年基隆工商資訊科畢業（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-310210.html"
+    },
+    {
+      "name": "洪棟全",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2020/10/28）列載學歷：南榮國小畢業 南榮國中畢業 東南商業職業學校畢業（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104087.html"
+    },
+    {
+      "name": "李建德",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2020/10/28）列載學歷：基隆市私立聖心工商電工科畢業（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104088.html"
+    },
+    {
+      "name": "藍正信",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2020/10/28）列載學歷：聖心工商畢業（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104534.html"
+    },
+    {
+      "name": "林宗益",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2020/10/28）列載學歷：聖心工商畢業（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104555.html"
+    },
+    {
+      "name": "莊育超",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2024/01/26）列載學歷：二信中學（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104556.html"
+    },
+    {
+      "name": "徐鄭麗鳳",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2020/10/28）列載學歷：基隆市信義區中興國民小學畢業 基隆市銘傳國民中學畢業（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104563.html"
+    },
+    {
+      "name": "陳明楷",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2020/10/28）列載學歷：南榮國小 南榮國中 中國海事專科學校（航海科）（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104564.html"
+    },
+    {
+      "name": "李隆進",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2020/10/28）列載學歷：基隆市成功國小 基市一中 培德高職（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104565.html"
+    },
+    {
+      "name": "潘國龍",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2020/10/28）列載學歷：台北市喬治工商（建築科畢業）（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104566.html"
+    },
+    {
+      "name": "林錦榮",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2020/10/28）列載學歷：羅東國小 羅東國中 羅東高級工商職業學校（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104567.html"
+    },
+    {
+      "name": "林文肯",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2020/10/28）列載學歷：中華技術學院工 業工程管理科畢（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104568.html"
+    },
+    {
+      "name": "李光健",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2020/10/28）列載學歷：致理商專(技術學院） 光隆高級商職 基隆市立第二中學（現為銘傳國中） 中山國民小學（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104579.html"
+    },
+    {
+      "name": "許文杰",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2020/10/28）列載學歷：基隆高中（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104580.html"
+    },
+    {
+      "name": "戴學禮",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2020/10/28）列載學歷：淡江大學國際貿易系 空軍航空技術學院 國立基隆高中（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104581.html"
+    },
+    {
+      "name": "王明清",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2020/10/28）列載學歷：成功國小 南榮國中 省立基隆商工 龍華工專（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104582.html"
+    },
+    {
+      "name": "陳祐益",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2020/10/28）列載學歷：初中（頁面僅列學歷層級，未列學校或科系）。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104583.html"
+    },
+    {
+      "name": "陳世豐",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2020/10/28）列載學歷：高中（頁面僅列學歷層級，未列學校或科系）。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104584.html"
+    },
+    {
+      "name": "賴正男",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2025/02/10）列載學歷：高中畢（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.kljs.klcg.gov.tw/tw/kljs/749-98503.html"
+    },
+    {
+      "name": "翁木梨",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2024/04/15）列載學歷：基隆女中（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.kljs.klcg.gov.tw/tw/kljs/749-98488.html"
+    },
+    {
+      "name": "謝銘傳",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2022/12/26）列載學歷：高職畢（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.kljs.klcg.gov.tw/tw/kljs/749-98494.html"
+    },
+    {
+      "name": "王忠誠",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2022/12/23）列載學歷：龍潭技術學院土木類結業（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97778.html"
+    },
+    {
+      "name": "徐英俊",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2026/10/06）列載學歷：學士學位（頁面僅列學歷層級，未列學校或科系）。",
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-265337.html"
+    },
+    {
+      "name": "黃世榮",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2022/12/23）列載學歷：陸軍官校畢業（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-265340.html"
+    },
+    {
+      "name": "俞秀真",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2022/12/23）列載學歷：高商畢業（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97780.html"
+    },
+    {
+      "name": "陳銘坤",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2022/12/23）列載學歷：空中大學（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97781.html"
+    },
+    {
+      "name": "王貴美",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2022/12/23）列載學歷：國小（頁面僅列學歷層級，未列學校或科系）。",
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-96022.html"
+    },
+    {
+      "name": "童意鵬",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2022/12/23）列載學歷：中學（頁面僅列學歷層級，未列學校或科系）。",
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97774.html"
+    },
+    {
+      "name": "顏厚廣",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2022/12/23）列載學歷：碩士（頁面僅列學歷層級，未列學校或科系）。",
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97768.html"
+    },
+    {
+      "name": "李源林",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2022/12/23）列載學歷：1. 陸軍士官畢 2. 專科學校畢（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97770.html"
+    },
+    {
+      "name": "嚴福神",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2022/12/23）列載學歷：國中（頁面僅列學歷層級，未列學校或科系）。",
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97771.html"
+    },
+    {
+      "name": "林金龍",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2022/12/23）列載學歷：國中（頁面僅列學歷層級，未列學校或科系）。",
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97772.html"
+    },
+    {
+      "name": "簡義雄",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2022/12/23）列載學歷：高職（頁面僅列學歷層級，未列學校或科系）。",
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-264938.html"
+    },
+    {
+      "name": "黃雅玲",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2022/12/23）列載學歷：大學（頁面僅列學歷層級，未列學校或科系）。",
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-96024.html"
+    },
+    {
+      "name": "舒瑞利",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2022/12/23）列載學歷：高中畢（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97765.html"
+    },
+    {
+      "name": "潘德發",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2022/12/23）列載學歷：高職畢（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97764.html"
+    },
+    {
+      "name": "鍾尚倫",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2022/12/23）列載學歷：聖心高中（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-265345.html"
+    },
+    {
+      "name": "邱美足",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2022/12/23）列載學歷：國中（頁面僅列學歷層級，未列學校或科系）。",
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-264953.html"
+    },
+    {
+      "name": "李文財",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2022/12/23）列載學歷：1.新北市金山區三和國小 2.新北市金山區金山國中 3.國立基隆高級職業學校（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97769.html"
+    },
+    {
+      "name": "張德發",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2022/12/23）列載學歷：國中（頁面僅列學歷層級，未列學校或科系）。",
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97766.html"
+    },
+    {
+      "name": "黃書筠",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2022/12/23）列載學歷：瑞芳高工（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-97767.html"
+    },
+    {
+      "name": "劉大維",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2026/10/15）列載學歷：國立基隆高中（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-265344.html"
+    },
+    {
+      "name": "陳威竹",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2022/12/23）列載學歷：復興高級商工職業學校美術系（未另核畢業證書；原頁未明列畢業者不推定畢業）。",
+      "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-264954.html"
+    },
+    {
+      "name": "張富凱",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2023/12/14）列載學歷：大學（頁面僅列學歷層級，未列學校或科系）。",
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265420.html"
+    },
+    {
+      "name": "王柏力",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2023/12/14）列載學歷：高職（頁面僅列學歷層級，未列學校或科系）。",
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265421.html"
+    },
+    {
+      "name": "童冠睿",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2023/12/14）列載學歷：碩士（頁面僅列學歷層級，未列學校或科系）。",
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265443.html"
+    },
+    {
+      "name": "李王環",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2023/12/14）列載學歷：高職（頁面僅列學歷層級，未列學校或科系）。",
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265442.html"
+    },
+    {
+      "name": "連轉旺",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2023/12/14）列載學歷：高職（頁面僅列學歷層級，未列學校或科系）。",
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265441.html"
+    },
+    {
+      "name": "蔡麗月",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2023/12/14）列載學歷：專科（頁面僅列學歷層級，未列學校或科系）。",
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265440.html"
+    },
+    {
+      "name": "蔡美玉",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2023/12/14）列載學歷：高職（頁面僅列學歷層級，未列學校或科系）。",
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265439.html"
+    },
+    {
+      "name": "何希華",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2023/12/14）列載學歷：國中（頁面僅列學歷層級，未列學校或科系）。",
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265438.html"
+    },
+    {
+      "name": "郭金德",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2023/12/14）列載學歷：高職（頁面僅列學歷層級，未列學校或科系）。",
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265437.html"
+    },
+    {
+      "name": "賴興泉",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2023/12/14）列載學歷：國中（頁面僅列學歷層級，未列學校或科系）。",
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265436.html"
+    },
+    {
+      "name": "吳銘達",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2023/12/14）列載學歷：高職（頁面僅列學歷層級，未列學校或科系）。",
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265435.html"
+    },
+    {
+      "name": "翁誠鍾",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2023/12/14）列載學歷：碩士（頁面僅列學歷層級，未列學校或科系）。",
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265431.html"
+    },
+    {
+      "name": "林睿騰",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2023/12/14）列載學歷：大學（頁面僅列學歷層級，未列學校或科系）。",
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265428.html"
+    },
+    {
+      "name": "吳石金",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2023/12/14）列載學歷：國中（頁面僅列學歷層級，未列學校或科系）。",
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265427.html"
+    },
+    {
+      "name": "賴姵綺",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2023/12/14）列載學歷：專科（頁面僅列學歷層級，未列學校或科系）。",
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265434.html"
+    },
+    {
+      "name": "郭姵萱",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2023/12/14）列載學歷：專科（頁面僅列學歷層級，未列學校或科系）。",
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265425.html"
+    },
+    {
+      "name": "莊琬琳",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2023/12/14）列載學歷：專科（頁面僅列學歷層級，未列學校或科系）。",
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265424.html"
+    },
+    {
+      "name": "朱志偉",
+      "county": "基隆市",
+      "field": "education",
+      "text": "區公所里長介紹頁（最後更新2023/12/14）列載學歷：專科（頁面僅列學歷層級，未列學校或科系）。",
+      "url": "https://www.klsy.klcg.gov.tw/tw/klsy/1228-265423.html"
+    }
+  ],
+  "topic_updates": [],
+  "review_leads_count": 0,
+  "rejected_count": 0,
+  "coverage_change": {
+    "new_education_profiles": 84,
+    "new_biographies": 0
+  }
+}
