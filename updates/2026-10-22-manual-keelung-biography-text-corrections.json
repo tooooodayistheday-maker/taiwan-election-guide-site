@@ -1,0 +1,96 @@
+{
+  "entry_id": "2026-10-22-manual-keelung-biography-text-corrections",
+  "kind": "manual",
+  "session_label": "原頁經歷屆次斷裂更正",
+  "date": "2026-10-22",
+  "checked_at": "2026-10-22T06:25:37.275035+08:00",
+  "county_scope": [
+    "基隆市"
+  ],
+  "accepted_facts": 5,
+  "updated_people": 3,
+  "summary": "對照原頁修復姜永國、李建德、林文肯3人的經歷屆次斷裂，另補姜永國5項已列載歷史職務；更正不冒稱全是新增資料。",
+  "official_checks": [
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103657.html",
+      "title": "基隆市仁愛區公所・花崗里里長介紹・姜永國（學歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104088.html",
+      "title": "基隆市仁愛區公所・吉仁里里長介紹・李建德（學歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104568.html",
+      "title": "基隆市仁愛區公所・書院里里長介紹・林文肯（學歷欄）"
+    }
+  ],
+  "limitations": [
+    "原介紹頁為2020年資料，個人任期與目前職務未另認證。",
+    "原有學歷、政策、司法及資格欄位保持一致；不因修復格式改動歷史實質內容。"
+  ],
+  "changes": [
+    {
+      "name": "姜永國",
+      "county": "基隆市",
+      "field": "experience_correction",
+      "text": "修復經歷欄屆次斷裂，完整原文為：花崗社區發展協會第5、6屆理事長。來源原頁更新日期2020/10/28，不認定目前任職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103657.html"
+    },
+    {
+      "name": "李建德",
+      "county": "基隆市",
+      "field": "experience_correction",
+      "text": "修復經歷欄屆次斷裂，完整原文為：吉仁社區發展協會第4屆理事長；吉仁里第19、20屆里長。來源原頁更新日期2020/10/28，不認定目前任職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104088.html"
+    },
+    {
+      "name": "林文肯",
+      "county": "基隆市",
+      "field": "experience_correction",
+      "text": "修復經歷欄屆次斷裂，完整原文為：仁愛區書院里里長（第19、20屆）專職里長。來源原頁更新日期2020/10/28，不認定目前任職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104568.html"
+    },
+    {
+      "name": "姜永國",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：銘傳國中103學年家長會長（僅記錄來源當時職務，不推定目前現職）。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103657.html"
+    },
+    {
+      "name": "姜永國",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：基隆高中106學年家長會長（僅記錄來源當時職務，不推定目前現職）。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103657.html"
+    },
+    {
+      "name": "姜永國",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：國際同濟會台灣總會第38屆總會秘書長（僅記錄來源當時職務，不推定目前現職）。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103657.html"
+    },
+    {
+      "name": "姜永國",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：美國俄亥俄大學台灣同學會長（僅記錄來源當時職務，不推定目前現職）。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103657.html"
+    },
+    {
+      "name": "姜永國",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：均晨文理補習班負責人（僅記錄來源當時職務，不推定目前現職）。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103657.html"
+    }
+  ],
+  "topic_updates": [],
+  "review_leads_count": 0,
+  "rejected_count": 0,
+  "coverage_change": {
+    "new_biographies": 0
+  },
+  "corrected_profiles": 3
+}

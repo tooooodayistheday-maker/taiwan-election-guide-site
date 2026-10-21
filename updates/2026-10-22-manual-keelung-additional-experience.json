@@ -1,0 +1,556 @@
+{
+  "entry_id": "2026-10-22-manual-keelung-additional-experience",
+  "kind": "manual",
+  "session_label": "基隆七堵與仁愛區里長經歷細項補核",
+  "date": "2026-10-22",
+  "checked_at": "2026-10-22T06:24:43.163725+08:00",
+  "county_scope": [
+    "基隆市"
+  ],
+  "accepted_facts": 64,
+  "updated_people": 20,
+  "summary": "為20位里長登記者補充64項原摘要未收錄的明確職務、訓練或評選紀錄，均註明介紹頁更新日期與非現職、證照認證限制。",
+  "official_checks": [
+    {
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99071.html",
+      "title": "七堵區公所・長興里里長姚琴富介紹（學經歷欄）"
+    },
+    {
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99075.html",
+      "title": "七堵區公所・正光里里長許正聲介紹（學經歷欄）"
+    },
+    {
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99077.html",
+      "title": "七堵區公所・八德里里長余文財介紹（學經歷欄）"
+    },
+    {
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99058.html",
+      "title": "七堵區公所・六堵里里長余良盛介紹（學經歷欄）"
+    },
+    {
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99066.html",
+      "title": "七堵區公所・泰安里里長詹仁豪介紹（學經歷欄）"
+    },
+    {
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99074.html",
+      "title": "七堵區公所・友一里里長蕭雪介紹（學經歷欄）"
+    },
+    {
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99063.html",
+      "title": "七堵區公所・百福里里長何孟翰介紹（學經歷欄）"
+    },
+    {
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99082.html",
+      "title": "七堵區公所・實踐里里長張曉玫介紹（學經歷欄）"
+    },
+    {
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99069.html",
+      "title": "七堵區公所・長安里里長陳栓基介紹（學經歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103659.html",
+      "title": "仁愛區公所・虹橋里里長李碧霞介紹（學經歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103666.html",
+      "title": "仁愛區公所・和明里里長陳建平介紹（學經歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103667.html",
+      "title": "仁愛區公所・忠勇里里長林羅清梅介紹（學經歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103668.html",
+      "title": "仁愛區公所・玉田里里長王培宇介紹（學經歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104081.html",
+      "title": "仁愛區公所・仁德里里長王朝成介紹（學經歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104087.html",
+      "title": "仁愛區公所・誠仁里里長洪棟全介紹（學經歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104534.html",
+      "title": "仁愛區公所・育仁里里長藍正信介紹（學經歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104565.html",
+      "title": "仁愛區公所・文安里里長李隆進介紹（學經歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104566.html",
+      "title": "仁愛區公所・兆連里里長潘國龍介紹（學經歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104579.html",
+      "title": "仁愛區公所・朝棟里里長李光健介紹（學經歷欄）"
+    },
+    {
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104581.html",
+      "title": "仁愛區公所・同風里里長戴學禮介紹（學經歷欄）"
+    }
+  ],
+  "limitations": [
+    "不從單獨機構名稱推定任職職稱。",
+    "訓練結訓和績優評選不等於目前證照有效、服務品質或完整履歷認證。",
+    "保留原有學歷、政見、黨籍、司法及資格資料。"
+  ],
+  "changes": [
+    {
+      "name": "姚琴富",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "七堵區公所介紹頁（2026/05/07更新）經歷欄列載：基隆市七堵區公所課員及里幹事；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99071.html"
+    },
+    {
+      "name": "許正聲",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "七堵區公所介紹頁（2026/08/10更新）經歷欄列載：市政府社會處辦事員；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99075.html"
+    },
+    {
+      "name": "許正聲",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "七堵區公所介紹頁（2026/08/10更新）經歷欄列載：監獄管理員；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99075.html"
+    },
+    {
+      "name": "許正聲",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "七堵區公所介紹頁（2026/08/10更新）經歷欄列載：市公車駕駛；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99075.html"
+    },
+    {
+      "name": "許正聲",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "七堵區公所介紹頁（2026/08/10更新）經歷欄列載：後備軍人輔導組長；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99075.html"
+    },
+    {
+      "name": "余文財",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "七堵區公所介紹頁（2026/08/10更新）經歷欄列載：七堵區人文地理觀光產業協會理事；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99077.html"
+    },
+    {
+      "name": "余文財",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "七堵區公所介紹頁（2026/08/10更新）經歷欄列載：基隆市營造工會代表；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99077.html"
+    },
+    {
+      "name": "余良盛",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "七堵區公所介紹頁（2026/05/07更新）經歷欄列載：六堵嶺福德宮管委會監事；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99058.html"
+    },
+    {
+      "name": "余良盛",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "七堵區公所介紹頁（2026/05/07更新）經歷欄列載：泰順工程行負責人；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99058.html"
+    },
+    {
+      "name": "詹仁豪",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "七堵區公所介紹頁（2026/08/10更新）經歷欄列載：泰安社區發展協會理事；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99066.html"
+    },
+    {
+      "name": "蕭雪",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "七堵區公所介紹頁（2026/05/07更新）經歷欄列載：現任櫻花環教關懷協會理事長；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99074.html"
+    },
+    {
+      "name": "蕭雪",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "七堵區公所介紹頁（2026/05/07更新）經歷欄列載：瑪陵休閒農業區第四屆理事；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99074.html"
+    },
+    {
+      "name": "蕭雪",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "七堵區公所介紹頁（2026/05/07更新）經歷欄列載：資原回收站環保志工隊長；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99074.html"
+    },
+    {
+      "name": "何孟翰",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "七堵區公所介紹頁（2026/05/07更新）經歷欄列載：培德工家音樂班兼任教師；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99063.html"
+    },
+    {
+      "name": "何孟翰",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "七堵區公所介紹頁（2026/05/07更新）經歷欄列載：七堵區青年志工服務協會理事長；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99063.html"
+    },
+    {
+      "name": "何孟翰",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "七堵區公所介紹頁（2026/05/07更新）經歷欄列載：基隆市義警大隊第三中隊書記；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99063.html"
+    },
+    {
+      "name": "何孟翰",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "七堵區公所介紹頁（2026/05/07更新）經歷欄列載：七堵區體育會監事；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99063.html"
+    },
+    {
+      "name": "何孟翰",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "七堵區公所介紹頁（2026/05/07更新）經歷欄列載：基隆市民防總隊百福分隊顧問；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99063.html"
+    },
+    {
+      "name": "張曉玫",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "七堵區公所介紹頁（2026/05/07更新）經歷欄列載：百福宮志工；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99082.html"
+    },
+    {
+      "name": "陳栓基",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "七堵區公所介紹頁（2026/08/10更新）經歷欄列載：長 安 關 懷 據 點 (13)年負責人；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klct.klcg.gov.tw/tw/klct/806-99069.html"
+    },
+    {
+      "name": "李碧霞",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：國際獅子會300F區慈暉會2001～2002會長；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103659.html"
+    },
+    {
+      "name": "李碧霞",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：仁愛區虹橋里七屆里長；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103659.html"
+    },
+    {
+      "name": "李碧霞",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：婦女保護愛心協會理事；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103659.html"
+    },
+    {
+      "name": "李碧霞",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：雞籠文史協進會監事；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103659.html"
+    },
+    {
+      "name": "李碧霞",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：台灣更生保護會基隆分會 更生輔導員；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103659.html"
+    },
+    {
+      "name": "李碧霞",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：基隆市100年芳草人物；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103659.html"
+    },
+    {
+      "name": "陳建平",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：團管區獎學金董事；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103666.html"
+    },
+    {
+      "name": "陳建平",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：仁愛國小家長會會長；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103666.html"
+    },
+    {
+      "name": "陳建平",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：延平派出所義警民防警友會顧問；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103666.html"
+    },
+    {
+      "name": "陳建平",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：和大企業創辦人；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103666.html"
+    },
+    {
+      "name": "陳建平",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：和明社區發展協會理事長；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103666.html"
+    },
+    {
+      "name": "陳建平",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：和明里里長；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103666.html"
+    },
+    {
+      "name": "陳建平",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：基隆市紳士協會創會會長；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103666.html"
+    },
+    {
+      "name": "林羅清梅",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：基隆市歷屆社區理事長社會 服務協進會監事；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103667.html"
+    },
+    {
+      "name": "林羅清梅",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：仁愛區體育會理事；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103667.html"
+    },
+    {
+      "name": "林羅清梅",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：國際獅子會基隆鳳凰會第十屆會長；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103667.html"
+    },
+    {
+      "name": "林羅清梅",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：國際獅子會基隆玉鼠聯誼會副總召集人；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103667.html"
+    },
+    {
+      "name": "林羅清梅",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：基隆市表演藝術發展協會常務監事；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103667.html"
+    },
+    {
+      "name": "林羅清梅",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：基隆市慈修宮顧問；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103667.html"
+    },
+    {
+      "name": "王培宇",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2025/06/10更新）經歷欄列載：基隆市謝姓宗親會秘書；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-103668.html"
+    },
+    {
+      "name": "王朝成",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：現任仁愛區民眾服務社理事；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104081.html"
+    },
+    {
+      "name": "王朝成",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：燊鴻設計股份有限公司董事長；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104081.html"
+    },
+    {
+      "name": "王朝成",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：現任長青學苑愈打愈健康～樂活幸福拳講師；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104081.html"
+    },
+    {
+      "name": "洪棟全",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：仁愛區後備軍人督導員；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104087.html"
+    },
+    {
+      "name": "洪棟全",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：義消仁愛2分隊顧問；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104087.html"
+    },
+    {
+      "name": "洪棟全",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：南榮國小家長會長；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104087.html"
+    },
+    {
+      "name": "洪棟全",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：洪記漁行負責人；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104087.html"
+    },
+    {
+      "name": "洪棟全",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：全德便當負責人；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104087.html"
+    },
+    {
+      "name": "藍正信",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：憲兵學校 76 年預備士官班畢業；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104534.html"
+    },
+    {
+      "name": "李隆進",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：仁愛區健康營造中心主任委員；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104565.html"
+    },
+    {
+      "name": "李隆進",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：成功國小、南榮國中、國立基隆中學家長會會長；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104565.html"
+    },
+    {
+      "name": "李隆進",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：基隆市政府社區規劃師；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104565.html"
+    },
+    {
+      "name": "李隆進",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：環保署環保教育志工；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104565.html"
+    },
+    {
+      "name": "李隆進",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：台灣更生保護會基隆更生輔導員；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104565.html"
+    },
+    {
+      "name": "李隆進",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：基隆市環保局環保志工小隊長；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104565.html"
+    },
+    {
+      "name": "李隆進",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：基隆市政府老人福利推動小組委員；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104565.html"
+    },
+    {
+      "name": "潘國龍",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：基隆市仁愛區兆連里 17、18、19、20 屆里長；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104566.html"
+    },
+    {
+      "name": "李光健",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：基市桌球協會國家級裁判；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104579.html"
+    },
+    {
+      "name": "李光健",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：基市家扶中心愛心志工；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104579.html"
+    },
+    {
+      "name": "李光健",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：朝棟里發展協會前理監事；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104579.html"
+    },
+    {
+      "name": "李光健",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：朝棟里南山福德宮副主委；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104579.html"
+    },
+    {
+      "name": "戴學禮",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：基隆市淡江大學校友會理事長；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104581.html"
+    },
+    {
+      "name": "戴學禮",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：國立基隆中學校友會顧問；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104581.html"
+    },
+    {
+      "name": "戴學禮",
+      "county": "基隆市",
+      "field": "experience",
+      "text": "仁愛區公所介紹頁（2020/10/28更新）經歷欄列載：義禮企業公司總經理；個人任期未載，不逕認目前現職。",
+      "url": "https://www.klra.klcg.gov.tw/tw/klra/912-104581.html"
+    }
+  ],
+  "topic_updates": [],
+  "review_leads_count": 0,
+  "rejected_count": 0,
+  "coverage_change": {
+    "new_biographies": 0
+  }
+}
