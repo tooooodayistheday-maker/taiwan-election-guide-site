@@ -3,6 +3,109 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "chiayi-aging-support",
+      "title": "嘉義市高齡政策，居家改善與交通補助如何回應不同需求？",
+      "shortTitle": "居家安全與敬老卡",
+      "category": "高齡與照護",
+      "symbol": "⌂",
+      "county": "嘉義市",
+      "districts": [],
+      "relatedNames": [
+        "王美惠",
+        "張啓楷"
+      ],
+      "date": "2026-10-05",
+      "summary": "兩位市長參選人分別提出居家安全與敬老卡方案；適用資格、使用便利與財源都值得檢視。",
+      "steps": [
+        {
+          "speaker": "事件背景",
+          "text": "10/5中央社整理嘉義市長參選人的高齡政策：王美惠談居家安全改善，張啓楷提出敬老卡調整。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610050211.aspx"
+          ]
+        },
+        {
+          "speaker": "當事人主張",
+          "text": "王美惠主張擴大長者居家安全補助對象，不再受限失能或身心障礙身分；張啓楷主張將敬老卡計程車單趟補助上限提高到100點。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610050211.aspx"
+          ]
+        },
+        {
+          "speaker": "待核對事項",
+          "text": "兩項主張處理的需求不同，不能只比較補助數字。後續可核對申請條件、服務供給、使用次數及年度預算。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610050211.aspx"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-10-21重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610050211.aspx",
+            "https://www.cna.com.tw/news/aloc/202609150136.aspx"
+          ]
+        }
+      ],
+      "question": "對長輩而言，補助額度、申請便利與實際找得到服務，哪個最需要優先改善？",
+      "checkedAt": "2026-10-21",
+      "dailyUpdateKind": "review",
+      "dailyEvidenceFingerprints": [
+        "e76faf8c30ace852bd7e61214f28dc280a6f51bbde2997d081c60262157873e5"
+      ]
+    },
+    {
+      "id": "hsinchu-watershed-monitoring",
+      "title": "竹縣智慧污染監控與全流域治水，如何追蹤成效？",
+      "shortTitle": "環境監測與流域防洪",
+      "category": "環境與防災",
+      "symbol": "≈",
+      "county": "新竹縣",
+      "districts": [],
+      "relatedNames": [
+        "徐欣瑩"
+      ],
+      "date": "2026-10-16",
+      "summary": "從公開監測資訊到分區防洪措施，辨識設備建置、資訊透明與實際防災成果的差別。",
+      "steps": [
+        {
+          "speaker": "事件背景",
+          "text": "徐欣瑩10/16提出頭前溪親水廊道、智慧污染監控中心及全流域治水3項環境政見。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610160223.aspx"
+          ]
+        },
+        {
+          "speaker": "當事人主張",
+          "text": "她主張整合污染監測資料並公開案件進度；治水則依上游山區、農業區及都會區，分別規劃保水、滯洪與雨水滲透措施。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610160223.aspx"
+          ]
+        },
+        {
+          "speaker": "待核對事項",
+          "text": "這些措施仍屬競選規劃。後續可核對監測涵蓋範圍、資料公開頻率、治理責任與分期工程目標。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610160223.aspx"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-10-21重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610160223.aspx",
+            "https://www.cna.com.tw/news/aloc/202608210217.aspx"
+          ]
+        }
+      ],
+      "question": "哪些公開指標，能讓你判斷污染監控與防洪措施有沒有改善生活？",
+      "checkedAt": "2026-10-21",
+      "dailyUpdateKind": "review",
+      "dailyEvidenceFingerprints": [
+        "6aa73902d1154659e285cb52b7974f18d90b34adbd86cc82903b4f90d1182bde"
+      ]
+    },
+    {
       "id": "hsinchu-antibribery-briefing-20261020",
       "symbol": "◇",
       "county": "新竹市",
@@ -1358,83 +1461,6 @@
         }
       ],
       "question": "你會要求候選人提出哪些時間、費用與就醫可近性的比較資料？"
-    },
-    {
-      "id": "hsinchu-watershed-monitoring",
-      "title": "竹縣智慧污染監控與全流域治水，如何追蹤成效？",
-      "shortTitle": "環境監測與流域防洪",
-      "category": "環境與防災",
-      "symbol": "≈",
-      "county": "新竹縣",
-      "districts": [],
-      "relatedNames": [
-        "徐欣瑩"
-      ],
-      "date": "2026-10-16",
-      "summary": "從公開監測資訊到分區防洪措施，辨識設備建置、資訊透明與實際防災成果的差別。",
-      "steps": [
-        {
-          "speaker": "事件背景",
-          "text": "徐欣瑩10/16提出頭前溪親水廊道、智慧污染監控中心及全流域治水3項環境政見。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610160223.aspx"
-          ]
-        },
-        {
-          "speaker": "當事人主張",
-          "text": "她主張整合污染監測資料並公開案件進度；治水則依上游山區、農業區及都會區，分別規劃保水、滯洪與雨水滲透措施。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610160223.aspx"
-          ]
-        },
-        {
-          "speaker": "待核對事項",
-          "text": "這些措施仍屬競選規劃。後續可核對監測涵蓋範圍、資料公開頻率、治理責任與分期工程目標。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610160223.aspx"
-          ]
-        }
-      ],
-      "question": "哪些公開指標，能讓你判斷污染監控與防洪措施有沒有改善生活？"
-    },
-    {
-      "id": "chiayi-aging-support",
-      "title": "嘉義市高齡政策，居家改善與交通補助如何回應不同需求？",
-      "shortTitle": "居家安全與敬老卡",
-      "category": "高齡與照護",
-      "symbol": "⌂",
-      "county": "嘉義市",
-      "districts": [],
-      "relatedNames": [
-        "王美惠",
-        "張啓楷"
-      ],
-      "date": "2026-10-05",
-      "summary": "兩位市長參選人分別提出居家安全與敬老卡方案；適用資格、使用便利與財源都值得檢視。",
-      "steps": [
-        {
-          "speaker": "事件背景",
-          "text": "10/5中央社整理嘉義市長參選人的高齡政策：王美惠談居家安全改善，張啓楷提出敬老卡調整。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610050211.aspx"
-          ]
-        },
-        {
-          "speaker": "當事人主張",
-          "text": "王美惠主張擴大長者居家安全補助對象，不再受限失能或身心障礙身分；張啓楷主張將敬老卡計程車單趟補助上限提高到100點。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610050211.aspx"
-          ]
-        },
-        {
-          "speaker": "待核對事項",
-          "text": "兩項主張處理的需求不同，不能只比較補助數字。後續可核對申請條件、服務供給、使用次數及年度預算。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610050211.aspx"
-          ]
-        }
-      ],
-      "question": "對長輩而言，補助額度、申請便利與實際找得到服務，哪個最需要優先改善？"
     },
     {
       "id": "hualien-policy-exchange",
