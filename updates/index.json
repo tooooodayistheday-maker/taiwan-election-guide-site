@@ -1,5 +1,59 @@
 [
   {
+    "entry_id": "2026-10-22-manual-keelung-judgment-finality",
+    "kind": "manual",
+    "session_label": "原始刑事判決與確定狀態補核",
+    "date": "2026-10-22",
+    "checked_at": "2026-10-22T06:19:40.679770+08:00",
+    "county_scope": [
+      "基隆市"
+    ],
+    "accepted_facts": 2,
+    "updated_people": 1,
+    "summary": "核讀新西里陳漢昭2022年協商判決，補歷史公職及判決內容；因尚未取得確定證據，新增「已讀刑事判決・確定狀態待核」醒目標記與篩選，未列入11人12案的已核實定讞統計。",
+    "official_checks": [
+      {
+        "url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=KLDM%2c110%2c%e8%a8%b4%2c40%2c20220406%2c2",
+        "title": "司法院・基隆地院110年度訴字第40號・2022/4/6協商判決（陳漢昭）"
+      },
+      {
+        "url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=TPHM%2c111%2c%e4%b8%8a%e8%a8%b4%2c2602%2c20221102%2c1",
+        "title": "司法院・高院111年度上訴字第2602號（張耀鴻量刑上訴，僅用於區分同案被告）"
+      },
+      {
+        "url": "https://web.cec.gov.tw/api/file/c48f9a6a-6ad8-4b07-8c3d-b4ed3c6325ef.pdf",
+        "title": "中選會2026村里長登記名冊・基隆市安樂區新西里（PDF第9頁）"
+      }
+    ],
+    "limitations": [
+      "原判決記載協商判決原則不得上訴，但亦列法定例外。公開歷審中的111年度上訴字第2602號，是另一被告張耀鴻對4/1判決的量刑上訴，不能移轉為陳漢昭的上訴或確定結果。本輪未取得確定證明、送達與執行資料，不把查無本人後續裁判當成定讞，也不認定今日仍在審理；不變更官方資格欄、不列已核實犯罪類型。",
+      "司法欄新增的是歷史判決核讀，不是2026年新起訴、判刑或司法進展。",
+      "上訴清單的其他被告及判決，不代表本人確定狀態。"
+    ],
+    "changes": [
+      {
+        "name": "陳漢昭",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "基隆地院2022/4/6判決記載：自2006年8月起擔任基隆市安樂區新西里里長（僅記錄判決當時所載任職，不推定2026現任）。",
+        "url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=KLDM%2c110%2c%e8%a8%b4%2c40%2c20220406%2c2"
+      },
+      {
+        "name": "陳漢昭",
+        "county": "基隆市",
+        "field": "judgment_finality_unverified",
+        "text": "基隆地院110年度訴字第40號2022/4/6協商判決，記載陳漢昭以新西里里長身分出具不實房屋狀況證明，判幫助詐欺取財罪有期徒刑4月、得易科罰金，緩刑2年，另附法治教育及支付公庫8萬元條件。此處只報告原判決內容，未認定已定讞。",
+        "url": "https://judgment.judicial.gov.tw/FJUD/data.aspx?ty=JD&id=KLDM%2c110%2c%e8%a8%b4%2c40%2c20220406%2c2"
+      }
+    ],
+    "topic_updates": [],
+    "review_leads_count": 1,
+    "rejected_count": 0,
+    "coverage_change": {
+      "new_biographies": 1
+    }
+  },
+  {
     "entry_id": "2026-10-22-manual-policy-newcomer-details",
     "kind": "manual",
     "session_label": "本屆政策條件與基隆缺漏經歷補核",
