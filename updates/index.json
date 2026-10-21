@@ -1,5 +1,180 @@
 [
   {
+    "entry_id": "2026-10-21-manual-chiayi-hsinchu-policies",
+    "kind": "manual",
+    "session_label": "嘉義與竹縣本屆政見補核",
+    "date": "2026-10-21",
+    "checked_at": "2026-10-21T15:25:36.769299+08:00",
+    "county_scope": [
+      "嘉義市",
+      "新竹縣"
+    ],
+    "accepted_facts": 4,
+    "updated_people": 4,
+    "summary": "閱讀4篇原始採訪，補充4位縣市長參選人的本屆主張及待追問事項；10/21是核對日，原提案日期仍保留。",
+    "official_checks": [
+      {
+        "url": "https://www.cna.com.tw/news/aloc/202610050211.aspx",
+        "title": "王美惠提高齡居家安全政策　張啓楷促優化敬老卡"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aipl/202610120155.aspx",
+        "title": "張啓楷、吳品叡簽合作備忘錄　打造嘉倍共好生活圈"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aloc/202610160223.aspx",
+        "title": "徐欣瑩提環境永續3政見　推智慧監控與全流域治水"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aipl/202610170088.aspx",
+        "title": "鄭朝方設關西競選服務處　提水岸慢遊與綠色交通"
+      }
+    ],
+    "limitations": [
+      "競選承諾不是現行制度、已核定工程、預算或成果。",
+      "張啓楷與吳品叡的參選人合作備忘錄，不當成現任兩政府已完成的協議。",
+      "未更改個人司法、資格與推薦政黨。"
+    ],
+    "changes": [
+      {
+        "name": "王美惠",
+        "county": "嘉義市",
+        "field": "policy",
+        "text": "10/5主張若當選，擴大長者居家安全改善補助適用對象，不再限於身障、失能等身分，依需求申請防滑、扶手等設施。",
+        "url": "https://www.cna.com.tw/news/aloc/202610050211.aspx"
+      },
+      {
+        "name": "張啓楷",
+        "county": "嘉義市",
+        "field": "policy",
+        "text": "10/12與吳品叡簽參選人間合作備忘錄，提出輕軌、文化觀光、青年安居及整合機制，承諾就職100天內召開首次平台會議。這不是現任兩政府已核定工程或預算。",
+        "url": "https://www.cna.com.tw/news/aipl/202610120155.aspx"
+      },
+      {
+        "name": "徐欣瑩",
+        "county": "新竹縣",
+        "field": "policy",
+        "text": "10/16提出依地區規劃全流域治水：五峰、尖石強化山林保水，北埔、峨眉推農業區滯洪，竹北、湖口規劃智慧海綿示範區。",
+        "url": "https://www.cna.com.tw/news/aloc/202610160223.aspx"
+      },
+      {
+        "name": "鄭朝方",
+        "county": "新竹縣",
+        "field": "policy",
+        "text": "10/17提出以牛欄河串聯古橋、老街等景點，評估延伸羅屋書院的半日路線，並盤點停車、假日車流與無障礙，兼顧觀光與居民日常。",
+        "url": "https://www.cna.com.tw/news/aipl/202610170088.aspx"
+      }
+    ],
+    "topic_updates": [],
+    "review_leads_count": 0,
+    "rejected_count": 0
+  },
+  {
+    "entry_id": "2026-10-21-manual-chiayi-west-bios",
+    "kind": "manual",
+    "session_label": "嘉義西區歷史公報補核",
+    "date": "2026-10-21",
+    "checked_at": "2026-10-21T15:24:18.649038+08:00",
+    "county_scope": [
+      "嘉義市"
+    ],
+    "accepted_facts": 11,
+    "updated_people": 2,
+    "summary": "逐格核讀2022官方公報，另補2人11項歷史自填學經歷；省略不明職稱、未具名證照，不把碩士班當成學位。",
+    "official_checks": [
+      {
+        "url": "https://web.cec.gov.tw/api/file/dbb86c94-7781-476e-9f36-2dc895918b3a.pdf",
+        "title": "111年（2022）嘉義市議員第2選區公報・原始PDF第2頁"
+      }
+    ],
+    "limitations": [
+      "本批是2022歷史自填，不認證2026現職、目前黨籍或專業資格。",
+      "未匯入舊政見、未改推薦政黨、司法與參選資格。"
+    ],
+    "changes": [
+      {
+        "name": "陳品蓁",
+        "county": "嘉義市",
+        "field": "education",
+        "text": "111年（2022）選舉公報自填：嘉義市宏仁女中高中部",
+        "url": "https://web.cec.gov.tw/api/file/dbb86c94-7781-476e-9f36-2dc895918b3a.pdf"
+      },
+      {
+        "name": "陳品蓁",
+        "county": "嘉義市",
+        "field": "experience",
+        "text": "111年（2022）選舉公報自填：民主進步黨嘉義市黨部評議委員，執行委員",
+        "url": "https://web.cec.gov.tw/api/file/dbb86c94-7781-476e-9f36-2dc895918b3a.pdf"
+      },
+      {
+        "name": "陳品蓁",
+        "county": "嘉義市",
+        "field": "experience",
+        "text": "111年（2022）選舉公報自填：小英之友後援會會長",
+        "url": "https://web.cec.gov.tw/api/file/dbb86c94-7781-476e-9f36-2dc895918b3a.pdf"
+      },
+      {
+        "name": "陳品蓁",
+        "county": "嘉義市",
+        "field": "experience",
+        "text": "111年（2022）選舉公報自填：嘉義市道教會常務理事",
+        "url": "https://web.cec.gov.tw/api/file/dbb86c94-7781-476e-9f36-2dc895918b3a.pdf"
+      },
+      {
+        "name": "孫貫志",
+        "county": "嘉義市",
+        "field": "experience",
+        "text": "111年（2022）選舉公報自填：嘉義市西區市議員",
+        "url": "https://web.cec.gov.tw/api/file/dbb86c94-7781-476e-9f36-2dc895918b3a.pdf"
+      },
+      {
+        "name": "孫貫志",
+        "county": "嘉義市",
+        "field": "experience",
+        "text": "111年（2022）選舉公報自填：嘉義市體育會理事長",
+        "url": "https://web.cec.gov.tw/api/file/dbb86c94-7781-476e-9f36-2dc895918b3a.pdf"
+      },
+      {
+        "name": "孫貫志",
+        "county": "嘉義市",
+        "field": "experience",
+        "text": "111年（2022）選舉公報自填：全國縣市體育會聯合總會副總會長",
+        "url": "https://web.cec.gov.tw/api/file/dbb86c94-7781-476e-9f36-2dc895918b3a.pdf"
+      },
+      {
+        "name": "孫貫志",
+        "county": "嘉義市",
+        "field": "experience",
+        "text": "111年（2022）選舉公報自填：嘉義市警察基金會主任委員",
+        "url": "https://web.cec.gov.tw/api/file/dbb86c94-7781-476e-9f36-2dc895918b3a.pdf"
+      },
+      {
+        "name": "孫貫志",
+        "county": "嘉義市",
+        "field": "experience",
+        "text": "111年（2022）選舉公報自填：下路頭武當山玄天上帝廟（鞦韆節）主任委員",
+        "url": "https://web.cec.gov.tw/api/file/dbb86c94-7781-476e-9f36-2dc895918b3a.pdf"
+      },
+      {
+        "name": "孫貫志",
+        "county": "嘉義市",
+        "field": "experience",
+        "text": "111年（2022）選舉公報自填：振興醫學中心資產顧問",
+        "url": "https://web.cec.gov.tw/api/file/dbb86c94-7781-476e-9f36-2dc895918b3a.pdf"
+      },
+      {
+        "name": "孫貫志",
+        "county": "嘉義市",
+        "field": "experience",
+        "text": "111年（2022）選舉公報自填：遠東機械工業公司執行副總",
+        "url": "https://web.cec.gov.tw/api/file/dbb86c94-7781-476e-9f36-2dc895918b3a.pdf"
+      }
+    ],
+    "topic_updates": [],
+    "review_leads_count": 0,
+    "rejected_count": 0
+  },
+  {
     "entry_id": "election-20261021-1437-1h-r02",
     "kind": "manual",
     "session_label": "election-20261021-1437-1h・第2輪",

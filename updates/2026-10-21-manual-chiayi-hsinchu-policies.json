@@ -1,0 +1,70 @@
+{
+  "entry_id": "2026-10-21-manual-chiayi-hsinchu-policies",
+  "kind": "manual",
+  "session_label": "嘉義與竹縣本屆政見補核",
+  "date": "2026-10-21",
+  "checked_at": "2026-10-21T15:25:36.769299+08:00",
+  "county_scope": [
+    "嘉義市",
+    "新竹縣"
+  ],
+  "accepted_facts": 4,
+  "updated_people": 4,
+  "summary": "閱讀4篇原始採訪，補充4位縣市長參選人的本屆主張及待追問事項；10/21是核對日，原提案日期仍保留。",
+  "official_checks": [
+    {
+      "url": "https://www.cna.com.tw/news/aloc/202610050211.aspx",
+      "title": "王美惠提高齡居家安全政策　張啓楷促優化敬老卡"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202610120155.aspx",
+      "title": "張啓楷、吳品叡簽合作備忘錄　打造嘉倍共好生活圈"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aloc/202610160223.aspx",
+      "title": "徐欣瑩提環境永續3政見　推智慧監控與全流域治水"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202610170088.aspx",
+      "title": "鄭朝方設關西競選服務處　提水岸慢遊與綠色交通"
+    }
+  ],
+  "limitations": [
+    "競選承諾不是現行制度、已核定工程、預算或成果。",
+    "張啓楷與吳品叡的參選人合作備忘錄，不當成現任兩政府已完成的協議。",
+    "未更改個人司法、資格與推薦政黨。"
+  ],
+  "changes": [
+    {
+      "name": "王美惠",
+      "county": "嘉義市",
+      "field": "policy",
+      "text": "10/5主張若當選，擴大長者居家安全改善補助適用對象，不再限於身障、失能等身分，依需求申請防滑、扶手等設施。",
+      "url": "https://www.cna.com.tw/news/aloc/202610050211.aspx"
+    },
+    {
+      "name": "張啓楷",
+      "county": "嘉義市",
+      "field": "policy",
+      "text": "10/12與吳品叡簽參選人間合作備忘錄，提出輕軌、文化觀光、青年安居及整合機制，承諾就職100天內召開首次平台會議。這不是現任兩政府已核定工程或預算。",
+      "url": "https://www.cna.com.tw/news/aipl/202610120155.aspx"
+    },
+    {
+      "name": "徐欣瑩",
+      "county": "新竹縣",
+      "field": "policy",
+      "text": "10/16提出依地區規劃全流域治水：五峰、尖石強化山林保水，北埔、峨眉推農業區滯洪，竹北、湖口規劃智慧海綿示範區。",
+      "url": "https://www.cna.com.tw/news/aloc/202610160223.aspx"
+    },
+    {
+      "name": "鄭朝方",
+      "county": "新竹縣",
+      "field": "policy",
+      "text": "10/17提出以牛欄河串聯古橋、老街等景點，評估延伸羅屋書院的半日路線，並盤點停車、假日車流與無障礙，兼顧觀光與居民日常。",
+      "url": "https://www.cna.com.tw/news/aipl/202610170088.aspx"
+    }
+  ],
+  "topic_updates": [],
+  "review_leads_count": 0,
+  "rejected_count": 0
+}
