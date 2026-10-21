@@ -1,5 +1,80 @@
 [
   {
+    "entry_id": "2026-10-22-manual-keelung-role-boundaries",
+    "kind": "manual",
+    "session_label": "原頁機構職稱與標題更正",
+    "date": "2026-10-22",
+    "checked_at": "2026-10-22T06:46:39.252073+08:00",
+    "county_scope": [
+      "基隆市"
+    ],
+    "accepted_facts": 2,
+    "updated_people": 3,
+    "summary": "對照原頁修復陳俊宇協會與職稱拆開、徐英俊部隊番號遺漏、鍾尚倫願景標題混入經歷，另補陳俊宇2項原頁歷史職務。",
+    "official_checks": [
+      {
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-265386.html",
+        "title": "中正區公所｜砂子里 - 陳俊宇"
+      },
+      {
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-265337.html",
+        "title": "安樂區公所・定國里里長徐英俊介紹（學經歷欄）"
+      },
+      {
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-265345.html",
+        "title": "基隆市安樂區公所・七賢里里長介紹・鍾尚倫（學歷欄）"
+      }
+    ],
+    "limitations": [
+      "原介紹頁更新於2022或2026年，逐人保留日期；個人任期與目前職務未另認證。",
+      "原有學歷、政策、司法及資格欄位保持一致；不因修復格式改動歷史實質內容。"
+    ],
+    "changes": [
+      {
+        "name": "陳俊宇",
+        "county": "基隆市",
+        "field": "experience_correction",
+        "text": "修復經歷欄職稱或標題邊界，原文列載：基隆市政府 市長秘書。來源原頁更新日期2022/12/23，不認定目前任職。",
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-265386.html"
+      },
+      {
+        "name": "徐英俊",
+        "county": "基隆市",
+        "field": "experience_correction",
+        "text": "修復經歷欄職稱或標題邊界，原文列載：陸軍專業軍官班102年班；104 旅少尉排長；542 旅中尉機步排排長；東引地區指揮部上尉訓練官；104 旅上尉作戰官；永慶不動產行銷專員；遠雄房地產行銷專員。來源原頁更新日期2026/10/06，不認定目前任職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-265337.html"
+      },
+      {
+        "name": "鍾尚倫",
+        "county": "基隆市",
+        "field": "experience_correction",
+        "text": "修復經歷欄職稱或標題邊界，原文列載：基隆市棒球委員會顧問；基隆市職業駕駛員工會顧問。來源原頁更新日期2022/12/23，不認定目前任職。",
+        "url": "https://www.klal.klcg.gov.tw/tw/klal/1168-265345.html"
+      },
+      {
+        "name": "陳俊宇",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "中正區公所介紹頁（2022/12/23更新）經歷欄列載：財團法人基隆陳胡姚氏宗祠 董事（僅記錄來源當時職務，不推定目前現職）。",
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-265386.html"
+      },
+      {
+        "name": "陳俊宇",
+        "county": "基隆市",
+        "field": "experience",
+        "text": "中正區公所介紹頁（2022/12/23更新）經歷欄列載：基 隆市義勇消防總隊第三大隊顧問（僅記錄來源當時職務，不推定目前現職）。",
+        "url": "https://www.klzz.klcg.gov.tw/tw/klzz/972-265386.html"
+      }
+    ],
+    "topic_updates": [],
+    "review_leads_count": 0,
+    "rejected_count": 0,
+    "coverage_change": {
+      "new_biographies": 0
+    },
+    "corrected_profiles": 3
+  },
+  {
     "entry_id": "2026-10-22-manual-source-attribution-audit",
     "kind": "manual",
     "session_label": "逐項來源歸屬核對",
