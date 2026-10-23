@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-22",
+  "checkedAt": "2026-10-23",
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
@@ -49,11 +49,20 @@
       "districts": [],
       "relatedNames": [],
       "date": "2026-10-21",
-      "title": "號次抽籤遇颱風：條件式順延，須按各地選務公告確認",
+      "title": "號次抽籤遇颱風：部分地區已啟動順延，仍按所在地公告確認",
       "shortTitle": "抽籤颱風備案怎麼看",
       "category": "選務提醒",
-      "summary": "新北與桃園大溪已公布10/23若停班的抽籤備案。這是條件式安排，不代表已宣布停班或全台抽籤一律延期；候選人號次仍待實際抽籤與官方公告。",
+      "summary": "截至10/23查核，新北已公告停班，依原選務規定啟動10/27安排；臺南選委會也已正式宣布抽籤改10/27。不同地區、職別與場地仍各自核對，不能推定全台抽籤一致或先填號次。",
       "steps": [
+        {
+          "speaker": "10月22日後續進度",
+          "text": "新北市府已宣布10/23停班，須與選委會10/20的條件式規定併讀；臺南則由市府直接刊載選委會改至10/27的公告。這些已確認的地方進度，不能推論為所有縣市或所有職別都採相同場地與時段。",
+          "sourceUrls": [
+            "https://www.ntpc.gov.tw/ch/home.jsp?dataserno=013b4ed46323e6c08b57d4e68fb86ac7&id=e8ca970cde5c00e1",
+            "https://web.cec.gov.tw/tpcec/article/65283",
+            "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8843309&sms=9748"
+          ]
+        },
         {
           "speaker": "新北市長、議員",
           "text": "新北選委會說明，原訂10/23辦理；若新北當日停止上班則改10/27，未停班則照常。市長與議員不同梯次，應查原公告時間，不將上午9時套給所有選區。",
@@ -77,7 +86,7 @@
         },
         {
           "speaker": "本站提醒",
-          "text": "前往前核對所屬選委會或公所最新公告及代理抽籤規定，並確認日期、職別、選區與地點。本輪沒有自行預報停班，也不先填尚未抽出的號次。",
+          "text": "前往前核對所屬選委會或公所最新公告、代理抽籤規定及日期、職別、選區與地點。本次保留原10/21備案脈絡，另加10/22已公告的進度；不自行預報停班，也不預填尚未抽出的號次。",
           "sourceUrls": [
             "https://www.cna.com.tw/news/aloc/202610210317.aspx",
             "https://www.wugu.ntpc.gov.tw/home.jsp?act=be4f48068b2b0031&dataserno=c39f44f3d49a380760bea5c07dd7aec8&id=293645b402fcfb2e&mserno=cdaefacc2ad6165a92f078e89ecc6b8a",
@@ -87,8 +96,8 @@
       ],
       "question": "收到抽籤延期訊息時，你是否核對了所在地、職別及公告的觸發條件？",
       "symbol": "◇",
-      "checkedAt": "2026-10-22",
-      "dailyUpdateKind": "new"
+      "checkedAt": "2026-10-23",
+      "dailyUpdateKind": "progress"
     },
     {
       "id": "taitung-road-investigation-bail-20261021",
@@ -1019,42 +1028,45 @@
       "symbol": "◇",
       "relatedNames": [],
       "districts": [],
-      "title": "臺南10月23日抽籤：報到、代抽與選區地點怎麼核對？",
-      "shortTitle": "臺南抽籤時間與代抽須知",
+      "title": "臺南已宣布號次抽籤延至10月27日：職別與場地仍須核對",
+      "shortTitle": "臺南抽籤已改10月27日",
       "category": "每日選舉話題",
       "county": "臺南市",
-      "date": "2026-10-17",
-      "summary": "臺南選委會10月17日說明，市長及第12、13選區議員於10月23日上午8時10分起報到、8時30分抽籤；可依規定委託代抽，未依程序抽籤者由主持人代抽。",
+      "date": "2026-10-22",
+      "summary": "臺南市府10/22刊載選委會公告：因10/23停止上班，市長、市議員暨里長候選人號次抽籤改訂10/27。這是已公告異動；各職別、選區時間與場地仍依正式通知，不沿用10/23到場日期。",
       "steps": [
         {
-          "speaker": "本次進度與來源說法",
-          "text": "臺南選委會10月17日說明，市長及第12、13選區議員於10月23日上午8時10分起報到、8時30分抽籤；可依規定委託代抽，未依程序抽籤者由主持人代抽。",
+          "speaker": "最新已公告異動",
+          "text": "臺南市府10/22刊載臺南市選委會說明：市府宣布10/23停止上班上課，原訂當日辦理的第5屆市長、市議員暨里長選舉候選人姓名號次抽籤，改於10/27舉行。",
           "sourceUrls": [
-            "https://web.cec.gov.tw/api/tnec/article/65234"
+            "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8843309&sms=9748"
           ]
         },
         {
-          "speaker": "背景脈絡",
-          "text": "第1至11選區另有同日發布的抽籤須知與各區場地附件，應查閱對應選區文件，不能一概前往同一場地。",
+          "speaker": "與原抽籤須知分開閱讀",
+          "text": "原10/17抽籤須知列市長及第12、13選區議員的報到與代抽規定；第1至11選區另有場地附件。10/22新公告確認日期變更，但未在該篇重列所有選區時段與場地，仍須核對所屬選務機關最新通知。",
           "sourceUrls": [
-            "https://web.cec.gov.tw/api/tnec/article/65235"
+            "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8843309&sms=9748",
+            "https://web.cec.gov.tw/tnec/article/65234",
+            "https://web.cec.gov.tw/tnec/article/65235"
           ]
         },
         {
-          "speaker": "判讀重點（本站整理）",
-          "text": "本站判讀重點：抽籤尚未舉行，不能預填號次；本人及代抽所需證件、委託書與場地應依官方通知核對。本輪尚未逐一讀完所有場地圖。",
+          "speaker": "本次未確認的事項",
+          "text": "本站沒有將抽籤延期當作投票日變更，也未取得全部職別的實際抽籤結果；正式候選人號次不預填。未逐一核讀的場地附件仍保留待查。",
           "sourceUrls": [
-            "https://web.cec.gov.tw/api/tnec/article/65234",
-            "https://web.cec.gov.tw/api/tnec/article/65235"
+            "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8843309&sms=9748"
           ]
         }
       ],
-      "question": "參加抽籤前，如何確認自己的選區場地、證件與委託程序？",
-      "checkedAt": "2026-10-21",
-      "dailyUpdateKind": "new",
+      "question": "收到抽籤順延通知後，你是否核對10月27日自己的職別、選區、報到時間與代理程序？",
+      "checkedAt": "2026-10-23",
+      "dailyUpdateKind": "progress",
       "dailyEvidenceFingerprints": [
         "f9ad57ee5e1eb49f5b6ebdd31768a28710f1968bcef61261685e279f18f015c3"
-      ]
+      ],
+      "originalSourceDate": "2026-10-17",
+      "eventDate": "2026-10-27"
     },
     {
       "id": "kaohsiung-cultural-industry-policy-20261020",
@@ -1262,42 +1274,44 @@
       "symbol": "◇",
       "relatedNames": [],
       "districts": [],
-      "title": "新北抽籤颱風應變：宣布停班才改至10月27日",
-      "shortTitle": "新北抽籤與颱風應變",
+      "title": "新北10月23日停班：市長、議員抽籤依公告改至27日",
+      "shortTitle": "新北停班與抽籤順延",
       "category": "每日選舉話題",
       "county": "新北市",
-      "date": "2026-10-20",
-      "summary": "新北選委會10月20日公告，市長及市議員號次抽籤原訂10月23日上午9時起辦理；若當日市府宣布停班，改至10月27日同時段，未停班則照常舉行。這是附條件的應變安排。",
+      "date": "2026-10-22",
+      "summary": "新北市府10/22宣布10/23停止上班上課。依選委會原訂的停班應變公告，市長、市議員抽籤改至10/27原時段；各梯次及里長場地須分別核對，不代表全台一致。",
       "steps": [
         {
-          "speaker": "本次進度與來源說法",
-          "text": "新北選委會10月20日公告，市長及市議員號次抽籤原訂10月23日上午9時起辦理；若當日市府宣布停班，改至10月27日同時段，未停班則照常舉行。這是附條件的應變安排。",
+          "speaker": "最新已確認事實",
+          "text": "新北市政府人事處10/22正式宣布，10/23全市停止上班及上課。這是已發布的停班決定，與先前尚待觸發的颱風備案不同。",
           "sourceUrls": [
-            "https://web.cec.gov.tw/api/tpcec/article/65283"
+            "https://www.ntpc.gov.tw/ch/home.jsp?dataserno=013b4ed46323e6c08b57d4e68fb86ac7&id=e8ca970cde5c00e1"
           ]
         },
         {
-          "speaker": "背景脈絡",
-          "text": "中選會於2025年10月31日公布本屆地方選舉工作日程，投票日為2026年11月28日，抽籤與正式候選人名單公告另有各自時程。",
+          "speaker": "依選委會公告適用的安排",
+          "text": "選委會10/20公告明定，10/23如經市府宣布停班，市長及議員抽籤改於10/27同時段辦理。本站將市府停班公告與這項規定交叉核對；市長原訂9時，議員分9時30分及10時30分兩梯，應依所屬選區原通知核對。",
           "sourceUrls": [
-            "https://web.cec.gov.tw/api/central/article/61722"
+            "https://web.cec.gov.tw/tpcec/article/65283",
+            "https://www.ntpc.gov.tw/ch/home.jsp?dataserno=013b4ed46323e6c08b57d4e68fb86ac7&id=e8ca970cde5c00e1"
           ]
         },
         {
-          "speaker": "判讀重點（本站整理）",
-          "text": "本站判讀重點：是否順延，須核對新北市府當日停班決定及選委會後續通知；目前不能寫成已延期。此公告涉及市長、市議員抽籤，不能自行套用到其他職別。",
+          "speaker": "仍須逐職別確認",
+          "text": "這份選委會公告涉及市長與市議員，里長另依區公所通知。本站未自行填入尚未抽出的候選人號次，也不把同一天或同一場地套用到其他縣市。",
           "sourceUrls": [
-            "https://web.cec.gov.tw/api/tpcec/article/65283",
-            "https://web.cec.gov.tw/api/central/article/61722"
+            "https://web.cec.gov.tw/tpcec/article/65283"
           ]
         }
       ],
-      "question": "候選人與選民將如何取得停班、抽籤異動及正式號次的同一版本通知？",
-      "checkedAt": "2026-10-21",
-      "dailyUpdateKind": "new",
+      "question": "確認延期後，你是否仍核對自己的職別、議員梯次、委託規定與場地？",
+      "checkedAt": "2026-10-23",
+      "dailyUpdateKind": "progress",
       "dailyEvidenceFingerprints": [
         "7af98e7e515365371064aed4d307ea8d4659c8e9255eb152e369e690d56aa2b9"
-      ]
+      ],
+      "originalSourceDate": "2026-10-20",
+      "eventDate": "2026-10-27"
     },
     {
       "id": "taipei-debate-format-20261017",
