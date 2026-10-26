@@ -1,0 +1,66 @@
+{
+  "date": "2026-10-26",
+  "checked_at": "2026-10-26T10:04:40.398972+08:00",
+  "county_scope": [
+    "嘉義縣",
+    "屏東縣"
+  ],
+  "accepted_facts": 0,
+  "updated_people": 0,
+  "summary": "本日完成局部來源查核；新增通過逐條原文核對的資料 0 項。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/cycec",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://web.cec.gov.tw/ptec",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://web.cec.gov.tw/central/article/65213",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://web.cec.gov.tw/cycec/article/64659",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://www.cyscc.gov.tw/Parliamentary_Content/315/14152/",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://www.cib.npa.gov.tw/ch/app/news/view?id=1887&module=news&serno=63199e06-b24c-4423-8157-b7f0711f308a",
+      "title": "本次查核來源頁"
+    }
+  ],
+  "limitations": [
+    "本次為局部來源查核，不代表所有縣市或候選人已完整核實。",
+    "本次沒有自動改動司法、爭議、資格及名冊；新線索只保留在私人待核紀錄。"
+  ],
+  "review_leads_count": 0,
+  "rejected_count": 2,
+  "changes": [],
+  "topic_updates": [
+    {
+      "id": "election-lottery-typhoon-contingency-20261021",
+      "title": "嘉義縣、屏東縣公告抽籤延至10月27日",
+      "kind": "progress",
+      "summary": "嘉義縣選委會10月22日公告，因10月23日停止上班，候選人抽籤改於10月27日原時間、原地點舉行。",
+      "sources": [
+        "https://web.cec.gov.tw/cycec",
+        "https://web.cec.gov.tw/ptec"
+      ]
+    },
+    {
+      "id": "election-impersonation-fraud-20261018",
+      "title": "免費競選小物、看板投資：選舉熱潮中的冒名詐騙",
+      "kind": "review",
+      "summary": "來源複核：本次無新增可確認進度。",
+      "sources": [
+        "https://www.cib.npa.gov.tw/ch/app/news/view?id=1887&module=news&serno=63199e06-b24c-4423-8157-b7f0711f308a",
+        "https://www.cna.com.tw/news/asoc/202610180107.aspx"
+      ]
+    }
+  ]
+}
