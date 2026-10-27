@@ -1,0 +1,73 @@
+{
+  "entry_id": "election-20261027-1941-1h-r01",
+  "kind": "manual",
+  "session_label": "election-20261027-1941-1h・第1輪",
+  "date": "2026-10-27",
+  "checked_at": "2026-10-27T19:45:25.371705+08:00",
+  "county_scope": [
+    "臺北市",
+    "新北市"
+  ],
+  "accepted_facts": 0,
+  "updated_people": 0,
+  "summary": "加開時段第1輪：新增0項通過來源核對的資料；另查核兩則選舉話題。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/mect",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/tpcec",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/central",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/central/article/65213",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/tpcec/article/65283",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/central/article/61722",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aloc/202610210303.aspx",
+      "title": "本輪原始資料來源"
+    }
+  ],
+  "limitations": [
+    "局部來源查核，不代表全體候選人背景已完整核實。",
+    "司法、爭議與資格新線索僅保留待查，不自動修改標籤。"
+  ],
+  "review_leads_count": 2,
+  "rejected_count": 4,
+  "changes": [],
+  "topic_updates": [
+    {
+      "id": "new-taipei-ballot-draw-typhoon-20261020",
+      "title": "新北選委會列出今日抽籤結果，個別號次待核",
+      "kind": "progress",
+      "summary": "新北市選委會首頁列出10月27日的市長、市議員、里長及烏來區長、區民代表抽籤結果公告。本次確認新增公告，尚未逐人核對附件號次。",
+      "sources": [
+        "https://web.cec.gov.tw/tpcec",
+        "https://web.cec.gov.tw/tpcec/article/65283"
+      ]
+    },
+    {
+      "id": "taipei-water-culture-policy-20261026",
+      "title": "臺北水文化政見與市府回應：新增措施如何比對？",
+      "kind": "new",
+      "summary": "中央社10月27日報導，臺北市工務局回應沈伯洋的水文化政見，表示市府2020年已提出相關理念，並列舉水岸、溪圳及水資源工程。這是市府回應，相關成效仍應逐項查證。",
+      "sources": [
+        "https://www.cna.com.tw/news/aloc/202610270145.aspx",
+        "https://www.cna.com.tw/news/aipl/202610260106.aspx"
+      ]
+    }
+  ]
+}

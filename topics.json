@@ -3,6 +3,115 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "new-taipei-ballot-draw-typhoon-20261020",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "新北選委會列出今日抽籤結果，個別號次待核",
+      "shortTitle": "新北抽籤結果公告",
+      "category": "每日選舉話題",
+      "county": "新北市",
+      "date": "2026-10-27",
+      "summary": "新北市選委會首頁列出10月27日的市長、市議員、里長及烏來區長、區民代表抽籤結果公告。本次確認新增公告，尚未逐人核對附件號次。",
+      "steps": [
+        {
+          "speaker": "最新已確認事實",
+          "text": "新北市政府人事處10/22正式宣布，10/23全市停止上班及上課。這是已發布的停班決定，與先前尚待觸發的颱風備案不同。",
+          "sourceUrls": [
+            "https://www.ntpc.gov.tw/ch/home.jsp?dataserno=013b4ed46323e6c08b57d4e68fb86ac7&id=e8ca970cde5c00e1"
+          ]
+        },
+        {
+          "speaker": "依選委會公告適用的安排",
+          "text": "選委會10/20公告明定，10/23如經市府宣布停班，市長及議員抽籤改於10/27同時段辦理。本站將市府停班公告與這項規定交叉核對；市長原訂9時，議員分9時30分及10時30分兩梯，應依所屬選區原通知核對。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/tpcec/article/65283",
+            "https://www.ntpc.gov.tw/ch/home.jsp?dataserno=013b4ed46323e6c08b57d4e68fb86ac7&id=e8ca970cde5c00e1"
+          ]
+        },
+        {
+          "speaker": "仍須逐職別確認",
+          "text": "這份選委會公告涉及市長與市議員，里長另依區公所通知。本站未自行填入尚未抽出的候選人號次，也不把同一天或同一場地套用到其他縣市。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/tpcec/article/65283"
+          ]
+        },
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "新北市選委會首頁列出10月27日的市長、市議員、里長及烏來區長、區民代表抽籤結果公告。本次確認新增公告，尚未逐人核對附件號次。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/tpcec"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "既有公告涉及市長、議員抽籤當日的交通管制與颱風停班處理。本次只能讀到該頁標題，具體安排仍須核對原文及結果附件。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/tpcec/article/65283"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：本次具體進展是結果公告已列於官方首頁。公告存在、個人號次與候選資格是不同查核項目；後續須按職別、姓名與選區逐一比對，不能直接將首頁資訊套入個人紀錄。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/tpcec",
+            "https://web.cec.gov.tw/tpcec/article/65283"
+          ]
+        }
+      ],
+      "question": "查詢抽籤結果時，是否已核對所屬職別、選區及官方附件，而非只看首頁標題？",
+      "checkedAt": "2026-10-27",
+      "dailyUpdateKind": "progress",
+      "dailyEvidenceFingerprints": [
+        "7af98e7e515365371064aed4d307ea8d4659c8e9255eb152e369e690d56aa2b9",
+        "193bd355a04ccac19e60ef185cc59623d77af27bda1572d9371f72713480437d"
+      ],
+      "originalSourceDate": "2026-10-20",
+      "eventDate": "2026-10-27"
+    },
+    {
+      "id": "taipei-water-culture-policy-20261026",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "臺北水文化政見與市府回應：新增措施如何比對？",
+      "shortTitle": "水文化政見與既有工程",
+      "category": "每日選舉話題",
+      "county": "臺北市",
+      "date": "2026-10-27",
+      "summary": "中央社10月27日報導，臺北市工務局回應沈伯洋的水文化政見，表示市府2020年已提出相關理念，並列舉水岸、溪圳及水資源工程。這是市府回應，相關成效仍應逐項查證。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社10月27日報導，臺北市工務局回應沈伯洋的水文化政見，表示市府2020年已提出相關理念，並列舉水岸、溪圳及水資源工程。這是市府回應，相關成效仍應逐項查證。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610270145.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "沈伯洋10月26日提出親水、美感、潔淨、滯洪及生態五個治理方向，主張結合水路、文化與都市韌性，並要求跨局處合作；屬本屆競選主張。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610260106.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：應把候選人的新增措施與市府既有計畫逐項對照，追問場址、預算、維護責任及期程。名稱相近不足以證明方案相同，政策提出與機關自述也不能直接當作成效驗證。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610270145.aspx",
+            "https://www.cna.com.tw/news/aipl/202610260106.aspx"
+          ]
+        }
+      ],
+      "question": "各項水文化方案相較既有工程新增了什麼，經費、跨局處責任與完成時程能否公開比較？",
+      "checkedAt": "2026-10-27",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "41f5740c3f4d073de8a96aaed6332747ede56f28aa09cc95526b8e8234efddcc"
+      ]
+    },
+    {
       "id": "election-lottery-typhoon-contingency-20261021",
       "county": null,
       "districts": [],
@@ -1412,50 +1521,6 @@
       "dailyEvidenceFingerprints": [
         "534216f207c85f0177d72d59c861b9e9b599aedb40d9ebe883006d4dcb1d989f"
       ]
-    },
-    {
-      "id": "new-taipei-ballot-draw-typhoon-20261020",
-      "symbol": "◇",
-      "relatedNames": [],
-      "districts": [],
-      "title": "新北10月23日停班：市長、議員抽籤依公告改至27日",
-      "shortTitle": "新北停班與抽籤順延",
-      "category": "每日選舉話題",
-      "county": "新北市",
-      "date": "2026-10-22",
-      "summary": "新北市府10/22宣布10/23停止上班上課。依選委會原訂的停班應變公告，市長、市議員抽籤改至10/27原時段；各梯次及里長場地須分別核對，不代表全台一致。",
-      "steps": [
-        {
-          "speaker": "最新已確認事實",
-          "text": "新北市政府人事處10/22正式宣布，10/23全市停止上班及上課。這是已發布的停班決定，與先前尚待觸發的颱風備案不同。",
-          "sourceUrls": [
-            "https://www.ntpc.gov.tw/ch/home.jsp?dataserno=013b4ed46323e6c08b57d4e68fb86ac7&id=e8ca970cde5c00e1"
-          ]
-        },
-        {
-          "speaker": "依選委會公告適用的安排",
-          "text": "選委會10/20公告明定，10/23如經市府宣布停班，市長及議員抽籤改於10/27同時段辦理。本站將市府停班公告與這項規定交叉核對；市長原訂9時，議員分9時30分及10時30分兩梯，應依所屬選區原通知核對。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/tpcec/article/65283",
-            "https://www.ntpc.gov.tw/ch/home.jsp?dataserno=013b4ed46323e6c08b57d4e68fb86ac7&id=e8ca970cde5c00e1"
-          ]
-        },
-        {
-          "speaker": "仍須逐職別確認",
-          "text": "這份選委會公告涉及市長與市議員，里長另依區公所通知。本站未自行填入尚未抽出的候選人號次，也不把同一天或同一場地套用到其他縣市。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/tpcec/article/65283"
-          ]
-        }
-      ],
-      "question": "確認延期後，你是否仍核對自己的職別、議員梯次、委託規定與場地？",
-      "checkedAt": "2026-10-23",
-      "dailyUpdateKind": "progress",
-      "dailyEvidenceFingerprints": [
-        "7af98e7e515365371064aed4d307ea8d4659c8e9255eb152e369e690d56aa2b9"
-      ],
-      "originalSourceDate": "2026-10-20",
-      "eventDate": "2026-10-27"
     },
     {
       "id": "taipei-debate-format-20261017",
