@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-10-26",
+  "checkedAt": "2026-10-27",
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
@@ -73,15 +73,77 @@
             "https://web.cec.gov.tw/cycec",
             "https://web.cec.gov.tw/ptec"
           ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-10-27重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/ilec",
+            "https://www.cec.gov.tw/hlec"
+          ]
         }
       ],
       "question": "參加抽籤前，是否已核對所屬職別的最新日期、時段、地點及代理規定？",
       "symbol": "◇",
-      "checkedAt": "2026-10-26",
-      "dailyUpdateKind": "progress",
+      "checkedAt": "2026-10-27",
+      "dailyUpdateKind": "review",
       "eventDate": "2026-10-21",
       "dailyEvidenceFingerprints": [
-        "53521b4fba6f8eda9b0b1c9cb8750606b8b7442ec8078bef457fba567b63ba1b"
+        "53521b4fba6f8eda9b0b1c9cb8750606b8b7442ec8078bef457fba567b63ba1b",
+        "25b31357a45e0ff4b2fbee885fed38ad85e3f1a15523fae20f00b4c779b03db5"
+      ]
+    },
+    {
+      "id": "hualien-policy-exchange",
+      "title": "花蓮共同政見交流邀請，各陣營如何回應？",
+      "shortTitle": "公開政見交流與選民知情",
+      "category": "民主與媒體",
+      "symbol": "◇",
+      "county": "花蓮縣",
+      "districts": [],
+      "relatedNames": [
+        "魏嘉賢",
+        "游淑貞",
+        "張峻"
+      ],
+      "date": "2026-10-16",
+      "summary": "區分自行邀辦的交流會、公辦政見發表會與線上政策資訊，不把尚未確定的活動寫成已舉行。",
+      "steps": [
+        {
+          "speaker": "事件背景",
+          "text": "魏嘉賢10/16邀其他花蓮縣長參選人共同辦政見發表會，表示時間、地點與形式均願配合。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610160329.aspx"
+          ]
+        },
+        {
+          "speaker": "陣營回應",
+          "text": "游淑貞團隊表示以公辦政見發表會為主；張峻團隊表示正在籌備競總活動，當時尚未討論這項邀請。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610160329.aspx"
+          ]
+        },
+        {
+          "speaker": "待核對事項",
+          "text": "報導未確認共同交流會的日期或形式。後續應核對是否成局，以及各陣營提供政策全文、提問與回應的方式。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610160329.aspx"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-10-27重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610160329.aspx",
+            "https://www.cna.com.tw/news/aipl/202609260132.aspx"
+          ]
+        }
+      ],
+      "question": "你希望候選人透過辯論、政見發表、書面答覆或線上問答，回答哪些共同問題？",
+      "checkedAt": "2026-10-27",
+      "dailyUpdateKind": "review",
+      "dailyEvidenceFingerprints": [
+        "193ecd19dbb283ee721d8b9a8c190a235cdf1b2c5be4601f964b9547c5285040"
       ]
     },
     {
@@ -2211,46 +2273,6 @@
         }
       ],
       "question": "你會要求候選人提出哪些時間、費用與就醫可近性的比較資料？"
-    },
-    {
-      "id": "hualien-policy-exchange",
-      "title": "花蓮共同政見交流邀請，各陣營如何回應？",
-      "shortTitle": "公開政見交流與選民知情",
-      "category": "民主與媒體",
-      "symbol": "◇",
-      "county": "花蓮縣",
-      "districts": [],
-      "relatedNames": [
-        "魏嘉賢",
-        "游淑貞",
-        "張峻"
-      ],
-      "date": "2026-10-16",
-      "summary": "區分自行邀辦的交流會、公辦政見發表會與線上政策資訊，不把尚未確定的活動寫成已舉行。",
-      "steps": [
-        {
-          "speaker": "事件背景",
-          "text": "魏嘉賢10/16邀其他花蓮縣長參選人共同辦政見發表會，表示時間、地點與形式均願配合。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610160329.aspx"
-          ]
-        },
-        {
-          "speaker": "陣營回應",
-          "text": "游淑貞團隊表示以公辦政見發表會為主；張峻團隊表示正在籌備競總活動，當時尚未討論這項邀請。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610160329.aspx"
-          ]
-        },
-        {
-          "speaker": "待核對事項",
-          "text": "報導未確認共同交流會的日期或形式。後續應核對是否成局，以及各陣營提供政策全文、提問與回應的方式。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610160329.aspx"
-          ]
-        }
-      ],
-      "question": "你希望候選人透過辯論、政見發表、書面答覆或線上問答，回答哪些共同問題？"
     },
     {
       "id": "kaohsiung-fishing-port-service",

@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-27",
+  "checked_at": "2026-10-27T10:04:03.205911+08:00",
+  "county_scope": [
+    "宜蘭縣",
+    "花蓮縣"
+  ],
+  "accepted_facts": 1,
+  "updated_people": 1,
+  "summary": "本日完成局部來源查核；新增通過逐條原文核對的資料 1 項。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/ilec",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://www.cec.gov.tw/hlec",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://web.cec.gov.tw/central/article/65213",
+      "title": "本次查核來源頁"
+    }
+  ],
+  "limitations": [
+    "本次為局部來源查核，不代表所有縣市或候選人已完整核實。",
+    "本次沒有自動改動司法、爭議、資格及名冊；新線索只保留在私人待核紀錄。"
+  ],
+  "review_leads_count": 0,
+  "rejected_count": 3,
+  "changes": [
+    {
+      "name": "韓瑩",
+      "county": "宜蘭縣",
+      "field": "education",
+      "text": "韓瑩畢業於輔仁大學經濟學系",
+      "url": "https://www.cna.com.tw/news/aipl/202604010235.aspx"
+    }
+  ],
+  "topic_updates": [
+    {
+      "id": "election-lottery-typhoon-contingency-20261021",
+      "title": "嘉義縣、屏東縣公告抽籤延至10月27日",
+      "kind": "review",
+      "summary": "來源複核：本次無新增可確認進度。",
+      "sources": [
+        "https://web.cec.gov.tw/ilec",
+        "https://www.cec.gov.tw/hlec"
+      ]
+    },
+    {
+      "id": "hualien-policy-exchange",
+      "title": "花蓮共同政見交流邀請，各陣營如何回應？",
+      "kind": "review",
+      "summary": "來源複核：本次無新增可確認進度。",
+      "sources": [
+        "https://www.cna.com.tw/news/aipl/202610160329.aspx",
+        "https://www.cna.com.tw/news/aipl/202609260132.aspx"
+      ]
+    }
+  ]
+}
