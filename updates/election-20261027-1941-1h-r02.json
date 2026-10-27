@@ -1,0 +1,73 @@
+{
+  "entry_id": "election-20261027-1941-1h-r02",
+  "kind": "manual",
+  "session_label": "election-20261027-1941-1h・第2輪",
+  "date": "2026-10-27",
+  "checked_at": "2026-10-27T20:14:46.359789+08:00",
+  "county_scope": [
+    "桃園市",
+    "臺中市"
+  ],
+  "accepted_facts": 0,
+  "updated_people": 0,
+  "summary": "加開時段第2輪：新增0項通過來源核對的資料；另查核兩則選舉話題。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/tyec",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/tcec",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/central/article/65212",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/central/article/61721",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aloc/202610040202.aspx",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202610260237.aspx",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aloc/202610070277.aspx",
+      "title": "本輪原始資料來源"
+    }
+  ],
+  "limitations": [
+    "局部來源查核，不代表全體候選人背景已完整核實。",
+    "司法、爭議與資格新線索僅保留待查，不自動修改標籤。"
+  ],
+  "review_leads_count": 0,
+  "rejected_count": 3,
+  "changes": [],
+  "topic_updates": [
+    {
+      "id": "election-lottery-typhoon-contingency-20261021",
+      "title": "桃園選委會列出10月27日市長、議員抽籤結果",
+      "kind": "progress",
+      "summary": "桃園市選委會首頁已列出10月27日市長及市議員抽籤結果公告，提供先前抽籤颱風應變話題的後續進展；本輪尚未逐份核對結果附件。",
+      "sources": [
+        "https://web.cec.gov.tw/tyec",
+        "https://www.cna.com.tw/news/aloc/202610270036.aspx"
+      ]
+    },
+    {
+      "id": "taichung-debate-coordination-20261021",
+      "title": "臺中市長辯論協商：日期、場地與回答語言如何安排？",
+      "kind": "review",
+      "summary": "來源複核：本次無新增可確認進度。",
+      "sources": [
+        "https://www.cna.com.tw/news/aipl/202610210352.aspx",
+        "https://www.cna.com.tw/news/aipl/202610220359.aspx"
+      ]
+    }
+  ]
+}
