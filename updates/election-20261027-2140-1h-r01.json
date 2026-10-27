@@ -1,0 +1,77 @@
+{
+  "entry_id": "election-20261027-2140-1h-r01",
+  "kind": "manual",
+  "session_label": "election-20261027-2140-1h・第1輪",
+  "date": "2026-10-27",
+  "checked_at": "2026-10-27T21:45:11.204192+08:00",
+  "county_scope": [
+    "嘉義市",
+    "新竹縣"
+  ],
+  "accepted_facts": 1,
+  "updated_people": 1,
+  "summary": "加開時段第1輪：新增1項通過來源核對的資料；另查核兩則選舉話題。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/cyec",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/hccec",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/central/article/65212",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.hakka.gov.tw/chhakka/app/data/view?id=21&module=epaper&serno=1003f232-2552-45d8-853e-a2f69691ffad",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aloc/202607280163.aspx",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202610050191.aspx",
+      "title": "本輪原始資料來源"
+    }
+  ],
+  "limitations": [
+    "局部來源查核，不代表全體候選人背景已完整核實。",
+    "司法、爭議與資格新線索僅保留待查，不自動修改標籤。"
+  ],
+  "review_leads_count": 0,
+  "rejected_count": 2,
+  "changes": [
+    {
+      "name": "徐鏡明",
+      "county": "新竹縣",
+      "field": "experience",
+      "text": "北埔鄉民代表會主席徐鏡明",
+      "url": "https://www.hakka.gov.tw/chhakka/app/data/view?id=21&module=epaper&serno=1003f232-2552-45d8-853e-a2f69691ffad"
+    }
+  ],
+  "topic_updates": [
+    {
+      "id": "zhubei-ai-community-learning-20261026",
+      "title": "竹北科技學習政見：分齡課程如何落實？",
+      "kind": "new",
+      "summary": "中央社10月26日報導，吳旭智提出設置學習方案，依兒童、成人及長者需求提供數位科技課程，並結合社區紀錄和親子活動；這是競選主張。",
+      "sources": [
+        "https://www.cna.com.tw/news/aipl/202610260189.aspx",
+        "https://www.cna.com.tw/news/aloc/202610090137.aspx"
+      ]
+    },
+    {
+      "id": "chiayi-aging-support",
+      "title": "嘉義市高齡政策，居家改善與交通補助如何回應不同需求？",
+      "kind": "review",
+      "summary": "來源複核：本次無新增可確認進度。",
+      "sources": [
+        "https://www.cna.com.tw/news/aloc/202610050211.aspx",
+        "https://www.cna.com.tw/news/aloc/202609150136.aspx"
+      ]
+    }
+  ]
+}

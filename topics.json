@@ -3,6 +3,101 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "zhubei-ai-community-learning-20261026",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "竹北科技學習政見：分齡課程如何落實？",
+      "shortTitle": "竹北分齡科技學習",
+      "category": "每日選舉話題",
+      "county": "新竹縣",
+      "date": "2026-10-26",
+      "summary": "中央社10月26日報導，吳旭智提出設置學習方案，依兒童、成人及長者需求提供數位科技課程，並結合社區紀錄和親子活動；這是競選主張。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社10月26日報導，吳旭智提出設置學習方案，依兒童、成人及長者需求提供數位科技課程，並結合社區紀錄和親子活動；這是競選主張。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610260189.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "10月9日報導中，曾聖凱已提出利用活動中心、公園及公共空間提供長者運動課程。兩項主張服務內容不同，可分別檢視場地、人力與參與條件。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610090137.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：須追問課程承辦單位、師資、收費與補助、設備及維運財源，以及不同年齡居民的數位使用需求。提出方案不代表已有招生或執行成果。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610260189.aspx",
+            "https://www.cna.com.tw/news/aloc/202610090137.aspx"
+          ]
+        }
+      ],
+      "question": "候選人能否公布課程對象、辦理地點、年度經費及成果評估方式？",
+      "checkedAt": "2026-10-27",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "1bad3fb2ccb8007ffef4886fe5ac540bd5e4449dcdd70167da20acf3fb5dfe39"
+      ]
+    },
+    {
+      "id": "chiayi-aging-support",
+      "title": "嘉義市高齡政策，居家改善與交通補助如何回應不同需求？",
+      "shortTitle": "居家安全與敬老卡",
+      "category": "高齡與照護",
+      "symbol": "⌂",
+      "county": "嘉義市",
+      "districts": [],
+      "relatedNames": [
+        "王美惠",
+        "張啓楷"
+      ],
+      "date": "2026-10-05",
+      "summary": "兩位市長參選人分別提出居家安全與敬老卡方案；適用資格、使用便利與財源都值得檢視。",
+      "steps": [
+        {
+          "speaker": "事件背景",
+          "text": "10/5中央社整理嘉義市長參選人的高齡政策：王美惠談居家安全改善，張啓楷提出敬老卡調整。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610050211.aspx"
+          ]
+        },
+        {
+          "speaker": "當事人主張",
+          "text": "王美惠主張擴大長者居家安全補助對象，不再受限失能或身心障礙身分；張啓楷主張將敬老卡計程車單趟補助上限提高到100點。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610050211.aspx"
+          ]
+        },
+        {
+          "speaker": "待核對事項",
+          "text": "兩項主張處理的需求不同，不能只比較補助數字。後續可核對申請條件、服務供給、使用次數及年度預算。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610050211.aspx"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-10-27重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610050211.aspx",
+            "https://www.cna.com.tw/news/aloc/202609150136.aspx"
+          ]
+        }
+      ],
+      "question": "對長輩而言，補助額度、申請便利與實際找得到服務，哪個最需要優先改善？",
+      "checkedAt": "2026-10-27",
+      "dailyUpdateKind": "review",
+      "dailyEvidenceFingerprints": [
+        "e76faf8c30ace852bd7e61214f28dc280a6f51bbde2997d081c60262157873e5",
+        "2f83c0351d73d1312e3d94cb7d239a5439e279c5bd6bb2e725007c8db1643ad6"
+      ]
+    },
+    {
       "id": "election-lottery-typhoon-contingency-20261021",
       "county": "桃園市",
       "districts": [],
@@ -951,58 +1046,6 @@
       ],
       "question": "你最希望每位候選人以相同時間回答哪一項彰化公共政策問題？",
       "dailyUpdateKind": "new"
-    },
-    {
-      "id": "chiayi-aging-support",
-      "title": "嘉義市高齡政策，居家改善與交通補助如何回應不同需求？",
-      "shortTitle": "居家安全與敬老卡",
-      "category": "高齡與照護",
-      "symbol": "⌂",
-      "county": "嘉義市",
-      "districts": [],
-      "relatedNames": [
-        "王美惠",
-        "張啓楷"
-      ],
-      "date": "2026-10-05",
-      "summary": "兩位市長參選人分別提出居家安全與敬老卡方案；適用資格、使用便利與財源都值得檢視。",
-      "steps": [
-        {
-          "speaker": "事件背景",
-          "text": "10/5中央社整理嘉義市長參選人的高齡政策：王美惠談居家安全改善，張啓楷提出敬老卡調整。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610050211.aspx"
-          ]
-        },
-        {
-          "speaker": "當事人主張",
-          "text": "王美惠主張擴大長者居家安全補助對象，不再受限失能或身心障礙身分；張啓楷主張將敬老卡計程車單趟補助上限提高到100點。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610050211.aspx"
-          ]
-        },
-        {
-          "speaker": "待核對事項",
-          "text": "兩項主張處理的需求不同，不能只比較補助數字。後續可核對申請條件、服務供給、使用次數及年度預算。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610050211.aspx"
-          ]
-        },
-        {
-          "speaker": "每日來源複核",
-          "text": "2026-10-21重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610050211.aspx",
-            "https://www.cna.com.tw/news/aloc/202609150136.aspx"
-          ]
-        }
-      ],
-      "question": "對長輩而言，補助額度、申請便利與實際找得到服務，哪個最需要優先改善？",
-      "checkedAt": "2026-10-21",
-      "dailyUpdateKind": "review",
-      "dailyEvidenceFingerprints": [
-        "e76faf8c30ace852bd7e61214f28dc280a6f51bbde2997d081c60262157873e5"
-      ]
     },
     {
       "id": "hsinchu-watershed-monitoring",
