@@ -3,6 +3,221 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "election-lottery-typhoon-contingency-20261021",
+      "county": "苗栗縣",
+      "districts": [],
+      "relatedNames": [],
+      "date": "2026-10-27",
+      "title": "苗栗公布今日縣長、縣議員抽籤結果",
+      "shortTitle": "苗栗抽籤結果公布",
+      "category": "每日選舉話題",
+      "summary": "苗栗縣府今日刊登選委會抽籤結果，正文列出縣長及縣議員各選區名單，確認先前延期的抽籤已有結果公布。",
+      "steps": [
+        {
+          "speaker": "10月22日後續進度",
+          "text": "新北市府已宣布10/23停班，須與選委會10/20的條件式規定併讀；臺南則由市府直接刊載選委會改至10/27的公告。這些已確認的地方進度，不能推論為所有縣市或所有職別都採相同場地與時段。",
+          "sourceUrls": [
+            "https://www.ntpc.gov.tw/ch/home.jsp?dataserno=013b4ed46323e6c08b57d4e68fb86ac7&id=e8ca970cde5c00e1",
+            "https://web.cec.gov.tw/tpcec/article/65283",
+            "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8843309&sms=9748"
+          ]
+        },
+        {
+          "speaker": "新北市長、議員",
+          "text": "新北選委會說明，原訂10/23辦理；若新北當日停止上班則改10/27，未停班則照常。市長與議員不同梯次，應查原公告時間，不將上午9時套給所有選區。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610210317.aspx"
+          ]
+        },
+        {
+          "speaker": "里長另看區公所通知",
+          "text": "五股區里長抽籤亦列停班則10/27上午9時、原公所9樓場地的備案；不能把市長、議員所在選委會場地當作里長場地。",
+          "sourceUrls": [
+            "https://www.wugu.ntpc.gov.tw/home.jsp?act=be4f48068b2b0031&dataserno=c39f44f3d49a380760bea5c07dd7aec8&id=293645b402fcfb2e&mserno=cdaefacc2ad6165a92f078e89ecc6b8a"
+          ]
+        },
+        {
+          "speaker": "桃園大溪的例子",
+          "text": "大溪公告若10/23停班則順延10/27，報到8:30、抽籤9:00，地點為多目標體育館2樓；是否實際順延仍依停班公告及正式通知。其他地區不能直接套用。",
+          "sourceUrls": [
+            "https://www.daxi.tycg.gov.tw/News_Content.aspx?n=7532&s=1913924"
+          ]
+        },
+        {
+          "speaker": "本站提醒",
+          "text": "前往前核對所屬選委會或公所最新公告、代理抽籤規定及日期、職別、選區與地點。本次保留原10/21備案脈絡，另加10/22已公告的進度；不自行預報停班，也不預填尚未抽出的號次。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610210317.aspx",
+            "https://www.wugu.ntpc.gov.tw/home.jsp?act=be4f48068b2b0031&dataserno=c39f44f3d49a380760bea5c07dd7aec8&id=293645b402fcfb2e&mserno=cdaefacc2ad6165a92f078e89ecc6b8a",
+            "https://www.daxi.tycg.gov.tw/News_Content.aspx?n=7532&s=1913924"
+          ]
+        },
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "嘉義縣選委會10月22日公告，因10月23日停止上班，候選人抽籤改於10月27日原時間、原地點舉行。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/cycec"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "屏東縣選委會亦於10月22日公告，原訂10月23日的候選人姓名號次抽籤因颱風停班改至10月27日。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/ptec"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：這是既有颱風備案話題新增兩縣正式延期公告。日期變動不代表已完成抽籤；職別、時段、場地與代理規定仍須核對各自通知，不推及其他縣市。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/cycec",
+            "https://web.cec.gov.tw/ptec"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-10-27重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/ilec",
+            "https://www.cec.gov.tw/hlec"
+          ]
+        },
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "桃園市選委會首頁已列出10月27日市長及市議員抽籤結果公告，提供先前抽籤颱風應變話題的後續進展；本輪尚未逐份核對結果附件。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/tyec"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "中央社10月27日報導桃園市長與議員抽籤活動，記錄兩位市長參選人親自到場抽籤，與官方首頁當日公告項目相互對照。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610270036.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：公告索引、活動報導與候選人個別號次證據應分開。後續仍須讀取官方附件，逐一匹配姓名、職別及選區，才能更新號次；抽籤結果也不替代正式候選人名單公告。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/tyec",
+            "https://www.cna.com.tw/news/aloc/202610270036.aspx"
+          ]
+        },
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "苗栗縣府今日刊登選委會抽籤結果，正文列出縣長及縣議員各選區名單，確認先前延期的抽籤已有結果公布。",
+          "sourceUrls": [
+            "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1007630"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "苗栗選委會首頁保留颱風停班後改期通知；今日縣府結果公告提供這項延期安排的後續證據。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/mlec"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：結果公告與個人號次匯入是不同查核步驟。仍須逐筆比對完整姓名、職別及選區，另核原住民族姓名差異；這份公告不能替代其他職別的結果或正式名單公告。",
+          "sourceUrls": [
+            "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1007630",
+            "https://web.cec.gov.tw/mlec"
+          ]
+        }
+      ],
+      "question": "各職別的結果原件是否齊備，姓名與選區能否逐筆對上現有登記紀錄？",
+      "symbol": "◇",
+      "checkedAt": "2026-10-27",
+      "dailyUpdateKind": "progress",
+      "eventDate": "2026-10-21",
+      "dailyEvidenceFingerprints": [
+        "53521b4fba6f8eda9b0b1c9cb8750606b8b7442ec8078bef457fba567b63ba1b",
+        "25b31357a45e0ff4b2fbee885fed38ad85e3f1a15523fae20f00b4c779b03db5",
+        "3b500f04ac4e0b4718aeb188b9e89d7251614ac4db46402ef06b9edeb24f8e58",
+        "940faf8037d81be215758585d2f84defd24ea06ec21e35d94e8dad2ce69c0888"
+      ]
+    },
+    {
+      "id": "senior-health-premium-20261018",
+      "title": "陳素月說明彰化長者健保承諾與地方財源",
+      "shortTitle": "彰化長者健保與財源",
+      "category": "每日選舉話題",
+      "symbol": "◇",
+      "county": "彰化縣",
+      "districts": [],
+      "relatedNames": [
+        "周春米",
+        "蔣萬安"
+      ],
+      "date": "2026-10-27",
+      "summary": "中央社今日報導陳素月重申長者健保費補助主張，並說明將由地方自籌財源、編列預算送議會審查；這是候選人的政策及財務說明。",
+      "steps": [
+        {
+          "speaker": "已報導的修法程序",
+          "text": "中央社10/16報導立院三讀長者健保費補助相關條文，設有所得條件。這是立法程序報導，不能直接當作所有長者已免繳或可立即申請；公布、施行與申辦細節仍要核對正式公告。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610160144.aspx"
+          ]
+        },
+        {
+          "speaker": "支持方的主張",
+          "text": "黃國昌10/18主張中央補助可改善不同縣市的待遇差異、減輕家庭負擔，並反對將政策解讀為世代對立。這是支持方的政策判斷，不是本站認證的財務結果。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610180072.aspx"
+          ]
+        },
+        {
+          "speaker": "財源與權責的疑慮",
+          "text": "民進黨回應應區分地方自編預算與修法增加中央支出；衛福部長石崇良則提出中央財源、保費與其他支出遭排擠的風險。這些是各方說法與估計，未來保費是否調整尚非本版確認的既定事實。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610180074.aspx",
+            "https://www.cna.com.tw/news/ahel/202610180038.aspx"
+          ]
+        },
+        {
+          "speaker": "留待核對的資料",
+          "text": "比較地方候選人承諾時，可追問對象、年度成本、財源及與中央補助如何銜接。本版未替任何人判斷補助資格，也未將各陣營的合憲或財務主張當成確定結論。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610160144.aspx",
+            "https://www.cna.com.tw/news/aipl/202610180072.aspx",
+            "https://www.cna.com.tw/news/aipl/202610180074.aspx",
+            "https://www.cna.com.tw/news/ahel/202610180038.aspx"
+          ]
+        },
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社今日報導陳素月重申長者健保費補助主張，並說明將由地方自籌財源、編列預算送議會審查；這是候選人的政策及財務說明。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610270132.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "9月28日報導已記錄魏平政提出長者健保費補助政見。今日新增陳素月對地方承諾與中央修法差異的說明，延續既有財源與權責話題。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202609280143.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：應核對地方補助的適用對象、年度成本、財源及與中央制度的銜接。陣營對合憲性與財政盤點的說法仍須原始資料支持，不能視為司法結論、通過的預算或已可申領的福利。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610270132.aspx",
+            "https://www.cna.com.tw/news/aloc/202609280143.aspx"
+          ]
+        }
+      ],
+      "question": "候選人能否公開適用條件、年度支出估算與財源明細，供議會及選民檢驗？",
+      "eventDate": "2026-10-18",
+      "checkedAt": "2026-10-27",
+      "dailyUpdateKind": "progress",
+      "dailyEvidenceFingerprints": [
+        "ee90ada1f11f7766c465794bbaa61778aa59bc0606f9298a86769f1675626ff4"
+      ]
+    },
+    {
       "id": "zhubei-ai-community-learning-20261026",
       "symbol": "◇",
       "relatedNames": [],
@@ -95,120 +310,6 @@
       "dailyEvidenceFingerprints": [
         "e76faf8c30ace852bd7e61214f28dc280a6f51bbde2997d081c60262157873e5",
         "2f83c0351d73d1312e3d94cb7d239a5439e279c5bd6bb2e725007c8db1643ad6"
-      ]
-    },
-    {
-      "id": "election-lottery-typhoon-contingency-20261021",
-      "county": "桃園市",
-      "districts": [],
-      "relatedNames": [],
-      "date": "2026-10-27",
-      "title": "桃園選委會列出10月27日市長、議員抽籤結果",
-      "shortTitle": "桃園抽籤結果公告",
-      "category": "每日選舉話題",
-      "summary": "桃園市選委會首頁已列出10月27日市長及市議員抽籤結果公告，提供先前抽籤颱風應變話題的後續進展；本輪尚未逐份核對結果附件。",
-      "steps": [
-        {
-          "speaker": "10月22日後續進度",
-          "text": "新北市府已宣布10/23停班，須與選委會10/20的條件式規定併讀；臺南則由市府直接刊載選委會改至10/27的公告。這些已確認的地方進度，不能推論為所有縣市或所有職別都採相同場地與時段。",
-          "sourceUrls": [
-            "https://www.ntpc.gov.tw/ch/home.jsp?dataserno=013b4ed46323e6c08b57d4e68fb86ac7&id=e8ca970cde5c00e1",
-            "https://web.cec.gov.tw/tpcec/article/65283",
-            "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8843309&sms=9748"
-          ]
-        },
-        {
-          "speaker": "新北市長、議員",
-          "text": "新北選委會說明，原訂10/23辦理；若新北當日停止上班則改10/27，未停班則照常。市長與議員不同梯次，應查原公告時間，不將上午9時套給所有選區。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610210317.aspx"
-          ]
-        },
-        {
-          "speaker": "里長另看區公所通知",
-          "text": "五股區里長抽籤亦列停班則10/27上午9時、原公所9樓場地的備案；不能把市長、議員所在選委會場地當作里長場地。",
-          "sourceUrls": [
-            "https://www.wugu.ntpc.gov.tw/home.jsp?act=be4f48068b2b0031&dataserno=c39f44f3d49a380760bea5c07dd7aec8&id=293645b402fcfb2e&mserno=cdaefacc2ad6165a92f078e89ecc6b8a"
-          ]
-        },
-        {
-          "speaker": "桃園大溪的例子",
-          "text": "大溪公告若10/23停班則順延10/27，報到8:30、抽籤9:00，地點為多目標體育館2樓；是否實際順延仍依停班公告及正式通知。其他地區不能直接套用。",
-          "sourceUrls": [
-            "https://www.daxi.tycg.gov.tw/News_Content.aspx?n=7532&s=1913924"
-          ]
-        },
-        {
-          "speaker": "本站提醒",
-          "text": "前往前核對所屬選委會或公所最新公告、代理抽籤規定及日期、職別、選區與地點。本次保留原10/21備案脈絡，另加10/22已公告的進度；不自行預報停班，也不預填尚未抽出的號次。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610210317.aspx",
-            "https://www.wugu.ntpc.gov.tw/home.jsp?act=be4f48068b2b0031&dataserno=c39f44f3d49a380760bea5c07dd7aec8&id=293645b402fcfb2e&mserno=cdaefacc2ad6165a92f078e89ecc6b8a",
-            "https://www.daxi.tycg.gov.tw/News_Content.aspx?n=7532&s=1913924"
-          ]
-        },
-        {
-          "speaker": "本次進度與來源說法",
-          "text": "嘉義縣選委會10月22日公告，因10月23日停止上班，候選人抽籤改於10月27日原時間、原地點舉行。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/cycec"
-          ]
-        },
-        {
-          "speaker": "背景脈絡",
-          "text": "屏東縣選委會亦於10月22日公告，原訂10月23日的候選人姓名號次抽籤因颱風停班改至10月27日。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/ptec"
-          ]
-        },
-        {
-          "speaker": "判讀重點（本站整理）",
-          "text": "本站判讀重點：這是既有颱風備案話題新增兩縣正式延期公告。日期變動不代表已完成抽籤；職別、時段、場地與代理規定仍須核對各自通知，不推及其他縣市。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/cycec",
-            "https://web.cec.gov.tw/ptec"
-          ]
-        },
-        {
-          "speaker": "每日來源複核",
-          "text": "2026-10-27重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/ilec",
-            "https://www.cec.gov.tw/hlec"
-          ]
-        },
-        {
-          "speaker": "本次進度與來源說法",
-          "text": "桃園市選委會首頁已列出10月27日市長及市議員抽籤結果公告，提供先前抽籤颱風應變話題的後續進展；本輪尚未逐份核對結果附件。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/tyec"
-          ]
-        },
-        {
-          "speaker": "背景脈絡",
-          "text": "中央社10月27日報導桃園市長與議員抽籤活動，記錄兩位市長參選人親自到場抽籤，與官方首頁當日公告項目相互對照。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610270036.aspx"
-          ]
-        },
-        {
-          "speaker": "判讀重點（本站整理）",
-          "text": "本站判讀重點：公告索引、活動報導與候選人個別號次證據應分開。後續仍須讀取官方附件，逐一匹配姓名、職別及選區，才能更新號次；抽籤結果也不替代正式候選人名單公告。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/tyec",
-            "https://www.cna.com.tw/news/aloc/202610270036.aspx"
-          ]
-        }
-      ],
-      "question": "官方附件是否完整涵蓋各選區，且每位候選人的身分與號次均可精確核對？",
-      "symbol": "◇",
-      "checkedAt": "2026-10-27",
-      "dailyUpdateKind": "progress",
-      "eventDate": "2026-10-21",
-      "dailyEvidenceFingerprints": [
-        "53521b4fba6f8eda9b0b1c9cb8750606b8b7442ec8078bef457fba567b63ba1b",
-        "25b31357a45e0ff4b2fbee885fed38ad85e3f1a15523fae20f00b4c779b03db5",
-        "3b500f04ac4e0b4718aeb188b9e89d7251614ac4db46402ef06b9edeb24f8e58"
       ]
     },
     {
@@ -2139,56 +2240,6 @@
         }
       ],
       "question": "比較政策時，你會要求哪些原文、日期及具體執行差異？"
-    },
-    {
-      "id": "senior-health-premium-20261018",
-      "title": "長者健保費由誰補助？中央修法與地方承諾分開看",
-      "shortTitle": "長者健保費與財源",
-      "category": "高齡與照護",
-      "symbol": "◇",
-      "county": null,
-      "districts": [],
-      "relatedNames": [
-        "周春米",
-        "蔣萬安"
-      ],
-      "date": "2026-10-18",
-      "summary": "從10/16三讀報導到10/18各方回應，分清中央負擔、地方自行編列與尚待核對的實施細節。",
-      "steps": [
-        {
-          "speaker": "已報導的修法程序",
-          "text": "中央社10/16報導立院三讀長者健保費補助相關條文，設有所得條件。這是立法程序報導，不能直接當作所有長者已免繳或可立即申請；公布、施行與申辦細節仍要核對正式公告。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610160144.aspx"
-          ]
-        },
-        {
-          "speaker": "支持方的主張",
-          "text": "黃國昌10/18主張中央補助可改善不同縣市的待遇差異、減輕家庭負擔，並反對將政策解讀為世代對立。這是支持方的政策判斷，不是本站認證的財務結果。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610180072.aspx"
-          ]
-        },
-        {
-          "speaker": "財源與權責的疑慮",
-          "text": "民進黨回應應區分地方自編預算與修法增加中央支出；衛福部長石崇良則提出中央財源、保費與其他支出遭排擠的風險。這些是各方說法與估計，未來保費是否調整尚非本版確認的既定事實。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610180074.aspx",
-            "https://www.cna.com.tw/news/ahel/202610180038.aspx"
-          ]
-        },
-        {
-          "speaker": "留待核對的資料",
-          "text": "比較地方候選人承諾時，可追問對象、年度成本、財源及與中央補助如何銜接。本版未替任何人判斷補助資格，也未將各陣營的合憲或財務主張當成確定結論。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610160144.aspx",
-            "https://www.cna.com.tw/news/aipl/202610180072.aspx",
-            "https://www.cna.com.tw/news/aipl/202610180074.aspx",
-            "https://www.cna.com.tw/news/ahel/202610180038.aspx"
-          ]
-        }
-      ],
-      "question": "你會如何比較長者照顧、家庭負擔與長期財源？"
     },
     {
       "id": "tsai-kang-yung",

@@ -1,5 +1,101 @@
 [
   {
+    "entry_id": "election-20261027-2140-1h-r02",
+    "kind": "manual",
+    "session_label": "election-20261027-2140-1h・第2輪",
+    "date": "2026-10-27",
+    "checked_at": "2026-10-27T22:14:47.098680+08:00",
+    "county_scope": [
+      "苗栗縣",
+      "彰化縣"
+    ],
+    "accepted_facts": 2,
+    "updated_people": 2,
+    "summary": "加開時段第2輪：新增2項通過來源核對的資料；另查核兩則選舉話題。",
+    "official_checks": [
+      {
+        "url": "https://web.cec.gov.tw/mlec",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1007630",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/chec",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/central/article/65212",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.lukang.gov.tw/content/index?Parser=1,5,34",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.chcg.gov.tw/TSO/xiushui/07other/main.aspx?main_id=43015",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.miaoli.gov.tw/general_affairs/News_Content.aspx?n=851&s=962327",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.ia.gov.tw/zh-TW/fun/peopleContent?a=103&d=&id=75&p=149&q=&y=0",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aipl/202609090121.aspx",
+        "title": "本輪原始資料來源"
+      }
+    ],
+    "limitations": [
+      "局部來源查核，不代表全體候選人背景已完整核實。",
+      "司法、爭議與資格新線索僅保留待查，不自動修改標籤。"
+    ],
+    "review_leads_count": 1,
+    "rejected_count": 1,
+    "changes": [
+      {
+        "name": "羅貴星",
+        "county": "苗栗縣",
+        "field": "experience",
+        "text": "縣議員羅貴星",
+        "url": "https://www.miaoli.gov.tw/general_affairs/News_Content.aspx?n=851&s=962327"
+      },
+      {
+        "name": "林英嘉",
+        "county": "彰化縣",
+        "field": "experience",
+        "text": "秀水鄉大家長林英嘉鄉長",
+        "url": "https://www.chcg.gov.tw/TSO/xiushui/07other/main.aspx?main_id=43015"
+      }
+    ],
+    "topic_updates": [
+      {
+        "id": "election-lottery-typhoon-contingency-20261021",
+        "title": "苗栗公布今日縣長、縣議員抽籤結果",
+        "kind": "progress",
+        "summary": "苗栗縣府今日刊登選委會抽籤結果，正文列出縣長及縣議員各選區名單，確認先前延期的抽籤已有結果公布。",
+        "sources": [
+          "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1007630",
+          "https://web.cec.gov.tw/mlec"
+        ]
+      },
+      {
+        "id": "senior-health-premium-20261018",
+        "title": "陳素月說明彰化長者健保承諾與地方財源",
+        "kind": "progress",
+        "summary": "中央社今日報導陳素月重申長者健保費補助主張，並說明將由地方自籌財源、編列預算送議會審查；這是候選人的政策及財務說明。",
+        "sources": [
+          "https://www.cna.com.tw/news/aloc/202610270132.aspx",
+          "https://www.cna.com.tw/news/aloc/202609280143.aspx"
+        ]
+      }
+    ]
+  },
+  {
     "entry_id": "election-20261027-2140-1h-r01",
     "kind": "manual",
     "session_label": "election-20261027-2140-1h・第1輪",
