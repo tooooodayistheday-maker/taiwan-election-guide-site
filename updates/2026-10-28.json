@@ -1,0 +1,62 @@
+{
+  "date": "2026-10-28",
+  "checked_at": "2026-10-28T10:03:31.227587+08:00",
+  "county_scope": [
+    "臺東縣",
+    "澎湖縣"
+  ],
+  "accepted_facts": 1,
+  "updated_people": 1,
+  "summary": "本日完成局部來源查核；新增通過逐條原文核對的資料 1 項。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/ttec",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://web.cec.gov.tw/phec",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://www.taitungcity.gov.tw/article/%E6%A9%9F%E9%97%9C%E4%BB%8B%E7%B4%B9",
+      "title": "本次查核來源頁"
+    }
+  ],
+  "limitations": [
+    "本次為局部來源查核，不代表所有縣市或候選人已完整核實。",
+    "本次沒有自動改動司法、爭議、資格及名冊；新線索只保留在私人待核紀錄。"
+  ],
+  "review_leads_count": 0,
+  "rejected_count": 1,
+  "changes": [
+    {
+      "name": "洪棟霖",
+      "county": "澎湖縣",
+      "field": "experience",
+      "text": "縣府參議",
+      "url": "https://www.cna.com.tw/news/aloc/202610170121.aspx"
+    }
+  ],
+  "topic_updates": [
+    {
+      "id": "election-lottery-typhoon-contingency-20261021",
+      "title": "臺東與澎湖選委會列出10月27日抽籤結果",
+      "kind": "progress",
+      "summary": "臺東選委會首頁已列出10月27日抽籤結果公告，提供原先颱風延期安排的後續進度。本次確認公告存在，尚未逐筆核對附件。",
+      "sources": [
+        "https://web.cec.gov.tw/ttec",
+        "https://web.cec.gov.tw/phec"
+      ]
+    },
+    {
+      "id": "penghu-songshan-access",
+      "title": "松山機場遷移討論，離島就醫與日常交通怎麼保障？",
+      "kind": "review",
+      "summary": "來源複核：本次無新增可確認進度。",
+      "sources": [
+        "https://www.cna.com.tw/news/aloc/202610160348.aspx",
+        "https://www.cna.com.tw/news/ahel/202610100051.aspx"
+      ]
+    }
+  ]
+}

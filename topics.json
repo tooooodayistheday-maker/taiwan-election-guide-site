@@ -1,17 +1,17 @@
 {
-  "checkedAt": "2026-10-27",
+  "checkedAt": "2026-10-28",
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
       "id": "election-lottery-typhoon-contingency-20261021",
-      "county": "苗栗縣",
+      "county": null,
       "districts": [],
       "relatedNames": [],
       "date": "2026-10-27",
-      "title": "苗栗公布今日縣長、縣議員抽籤結果",
-      "shortTitle": "苗栗抽籤結果公布",
+      "title": "臺東與澎湖選委會列出10月27日抽籤結果",
+      "shortTitle": "兩縣抽籤結果公告",
       "category": "每日選舉話題",
-      "summary": "苗栗縣府今日刊登選委會抽籤結果，正文列出縣長及縣議員各選區名單，確認先前延期的抽籤已有結果公布。",
+      "summary": "臺東選委會首頁已列出10月27日抽籤結果公告，提供原先颱風延期安排的後續進度。本次確認公告存在，尚未逐筆核對附件。",
       "steps": [
         {
           "speaker": "10月22日後續進度",
@@ -125,18 +125,94 @@
             "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1007630",
             "https://web.cec.gov.tw/mlec"
           ]
+        },
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "臺東選委會首頁已列出10月27日抽籤結果公告，提供原先颱風延期安排的後續進度。本次確認公告存在，尚未逐筆核對附件。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/ttec"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "澎湖選委會首頁同樣列出10月27日抽籤一覽表及結果新聞稿，並保留先前颱風停班時改期的條件式通知。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/phec"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：兩縣新增結果公告可接續既有延期話題，但個人號次仍須讀取原始附件、核對完整姓名與職別選區。結果索引不能代替正式候選人名單。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/ttec",
+            "https://web.cec.gov.tw/phec"
+          ]
         }
       ],
-      "question": "各職別的結果原件是否齊備，姓名與選區能否逐筆對上現有登記紀錄？",
+      "question": "公告附件是否涵蓋所有職別，且每筆姓名、職別與選區都能與現有紀錄精確對應？",
       "symbol": "◇",
-      "checkedAt": "2026-10-27",
+      "checkedAt": "2026-10-28",
       "dailyUpdateKind": "progress",
       "eventDate": "2026-10-21",
       "dailyEvidenceFingerprints": [
         "53521b4fba6f8eda9b0b1c9cb8750606b8b7442ec8078bef457fba567b63ba1b",
         "25b31357a45e0ff4b2fbee885fed38ad85e3f1a15523fae20f00b4c779b03db5",
         "3b500f04ac4e0b4718aeb188b9e89d7251614ac4db46402ef06b9edeb24f8e58",
-        "940faf8037d81be215758585d2f84defd24ea06ec21e35d94e8dad2ce69c0888"
+        "940faf8037d81be215758585d2f84defd24ea06ec21e35d94e8dad2ce69c0888",
+        "8e2516fc34de8989f6373753b3cea5258d48dcf53df346e22ecd80218a156b8f"
+      ]
+    },
+    {
+      "id": "penghu-songshan-access",
+      "title": "松山機場遷移討論，離島就醫與日常交通怎麼保障？",
+      "shortTitle": "松機遷移與離島交通",
+      "category": "公共治理",
+      "symbol": "✈",
+      "county": "澎湖縣",
+      "districts": [],
+      "relatedNames": [
+        "吳淑瑾",
+        "陳振中",
+        "蔣萬安"
+      ],
+      "date": "2026-10-16",
+      "summary": "台北城市發展構想延伸到澎湖選戰；比較機場遷移主張、保留立場與離島居民的實際使用需求。",
+      "steps": [
+        {
+          "speaker": "事件背景",
+          "text": "10/16中央社報導，蔣萬安提出遷移松山機場、打造AI園區的構想，成為澎湖縣長選戰討論議題。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610160348.aspx"
+          ]
+        },
+        {
+          "speaker": "當事人主張",
+          "text": "吳淑瑾強調松機關係澎湖居民轉診、回診與日常往返；陳振中先前已表明反對遷移，同時尊重台北討論城市發展。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610160348.aspx"
+          ]
+        },
+        {
+          "speaker": "待核對事項",
+          "text": "機場遷移仍是討論中的主張。後續應分別核對急重症後送、定期就醫與一般旅運的替代方案，不能用一種需求概括全部。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610160348.aspx"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-10-28重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610160348.aspx",
+            "https://www.cna.com.tw/news/ahel/202610100051.aspx"
+          ]
+        }
+      ],
+      "question": "你會要求候選人提出哪些時間、費用與就醫可近性的比較資料？",
+      "checkedAt": "2026-10-28",
+      "dailyUpdateKind": "review",
+      "dailyEvidenceFingerprints": [
+        "1e702142235dce021044a49986f6986bc8cf419d1f39857afd0002c1d50f686a"
       ]
     },
     {
@@ -2426,46 +2502,6 @@
         }
       ],
       "question": "你看到的是登記紀錄、審定結果，還是最新正式名單？"
-    },
-    {
-      "id": "penghu-songshan-access",
-      "title": "松山機場遷移討論，離島就醫與日常交通怎麼保障？",
-      "shortTitle": "松機遷移與離島交通",
-      "category": "公共治理",
-      "symbol": "✈",
-      "county": "澎湖縣",
-      "districts": [],
-      "relatedNames": [
-        "吳淑瑾",
-        "陳振中",
-        "蔣萬安"
-      ],
-      "date": "2026-10-16",
-      "summary": "台北城市發展構想延伸到澎湖選戰；比較機場遷移主張、保留立場與離島居民的實際使用需求。",
-      "steps": [
-        {
-          "speaker": "事件背景",
-          "text": "10/16中央社報導，蔣萬安提出遷移松山機場、打造AI園區的構想，成為澎湖縣長選戰討論議題。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610160348.aspx"
-          ]
-        },
-        {
-          "speaker": "當事人主張",
-          "text": "吳淑瑾強調松機關係澎湖居民轉診、回診與日常往返；陳振中先前已表明反對遷移，同時尊重台北討論城市發展。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610160348.aspx"
-          ]
-        },
-        {
-          "speaker": "待核對事項",
-          "text": "機場遷移仍是討論中的主張。後續應分別核對急重症後送、定期就醫與一般旅運的替代方案，不能用一種需求概括全部。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610160348.aspx"
-          ]
-        }
-      ],
-      "question": "你會要求候選人提出哪些時間、費用與就醫可近性的比較資料？"
     },
     {
       "id": "kaohsiung-fishing-port-service",
