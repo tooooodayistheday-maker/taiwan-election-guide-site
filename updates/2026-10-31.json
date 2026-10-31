@@ -1,0 +1,58 @@
+{
+  "date": "2026-10-31",
+  "checked_at": "2026-10-31T10:03:31.026601+08:00",
+  "county_scope": [
+    "桃園市",
+    "臺中市"
+  ],
+  "accepted_facts": 0,
+  "updated_people": 0,
+  "summary": "本日完成局部來源查核；新增通過逐條原文核對的資料 0 項。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/tyec",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://www.cec.gov.tw/tcec",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://web.cec.gov.tw/central/article/65213",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://law.cec.gov.tw/LawContent.aspx?id=GL000292",
+      "title": "本次查核來源頁"
+    }
+  ],
+  "limitations": [
+    "本次為局部來源查核，不代表所有縣市或候選人已完整核實。",
+    "本次沒有自動改動司法、爭議、資格及名冊；新線索只保留在私人待核紀錄。"
+  ],
+  "review_leads_count": 2,
+  "rejected_count": 1,
+  "changes": [],
+  "topic_updates": [
+    {
+      "id": "taichung-electoral-roll-inspection-20261029",
+      "title": "臺中公告選舉人名冊閱覽及更正，細節待核",
+      "kind": "new",
+      "summary": "臺中市選委會首頁10月29日列出地方選舉及全國性公投第22案的名冊閱覽與更正公告。本次確認公告存在，尚未取得正文中的辦理期間與地點。",
+      "sources": [
+        "https://www.cec.gov.tw/tcec",
+        "https://law.cec.gov.tw/LawContent.aspx?id=GL000292"
+      ]
+    },
+    {
+      "id": "taichung-transit-service",
+      "title": "台中公車：免費票價之外，運能、路網與駕駛人力怎麼改善？",
+      "kind": "review",
+      "summary": "來源複核：本次無新增可確認進度。",
+      "sources": [
+        "https://www.cna.com.tw/news/aipl/202610190150.aspx",
+        "https://www.cna.com.tw/news/aloc/202610160324.aspx"
+      ]
+    }
+  ]
+}

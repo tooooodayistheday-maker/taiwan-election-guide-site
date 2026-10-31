@@ -1,7 +1,109 @@
 {
-  "checkedAt": "2026-10-28",
+  "checkedAt": "2026-10-31",
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
+    {
+      "id": "taichung-electoral-roll-inspection-20261029",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "臺中公告選舉人名冊閱覽及更正，細節待核",
+      "shortTitle": "臺中名冊閱覽與更正",
+      "category": "每日選舉話題",
+      "county": "臺中市",
+      "date": "2026-10-29",
+      "summary": "臺中市選委會首頁10月29日列出地方選舉及全國性公投第22案的名冊閱覽與更正公告。本次確認公告存在，尚未取得正文中的辦理期間與地點。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "臺中市選委會首頁10月29日列出地方選舉及全國性公投第22案的名冊閱覽與更正公告。本次確認公告存在，尚未取得正文中的辦理期間與地點。",
+          "sourceUrls": [
+            "https://www.cec.gov.tw/tcec"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "公職人員選舉罷免法第22條規範名冊閱覽與更正程序，並限制查閱身分及範圍。實際辦理時間與地點仍須核對地方公告。",
+          "sourceUrls": [
+            "https://law.cec.gov.tw/LawContent.aspx?id=GL000292"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：應補核公告正文、閱覽期限、受理窗口及更正所需文件。公告存在不代表每位選民的登錄均無誤，也不能由地址推定投票資格。",
+          "sourceUrls": [
+            "https://www.cec.gov.tw/tcec",
+            "https://law.cec.gov.tw/LawContent.aspx?id=GL000292"
+          ]
+        }
+      ],
+      "question": "官方公告是否清楚列出閱覽期限、地點與更正方式，讓選民能及時確認自己的資料？",
+      "checkedAt": "2026-10-31",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "6f87ef94faefc9850502e76974d1c537a12965267d07bff813ecc41a6e7c270c"
+      ]
+    },
+    {
+      "id": "taichung-transit-service",
+      "title": "台中公車：免費票價之外，運能、路網與駕駛人力怎麼改善？",
+      "shortTitle": "免費公車與服務品質",
+      "category": "交通政策",
+      "symbol": "↗",
+      "county": "臺中市",
+      "districts": [],
+      "relatedNames": [
+        "江啟臣",
+        "何欣純"
+      ],
+      "date": "2026-10-19",
+      "summary": "在既有10/16免費公車主張外，補入何欣純10/19四項改善方案；各自承諾與服務成效分開核對。",
+      "steps": [
+        {
+          "speaker": "事件背景",
+          "text": "江啟臣10/16發表交通政見，提出市民公車免費，並以密集接駁建構20分鐘生活圈。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610160324.aspx"
+          ]
+        },
+        {
+          "speaker": "當事人主張",
+          "text": "他同時主張提升公車司機待遇與服務品質，優先改善學校、醫院及大眾運輸節點周邊步道。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610160324.aspx"
+          ]
+        },
+        {
+          "speaker": "待核對事項",
+          "text": "以上是競選主張。比較時可分別核對免費適用資格、班距、人力補充與預算，並追問偏遠地區如何納入。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610160324.aspx"
+          ]
+        },
+        {
+          "speaker": "10/19新增主張",
+          "text": "何欣純提出運能、App、路網與駕駛勞動四方向；這是競選方案，班次、人力、成本與實施結果仍須核對。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610190150.aspx"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-10-31重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610190150.aspx",
+            "https://www.cna.com.tw/news/aloc/202610160324.aspx"
+          ]
+        }
+      ],
+      "question": "票價、候車時間、轉乘便利與人行安全，你最重視哪一項可查核的改善？",
+      "checkedAt": "2026-10-31",
+      "dailyUpdateKind": "review",
+      "dailyEvidenceFingerprints": [
+        "534216f207c85f0177d72d59c861b9e9b599aedb40d9ebe883006d4dcb1d989f",
+        "bba40686453fd63f1b20f76e1f800123ca0c7c1061b1476f41132fe9f40ba89a"
+      ]
+    },
     {
       "id": "election-lottery-typhoon-contingency-20261021",
       "county": null,
@@ -1715,65 +1817,6 @@
       "question": "你希望候選人公開哪些看板材料、回收及選後拆除資訊，才足以比較宣傳的環境成本？",
       "dailyEvidenceFingerprints": [
         "c2ed7a9ca7016f3e2d11cf1c29e25ee05e0dc0bff5b95c404f01e4c97ffd9a3f"
-      ]
-    },
-    {
-      "id": "taichung-transit-service",
-      "title": "台中公車：免費票價之外，運能、路網與駕駛人力怎麼改善？",
-      "shortTitle": "免費公車與服務品質",
-      "category": "交通政策",
-      "symbol": "↗",
-      "county": "臺中市",
-      "districts": [],
-      "relatedNames": [
-        "江啟臣",
-        "何欣純"
-      ],
-      "date": "2026-10-19",
-      "summary": "在既有10/16免費公車主張外，補入何欣純10/19四項改善方案；各自承諾與服務成效分開核對。",
-      "steps": [
-        {
-          "speaker": "事件背景",
-          "text": "江啟臣10/16發表交通政見，提出市民公車免費，並以密集接駁建構20分鐘生活圈。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610160324.aspx"
-          ]
-        },
-        {
-          "speaker": "當事人主張",
-          "text": "他同時主張提升公車司機待遇與服務品質，優先改善學校、醫院及大眾運輸節點周邊步道。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610160324.aspx"
-          ]
-        },
-        {
-          "speaker": "待核對事項",
-          "text": "以上是競選主張。比較時可分別核對免費適用資格、班距、人力補充與預算，並追問偏遠地區如何納入。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610160324.aspx"
-          ]
-        },
-        {
-          "speaker": "10/19新增主張",
-          "text": "何欣純提出運能、App、路網與駕駛勞動四方向；這是競選方案，班次、人力、成本與實施結果仍須核對。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610190150.aspx"
-          ]
-        },
-        {
-          "speaker": "每日來源複核",
-          "text": "2026-10-21重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610190150.aspx",
-            "https://www.cna.com.tw/news/aloc/202610160324.aspx"
-          ]
-        }
-      ],
-      "question": "票價、候車時間、轉乘便利與人行安全，你最重視哪一項可查核的改善？",
-      "checkedAt": "2026-10-21",
-      "dailyUpdateKind": "review",
-      "dailyEvidenceFingerprints": [
-        "534216f207c85f0177d72d59c861b9e9b599aedb40d9ebe883006d4dcb1d989f"
       ]
     },
     {
