@@ -1,7 +1,99 @@
 {
-  "checkedAt": "2026-10-31",
+  "checkedAt": "2026-11-01",
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
+    {
+      "id": "kaohsiung-ai-governance-education-20261101",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "高雄AI政見比較：產業、治理與全民學習如何落實？",
+      "shortTitle": "高雄AI產業與教育政見",
+      "category": "每日選舉話題",
+      "county": "高雄市",
+      "date": "2026-11-01",
+      "summary": "中央社11月1日整理高雄市長選戰AI主張：賴瑞隆著重產業專區與城市資訊應用，柯志恩強調不同年齡層的學習資源，也提出防汛及公共自行車調度應用。這是政策比較報導，並非各項方案當日首次提出。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社11月1日整理高雄市長選戰AI主張：賴瑞隆著重產業專區與城市資訊應用，柯志恩強調不同年齡層的學習資源，也提出防汛及公共自行車調度應用。這是政策比較報導，並非各項方案當日首次提出。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611010013.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "10月12日中央社已報導兩人的AI產業布局與科技生活應用主張。今日報導可補充治理及教育面向，不能把先前方案重新描述為首次宣布。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610120149.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：應追問產業土地與能源條件、跨機關資料使用權限、個資保護、教育師資與設備財源，以及防汛和調度系統的驗證方式。競選方案不能直接視為建置完成或已有成效。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611010013.aspx",
+            "https://www.cna.com.tw/news/aipl/202610120149.aspx"
+          ]
+        }
+      ],
+      "question": "候選人能否提出各項AI方案的主管機關、年度預算、執行時程與公開驗收指標？",
+      "checkedAt": "2026-11-01",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "44347cb61beab0be0553d69cfa4f7c8dfa87e78eff951f4ef4bb0312fae39803"
+      ]
+    },
+    {
+      "id": "zhubei-ai-community-learning-20261026",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "竹北科技學習政見：分齡課程如何落實？",
+      "shortTitle": "竹北分齡科技學習",
+      "category": "每日選舉話題",
+      "county": "新竹縣",
+      "date": "2026-10-26",
+      "summary": "中央社10月26日報導，吳旭智提出設置學習方案，依兒童、成人及長者需求提供數位科技課程，並結合社區紀錄和親子活動；這是競選主張。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社10月26日報導，吳旭智提出設置學習方案，依兒童、成人及長者需求提供數位科技課程，並結合社區紀錄和親子活動；這是競選主張。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610260189.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "10月9日報導中，曾聖凱已提出利用活動中心、公園及公共空間提供長者運動課程。兩項主張服務內容不同，可分別檢視場地、人力與參與條件。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610090137.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：須追問課程承辦單位、師資、收費與補助、設備及維運財源，以及不同年齡居民的數位使用需求。提出方案不代表已有招生或執行成果。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610260189.aspx",
+            "https://www.cna.com.tw/news/aloc/202610090137.aspx"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-11-01重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610260189.aspx",
+            "https://www.cna.com.tw/news/aloc/202610090137.aspx"
+          ]
+        }
+      ],
+      "question": "候選人能否公布課程對象、辦理地點、年度經費及成果評估方式？",
+      "checkedAt": "2026-11-01",
+      "dailyUpdateKind": "review",
+      "dailyEvidenceFingerprints": [
+        "1bad3fb2ccb8007ffef4886fe5ac540bd5e4449dcdd70167da20acf3fb5dfe39"
+      ]
+    },
     {
       "id": "taichung-electoral-roll-inspection-20261029",
       "symbol": "◇",
@@ -393,48 +485,6 @@
       "dailyUpdateKind": "progress",
       "dailyEvidenceFingerprints": [
         "ee90ada1f11f7766c465794bbaa61778aa59bc0606f9298a86769f1675626ff4"
-      ]
-    },
-    {
-      "id": "zhubei-ai-community-learning-20261026",
-      "symbol": "◇",
-      "relatedNames": [],
-      "districts": [],
-      "title": "竹北科技學習政見：分齡課程如何落實？",
-      "shortTitle": "竹北分齡科技學習",
-      "category": "每日選舉話題",
-      "county": "新竹縣",
-      "date": "2026-10-26",
-      "summary": "中央社10月26日報導，吳旭智提出設置學習方案，依兒童、成人及長者需求提供數位科技課程，並結合社區紀錄和親子活動；這是競選主張。",
-      "steps": [
-        {
-          "speaker": "本次進度與來源說法",
-          "text": "中央社10月26日報導，吳旭智提出設置學習方案，依兒童、成人及長者需求提供數位科技課程，並結合社區紀錄和親子活動；這是競選主張。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610260189.aspx"
-          ]
-        },
-        {
-          "speaker": "背景脈絡",
-          "text": "10月9日報導中，曾聖凱已提出利用活動中心、公園及公共空間提供長者運動課程。兩項主張服務內容不同，可分別檢視場地、人力與參與條件。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610090137.aspx"
-          ]
-        },
-        {
-          "speaker": "判讀重點（本站整理）",
-          "text": "本站判讀重點：須追問課程承辦單位、師資、收費與補助、設備及維運財源，以及不同年齡居民的數位使用需求。提出方案不代表已有招生或執行成果。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610260189.aspx",
-            "https://www.cna.com.tw/news/aloc/202610090137.aspx"
-          ]
-        }
-      ],
-      "question": "候選人能否公布課程對象、辦理地點、年度經費及成果評估方式？",
-      "checkedAt": "2026-10-27",
-      "dailyUpdateKind": "new",
-      "dailyEvidenceFingerprints": [
-        "1bad3fb2ccb8007ffef4886fe5ac540bd5e4449dcdd70167da20acf3fb5dfe39"
       ]
     },
     {

@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-01",
+  "checked_at": "2026-11-01T10:02:53.494247+08:00",
+  "county_scope": [
+    "臺南市",
+    "高雄市"
+  ],
+  "accepted_facts": 0,
+  "updated_people": 0,
+  "summary": "本日完成局部來源查核；新增通過逐條原文核對的資料 0 項。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/tnec",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://web.cec.gov.tw/khec",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://web.cec.gov.tw/central",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://www.ly.gov.tw/EngPages/Detail.aspx?nodeid=4989&pid=30798",
+      "title": "本次查核來源頁"
+    }
+  ],
+  "limitations": [
+    "本次為局部來源查核，不代表所有縣市或候選人已完整核實。",
+    "本次沒有自動改動司法、爭議、資格及名冊；新線索只保留在私人待核紀錄。"
+  ],
+  "review_leads_count": 1,
+  "rejected_count": 1,
+  "changes": [],
+  "topic_updates": [
+    {
+      "id": "kaohsiung-ai-governance-education-20261101",
+      "title": "高雄AI政見比較：產業、治理與全民學習如何落實？",
+      "kind": "new",
+      "summary": "中央社11月1日整理高雄市長選戰AI主張：賴瑞隆著重產業專區與城市資訊應用，柯志恩強調不同年齡層的學習資源，也提出防汛及公共自行車調度應用。這是政策比較報導，並非各項方案當日首次提出。",
+      "sources": [
+        "https://www.cna.com.tw/news/aloc/202611010013.aspx",
+        "https://www.cna.com.tw/news/aipl/202610120149.aspx"
+      ]
+    },
+    {
+      "id": "zhubei-ai-community-learning-20261026",
+      "title": "竹北科技學習政見：分齡課程如何落實？",
+      "kind": "review",
+      "summary": "來源複核：本次無新增可確認進度。",
+      "sources": [
+        "https://www.cna.com.tw/news/aipl/202610260189.aspx",
+        "https://www.cna.com.tw/news/aloc/202610090137.aspx"
+      ]
+    }
+  ]
+}
