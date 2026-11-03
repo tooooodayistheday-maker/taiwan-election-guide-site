@@ -1,7 +1,91 @@
 {
-  "checkedAt": "2026-11-01",
+  "checkedAt": "2026-11-03",
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
+    {
+      "id": "chiayi-city-debate-invitation-20261101",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "嘉義市辯論邀請未獲接納，活動是否成局仍待確認",
+      "shortTitle": "嘉義市辯論邀請與回應",
+      "category": "每日選舉話題",
+      "county": "嘉義市",
+      "date": "2026-11-01",
+      "summary": "中央社11月1日報導，張啓楷赴王美惠競總遞交辯論邀請，王美惠當時外出，由競總幹部表達拒絕此種邀請方式。張啓楷再邀她參與11月7日辯論，尚不能據此認定雙方已同意舉辦。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社11月1日報導，張啓楷赴王美惠競總遞交辯論邀請，王美惠當時外出，由競總幹部表達拒絕此種邀請方式。張啓楷再邀她參與11月7日辯論，尚不能據此認定雙方已同意舉辦。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611010067.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "9月2日中央社已報導張啓楷提出改採兩輪辯論；王美惠當時表示應尊重選務機關決議。11月1日的新事件是登門邀請及雙方回應，並非辯論構想首次提出。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202609020219.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：應區分陣營邀請、雙方協商與選務機關辦理的政見發表。日期、主辦者、出席同意、提問及答辯規則未確認前，不應把邀請描述成確定舉行的辯論，也不能將雙方爭執當成政策優劣的證據。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611010067.aspx",
+            "https://www.cna.com.tw/news/aipl/202609020219.aspx"
+          ]
+        }
+      ],
+      "question": "是否有雙方確認的主辦單位、日期、出席名單、提問規則及完整公開播出安排？",
+      "checkedAt": "2026-11-03",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "bbb54a290e072aadde0489ffe99678f78a0ebcdbccc95297c614d7952922bc85"
+      ]
+    },
+    {
+      "id": "hsinchu-indigenous-medical-library-policy-20261101",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "鄭朝方提原鄉巡迴醫療與山林閱讀，資源配置待說明",
+      "shortTitle": "竹縣原鄉醫療與閱讀主張",
+      "category": "每日選舉話題",
+      "county": "新竹縣",
+      "date": "2026-11-01",
+      "summary": "中央社11月1日報導鄭朝方競辦說法，針對五峰、尖石道路安全與醫療需求，提出巡迴醫療及山林閱讀設施方向。報導亦記錄其對其他鄉鎮交通、醫療與觀光需求的回應；這些仍是競選主張。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社11月1日報導鄭朝方競辦說法，針對五峰、尖石道路安全與醫療需求，提出巡迴醫療及山林閱讀設施方向。報導亦記錄其對其他鄉鎮交通、醫療與觀光需求的回應；這些仍是競選主張。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611010136.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "中央社9月21日的選戰整理已記錄鄭朝方依地方需求提出政策、希望將竹北治理經驗延伸至全縣。本次新增的報導具體列出五峰、尖石的醫療與閱讀方向，不能把先前總體訴求重新當作首次宣布。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202609215011.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：巡迴醫療須說明醫事人力、服務路線、頻率及轉診銜接；閱讀設施須釐清館舍、館藏、營運經費與在地參與。報導未列完整預算、時程及主管機關分工，不能將主張寫成服務已擴充或品質已改善。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611010136.aspx",
+            "https://www.cna.com.tw/news/aipl/202609215011.aspx"
+          ]
+        }
+      ],
+      "question": "原鄉醫療與閱讀方案將由哪些機關合作，如何安排人力、服務頻率、年度預算及公開驗收方式？",
+      "checkedAt": "2026-11-03",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "aeaff2e7c03c740f74843872c117c92a461ba30c253baaa1d70fccc482cd0217"
+      ]
+    },
     {
       "id": "kaohsiung-ai-governance-education-20261101",
       "symbol": "◇",

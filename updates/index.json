@@ -1,5 +1,67 @@
 [
   {
+    "date": "2026-11-03",
+    "checked_at": "2026-11-03T10:04:37.666552+08:00",
+    "county_scope": [
+      "嘉義市",
+      "新竹縣"
+    ],
+    "accepted_facts": 0,
+    "updated_people": 0,
+    "summary": "本日完成局部來源查核；新增通過逐條原文核對的資料 0 項。",
+    "official_checks": [
+      {
+        "url": "https://web.cec.gov.tw/cyec",
+        "title": "本次查核來源頁"
+      },
+      {
+        "url": "https://web.cec.gov.tw/hccec?Lang=zh-tw",
+        "title": "本次查核來源頁"
+      },
+      {
+        "url": "https://web.cec.gov.tw/central",
+        "title": "本次查核來源頁"
+      },
+      {
+        "url": "https://web.cec.gov.tw/central/article/65213",
+        "title": "本次查核來源頁"
+      },
+      {
+        "url": "https://www.cycc.gov.tw/web/UnitStaff_New/Default2.aspx?c0=3716&p0=1133",
+        "title": "本次查核來源頁"
+      }
+    ],
+    "limitations": [
+      "本次為局部來源查核，不代表所有縣市或候選人已完整核實。",
+      "本次沒有自動改動司法、爭議、資格及名冊；新線索只保留在私人待核紀錄。"
+    ],
+    "review_leads_count": 2,
+    "rejected_count": 3,
+    "changes": [],
+    "topic_updates": [
+      {
+        "id": "chiayi-city-debate-invitation-20261101",
+        "title": "嘉義市辯論邀請未獲接納，活動是否成局仍待確認",
+        "kind": "new",
+        "summary": "中央社11月1日報導，張啓楷赴王美惠競總遞交辯論邀請，王美惠當時外出，由競總幹部表達拒絕此種邀請方式。張啓楷再邀她參與11月7日辯論，尚不能據此認定雙方已同意舉辦。",
+        "sources": [
+          "https://www.cna.com.tw/news/aipl/202611010067.aspx",
+          "https://www.cna.com.tw/news/aipl/202609020219.aspx"
+        ]
+      },
+      {
+        "id": "hsinchu-indigenous-medical-library-policy-20261101",
+        "title": "鄭朝方提原鄉巡迴醫療與山林閱讀，資源配置待說明",
+        "kind": "new",
+        "summary": "中央社11月1日報導鄭朝方競辦說法，針對五峰、尖石道路安全與醫療需求，提出巡迴醫療及山林閱讀設施方向。報導亦記錄其對其他鄉鎮交通、醫療與觀光需求的回應；這些仍是競選主張。",
+        "sources": [
+          "https://www.cna.com.tw/news/aipl/202611010136.aspx",
+          "https://www.cna.com.tw/news/aipl/202609215011.aspx"
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-11-01",
     "checked_at": "2026-11-01T10:02:53.494247+08:00",
     "county_scope": [
