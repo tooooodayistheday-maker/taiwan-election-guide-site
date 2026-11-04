@@ -1,7 +1,150 @@
 {
-  "checkedAt": "2026-11-03",
+  "checkedAt": "2026-11-04",
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
+    {
+      "id": "changhua-town-upgrade-policy-20261102",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "魏平政提出城鎮升級方案，跨生活圈交通與文化如何落實？",
+      "shortTitle": "彰化城鎮升級與生活圈",
+      "category": "每日選舉話題",
+      "county": "彰化縣",
+      "date": "2026-11-02",
+      "summary": "中央社11月2日報導魏平政提出城鎮升級方案，交通部分強調跨生活圈連結、捷運延伸及公共運輸轉乘，文化部分涵蓋文化資產、市場與地方觀光。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社11月2日報導魏平政提出城鎮升級方案，交通部分強調跨生活圈連結、捷運延伸及公共運輸轉乘，文化部分涵蓋文化資產、市場與地方觀光。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611020237.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "報導以縣民跨鄉鎮工作、就學及就醫需求說明政策背景，提出交通規劃應兼顧生活圈內部及彼此往來。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611020237.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：捷運延伸、跨縣市運輸與地方文化設施涉及不同機關及預算，應分別核對權責、既有計畫、財源與時程；政策發表不能視為建設核定或服務改善已完成。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611020237.aspx",
+            "https://www.cna.com.tw/news/aipl/202611020237.aspx"
+          ]
+        }
+      ],
+      "question": "陣營能否公開各項措施的主管機關、年度預算、執行順序與可檢驗的服務指標？",
+      "checkedAt": "2026-11-04",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "39375943dbd1824efc6025b04b10941906d92c1757c3dedbe5813f1ad3b0119c"
+      ]
+    },
+    {
+      "id": "senior-health-premium-20261018",
+      "title": "苗栗議會通過長者健保補助提案，中央地方財源仍待釐清",
+      "shortTitle": "長者健保補助與財源",
+      "category": "每日選舉話題",
+      "symbol": "◇",
+      "county": "苗栗縣",
+      "districts": [],
+      "relatedNames": [
+        "周春米",
+        "蔣萬安"
+      ],
+      "date": "2026-11-02",
+      "summary": "中央社11月2日報導苗栗議會通過藍綠議員提出的長者健保補助相關提案，但財源及執行責任主張不同。鍾東錦表示，中央確定不補助後才考慮使用縣款。",
+      "steps": [
+        {
+          "speaker": "已報導的修法程序",
+          "text": "中央社10/16報導立院三讀長者健保費補助相關條文，設有所得條件。這是立法程序報導，不能直接當作所有長者已免繳或可立即申請；公布、施行與申辦細節仍要核對正式公告。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610160144.aspx"
+          ]
+        },
+        {
+          "speaker": "支持方的主張",
+          "text": "黃國昌10/18主張中央補助可改善不同縣市的待遇差異、減輕家庭負擔，並反對將政策解讀為世代對立。這是支持方的政策判斷，不是本站認證的財務結果。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610180072.aspx"
+          ]
+        },
+        {
+          "speaker": "財源與權責的疑慮",
+          "text": "民進黨回應應區分地方自編預算與修法增加中央支出；衛福部長石崇良則提出中央財源、保費與其他支出遭排擠的風險。這些是各方說法與估計，未來保費是否調整尚非本版確認的既定事實。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610180074.aspx",
+            "https://www.cna.com.tw/news/ahel/202610180038.aspx"
+          ]
+        },
+        {
+          "speaker": "留待核對的資料",
+          "text": "比較地方候選人承諾時，可追問對象、年度成本、財源及與中央補助如何銜接。本版未替任何人判斷補助資格，也未將各陣營的合憲或財務主張當成確定結論。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610160144.aspx",
+            "https://www.cna.com.tw/news/aipl/202610180072.aspx",
+            "https://www.cna.com.tw/news/aipl/202610180074.aspx",
+            "https://www.cna.com.tw/news/ahel/202610180038.aspx"
+          ]
+        },
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社今日報導陳素月重申長者健保費補助主張，並說明將由地方自籌財源、編列預算送議會審查；這是候選人的政策及財務說明。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610270132.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "9月28日報導已記錄魏平政提出長者健保費補助政見。今日新增陳素月對地方承諾與中央修法差異的說明，延續既有財源與權責話題。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202609280143.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：應核對地方補助的適用對象、年度成本、財源及與中央制度的銜接。陣營對合憲性與財政盤點的說法仍須原始資料支持，不能視為司法結論、通過的預算或已可申領的福利。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610270132.aspx",
+            "https://www.cna.com.tw/news/aloc/202609280143.aspx"
+          ]
+        },
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社11月2日報導苗栗議會通過藍綠議員提出的長者健保補助相關提案，但財源及執行責任主張不同。鍾東錦表示，中央確定不補助後才考慮使用縣款。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611020252.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "報導回溯陳品安6月提出的地方補助政見，並記錄黨團要求下修既有補助年齡門檻、由縣府編列預算的主張。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611020252.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：議會通過提案與實際補助上路之間，仍須核對預算、實施辦法、所得及年齡條件，以及中央地方制度如何銜接。本次進展是議會提案通過及財源回應，不能據此宣稱長者已全面免繳。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611020252.aspx",
+            "https://www.cna.com.tw/news/aipl/202611020252.aspx"
+          ]
+        }
+      ],
+      "question": "縣府何時提出正式預算與實施辦法，並說明中央補助未定期間的處理方式？",
+      "eventDate": "2026-10-18",
+      "checkedAt": "2026-11-04",
+      "dailyUpdateKind": "progress",
+      "dailyEvidenceFingerprints": [
+        "ee90ada1f11f7766c465794bbaa61778aa59bc0606f9298a86769f1675626ff4",
+        "f9e14d656d417f811a14d7ec10ea6b8e9412e0de69740948288085efc5e3fd0c"
+      ]
+    },
     {
       "id": "chiayi-city-debate-invitation-20261101",
       "symbol": "◇",
@@ -491,84 +634,6 @@
       "dailyUpdateKind": "review",
       "dailyEvidenceFingerprints": [
         "1e702142235dce021044a49986f6986bc8cf419d1f39857afd0002c1d50f686a"
-      ]
-    },
-    {
-      "id": "senior-health-premium-20261018",
-      "title": "陳素月說明彰化長者健保承諾與地方財源",
-      "shortTitle": "彰化長者健保與財源",
-      "category": "每日選舉話題",
-      "symbol": "◇",
-      "county": "彰化縣",
-      "districts": [],
-      "relatedNames": [
-        "周春米",
-        "蔣萬安"
-      ],
-      "date": "2026-10-27",
-      "summary": "中央社今日報導陳素月重申長者健保費補助主張，並說明將由地方自籌財源、編列預算送議會審查；這是候選人的政策及財務說明。",
-      "steps": [
-        {
-          "speaker": "已報導的修法程序",
-          "text": "中央社10/16報導立院三讀長者健保費補助相關條文，設有所得條件。這是立法程序報導，不能直接當作所有長者已免繳或可立即申請；公布、施行與申辦細節仍要核對正式公告。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610160144.aspx"
-          ]
-        },
-        {
-          "speaker": "支持方的主張",
-          "text": "黃國昌10/18主張中央補助可改善不同縣市的待遇差異、減輕家庭負擔，並反對將政策解讀為世代對立。這是支持方的政策判斷，不是本站認證的財務結果。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610180072.aspx"
-          ]
-        },
-        {
-          "speaker": "財源與權責的疑慮",
-          "text": "民進黨回應應區分地方自編預算與修法增加中央支出；衛福部長石崇良則提出中央財源、保費與其他支出遭排擠的風險。這些是各方說法與估計，未來保費是否調整尚非本版確認的既定事實。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610180074.aspx",
-            "https://www.cna.com.tw/news/ahel/202610180038.aspx"
-          ]
-        },
-        {
-          "speaker": "留待核對的資料",
-          "text": "比較地方候選人承諾時，可追問對象、年度成本、財源及與中央補助如何銜接。本版未替任何人判斷補助資格，也未將各陣營的合憲或財務主張當成確定結論。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610160144.aspx",
-            "https://www.cna.com.tw/news/aipl/202610180072.aspx",
-            "https://www.cna.com.tw/news/aipl/202610180074.aspx",
-            "https://www.cna.com.tw/news/ahel/202610180038.aspx"
-          ]
-        },
-        {
-          "speaker": "本次進度與來源說法",
-          "text": "中央社今日報導陳素月重申長者健保費補助主張，並說明將由地方自籌財源、編列預算送議會審查；這是候選人的政策及財務說明。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610270132.aspx"
-          ]
-        },
-        {
-          "speaker": "背景脈絡",
-          "text": "9月28日報導已記錄魏平政提出長者健保費補助政見。今日新增陳素月對地方承諾與中央修法差異的說明，延續既有財源與權責話題。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202609280143.aspx"
-          ]
-        },
-        {
-          "speaker": "判讀重點（本站整理）",
-          "text": "本站判讀重點：應核對地方補助的適用對象、年度成本、財源及與中央制度的銜接。陣營對合憲性與財政盤點的說法仍須原始資料支持，不能視為司法結論、通過的預算或已可申領的福利。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610270132.aspx",
-            "https://www.cna.com.tw/news/aloc/202609280143.aspx"
-          ]
-        }
-      ],
-      "question": "候選人能否公開適用條件、年度支出估算與財源明細，供議會及選民檢驗？",
-      "eventDate": "2026-10-18",
-      "checkedAt": "2026-10-27",
-      "dailyUpdateKind": "progress",
-      "dailyEvidenceFingerprints": [
-        "ee90ada1f11f7766c465794bbaa61778aa59bc0606f9298a86769f1675626ff4"
       ]
     },
     {

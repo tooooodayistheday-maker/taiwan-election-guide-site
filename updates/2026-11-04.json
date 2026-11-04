@@ -1,0 +1,66 @@
+{
+  "date": "2026-11-04",
+  "checked_at": "2026-11-04T10:03:39.669553+08:00",
+  "county_scope": [
+    "苗栗縣",
+    "彰化縣"
+  ],
+  "accepted_facts": 0,
+  "updated_people": 0,
+  "summary": "本日完成局部來源查核；新增通過逐條原文核對的資料 0 項。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/mlec",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://web.cec.gov.tw/chec",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://web.cec.gov.tw/central/article/65213",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://www.lukang.gov.tw/content/index?Parser=1,5,34",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=1370",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://law.cec.gov.tw/LawContent.aspx?id=FL002023",
+      "title": "本次查核來源頁"
+    }
+  ],
+  "limitations": [
+    "本次為局部來源查核，不代表所有縣市或候選人已完整核實。",
+    "本次沒有自動改動司法、爭議、資格及名冊；新線索只保留在私人待核紀錄。"
+  ],
+  "review_leads_count": 0,
+  "rejected_count": 2,
+  "changes": [],
+  "topic_updates": [
+    {
+      "id": "changhua-town-upgrade-policy-20261102",
+      "title": "魏平政提出城鎮升級方案，跨生活圈交通與文化如何落實？",
+      "kind": "new",
+      "summary": "中央社11月2日報導魏平政提出城鎮升級方案，交通部分強調跨生活圈連結、捷運延伸及公共運輸轉乘，文化部分涵蓋文化資產、市場與地方觀光。",
+      "sources": [
+        "https://www.cna.com.tw/news/aipl/202611020237.aspx",
+        "https://www.cna.com.tw/news/aipl/202611020237.aspx"
+      ]
+    },
+    {
+      "id": "senior-health-premium-20261018",
+      "title": "苗栗議會通過長者健保補助提案，中央地方財源仍待釐清",
+      "kind": "progress",
+      "summary": "中央社11月2日報導苗栗議會通過藍綠議員提出的長者健保補助相關提案，但財源及執行責任主張不同。鍾東錦表示，中央確定不補助後才考慮使用縣款。",
+      "sources": [
+        "https://www.cna.com.tw/news/aipl/202611020252.aspx",
+        "https://www.cna.com.tw/news/aipl/202611020252.aspx"
+      ]
+    }
+  ]
+}
