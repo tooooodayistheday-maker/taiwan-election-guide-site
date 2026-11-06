@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-04",
+  "checkedAt": "2026-11-06",
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
@@ -35,13 +35,71 @@
             "https://www.cna.com.tw/news/aipl/202611020237.aspx",
             "https://www.cna.com.tw/news/aipl/202611020237.aspx"
           ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-11-06重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611020237.aspx",
+            "https://www.cna.com.tw/news/aipl/202611020237.aspx"
+          ]
         }
       ],
       "question": "陣營能否公開各項措施的主管機關、年度預算、執行順序與可檢驗的服務指標？",
-      "checkedAt": "2026-11-04",
-      "dailyUpdateKind": "new",
+      "checkedAt": "2026-11-06",
+      "dailyUpdateKind": "review",
       "dailyEvidenceFingerprints": [
         "39375943dbd1824efc6025b04b10941906d92c1757c3dedbe5813f1ad3b0119c"
+      ]
+    },
+    {
+      "id": "hsinchu-indigenous-medical-library-policy-20261101",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "鄭朝方提原鄉巡迴醫療與山林閱讀，資源配置待說明",
+      "shortTitle": "竹縣原鄉醫療與閱讀主張",
+      "category": "每日選舉話題",
+      "county": "新竹縣",
+      "date": "2026-11-01",
+      "summary": "中央社11月1日報導鄭朝方競辦說法，針對五峰、尖石道路安全與醫療需求，提出巡迴醫療及山林閱讀設施方向。報導亦記錄其對其他鄉鎮交通、醫療與觀光需求的回應；這些仍是競選主張。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社11月1日報導鄭朝方競辦說法，針對五峰、尖石道路安全與醫療需求，提出巡迴醫療及山林閱讀設施方向。報導亦記錄其對其他鄉鎮交通、醫療與觀光需求的回應；這些仍是競選主張。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611010136.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "中央社9月21日的選戰整理已記錄鄭朝方依地方需求提出政策、希望將竹北治理經驗延伸至全縣。本次新增的報導具體列出五峰、尖石的醫療與閱讀方向，不能把先前總體訴求重新當作首次宣布。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202609215011.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：巡迴醫療須說明醫事人力、服務路線、頻率及轉診銜接；閱讀設施須釐清館舍、館藏、營運經費與在地參與。報導未列完整預算、時程及主管機關分工，不能將主張寫成服務已擴充或品質已改善。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611010136.aspx",
+            "https://www.cna.com.tw/news/aipl/202609215011.aspx"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-11-06重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611010136.aspx",
+            "https://www.cna.com.tw/news/aipl/202611010136.aspx"
+          ]
+        }
+      ],
+      "question": "原鄉醫療與閱讀方案將由哪些機關合作，如何安排人力、服務頻率、年度預算及公開驗收方式？",
+      "checkedAt": "2026-11-06",
+      "dailyUpdateKind": "review",
+      "dailyEvidenceFingerprints": [
+        "aeaff2e7c03c740f74843872c117c92a461ba30c253baaa1d70fccc482cd0217"
       ]
     },
     {
@@ -185,48 +243,6 @@
       "dailyUpdateKind": "new",
       "dailyEvidenceFingerprints": [
         "bbb54a290e072aadde0489ffe99678f78a0ebcdbccc95297c614d7952922bc85"
-      ]
-    },
-    {
-      "id": "hsinchu-indigenous-medical-library-policy-20261101",
-      "symbol": "◇",
-      "relatedNames": [],
-      "districts": [],
-      "title": "鄭朝方提原鄉巡迴醫療與山林閱讀，資源配置待說明",
-      "shortTitle": "竹縣原鄉醫療與閱讀主張",
-      "category": "每日選舉話題",
-      "county": "新竹縣",
-      "date": "2026-11-01",
-      "summary": "中央社11月1日報導鄭朝方競辦說法，針對五峰、尖石道路安全與醫療需求，提出巡迴醫療及山林閱讀設施方向。報導亦記錄其對其他鄉鎮交通、醫療與觀光需求的回應；這些仍是競選主張。",
-      "steps": [
-        {
-          "speaker": "本次進度與來源說法",
-          "text": "中央社11月1日報導鄭朝方競辦說法，針對五峰、尖石道路安全與醫療需求，提出巡迴醫療及山林閱讀設施方向。報導亦記錄其對其他鄉鎮交通、醫療與觀光需求的回應；這些仍是競選主張。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202611010136.aspx"
-          ]
-        },
-        {
-          "speaker": "背景脈絡",
-          "text": "中央社9月21日的選戰整理已記錄鄭朝方依地方需求提出政策、希望將竹北治理經驗延伸至全縣。本次新增的報導具體列出五峰、尖石的醫療與閱讀方向，不能把先前總體訴求重新當作首次宣布。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202609215011.aspx"
-          ]
-        },
-        {
-          "speaker": "判讀重點（本站整理）",
-          "text": "本站判讀重點：巡迴醫療須說明醫事人力、服務路線、頻率及轉診銜接；閱讀設施須釐清館舍、館藏、營運經費與在地參與。報導未列完整預算、時程及主管機關分工，不能將主張寫成服務已擴充或品質已改善。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202611010136.aspx",
-            "https://www.cna.com.tw/news/aipl/202609215011.aspx"
-          ]
-        }
-      ],
-      "question": "原鄉醫療與閱讀方案將由哪些機關合作，如何安排人力、服務頻率、年度預算及公開驗收方式？",
-      "checkedAt": "2026-11-03",
-      "dailyUpdateKind": "new",
-      "dailyEvidenceFingerprints": [
-        "aeaff2e7c03c740f74843872c117c92a461ba30c253baaa1d70fccc482cd0217"
       ]
     },
     {

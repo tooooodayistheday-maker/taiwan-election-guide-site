@@ -1,0 +1,66 @@
+{
+  "date": "2026-11-06",
+  "checked_at": "2026-11-06T10:03:17.631016+08:00",
+  "county_scope": [
+    "嘉義縣",
+    "屏東縣"
+  ],
+  "accepted_facts": 1,
+  "updated_people": 1,
+  "summary": "本日完成局部來源查核；新增通過逐條原文核對的資料 1 項。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/cycec",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://web.cec.gov.tw/ptec",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://web.cec.gov.tw/central",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46843",
+      "title": "本次查核來源頁"
+    }
+  ],
+  "limitations": [
+    "本次為局部來源查核，不代表所有縣市或候選人已完整核實。",
+    "本次沒有自動改動司法、爭議、資格及名冊；新線索只保留在私人待核紀錄。"
+  ],
+  "review_leads_count": 3,
+  "rejected_count": 0,
+  "changes": [
+    {
+      "name": "莊瓊如",
+      "county": "屏東縣",
+      "field": "experience",
+      "text": "莊瓊如在紙風車工作超過20年以上",
+      "url": "https://www.cna.com.tw/news/aloc/202609010344.aspx"
+    }
+  ],
+  "topic_updates": [
+    {
+      "id": "changhua-town-upgrade-policy-20261102",
+      "title": "魏平政提出城鎮升級方案，跨生活圈交通與文化如何落實？",
+      "kind": "review",
+      "summary": "來源複核：本次無新增可確認進度。",
+      "sources": [
+        "https://www.cna.com.tw/news/aipl/202611020237.aspx",
+        "https://www.cna.com.tw/news/aipl/202611020237.aspx"
+      ]
+    },
+    {
+      "id": "hsinchu-indigenous-medical-library-policy-20261101",
+      "title": "鄭朝方提原鄉巡迴醫療與山林閱讀，資源配置待說明",
+      "kind": "review",
+      "summary": "來源複核：本次無新增可確認進度。",
+      "sources": [
+        "https://www.cna.com.tw/news/aipl/202611010136.aspx",
+        "https://www.cna.com.tw/news/aipl/202611010136.aspx"
+      ]
+    }
+  ]
+}
