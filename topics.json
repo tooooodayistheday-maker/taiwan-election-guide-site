@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-06",
+  "checkedAt": "2026-11-07",
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
@@ -38,15 +38,15 @@
         },
         {
           "speaker": "每日來源複核",
-          "text": "2026-11-06重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "text": "2026-11-07重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
           "sourceUrls": [
             "https://www.cna.com.tw/news/aipl/202611020237.aspx",
-            "https://www.cna.com.tw/news/aipl/202611020237.aspx"
+            "https://www.cna.com.tw/news/aloc/202609280143.aspx"
           ]
         }
       ],
       "question": "陣營能否公開各項措施的主管機關、年度預算、執行順序與可檢驗的服務指標？",
-      "checkedAt": "2026-11-06",
+      "checkedAt": "2026-11-07",
       "dailyUpdateKind": "review",
       "dailyEvidenceFingerprints": [
         "39375943dbd1824efc6025b04b10941906d92c1757c3dedbe5813f1ad3b0119c"
@@ -88,15 +88,15 @@
         },
         {
           "speaker": "每日來源複核",
-          "text": "2026-11-06重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "text": "2026-11-07重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
           "sourceUrls": [
             "https://www.cna.com.tw/news/aipl/202611010136.aspx",
-            "https://www.cna.com.tw/news/aipl/202611010136.aspx"
+            "https://www.cna.com.tw/news/aipl/202609215011.aspx"
           ]
         }
       ],
       "question": "原鄉醫療與閱讀方案將由哪些機關合作，如何安排人力、服務頻率、年度預算及公開驗收方式？",
-      "checkedAt": "2026-11-06",
+      "checkedAt": "2026-11-07",
       "dailyUpdateKind": "review",
       "dailyEvidenceFingerprints": [
         "aeaff2e7c03c740f74843872c117c92a461ba30c253baaa1d70fccc482cd0217"

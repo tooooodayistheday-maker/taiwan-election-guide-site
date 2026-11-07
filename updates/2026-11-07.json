@@ -1,0 +1,54 @@
+{
+  "date": "2026-11-07",
+  "checked_at": "2026-11-07T10:02:55.450782+08:00",
+  "county_scope": [
+    "宜蘭縣",
+    "花蓮縣"
+  ],
+  "accepted_facts": 0,
+  "updated_people": 0,
+  "summary": "本日完成局部來源查核；新增通過逐條原文核對的資料 0 項。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/ilec",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://www.cec.gov.tw/hlec",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://www.hl.gov.tw/News_Content.aspx?n=32725&s=192952",
+      "title": "本次查核來源頁"
+    }
+  ],
+  "limitations": [
+    "本次為局部來源查核，不代表所有縣市或候選人已完整核實。",
+    "本次沒有自動改動司法、爭議、資格及名冊；新線索只保留在私人待核紀錄。"
+  ],
+  "review_leads_count": 0,
+  "rejected_count": 2,
+  "changes": [],
+  "topic_updates": [
+    {
+      "id": "changhua-town-upgrade-policy-20261102",
+      "title": "魏平政提出城鎮升級方案，跨生活圈交通與文化如何落實？",
+      "kind": "review",
+      "summary": "來源複核：本次無新增可確認進度。",
+      "sources": [
+        "https://www.cna.com.tw/news/aipl/202611020237.aspx",
+        "https://www.cna.com.tw/news/aloc/202609280143.aspx"
+      ]
+    },
+    {
+      "id": "hsinchu-indigenous-medical-library-policy-20261101",
+      "title": "鄭朝方提原鄉巡迴醫療與山林閱讀，資源配置待說明",
+      "kind": "review",
+      "summary": "來源複核：本次無新增可確認進度。",
+      "sources": [
+        "https://www.cna.com.tw/news/aipl/202611010136.aspx",
+        "https://www.cna.com.tw/news/aipl/202609215011.aspx"
+      ]
+    }
+  ]
+}
