@@ -1,5 +1,67 @@
 [
   {
+    "date": "2026-11-08",
+    "checked_at": "2026-11-08T10:03:16.251989+08:00",
+    "county_scope": [
+      "臺東縣",
+      "澎湖縣"
+    ],
+    "accepted_facts": 0,
+    "updated_people": 0,
+    "summary": "本日完成局部來源查核；新增通過逐條原文核對的資料 0 項。",
+    "official_checks": [
+      {
+        "url": "https://web.cec.gov.tw/ttec",
+        "title": "本次查核來源頁"
+      },
+      {
+        "url": "https://web.cec.gov.tw/phec",
+        "title": "本次查核來源頁"
+      },
+      {
+        "url": "https://web.cec.gov.tw/central",
+        "title": "本次查核來源頁"
+      },
+      {
+        "url": "https://www.phcouncil.gov.tw/mop2.php?no=M24080019",
+        "title": "本次查核來源頁"
+      },
+      {
+        "url": "https://www.phcouncil.gov.tw/mop2.php?no=M24080018",
+        "title": "本次查核來源頁"
+      }
+    ],
+    "limitations": [
+      "本次為局部來源查核，不代表所有縣市或候選人已完整核實。",
+      "本次沒有自動改動司法、爭議、資格及名冊；新線索只保留在私人待核紀錄。"
+    ],
+    "review_leads_count": 2,
+    "rejected_count": 1,
+    "changes": [],
+    "topic_updates": [
+      {
+        "id": "taitung-original-music-base-policy-20261104",
+        "title": "陳瑩提出音樂原創基地，設施與營運如何落實？",
+        "kind": "new",
+        "summary": "中央社11月5日報導陳瑩於前一日提出音樂原創基地，主張提供錄音製作設施、人才培訓與展演交流。這是競選政策提案，不能視為基地已核定或啟用。",
+        "sources": [
+          "https://www.cna.com.tw/news/aipl/202611050102.aspx",
+          "https://www.cna.com.tw/news/aipl/202610300063.aspx"
+        ]
+      },
+      {
+        "id": "penghu-songshan-access",
+        "title": "周倪安提出台澎多功能大橋，交通構想如何評估？",
+        "kind": "progress",
+        "summary": "中央社11月4日報導周倪安反對缺乏替代配套的松山機場遷移，並提出連接澎湖湖西與嘉義布袋的大橋構想，研究交通及能源等用途。新增進展是公開政策主張，並非工程核定。",
+        "sources": [
+          "https://www.cna.com.tw/news/aloc/202611040328.aspx",
+          "https://www.cna.com.tw/news/aloc/202610160348.aspx"
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-11-07",
     "checked_at": "2026-11-07T10:02:55.450782+08:00",
     "county_scope": [

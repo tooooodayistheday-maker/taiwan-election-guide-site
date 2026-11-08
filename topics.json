@@ -1,7 +1,126 @@
 {
-  "checkedAt": "2026-11-07",
+  "checkedAt": "2026-11-08",
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
+    {
+      "id": "taitung-original-music-base-policy-20261104",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "陳瑩提出音樂原創基地，設施與營運如何落實？",
+      "shortTitle": "臺東音樂原創基地主張",
+      "category": "每日選舉話題",
+      "county": "臺東縣",
+      "date": "2026-11-05",
+      "summary": "中央社11月5日報導陳瑩於前一日提出音樂原創基地，主張提供錄音製作設施、人才培訓與展演交流。這是競選政策提案，不能視為基地已核定或啟用。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社11月5日報導陳瑩於前一日提出音樂原創基地，主張提供錄音製作設施、人才培訓與展演交流。這是競選政策提案，不能視為基地已核定或啟用。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611050102.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "10月30日報導已記錄陳瑩提出文化與設計治理方向。11月的新提案進一步聚焦音樂設施與人才支持，不將先前倡議重新當作首次提出。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610300063.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：應追問場址、建置與營運預算、管理單位、使用資格及收費方式。報導提及行政院支持，但仍須核對正式文件及支持範圍，不能等同建設核定。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611050102.aspx",
+            "https://www.cna.com.tw/news/aipl/202610300063.aspx"
+          ]
+        }
+      ],
+      "question": "基地由誰營運、如何分配使用時段，並以哪些指標檢查人才培育及展演機會？",
+      "checkedAt": "2026-11-08",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "190980eb06a74c02ef1c4c4222fe5bf0cc089df5c3b4ce2f7e402346d6f5b750"
+      ]
+    },
+    {
+      "id": "penghu-songshan-access",
+      "title": "周倪安提出台澎多功能大橋，交通構想如何評估？",
+      "shortTitle": "松機討論新增台澎橋構想",
+      "category": "每日選舉話題",
+      "symbol": "✈",
+      "county": "澎湖縣",
+      "districts": [],
+      "relatedNames": [
+        "吳淑瑾",
+        "陳振中",
+        "蔣萬安"
+      ],
+      "date": "2026-11-04",
+      "summary": "中央社11月4日報導周倪安反對缺乏替代配套的松山機場遷移，並提出連接澎湖湖西與嘉義布袋的大橋構想，研究交通及能源等用途。新增進展是公開政策主張，並非工程核定。",
+      "steps": [
+        {
+          "speaker": "事件背景",
+          "text": "10/16中央社報導，蔣萬安提出遷移松山機場、打造AI園區的構想，成為澎湖縣長選戰討論議題。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610160348.aspx"
+          ]
+        },
+        {
+          "speaker": "當事人主張",
+          "text": "吳淑瑾強調松機關係澎湖居民轉診、回診與日常往返；陳振中先前已表明反對遷移，同時尊重台北討論城市發展。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610160348.aspx"
+          ]
+        },
+        {
+          "speaker": "待核對事項",
+          "text": "機場遷移仍是討論中的主張。後續應分別核對急重症後送、定期就醫與一般旅運的替代方案，不能用一種需求概括全部。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610160348.aspx"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-10-28重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610160348.aspx",
+            "https://www.cna.com.tw/news/ahel/202610100051.aspx"
+          ]
+        },
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社11月4日報導周倪安反對缺乏替代配套的松山機場遷移，並提出連接澎湖湖西與嘉義布袋的大橋構想，研究交通及能源等用途。新增進展是公開政策主張，並非工程核定。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611040328.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "10月16日報導已記錄陳振中反對遷移松機，以及吳淑瑾對離島就醫與日常交通的關切。本次沿用既有話題，補入周倪安11月4日提出的跨海連結構想。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610160348.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：機場服務與跨海大橋涉及不同交通功能、主管機關及時程。應分別核對工程可行性、環境影響、財源與維護成本；長期構想也須說明如何銜接眼前就醫及日常往返需求。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611040328.aspx",
+            "https://www.cna.com.tw/news/aloc/202610160348.aspx"
+          ]
+        }
+      ],
+      "question": "大橋構想有哪些正式研究與權責分工？評估期間如何保障既有離島交通服務？",
+      "checkedAt": "2026-11-08",
+      "dailyUpdateKind": "progress",
+      "dailyEvidenceFingerprints": [
+        "1e702142235dce021044a49986f6986bc8cf419d1f39857afd0002c1d50f686a",
+        "cf3d3bd55360fa16f56dbfac6a47eb13a0a27ccc1594d00e356daa707e14a483"
+      ],
+      "eventDate": "2026-10-16"
+    },
     {
       "id": "changhua-town-upgrade-policy-20261102",
       "symbol": "◇",
@@ -597,59 +716,6 @@
         "3b500f04ac4e0b4718aeb188b9e89d7251614ac4db46402ef06b9edeb24f8e58",
         "940faf8037d81be215758585d2f84defd24ea06ec21e35d94e8dad2ce69c0888",
         "8e2516fc34de8989f6373753b3cea5258d48dcf53df346e22ecd80218a156b8f"
-      ]
-    },
-    {
-      "id": "penghu-songshan-access",
-      "title": "松山機場遷移討論，離島就醫與日常交通怎麼保障？",
-      "shortTitle": "松機遷移與離島交通",
-      "category": "公共治理",
-      "symbol": "✈",
-      "county": "澎湖縣",
-      "districts": [],
-      "relatedNames": [
-        "吳淑瑾",
-        "陳振中",
-        "蔣萬安"
-      ],
-      "date": "2026-10-16",
-      "summary": "台北城市發展構想延伸到澎湖選戰；比較機場遷移主張、保留立場與離島居民的實際使用需求。",
-      "steps": [
-        {
-          "speaker": "事件背景",
-          "text": "10/16中央社報導，蔣萬安提出遷移松山機場、打造AI園區的構想，成為澎湖縣長選戰討論議題。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610160348.aspx"
-          ]
-        },
-        {
-          "speaker": "當事人主張",
-          "text": "吳淑瑾強調松機關係澎湖居民轉診、回診與日常往返；陳振中先前已表明反對遷移，同時尊重台北討論城市發展。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610160348.aspx"
-          ]
-        },
-        {
-          "speaker": "待核對事項",
-          "text": "機場遷移仍是討論中的主張。後續應分別核對急重症後送、定期就醫與一般旅運的替代方案，不能用一種需求概括全部。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610160348.aspx"
-          ]
-        },
-        {
-          "speaker": "每日來源複核",
-          "text": "2026-10-28重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610160348.aspx",
-            "https://www.cna.com.tw/news/ahel/202610100051.aspx"
-          ]
-        }
-      ],
-      "question": "你會要求候選人提出哪些時間、費用與就醫可近性的比較資料？",
-      "checkedAt": "2026-10-28",
-      "dailyUpdateKind": "review",
-      "dailyEvidenceFingerprints": [
-        "1e702142235dce021044a49986f6986bc8cf419d1f39857afd0002c1d50f686a"
       ]
     },
     {
