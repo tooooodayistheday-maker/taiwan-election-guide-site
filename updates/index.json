@@ -1,5 +1,63 @@
 [
   {
+    "date": "2026-11-10",
+    "checked_at": "2026-11-10T10:04:25.815926+08:00",
+    "county_scope": [
+      "臺北市",
+      "新北市"
+    ],
+    "accepted_facts": 0,
+    "updated_people": 0,
+    "summary": "本日完成局部來源查核；新增通過逐條原文核對的資料 0 項。",
+    "official_checks": [
+      {
+        "url": "https://web.cec.gov.tw/central",
+        "title": "本次查核來源頁"
+      },
+      {
+        "url": "https://web.cec.gov.tw/mect",
+        "title": "本次查核來源頁"
+      },
+      {
+        "url": "https://web.cec.gov.tw/tpcec",
+        "title": "本次查核來源頁"
+      },
+      {
+        "url": "https://web.cec.gov.tw/tpcec/article/65575",
+        "title": "本次查核來源頁"
+      }
+    ],
+    "limitations": [
+      "本次為局部來源查核，不代表所有縣市或候選人已完整核實。",
+      "本次沒有自動改動司法、爭議、資格及名冊；新線索只保留在私人待核紀錄。"
+    ],
+    "review_leads_count": 0,
+    "rejected_count": 3,
+    "changes": [],
+    "topic_updates": [
+      {
+        "id": "new-taipei-mayoral-tv-forum-20261105",
+        "title": "新北11月13日公辦政見會，辯論流程與收看方式如何安排？",
+        "kind": "new",
+        "summary": "新北市選委會官方文章確認市長公辦電視辯論式政見發表會於11月13日起跑，並提供日程一覽表附件入口。",
+        "sources": [
+          "https://web.cec.gov.tw/tpcec/article/65575",
+          "https://www.cna.com.tw/news/aipl/202611050277.aspx"
+        ]
+      },
+      {
+        "id": "taipei-research-institute-policy-20261106",
+        "title": "沈伯洋談臺北研究院構想，計畫與議會監督如何銜接？",
+        "kind": "new",
+        "summary": "中央社11月6日報導，沈伯洋談及臺北研究院構想，表示主要功能是擬定計畫，仍須經過議會程序。",
+        "sources": [
+          "https://www.cna.com.tw/news/aipl/202611060354.aspx",
+          "https://www.cna.com.tw/news/aipl/202611060354.aspx"
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-11-08",
     "checked_at": "2026-11-08T10:03:16.251989+08:00",
     "county_scope": [
