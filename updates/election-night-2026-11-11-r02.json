@@ -1,0 +1,150 @@
+{
+  "entry_id": "election-night-2026-11-11-r02",
+  "kind": "manual",
+  "session_label": "election-night-2026-11-11・第2輪",
+  "date": "2026-11-11",
+  "checked_at": "2026-11-11T23:35:02.909019+08:00",
+  "county_scope": [
+    "金門縣",
+    "連江縣"
+  ],
+  "accepted_facts": 8,
+  "updated_people": 4,
+  "summary": "加開時段第2輪：新增8項通過來源核對的資料；另查核兩則選舉話題。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/kmec",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/kmec/sitemap",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/lcec",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cec.gov.tw/central/",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.nankan.gov.tw/Chhtml/content/2171",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.beigan.gov.tw/Chhtml/content/2196",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.kinmen.gov.tw/News_Content2.aspx?Create=1&n=98E3CA7358C89100&s=1894A6B9AE3EB9C8&sms=BF7D6D478B935644",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.matsu-news.gov.tw/news/article/244154",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.moi.gov.tw/News_Content.aspx?n=2&s=342902",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.matsu-news.gov.tw/news/article/133373",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.matsu-news.gov.tw/news/article/11383",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202609020279.aspx",
+      "title": "本輪原始資料來源"
+    }
+  ],
+  "limitations": [
+    "局部來源查核，不代表全體候選人背景已完整核實。",
+    "司法、爭議與資格新線索僅保留待查，不自動修改標籤。"
+  ],
+  "review_leads_count": 2,
+  "rejected_count": 1,
+  "changes": [
+    {
+      "name": "翁紹輝",
+      "county": "金門縣",
+      "field": "education",
+      "text": "畢業於國立成功大學都市計畫碩士",
+      "url": "https://www.kinmen.gov.tw/News_Content2.aspx?Create=1&n=98E3CA7358C89100&s=1894A6B9AE3EB9C8&sms=BF7D6D478B935644"
+    },
+    {
+      "name": "翁紹輝",
+      "county": "金門縣",
+      "field": "experience",
+      "text": "曾任職於國民黨中央青年部主任",
+      "url": "https://www.kinmen.gov.tw/News_Content2.aspx?Create=1&n=98E3CA7358C89100&s=1894A6B9AE3EB9C8&sms=BF7D6D478B935644"
+    },
+    {
+      "name": "翁紹輝",
+      "county": "金門縣",
+      "field": "experience",
+      "text": "首任青年發展中心執行長",
+      "url": "https://www.kinmen.gov.tw/News_Content2.aspx?Create=1&n=98E3CA7358C89100&s=1894A6B9AE3EB9C8&sms=BF7D6D478B935644"
+    },
+    {
+      "name": "林德建",
+      "county": "連江縣",
+      "field": "education",
+      "text": "東引國中第十四屆畢業",
+      "url": "https://www.matsu-news.gov.tw/news/article/133373"
+    },
+    {
+      "name": "林德建",
+      "county": "連江縣",
+      "field": "experience",
+      "text": "接任連江航業董事長",
+      "url": "https://www.matsu-news.gov.tw/news/article/11383"
+    },
+    {
+      "name": "林德建",
+      "county": "連江縣",
+      "field": "experience",
+      "text": "曾任東引鄉民代表會主席、東湧社協理事長、議會機要秘書",
+      "url": "https://www.matsu-news.gov.tw/news/article/11383"
+    },
+    {
+      "name": "林宇超",
+      "county": "連江縣",
+      "field": "experience",
+      "text": "鄉民代表",
+      "url": "https://www.matsu-news.gov.tw/news/article/244154"
+    },
+    {
+      "name": "馮印樂",
+      "county": "連江縣",
+      "field": "experience",
+      "text": "曾任鄉長",
+      "url": "https://www.matsu-news.gov.tw/news/article/244154"
+    }
+  ],
+  "topic_updates": [
+    {
+      "id": "national-voting-eligibility-online-query-20261110",
+      "title": "投票資格線上查詢開放至11月12日",
+      "kind": "new",
+      "summary": "內政部11月10日公告，11月10日至12日提供地方選舉及公投投票資格線上查詢。民眾也可至戶籍地公所閱覽名冊，發現錯誤時申請更正。",
+      "sources": [
+        "https://www.moi.gov.tw/News_Content.aspx?n=2&s=342902",
+        "https://www.cna.com.tw/news/aipl/202611100317.aspx"
+      ]
+    },
+    {
+      "id": "election-ai-information-20261020",
+      "title": "中選會推出深偽防制宣導，提醒查證選務影音",
+      "kind": "progress",
+      "summary": "中央社11月9日報導，中選會推出防制深偽影音宣導，由主委入鏡並邀宣導大使，提醒民眾查證選務資訊及留意投票注意事項。",
+      "sources": [
+        "https://www.cna.com.tw/news/aipl/202611090059.aspx",
+        "https://www.cna.com.tw/news/aipl/202610200060.aspx"
+      ]
+    }
+  ]
+}

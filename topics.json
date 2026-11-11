@@ -3,6 +3,119 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "national-voting-eligibility-online-query-20261110",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "投票資格線上查詢開放至11月12日",
+      "shortTitle": "投票資格查詢與更正",
+      "category": "每日選舉話題",
+      "county": null,
+      "date": "2026-11-10",
+      "summary": "內政部11月10日公告，11月10日至12日提供地方選舉及公投投票資格線上查詢。民眾也可至戶籍地公所閱覽名冊，發現錯誤時申請更正。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "內政部11月10日公告，11月10日至12日提供地方選舉及公投投票資格線上查詢。民眾也可至戶籍地公所閱覽名冊，發現錯誤時申請更正。",
+          "sourceUrls": [
+            "https://www.moi.gov.tw/News_Content.aspx?n=2&s=342902"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "中央社同日報導，另有11月23日至28日的投票所地點線上查詢服務。投票資格查詢與投票地點查詢各有開放期間。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611100317.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點為查詢時程與受理機關。資格疑義及名冊錯誤應交由戶籍地公所核對，本站戶籍導引所呈現的地理資訊不足以判定個人的投票資格。",
+          "sourceUrls": [
+            "https://www.moi.gov.tw/News_Content.aspx?n=2&s=342902",
+            "https://www.cna.com.tw/news/aipl/202611100317.aspx"
+          ]
+        }
+      ],
+      "question": "你是否已在開放期間核對投票資格，並確認名冊資料有誤時的更正窗口？",
+      "checkedAt": "2026-11-11",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "ddc7e80e07d46d5cef6a0af924a1e89cf6ec31953ed738dbd44ee82b8424937e"
+      ]
+    },
+    {
+      "id": "election-ai-information-20261020",
+      "title": "中選會推出深偽防制宣導，提醒查證選務影音",
+      "shortTitle": "AI深偽選務查證",
+      "symbol": "✦",
+      "category": "每日選舉話題",
+      "county": null,
+      "districts": [],
+      "relatedNames": [],
+      "date": "2026-11-09",
+      "checkedAt": "2026-11-11",
+      "dailyUpdateKind": "progress",
+      "summary": "中央社11月9日報導，中選會推出防制深偽影音宣導，由主委入鏡並邀宣導大使，提醒民眾查證選務資訊及留意投票注意事項。",
+      "steps": [
+        {
+          "speaker": "新聞記錄（來源性質）",
+          "text": "中央社10月20日引述未具名國安人士的簡報說法，指AI被用於假帳號與分眾訊息投放。這是新聞轉述的情報評估，本站未獨立驗證其全部原始資料。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
+          ]
+        },
+        {
+          "speaker": "報導列出的風險",
+          "text": "報導轉述的操作包括依族群設計訊息、滲透同溫層、打擊政治參與意願，以及用民生爭議挑動情緒。這些是風險描述，不能自動歸因於某一候選人或支持者。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
+          ]
+        },
+        {
+          "speaker": "尚待核實",
+          "text": "本次未取得帳號逐筆清單、平台調查結論或可重現的完整資料；因此不在候選人頁加入與此相關的司法或犯罪標籤。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
+          ]
+        },
+        {
+          "speaker": "本站判讀",
+          "text": "看到大量相似貼文時，先追最早出處、完整影音及可核對文件，再確認日期與上下文。單看帳號立場、頭像或境外註冊線索，不足以證明個別帳號是假帳號或受指揮。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
+          ]
+        },
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社11月9日報導，中選會推出防制深偽影音宣導，由主委入鏡並邀宣導大使，提醒民眾查證選務資訊及留意投票注意事項。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611090059.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "10月20日既有報導轉述國安人士對AI假帳號及分眾訊息操作的評估。此次可確認的新內容為中選會宣導措施，個別帳號或影音的真偽仍需證據。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點為宣導措施與個案查證的銜接。閱讀疑似選務影音時，應比對原始發布機關、完整內容及日期，現有來源尚不足以認定特定候選人或帳號涉及操弄。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611090059.aspx",
+            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
+          ]
+        }
+      ],
+      "question": "收到聲稱變更投票規則的影片時，你會如何找到選委會原始公告核對？",
+      "eventDate": "2026-10-20",
+      "dailyEvidenceFingerprints": [
+        "15119b7f35c3c95c17420aadc9ed1508d9429923f2ba0cb9e5091fb77a32f382"
+      ]
+    },
+    {
       "id": "keelung-debate-invitation-estimate-20261021",
       "county": "基隆市",
       "districts": [],
@@ -2620,51 +2733,6 @@
         }
       ],
       "question": "你能在看到百分比前，先找到誰委託、怎麼抽樣、何時訪問及哪些資料尚未公開嗎？"
-    },
-    {
-      "id": "election-ai-information-20261020",
-      "title": "AI介選警訊：如何分辨情報評估、平台證據與個人立場？",
-      "shortTitle": "AI介選與資訊識讀",
-      "symbol": "✦",
-      "category": "全國選舉與社群",
-      "county": null,
-      "districts": [],
-      "relatedNames": [],
-      "date": "2026-10-20",
-      "checkedAt": "2026-10-20",
-      "dailyUpdateKind": "new",
-      "summary": "中央社引述國安人士，提醒AI假帳號與分眾訊息風險；閱讀時仍須核對來源與證據，不能憑立場替個別帳號定性。",
-      "steps": [
-        {
-          "speaker": "新聞記錄（來源性質）",
-          "text": "中央社10月20日引述未具名國安人士的簡報說法，指AI被用於假帳號與分眾訊息投放。這是新聞轉述的情報評估，本站未獨立驗證其全部原始資料。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
-          ]
-        },
-        {
-          "speaker": "報導列出的風險",
-          "text": "報導轉述的操作包括依族群設計訊息、滲透同溫層、打擊政治參與意願，以及用民生爭議挑動情緒。這些是風險描述，不能自動歸因於某一候選人或支持者。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
-          ]
-        },
-        {
-          "speaker": "尚待核實",
-          "text": "本次未取得帳號逐筆清單、平台調查結論或可重現的完整資料；因此不在候選人頁加入與此相關的司法或犯罪標籤。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
-          ]
-        },
-        {
-          "speaker": "本站判讀",
-          "text": "看到大量相似貼文時，先追最早出處、完整影音及可核對文件，再確認日期與上下文。單看帳號立場、頭像或境外註冊線索，不足以證明個別帳號是假帳號或受指揮。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
-          ]
-        }
-      ],
-      "question": "你看到的內容，是有文件支持的事實、可追溯的評估，還是尚無證據的推測？"
     },
     {
       "id": "keelung-station-advertising-20261019",
