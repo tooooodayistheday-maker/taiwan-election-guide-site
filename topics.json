@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-11",
+  "checkedAt": "2026-11-12",
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
@@ -35,13 +35,72 @@
             "https://www.moi.gov.tw/News_Content.aspx?n=2&s=342902",
             "https://www.cna.com.tw/news/aipl/202611100317.aspx"
           ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-11-12重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://www.moi.gov.tw/News_Content.aspx?n=2&s=342902",
+            "https://www.cna.com.tw/news/aipl/202611100317.aspx"
+          ]
         }
       ],
       "question": "你是否已在開放期間核對投票資格，並確認名冊資料有誤時的更正窗口？",
-      "checkedAt": "2026-11-11",
-      "dailyUpdateKind": "new",
+      "checkedAt": "2026-11-12",
+      "dailyUpdateKind": "review",
       "dailyEvidenceFingerprints": [
-        "ddc7e80e07d46d5cef6a0af924a1e89cf6ec31953ed738dbd44ee82b8424937e"
+        "ddc7e80e07d46d5cef6a0af924a1e89cf6ec31953ed738dbd44ee82b8424937e",
+        "9edfda4eda6fa3bfa8502149a84892fec0644570e0de3f7f16be09657d04abed"
+      ]
+    },
+    {
+      "id": "new-taipei-mayoral-tv-forum-20261105",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "新北11月13日公辦政見會，辯論流程與收看方式如何安排？",
+      "shortTitle": "新北公辦政見會安排",
+      "category": "每日選舉話題",
+      "county": "新北市",
+      "date": "2026-11-05",
+      "summary": "新北市選委會官方文章確認市長公辦電視辯論式政見發表會於11月13日起跑，並提供日程一覽表附件入口。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "新北市選委會官方文章確認市長公辦電視辯論式政見發表會於11月13日起跑，並提供日程一覽表附件入口。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/tpcec/article/65575"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "中央社11月5日報導，活動採直播辯論形式，安排申論、發問人提問與結論，並說明有線電視頻道及網路收看管道。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611050277.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：這是預定活動安排，尚不能描述為已完成辯論。官方文章的附件仍待核讀；應持續確認流程、收看入口及臨時變更，並將現場發言與政策可行性分別查核。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/tpcec/article/65575",
+            "https://www.cna.com.tw/news/aipl/202611050277.aspx"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-11-12重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/tpcec/article/65575",
+            "https://www.cna.com.tw/news/aipl/202611050277.aspx"
+          ]
+        }
+      ],
+      "question": "官方是否提供完整流程、穩定直播入口及事後影音，讓選民能逐項比較承諾？",
+      "checkedAt": "2026-11-12",
+      "dailyUpdateKind": "review",
+      "dailyEvidenceFingerprints": [
+        "40833167d4e7edc0a58061b9fcd42ad4023dbed928c393be5ddf96b6becff917"
       ]
     },
     {
@@ -222,48 +281,6 @@
       "dailyUpdateKind": "new",
       "dailyEvidenceFingerprints": [
         "556f4e12bfe6aa0fbbf2cec59a4ddf8e54229ddf1ccea4ea5a7eb374886290dc"
-      ]
-    },
-    {
-      "id": "new-taipei-mayoral-tv-forum-20261105",
-      "symbol": "◇",
-      "relatedNames": [],
-      "districts": [],
-      "title": "新北11月13日公辦政見會，辯論流程與收看方式如何安排？",
-      "shortTitle": "新北公辦政見會安排",
-      "category": "每日選舉話題",
-      "county": "新北市",
-      "date": "2026-11-05",
-      "summary": "新北市選委會官方文章確認市長公辦電視辯論式政見發表會於11月13日起跑，並提供日程一覽表附件入口。",
-      "steps": [
-        {
-          "speaker": "本次進度與來源說法",
-          "text": "新北市選委會官方文章確認市長公辦電視辯論式政見發表會於11月13日起跑，並提供日程一覽表附件入口。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/tpcec/article/65575"
-          ]
-        },
-        {
-          "speaker": "背景脈絡",
-          "text": "中央社11月5日報導，活動採直播辯論形式，安排申論、發問人提問與結論，並說明有線電視頻道及網路收看管道。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202611050277.aspx"
-          ]
-        },
-        {
-          "speaker": "判讀重點（本站整理）",
-          "text": "本站判讀重點：這是預定活動安排，尚不能描述為已完成辯論。官方文章的附件仍待核讀；應持續確認流程、收看入口及臨時變更，並將現場發言與政策可行性分別查核。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/tpcec/article/65575",
-            "https://www.cna.com.tw/news/aipl/202611050277.aspx"
-          ]
-        }
-      ],
-      "question": "官方是否提供完整流程、穩定直播入口及事後影音，讓選民能逐項比較承諾？",
-      "checkedAt": "2026-11-10",
-      "dailyUpdateKind": "new",
-      "dailyEvidenceFingerprints": [
-        "40833167d4e7edc0a58061b9fcd42ad4023dbed928c393be5ddf96b6becff917"
       ]
     },
     {

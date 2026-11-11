@@ -1,5 +1,98 @@
 [
   {
+    "entry_id": "election-night-2026-11-11-r03",
+    "kind": "manual",
+    "session_label": "election-night-2026-11-11・第3輪",
+    "date": "2026-11-12",
+    "checked_at": "2026-11-12T00:05:24.092480+08:00",
+    "county_scope": [
+      "臺北市",
+      "新北市"
+    ],
+    "accepted_facts": 1,
+    "updated_people": 1,
+    "summary": "加開時段第3輪：新增1項通過來源核對的資料；另查核兩則選舉話題。",
+    "official_checks": [
+      {
+        "url": "https://web.cec.gov.tw/central",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/mect",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/tpcec",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/tpcec/article/65575",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/central/article/65213",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.moi.gov.tw/News_Content.aspx?n=2&s=342902",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aipl/202207290055.aspx",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aloc/202611100323.aspx",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aloc/202611090103.aspx",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aipl/202611070171.aspx",
+        "title": "本輪原始資料來源"
+      }
+    ],
+    "limitations": [
+      "局部來源查核，不代表全體候選人背景已完整核實。",
+      "司法、爭議與資格新線索僅保留待查，不自動修改標籤。"
+    ],
+    "review_leads_count": 2,
+    "rejected_count": 4,
+    "changes": [
+      {
+        "name": "李明璇",
+        "county": "臺北市",
+        "field": "experience",
+        "text": "廣播節目主持人",
+        "url": "https://www.cna.com.tw/news/aipl/202207290055.aspx"
+      }
+    ],
+    "topic_updates": [
+      {
+        "id": "national-voting-eligibility-online-query-20261110",
+        "title": "投票資格線上查詢開放至11月12日",
+        "kind": "review",
+        "summary": "來源複核：本次無新增可確認進度。",
+        "sources": [
+          "https://www.moi.gov.tw/News_Content.aspx?n=2&s=342902",
+          "https://www.cna.com.tw/news/aipl/202611100317.aspx"
+        ]
+      },
+      {
+        "id": "new-taipei-mayoral-tv-forum-20261105",
+        "title": "新北11月13日公辦政見會，辯論流程與收看方式如何安排？",
+        "kind": "review",
+        "summary": "來源複核：本次無新增可確認進度。",
+        "sources": [
+          "https://web.cec.gov.tw/tpcec/article/65575",
+          "https://www.cna.com.tw/news/aipl/202611050277.aspx"
+        ]
+      }
+    ]
+  },
+  {
     "entry_id": "election-night-2026-11-11-r02",
     "kind": "manual",
     "session_label": "election-night-2026-11-11・第2輪",
