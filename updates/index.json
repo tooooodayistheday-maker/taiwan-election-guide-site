@@ -1,5 +1,82 @@
 [
   {
+    "entry_id": "election-night-2026-11-11-r01",
+    "kind": "manual",
+    "session_label": "election-night-2026-11-11・第1輪",
+    "date": "2026-11-12",
+    "checked_at": "2026-11-12T06:04:15.689768+08:00",
+    "county_scope": [
+      "臺東縣",
+      "澎湖縣"
+    ],
+    "accepted_facts": 1,
+    "updated_people": 1,
+    "summary": "加開時段第1輪：新增1項通過來源核對的資料；另查核兩則選舉話題。",
+    "official_checks": [
+      {
+        "url": "https://web.cec.gov.tw/ttec",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/phec",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/central",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aipl/202608100130.aspx",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aloc/202607180118.aspx",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aloc/202611100294.aspx",
+        "title": "本輪原始資料來源"
+      }
+    ],
+    "limitations": [
+      "局部來源查核，不代表全體候選人背景已完整核實。",
+      "司法、爭議與資格新線索僅保留待查，不自動修改標籤。"
+    ],
+    "review_leads_count": 0,
+    "rejected_count": 2,
+    "changes": [
+      {
+        "name": "顏家康",
+        "county": "澎湖縣",
+        "field": "experience",
+        "text": "民進黨澎湖縣黨部前主委",
+        "url": "https://www.cna.com.tw/news/aloc/202607180118.aspx"
+      }
+    ],
+    "topic_updates": [
+      {
+        "id": "penghu-farmland-revival-policy-20261110",
+        "title": "周倪安提農地代管復耕，土地權益與教育權責待釐清",
+        "kind": "new",
+        "summary": "中央社11月10日報導，周倪安提出以代管及委託經營促進澎湖廢耕農地復耕；這是縣長選舉的政策主張，尚非已實施制度。",
+        "sources": [
+          "https://www.cna.com.tw/news/aloc/202611100294.aspx",
+          "https://www.cna.com.tw/news/aloc/202611100294.aspx"
+        ]
+      },
+      {
+        "id": "taitung-original-music-base-policy-20261104",
+        "title": "陳瑩提出音樂原創基地，設施與營運如何落實？",
+        "kind": "review",
+        "summary": "來源複核：本次無新增可確認進度。",
+        "sources": [
+          "https://www.cna.com.tw/news/aipl/202611050102.aspx",
+          "https://www.cna.com.tw/news/aloc/202609120135.aspx"
+        ]
+      }
+    ]
+  },
+  {
     "entry_id": "election-night-2026-11-11-r04",
     "kind": "manual",
     "session_label": "election-night-2026-11-11・第4輪",

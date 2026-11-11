@@ -3,6 +3,98 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "penghu-farmland-revival-policy-20261110",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "周倪安提農地代管復耕，土地權益與教育權責待釐清",
+      "shortTitle": "澎湖農地復耕主張",
+      "category": "每日選舉話題",
+      "county": "澎湖縣",
+      "date": "2026-11-10",
+      "summary": "中央社11月10日報導，周倪安提出以代管及委託經營促進澎湖廢耕農地復耕；這是縣長選舉的政策主張，尚非已實施制度。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社11月10日報導，周倪安提出以代管及委託經營促進澎湖廢耕農地復耕；這是縣長選舉的政策主張，尚非已實施制度。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611100294.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "同篇報導另記錄她希望爭取澎湖科技大學成為臺灣大學分校並增設農業相關學院，結合人才培育與適地作物研究。報導未提供校方或教育主管機關的核定文件。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611100294.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：代管制度須說明法律依據、地主同意與退出方式、收益分配及經營風險；大學組織調整另涉及校方與教育主管機關權責，不能視為縣府可單獨決定。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611100294.aspx",
+            "https://www.cna.com.tw/news/aloc/202611100294.aspx"
+          ]
+        }
+      ],
+      "question": "農地如何認定可代管，地主與耕作者有哪些保障？教育構想取得哪些機關或校方的正式回應？",
+      "checkedAt": "2026-11-12",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "1607333a757b23935695b11394e7b2304529efe47b5893b1e6353d06762f11f1"
+      ]
+    },
+    {
+      "id": "taitung-original-music-base-policy-20261104",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "陳瑩提出音樂原創基地，設施與營運如何落實？",
+      "shortTitle": "臺東音樂原創基地主張",
+      "category": "每日選舉話題",
+      "county": "臺東縣",
+      "date": "2026-11-05",
+      "summary": "中央社11月5日報導陳瑩於前一日提出音樂原創基地，主張提供錄音製作設施、人才培訓與展演交流。這是競選政策提案，不能視為基地已核定或啟用。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社11月5日報導陳瑩於前一日提出音樂原創基地，主張提供錄音製作設施、人才培訓與展演交流。這是競選政策提案，不能視為基地已核定或啟用。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611050102.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "10月30日報導已記錄陳瑩提出文化與設計治理方向。11月的新提案進一步聚焦音樂設施與人才支持，不將先前倡議重新當作首次提出。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610300063.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：應追問場址、建置與營運預算、管理單位、使用資格及收費方式。報導提及行政院支持，但仍須核對正式文件及支持範圍，不能等同建設核定。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611050102.aspx",
+            "https://www.cna.com.tw/news/aipl/202610300063.aspx"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-11-12重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611050102.aspx",
+            "https://www.cna.com.tw/news/aloc/202609120135.aspx"
+          ]
+        }
+      ],
+      "question": "基地由誰營運、如何分配使用時段，並以哪些指標檢查人才培育及展演機會？",
+      "checkedAt": "2026-11-12",
+      "dailyUpdateKind": "review",
+      "dailyEvidenceFingerprints": [
+        "190980eb06a74c02ef1c4c4222fe5bf0cc089df5c3b4ce2f7e402346d6f5b750"
+      ]
+    },
+    {
       "id": "national-voting-eligibility-online-query-20261110",
       "symbol": "◇",
       "relatedNames": [],
@@ -332,48 +424,6 @@
       "dailyUpdateKind": "new",
       "dailyEvidenceFingerprints": [
         "660006d0e65d942d7d8cd8606022c9fc9015498f529fd7d610019503c5599cda"
-      ]
-    },
-    {
-      "id": "taitung-original-music-base-policy-20261104",
-      "symbol": "◇",
-      "relatedNames": [],
-      "districts": [],
-      "title": "陳瑩提出音樂原創基地，設施與營運如何落實？",
-      "shortTitle": "臺東音樂原創基地主張",
-      "category": "每日選舉話題",
-      "county": "臺東縣",
-      "date": "2026-11-05",
-      "summary": "中央社11月5日報導陳瑩於前一日提出音樂原創基地，主張提供錄音製作設施、人才培訓與展演交流。這是競選政策提案，不能視為基地已核定或啟用。",
-      "steps": [
-        {
-          "speaker": "本次進度與來源說法",
-          "text": "中央社11月5日報導陳瑩於前一日提出音樂原創基地，主張提供錄音製作設施、人才培訓與展演交流。這是競選政策提案，不能視為基地已核定或啟用。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202611050102.aspx"
-          ]
-        },
-        {
-          "speaker": "背景脈絡",
-          "text": "10月30日報導已記錄陳瑩提出文化與設計治理方向。11月的新提案進一步聚焦音樂設施與人才支持，不將先前倡議重新當作首次提出。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610300063.aspx"
-          ]
-        },
-        {
-          "speaker": "判讀重點（本站整理）",
-          "text": "本站判讀重點：應追問場址、建置與營運預算、管理單位、使用資格及收費方式。報導提及行政院支持，但仍須核對正式文件及支持範圍，不能等同建設核定。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202611050102.aspx",
-            "https://www.cna.com.tw/news/aipl/202610300063.aspx"
-          ]
-        }
-      ],
-      "question": "基地由誰營運、如何分配使用時段，並以哪些指標檢查人才培育及展演機會？",
-      "checkedAt": "2026-11-08",
-      "dailyUpdateKind": "new",
-      "dailyEvidenceFingerprints": [
-        "190980eb06a74c02ef1c4c4222fe5bf0cc089df5c3b4ce2f7e402346d6f5b750"
       ]
     },
     {
