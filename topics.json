@@ -1,7 +1,116 @@
 {
-  "checkedAt": "2026-11-10",
+  "checkedAt": "2026-11-11",
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
+    {
+      "id": "keelung-debate-invitation-estimate-20261021",
+      "county": "基隆市",
+      "districts": [],
+      "relatedNames": [
+        "謝國樑",
+        "童子瑋"
+      ],
+      "date": "2026-11-10",
+      "title": "基隆市長辯論已舉行，通勤主張如何比較？",
+      "shortTitle": "基隆市長辯論登場",
+      "category": "每日選舉話題",
+      "summary": "11月10日，謝國樑與童子瑋參加基隆市長選舉直播辯論。謝國樑在申論中回顧任內建設，童子瑋提出通勤接駁、市區公車改善與各區發展構想。",
+      "steps": [
+        {
+          "speaker": "可以確認的發言",
+          "text": "中央社記載謝國樑在受訪時提出同台辯論捷運等議題，並表達自己對選情的估計。本站只把它列為本人公開發言。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610210162.aspx"
+          ]
+        },
+        {
+          "speaker": "還不能確認什麼",
+          "text": "這篇採訪沒有載明雙方共同敲定的場次、規則或日期，也未提供這個估票範圍對應的新調查方法。因此不能據此寫成辯論已排定，或全體選民支持度。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610210162.aspx"
+          ]
+        },
+        {
+          "speaker": "本站追問",
+          "text": "後續應核對各陣營回覆、主辦方正式公告與完整回看；若引用民調，另列委託單位、時間、抽樣及未表態者處理。候選人的自估不能代替實際投票結果。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610210162.aspx"
+          ]
+        },
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "11月10日，謝國樑與童子瑋參加基隆市長選舉直播辯論。謝國樑在申論中回顧任內建設，童子瑋提出通勤接駁、市區公車改善與各區發展構想。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611100118.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "10月21日，謝國樑受訪時公開邀童子瑋上節目辯論捷運等議題，並在同場訪問談到自己對得票率的估計。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610210162.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點是把兩人說法對照到各自的執行條件。國道客運接駁需要核對路線許可、業者運能與經費來源，市區公車改善則可追蹤車輛汰換、駕駛員額和班次。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611100118.aspx",
+            "https://www.cna.com.tw/news/aloc/202610210162.aspx"
+          ]
+        }
+      ],
+      "question": "兩人能否提出尖峰班次、預估成本與市府可執行的時間表？",
+      "symbol": "◇",
+      "checkedAt": "2026-11-11",
+      "dailyUpdateKind": "progress",
+      "eventDate": "2026-10-21",
+      "dailyEvidenceFingerprints": [
+        "71a59244f8866f6def9a9177ea568a4315b5be4b59ad22b48f878af51569e02f"
+      ]
+    },
+    {
+      "id": "taichung-official-election-tv-forums-20261111",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "臺中公布公辦政見會時程，市長場11月17日直播",
+      "shortTitle": "臺中公辦政見會時程",
+      "category": "每日選舉話題",
+      "county": "臺中市",
+      "date": "2026-11-11",
+      "summary": "臺中市政府11月11日公布市長公辦政見會將於11月17日晚間7時採辯論形式舉行，選委會的YouTube平台將同步直播。市議員政見會安排在11月18日至22日分區播出。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "臺中市政府11月11日公布市長公辦政見會將於11月17日晚間7時採辯論形式舉行，選委會的YouTube平台將同步直播。市議員政見會安排在11月18日至22日分區播出。",
+          "sourceUrls": [
+            "https://cdn.www.taichung.gov.tw/3411469/post"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "中央社同日報導，市長場另安排11月24日晚間6時在電視重播。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611110125.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點是公辦場的收看安排。市長場有直播與重播，議員場按選區排播。選委會已說明提供手語翻譯，仍可核對各區頻道、確切時段及播出後的回看入口。",
+          "sourceUrls": [
+            "https://cdn.www.taichung.gov.tw/3411469/post",
+            "https://www.cna.com.tw/news/aloc/202611110125.aspx"
+          ]
+        }
+      ],
+      "question": "選委會是否會集中公布各選區播出表與回看連結？",
+      "checkedAt": "2026-11-11",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "556f4e12bfe6aa0fbbf2cec59a4ddf8e54229ddf1ccea4ea5a7eb374886290dc"
+      ]
+    },
     {
       "id": "new-taipei-mayoral-tv-forum-20261105",
       "symbol": "◇",
@@ -1172,47 +1281,6 @@
         }
       ],
       "question": "你會要求候選人公開哪些公共工程與利益迴避資料，同時保留個別責任和無罪推定？",
-      "symbol": "◇",
-      "checkedAt": "2026-10-22",
-      "dailyUpdateKind": "new"
-    },
-    {
-      "id": "keelung-debate-invitation-estimate-20261021",
-      "county": "基隆市",
-      "districts": [],
-      "relatedNames": [
-        "謝國樑",
-        "童子瑋"
-      ],
-      "date": "2026-10-21",
-      "title": "基隆市長辯論邀請：候選人自估票數，與民調有何不同？",
-      "shortTitle": "辯論邀請尚待共同確認",
-      "category": "政策公開與檢驗",
-      "summary": "10/21謝國樑在專訪邀童子瑋辯論，並自行估計得票率52%至54%。這不是本站預測，也不是已確認辯論日程或一份新民調。",
-      "steps": [
-        {
-          "speaker": "可以確認的發言",
-          "text": "中央社記載謝國樑在受訪時提出同台辯論捷運等議題，並表達自己對選情的估計。本站只把它列為本人公開發言。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610210162.aspx"
-          ]
-        },
-        {
-          "speaker": "還不能確認什麼",
-          "text": "這篇採訪沒有載明雙方共同敲定的場次、規則或日期，也未提供這個估票範圍對應的新調查方法。因此不能據此寫成辯論已排定，或全體選民支持度。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610210162.aspx"
-          ]
-        },
-        {
-          "speaker": "本站追問",
-          "text": "後續應核對各陣營回覆、主辦方正式公告與完整回看；若引用民調，另列委託單位、時間、抽樣及未表態者處理。候選人的自估不能代替實際投票結果。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610210162.aspx"
-          ]
-        }
-      ],
-      "question": "你希望辯論用相同問題、財源與時程，如何比較每位候選人的承諾？",
       "symbol": "◇",
       "checkedAt": "2026-10-22",
       "dailyUpdateKind": "new"

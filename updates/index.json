@@ -1,5 +1,69 @@
 [
   {
+    "entry_id": "election-keelung-2026-11-11-r01",
+    "kind": "manual",
+    "session_label": "election-keelung-2026-11-11・第1輪",
+    "date": "2026-11-11",
+    "checked_at": "2026-11-11T22:59:32.128793+08:00",
+    "county_scope": [
+      "基隆市"
+    ],
+    "accepted_facts": 0,
+    "updated_people": 0,
+    "summary": "加開時段第1輪：新增0項通過來源核對的資料；另查核兩則選舉話題。",
+    "official_checks": [
+      {
+        "url": "https://web.cec.gov.tw/klec",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/central/article/65212",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://cdn.www.taichung.gov.tw/3411469/post",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aloc/202611100154.aspx",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aloc/202611070167.aspx",
+        "title": "本輪原始資料來源"
+      }
+    ],
+    "limitations": [
+      "局部來源查核，不代表全體候選人背景已完整核實。",
+      "司法、爭議與資格新線索僅保留待查，不自動修改標籤。"
+    ],
+    "review_leads_count": 0,
+    "rejected_count": 5,
+    "changes": [],
+    "topic_updates": [
+      {
+        "id": "keelung-debate-invitation-estimate-20261021",
+        "title": "基隆市長辯論已舉行，通勤主張如何比較？",
+        "kind": "progress",
+        "summary": "11月10日，謝國樑與童子瑋參加基隆市長選舉直播辯論。謝國樑在申論中回顧任內建設，童子瑋提出通勤接駁、市區公車改善與各區發展構想。",
+        "sources": [
+          "https://www.cna.com.tw/news/aloc/202611100118.aspx",
+          "https://www.cna.com.tw/news/aloc/202610210162.aspx"
+        ]
+      },
+      {
+        "id": "taichung-official-election-tv-forums-20261111",
+        "title": "臺中公布公辦政見會時程，市長場11月17日直播",
+        "kind": "new",
+        "summary": "臺中市政府11月11日公布市長公辦政見會將於11月17日晚間7時採辯論形式舉行，選委會的YouTube平台將同步直播。市議員政見會安排在11月18日至22日分區播出。",
+        "sources": [
+          "https://cdn.www.taichung.gov.tw/3411469/post",
+          "https://www.cna.com.tw/news/aloc/202611110125.aspx"
+        ]
+      }
+    ]
+  },
+  {
     "date": "2026-11-10",
     "checked_at": "2026-11-10T10:04:25.815926+08:00",
     "county_scope": [
