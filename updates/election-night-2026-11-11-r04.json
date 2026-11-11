@@ -1,0 +1,113 @@
+{
+  "entry_id": "election-night-2026-11-11-r04",
+  "kind": "manual",
+  "session_label": "election-night-2026-11-11・第4輪",
+  "date": "2026-11-12",
+  "checked_at": "2026-11-12T00:35:58.441133+08:00",
+  "county_scope": [
+    "桃園市",
+    "臺中市"
+  ],
+  "accepted_facts": 1,
+  "updated_people": 1,
+  "summary": "加開時段第4輪：新增1項通過來源核對的資料；另查核兩則選舉話題。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/central",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/tyec",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/tyec/sitemap",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/tcec/",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/tcec/article/list/332?beginDate=&endDate=&keyword=&page=1",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/central/article/65213",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/central/article/65212",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://cdn.www.taichung.gov.tw/3411469/post",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.moi.gov.tw/News_Content.aspx?n=2&s=342902",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.moi.gov.tw/News_Content.aspx?n=2&s=343110",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aloc/202505290269.aspx",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202611030133.aspx",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202611020035.aspx",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aloc/202609230325.aspx",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202611110294.aspx",
+      "title": "本輪原始資料來源"
+    }
+  ],
+  "limitations": [
+    "局部來源查核，不代表全體候選人背景已完整核實。",
+    "司法、爭議與資格新線索僅保留待查，不自動修改標籤。"
+  ],
+  "review_leads_count": 2,
+  "rejected_count": 8,
+  "changes": [
+    {
+      "name": "楊寶楨",
+      "county": "臺中市",
+      "field": "experience",
+      "text": "前民眾黨發言人",
+      "url": "https://www.cna.com.tw/news/aloc/202505290269.aspx"
+    }
+  ],
+  "topic_updates": [
+    {
+      "id": "national-voting-eligibility-online-query-20261110",
+      "title": "投票資格線上查詢開放至11月12日",
+      "kind": "review",
+      "summary": "來源複核：本次無新增可確認進度。",
+      "sources": [
+        "https://www.moi.gov.tw/News_Content.aspx?n=2&s=342902",
+        "https://www.moi.gov.tw/News_Content.aspx?n=2&s=343110"
+      ]
+    },
+    {
+      "id": "taichung-official-election-tv-forums-20261111",
+      "title": "臺中公布公辦政見會時程，市長場11月17日直播",
+      "kind": "review",
+      "summary": "來源複核：本次無新增可確認進度。",
+      "sources": [
+        "https://cdn.www.taichung.gov.tw/3411469/post",
+        "https://www.cna.com.tw/news/aloc/202611110125.aspx"
+      ]
+    }
+  ]
+}

@@ -41,7 +41,7 @@
           "text": "2026-11-12重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
           "sourceUrls": [
             "https://www.moi.gov.tw/News_Content.aspx?n=2&s=342902",
-            "https://www.cna.com.tw/news/aipl/202611100317.aspx"
+            "https://www.moi.gov.tw/News_Content.aspx?n=2&s=343110"
           ]
         }
       ],
@@ -50,7 +50,58 @@
       "dailyUpdateKind": "review",
       "dailyEvidenceFingerprints": [
         "ddc7e80e07d46d5cef6a0af924a1e89cf6ec31953ed738dbd44ee82b8424937e",
-        "9edfda4eda6fa3bfa8502149a84892fec0644570e0de3f7f16be09657d04abed"
+        "9edfda4eda6fa3bfa8502149a84892fec0644570e0de3f7f16be09657d04abed",
+        "d7f9e5add6d41de59a79622aee1a942852d6ec9d5a8b61e4eb9d56d63b168f84"
+      ]
+    },
+    {
+      "id": "taichung-official-election-tv-forums-20261111",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "臺中公布公辦政見會時程，市長場11月17日直播",
+      "shortTitle": "臺中公辦政見會時程",
+      "category": "每日選舉話題",
+      "county": "臺中市",
+      "date": "2026-11-11",
+      "summary": "臺中市政府11月11日公布市長公辦政見會將於11月17日晚間7時採辯論形式舉行，選委會的YouTube平台將同步直播。市議員政見會安排在11月18日至22日分區播出。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "臺中市政府11月11日公布市長公辦政見會將於11月17日晚間7時採辯論形式舉行，選委會的YouTube平台將同步直播。市議員政見會安排在11月18日至22日分區播出。",
+          "sourceUrls": [
+            "https://cdn.www.taichung.gov.tw/3411469/post"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "中央社同日報導，市長場另安排11月24日晚間6時在電視重播。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611110125.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點是公辦場的收看安排。市長場有直播與重播，議員場按選區排播。選委會已說明提供手語翻譯，仍可核對各區頻道、確切時段及播出後的回看入口。",
+          "sourceUrls": [
+            "https://cdn.www.taichung.gov.tw/3411469/post",
+            "https://www.cna.com.tw/news/aloc/202611110125.aspx"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-11-12重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://cdn.www.taichung.gov.tw/3411469/post",
+            "https://www.cna.com.tw/news/aloc/202611110125.aspx"
+          ]
+        }
+      ],
+      "question": "選委會是否會集中公布各選區播出表與回看連結？",
+      "checkedAt": "2026-11-12",
+      "dailyUpdateKind": "review",
+      "dailyEvidenceFingerprints": [
+        "556f4e12bfe6aa0fbbf2cec59a4ddf8e54229ddf1ccea4ea5a7eb374886290dc"
       ]
     },
     {
@@ -239,48 +290,6 @@
       "eventDate": "2026-10-21",
       "dailyEvidenceFingerprints": [
         "71a59244f8866f6def9a9177ea568a4315b5be4b59ad22b48f878af51569e02f"
-      ]
-    },
-    {
-      "id": "taichung-official-election-tv-forums-20261111",
-      "symbol": "◇",
-      "relatedNames": [],
-      "districts": [],
-      "title": "臺中公布公辦政見會時程，市長場11月17日直播",
-      "shortTitle": "臺中公辦政見會時程",
-      "category": "每日選舉話題",
-      "county": "臺中市",
-      "date": "2026-11-11",
-      "summary": "臺中市政府11月11日公布市長公辦政見會將於11月17日晚間7時採辯論形式舉行，選委會的YouTube平台將同步直播。市議員政見會安排在11月18日至22日分區播出。",
-      "steps": [
-        {
-          "speaker": "本次進度與來源說法",
-          "text": "臺中市政府11月11日公布市長公辦政見會將於11月17日晚間7時採辯論形式舉行，選委會的YouTube平台將同步直播。市議員政見會安排在11月18日至22日分區播出。",
-          "sourceUrls": [
-            "https://cdn.www.taichung.gov.tw/3411469/post"
-          ]
-        },
-        {
-          "speaker": "背景脈絡",
-          "text": "中央社同日報導，市長場另安排11月24日晚間6時在電視重播。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202611110125.aspx"
-          ]
-        },
-        {
-          "speaker": "判讀重點（本站整理）",
-          "text": "本站判讀重點是公辦場的收看安排。市長場有直播與重播，議員場按選區排播。選委會已說明提供手語翻譯，仍可核對各區頻道、確切時段及播出後的回看入口。",
-          "sourceUrls": [
-            "https://cdn.www.taichung.gov.tw/3411469/post",
-            "https://www.cna.com.tw/news/aloc/202611110125.aspx"
-          ]
-        }
-      ],
-      "question": "選委會是否會集中公布各選區播出表與回看連結？",
-      "checkedAt": "2026-11-11",
-      "dailyUpdateKind": "new",
-      "dailyEvidenceFingerprints": [
-        "556f4e12bfe6aa0fbbf2cec59a4ddf8e54229ddf1ccea4ea5a7eb374886290dc"
       ]
     },
     {
