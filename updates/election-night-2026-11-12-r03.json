@@ -1,0 +1,93 @@
+{
+  "entry_id": "election-night-2026-11-12-r03",
+  "kind": "manual",
+  "session_label": "election-night-2026-11-12・第3輪",
+  "date": "2026-11-13",
+  "checked_at": "2026-11-13T00:05:11.844958+08:00",
+  "county_scope": [
+    "嘉義市",
+    "新竹縣"
+  ],
+  "accepted_facts": 1,
+  "updated_people": 1,
+  "summary": "加開時段第3輪：新增1項通過來源核對的資料；另查核兩則選舉話題。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/cyec",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/cyec/sitemap",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/hccec?Lang=zh-tw",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/hccec/article/65531",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cec.gov.tw/central/",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=5255&pid=241010",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.hcc.gov.tw/member-detail?C=266&S=21&program=190",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202611120242.aspx",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202611030135.aspx",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aloc/202611050151.aspx",
+      "title": "本輪原始資料來源"
+    }
+  ],
+  "limitations": [
+    "局部來源查核，不代表全體候選人背景已完整核實。",
+    "司法、爭議與資格新線索僅保留待查，不自動修改標籤。"
+  ],
+  "review_leads_count": 0,
+  "rejected_count": 5,
+  "changes": [
+    {
+      "name": "范國威",
+      "county": "新竹縣",
+      "field": "experience",
+      "text": "竹東鎮民代表會范國威主席",
+      "url": "https://www.ly.gov.tw/Pages/Detail.aspx?nodeid=5255&pid=241010"
+    }
+  ],
+  "topic_updates": [
+    {
+      "id": "chiayi-city-election-bulletin-listing-20261112",
+      "title": "嘉義市選委會列出本屆公報，附件內容仍待逐頁核對",
+      "kind": "new",
+      "summary": "嘉義市選委會首頁將本屆市長、市議員與里長選舉公報列為11月12日公告項目。本輪已確認列表，尚未取得附件正文。",
+      "sources": [
+        "https://web.cec.gov.tw/cyec",
+        "https://web.cec.gov.tw/cyec/sitemap"
+      ]
+    },
+    {
+      "id": "hsinchu-county-public-piano-policy-20261111",
+      "title": "鄭朝方提公共鋼琴，公共空間設置與維護如何安排？",
+      "kind": "new",
+      "summary": "中央社11月11日報導，鄭朝方提出在全縣13鄉鎮市合適公共場域設置鋼琴，依空間及維護需求規劃，並結合學校、社區與藝文團體安排演奏機會。",
+      "sources": [
+        "https://www.cna.com.tw/news/aipl/202611110269.aspx",
+        "https://www.cna.com.tw/news/aloc/202611100229.aspx"
+      ]
+    }
+  ]
+}

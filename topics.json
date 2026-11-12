@@ -1,7 +1,91 @@
 {
-  "checkedAt": "2026-11-12",
+  "checkedAt": "2026-11-13",
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
+    {
+      "id": "chiayi-city-election-bulletin-listing-20261112",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "嘉義市選委會列出本屆公報，附件內容仍待逐頁核對",
+      "shortTitle": "嘉義市公報公告待核附件",
+      "category": "每日選舉話題",
+      "county": "嘉義市",
+      "date": "2026-11-12",
+      "summary": "嘉義市選委會首頁將本屆市長、市議員與里長選舉公報列為11月12日公告項目。本輪已確認列表，尚未取得附件正文。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "嘉義市選委會首頁將本屆市長、市議員與里長選舉公報列為11月12日公告項目。本輪已確認列表，尚未取得附件正文。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/cyec"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "官方網站導覽另列本屆登記、選務程序及協調會等項目，查閱時須辨別不同文件用途。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/cyec/sitemap"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：公告列表可作公報查找入口；個別履歷、政見與號次仍須核對附件、候選人姓名及選區，不能直接沿用前屆公報。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/cyec",
+            "https://web.cec.gov.tw/cyec/sitemap"
+          ]
+        }
+      ],
+      "question": "各職別公報附件是否可公開讀取，並能逐頁對上姓名、選區與本屆資料？",
+      "checkedAt": "2026-11-13",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "faa8ade99eee48ad87e2863cc7fbff006317dabbcc828048503ff6a0b81691ae"
+      ]
+    },
+    {
+      "id": "hsinchu-county-public-piano-policy-20261111",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "鄭朝方提公共鋼琴，公共空間設置與維護如何安排？",
+      "shortTitle": "竹縣公共鋼琴政策",
+      "category": "每日選舉話題",
+      "county": "新竹縣",
+      "date": "2026-11-11",
+      "summary": "中央社11月11日報導，鄭朝方提出在全縣13鄉鎮市合適公共場域設置鋼琴，依空間及維護需求規劃，並結合學校、社區與藝文團體安排演奏機會。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社11月11日報導，鄭朝方提出在全縣13鄉鎮市合適公共場域設置鋼琴，依空間及維護需求規劃，並結合學校、社區與藝文團體安排演奏機會。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611110269.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "中央社前一日另報導鄭朝方提出特色市集構想，規劃利用公共空間、串聯地方團隊與交通接駁。兩項均為競選主張。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611100229.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：公共空間方案應核對管理機關、設置條件、維護經費及使用規則；公共鋼琴與市集各有營運需求，目前不能視為已完成建置。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611110269.aspx",
+            "https://www.cna.com.tw/news/aloc/202611100229.aspx"
+          ]
+        }
+      ],
+      "question": "是否會公布場址評估、管理分工、維修預算與民眾使用規則？",
+      "checkedAt": "2026-11-13",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "aa2246c1e8bb5e49ab676b49c62afe8e2cc89b503af6aee9b6aa6600103dce3c"
+      ]
+    },
     {
       "id": "keelung-debate-invitation-estimate-20261021",
       "county": "基隆市",
