@@ -1,0 +1,107 @@
+{
+  "entry_id": "election-night-2026-11-12-r04",
+  "kind": "manual",
+  "session_label": "election-night-2026-11-12・第4輪",
+  "date": "2026-11-13",
+  "checked_at": "2026-11-13T00:34:36.882028+08:00",
+  "county_scope": [
+    "苗栗縣",
+    "彰化縣"
+  ],
+  "accepted_facts": 3,
+  "updated_people": 3,
+  "summary": "加開時段第4輪：新增3項通過來源核對的資料；另查核兩則選舉話題。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/central",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/mlec",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1014059&sms=9462",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/chec",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/chec/sitemap",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.lukang.gov.tw/content/index?Parser=1,5,34",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.mcc.gov.tw/iframimgtxt_list.php?typeid=2603",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.miaoli.gov.tw/general_affairs/News_Content.aspx?n=851&s=1009415",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202611030133.aspx",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aloc/202603300250.aspx",
+      "title": "本輪原始資料來源"
+    }
+  ],
+  "limitations": [
+    "局部來源查核，不代表全體候選人背景已完整核實。",
+    "司法、爭議與資格新線索僅保留待查，不自動修改標籤。"
+  ],
+  "review_leads_count": 1,
+  "rejected_count": 2,
+  "changes": [
+    {
+      "name": "禹耀東",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "縣議員禹耀東",
+      "url": "https://www.miaoli.gov.tw/general_affairs/News_Content.aspx?n=851&s=1009415"
+    },
+    {
+      "name": "許志宏",
+      "county": "彰化縣",
+      "field": "education",
+      "text": "國立彰化師範大學碩士班畢業",
+      "url": "https://www.lukang.gov.tw/content/index?Parser=1,5,34"
+    },
+    {
+      "name": "沈文盛",
+      "county": "彰化縣",
+      "field": "experience",
+      "text": "鄉代會主席",
+      "url": "https://www.cna.com.tw/news/aloc/202603300250.aspx"
+    }
+  ],
+  "topic_updates": [
+    {
+      "id": "miaoli-official-election-forums-20261112",
+      "title": "苗栗公布公辦政見會安排，縣長場19日、24日直播",
+      "kind": "new",
+      "summary": "苗栗縣選委會11月12日說明，縣長公辦政見會安排11月19日、24日上午10時於有線電視及官方YouTube直播，另有重播。部分議員選區採錄播，七個鄉鎮市另辦首長政見會。",
+      "sources": [
+        "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1014059&sms=9462",
+        "https://web.cec.gov.tw/mlec"
+      ]
+    },
+    {
+      "id": "changhua-industry-transition-policy-20261109",
+      "title": "魏平政提產業轉型與單一窗口，執行條件如何確認？",
+      "kind": "new",
+      "summary": "中央社11月9日報導，魏平政提出產業轉型政見，以中科二林園區作為重要節點，主張結合AI與在地製造，並整合專業資源設單一服務窗口及特登工廠專案服務機制。",
+      "sources": [
+        "https://www.cna.com.tw/news/aloc/202611090094.aspx",
+        "https://www.cna.com.tw/news/aipl/202611020237.aspx"
+      ]
+    }
+  ]
+}

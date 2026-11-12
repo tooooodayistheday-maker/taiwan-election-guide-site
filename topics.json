@@ -3,6 +3,90 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "miaoli-official-election-forums-20261112",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "苗栗公布公辦政見會安排，縣長場19日、24日直播",
+      "shortTitle": "苗栗公辦政見會時程",
+      "category": "每日選舉話題",
+      "county": "苗栗縣",
+      "date": "2026-11-12",
+      "summary": "苗栗縣選委會11月12日說明，縣長公辦政見會安排11月19日、24日上午10時於有線電視及官方YouTube直播，另有重播。部分議員選區採錄播，七個鄉鎮市另辦首長政見會。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "苗栗縣選委會11月12日說明，縣長公辦政見會安排11月19日、24日上午10時於有線電視及官方YouTube直播，另有重播。部分議員選區採錄播，七個鄉鎮市另辦首長政見會。",
+          "sourceUrls": [
+            "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1014059&sms=9462"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "苗栗縣選委會首頁亦將公辦政見會消息列為11月12日公告，可與縣府刊載的詳細場次說明交叉核對。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/mlec"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：縣長直播、議員錄播及鄉鎮市現場活動的收看方式不同，應依職別與選區確認時間；公告排程不代表已播出，後續仍須核對完整回看及實際出席。",
+          "sourceUrls": [
+            "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1014059&sms=9462",
+            "https://web.cec.gov.tw/mlec"
+          ]
+        }
+      ],
+      "question": "你所在選區的政見會何時播出，是否提供完整回看與無障礙收看方式？",
+      "checkedAt": "2026-11-13",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "955bfb53ef6851542e1ec6d5e745cb8ed5081f845ac4ab38e99345e002b1383c"
+      ]
+    },
+    {
+      "id": "changhua-industry-transition-policy-20261109",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "魏平政提產業轉型與單一窗口，執行條件如何確認？",
+      "shortTitle": "彰化產業轉型政見",
+      "category": "每日選舉話題",
+      "county": "彰化縣",
+      "date": "2026-11-09",
+      "summary": "中央社11月9日報導，魏平政提出產業轉型政見，以中科二林園區作為重要節點，主張結合AI與在地製造，並整合專業資源設單一服務窗口及特登工廠專案服務機制。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社11月9日報導，魏平政提出產業轉型政見，以中科二林園區作為重要節點，主張結合AI與在地製造，並整合專業資源設單一服務窗口及特登工廠專案服務機制。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611090094.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "11月2日另有城鎮升級政見，著重跨生活圈交通、公共服務及文化資產活化。此次產業轉型記者會是不同政策事件，不將前次城鎮方案重新包裝為新進度。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611020237.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：這些是競選主張，尚非企業投資或設廠核定。單一窗口須釐清縣府與園區主管機關分工、服務人力及預算；特登工廠輔導仍須符合土地、環保與建築等程序。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611090094.aspx",
+            "https://www.cna.com.tw/news/aipl/202611020237.aspx"
+          ]
+        }
+      ],
+      "question": "單一窗口能處理哪些程序，企業申請條件、預算及跨機關協調時程是否公開？",
+      "checkedAt": "2026-11-13",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "67751661b6bfc51c01edd909110a083044eda648f49a02d645b1e48a81c411fa"
+      ]
+    },
+    {
       "id": "chiayi-city-election-bulletin-listing-20261112",
       "symbol": "◇",
       "relatedNames": [],
