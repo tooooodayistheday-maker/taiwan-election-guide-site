@@ -3,6 +3,111 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "tainan-ballot-draw-instructions-20261017",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "臺南已宣布號次抽籤延至10月27日：職別與場地仍須核對",
+      "shortTitle": "臺南抽籤已改10月27日",
+      "category": "每日選舉話題",
+      "county": "臺南市",
+      "date": "2026-10-22",
+      "summary": "臺南市府10/22刊載選委會公告：因10/23停止上班，市長、市議員暨里長候選人號次抽籤改訂10/27。這是已公告異動；各職別、選區時間與場地仍依正式通知，不沿用10/23到場日期。",
+      "steps": [
+        {
+          "speaker": "最新已公告異動",
+          "text": "臺南市府10/22刊載臺南市選委會說明：市府宣布10/23停止上班上課，原訂當日辦理的第5屆市長、市議員暨里長選舉候選人姓名號次抽籤，改於10/27舉行。",
+          "sourceUrls": [
+            "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8843309&sms=9748"
+          ]
+        },
+        {
+          "speaker": "與原抽籤須知分開閱讀",
+          "text": "原10/17抽籤須知列市長及第12、13選區議員的報到與代抽規定；第1至11選區另有場地附件。10/22新公告確認日期變更，但未在該篇重列所有選區時段與場地，仍須核對所屬選務機關最新通知。",
+          "sourceUrls": [
+            "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8843309&sms=9748",
+            "https://web.cec.gov.tw/tnec/article/65234",
+            "https://web.cec.gov.tw/tnec/article/65235"
+          ]
+        },
+        {
+          "speaker": "本次未確認的事項",
+          "text": "本站沒有將抽籤延期當作投票日變更，也未取得全部職別的實際抽籤結果；正式候選人號次不預填。未逐一核讀的場地附件仍保留待查。",
+          "sourceUrls": [
+            "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8843309&sms=9748"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-11-12重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8843309&sms=9748",
+            "https://web.cec.gov.tw/tnec/article/65387"
+          ]
+        }
+      ],
+      "question": "收到抽籤順延通知後，你是否核對10月27日自己的職別、選區、報到時間與代理程序？",
+      "checkedAt": "2026-11-12",
+      "dailyUpdateKind": "review",
+      "dailyEvidenceFingerprints": [
+        "f9ad57ee5e1eb49f5b6ebdd31768a28710f1968bcef61261685e279f18f015c3",
+        "6e4cd94d45bf0fbf0b6d997d519a7660bc08ddf0ff4ff52aa0480cc98f277d75"
+      ],
+      "originalSourceDate": "2026-10-17",
+      "eventDate": "2026-10-27"
+    },
+    {
+      "id": "kaohsiung-cultural-industry-policy-20261020",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "柯志恩提文化產業方案：人才、認證與聚落怎麼落實？",
+      "shortTitle": "高雄文化產業方案待檢視",
+      "category": "每日選舉話題",
+      "county": "高雄市",
+      "date": "2026-10-20",
+      "summary": "中央社10月20日報導，柯志恩提出在地演出產業認證平台、文化人才五年計畫及文化科技聚落，希望讓活動帶來的機會延伸至在地業者、青年與文化企業。這些仍屬競選主張。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社10月20日報導，柯志恩提出在地演出產業認證平台、文化人才五年計畫及文化科技聚落，希望讓活動帶來的機會延伸至在地業者、青年與文化企業。這些仍屬競選主張。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610200123.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "中選會2025年10月31日訂定本屆工作日程：直轄市長候選人名單預定2026年11月12日公告，公辦政見發表會安排11月13日至27日。此為既定選務時程。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/api/central/article/61722"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：主張尚無成效證明；後續應追問認證標準、培訓名額、五年預算、聚落用地及政府與民間分工，並在完整政見或公辦發表會核對。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610200123.aspx",
+            "https://web.cec.gov.tw/api/central/article/61722"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-11-12重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610200123.aspx",
+            "https://www.cna.com.tw/news/aipl/202610200123.aspx"
+          ]
+        }
+      ],
+      "question": "如何公開人才培訓、在地接單與企業留駐的目標、預算和年度進度？",
+      "checkedAt": "2026-11-12",
+      "dailyUpdateKind": "review",
+      "dailyEvidenceFingerprints": [
+        "66fcee2b8820f1f064dd4f713dd17c0f4ea0ce2f93d81069a6ea56a9054b4ca2",
+        "1b55c4e4d015255d19d41a0302490d49299f088a65140aab93b77ebfa977ab2b"
+      ]
+    },
+    {
       "id": "penghu-farmland-revival-policy-20261110",
       "symbol": "◇",
       "relatedNames": [],
@@ -2253,93 +2358,6 @@
         }
       ],
       "question": "重行選舉公告發布後，應如何清楚區分原登記快照、新登記者與新的投票日期？"
-    },
-    {
-      "id": "tainan-ballot-draw-instructions-20261017",
-      "symbol": "◇",
-      "relatedNames": [],
-      "districts": [],
-      "title": "臺南已宣布號次抽籤延至10月27日：職別與場地仍須核對",
-      "shortTitle": "臺南抽籤已改10月27日",
-      "category": "每日選舉話題",
-      "county": "臺南市",
-      "date": "2026-10-22",
-      "summary": "臺南市府10/22刊載選委會公告：因10/23停止上班，市長、市議員暨里長候選人號次抽籤改訂10/27。這是已公告異動；各職別、選區時間與場地仍依正式通知，不沿用10/23到場日期。",
-      "steps": [
-        {
-          "speaker": "最新已公告異動",
-          "text": "臺南市府10/22刊載臺南市選委會說明：市府宣布10/23停止上班上課，原訂當日辦理的第5屆市長、市議員暨里長選舉候選人姓名號次抽籤，改於10/27舉行。",
-          "sourceUrls": [
-            "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8843309&sms=9748"
-          ]
-        },
-        {
-          "speaker": "與原抽籤須知分開閱讀",
-          "text": "原10/17抽籤須知列市長及第12、13選區議員的報到與代抽規定；第1至11選區另有場地附件。10/22新公告確認日期變更，但未在該篇重列所有選區時段與場地，仍須核對所屬選務機關最新通知。",
-          "sourceUrls": [
-            "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8843309&sms=9748",
-            "https://web.cec.gov.tw/tnec/article/65234",
-            "https://web.cec.gov.tw/tnec/article/65235"
-          ]
-        },
-        {
-          "speaker": "本次未確認的事項",
-          "text": "本站沒有將抽籤延期當作投票日變更，也未取得全部職別的實際抽籤結果；正式候選人號次不預填。未逐一核讀的場地附件仍保留待查。",
-          "sourceUrls": [
-            "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8843309&sms=9748"
-          ]
-        }
-      ],
-      "question": "收到抽籤順延通知後，你是否核對10月27日自己的職別、選區、報到時間與代理程序？",
-      "checkedAt": "2026-10-23",
-      "dailyUpdateKind": "progress",
-      "dailyEvidenceFingerprints": [
-        "f9ad57ee5e1eb49f5b6ebdd31768a28710f1968bcef61261685e279f18f015c3"
-      ],
-      "originalSourceDate": "2026-10-17",
-      "eventDate": "2026-10-27"
-    },
-    {
-      "id": "kaohsiung-cultural-industry-policy-20261020",
-      "symbol": "◇",
-      "relatedNames": [],
-      "districts": [],
-      "title": "柯志恩提文化產業方案：人才、認證與聚落怎麼落實？",
-      "shortTitle": "高雄文化產業方案待檢視",
-      "category": "每日選舉話題",
-      "county": "高雄市",
-      "date": "2026-10-20",
-      "summary": "中央社10月20日報導，柯志恩提出在地演出產業認證平台、文化人才五年計畫及文化科技聚落，希望讓活動帶來的機會延伸至在地業者、青年與文化企業。這些仍屬競選主張。",
-      "steps": [
-        {
-          "speaker": "本次進度與來源說法",
-          "text": "中央社10月20日報導，柯志恩提出在地演出產業認證平台、文化人才五年計畫及文化科技聚落，希望讓活動帶來的機會延伸至在地業者、青年與文化企業。這些仍屬競選主張。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610200123.aspx"
-          ]
-        },
-        {
-          "speaker": "背景脈絡",
-          "text": "中選會2025年10月31日訂定本屆工作日程：直轄市長候選人名單預定2026年11月12日公告，公辦政見發表會安排11月13日至27日。此為既定選務時程。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/api/central/article/61722"
-          ]
-        },
-        {
-          "speaker": "判讀重點（本站整理）",
-          "text": "本站判讀重點：主張尚無成效證明；後續應追問認證標準、培訓名額、五年預算、聚落用地及政府與民間分工，並在完整政見或公辦發表會核對。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610200123.aspx",
-            "https://web.cec.gov.tw/api/central/article/61722"
-          ]
-        }
-      ],
-      "question": "如何公開人才培訓、在地接單與企業留駐的目標、預算和年度進度？",
-      "checkedAt": "2026-10-21",
-      "dailyUpdateKind": "new",
-      "dailyEvidenceFingerprints": [
-        "66fcee2b8820f1f064dd4f713dd17c0f4ea0ce2f93d81069a6ea56a9054b4ca2"
-      ]
     },
     {
       "id": "tucheng-qingshui-second-registration-20261020",

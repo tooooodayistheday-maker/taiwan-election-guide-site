@@ -1,0 +1,78 @@
+{
+  "date": "2026-11-12",
+  "checked_at": "2026-11-12T10:03:44.620743+08:00",
+  "county_scope": [
+    "臺南市",
+    "高雄市"
+  ],
+  "accepted_facts": 1,
+  "updated_people": 1,
+  "summary": "本日完成局部來源查核；新增通過逐條原文核對的資料 1 項。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/tnec",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://web.cec.gov.tw/khec",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://web.cec.gov.tw/central",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://web.cec.gov.tw/central/article/65213",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://web.cec.gov.tw/tnec/article/65387",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=7873671",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8843309&sms=9748",
+      "title": "本次查核來源頁"
+    }
+  ],
+  "limitations": [
+    "本次為局部來源查核，不代表所有縣市或候選人已完整核實。",
+    "本次沒有自動改動司法、爭議、資格及名冊；新線索只保留在私人待核紀錄。"
+  ],
+  "review_leads_count": 2,
+  "rejected_count": 0,
+  "changes": [
+    {
+      "name": "姚正玉",
+      "county": "臺南市",
+      "field": "experience",
+      "text": "台南市外勤記者學會新任理事長",
+      "url": "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=7873671"
+    }
+  ],
+  "topic_updates": [
+    {
+      "id": "tainan-ballot-draw-instructions-20261017",
+      "title": "臺南已宣布號次抽籤延至10月27日：職別與場地仍須核對",
+      "kind": "review",
+      "summary": "來源複核：本次無新增可確認進度。",
+      "sources": [
+        "https://www.tainan.gov.tw/News_Content.aspx?n=13370&s=8843309&sms=9748",
+        "https://web.cec.gov.tw/tnec/article/65387"
+      ]
+    },
+    {
+      "id": "kaohsiung-cultural-industry-policy-20261020",
+      "title": "柯志恩提文化產業方案：人才、認證與聚落怎麼落實？",
+      "kind": "review",
+      "summary": "來源複核：本次無新增可確認進度。",
+      "sources": [
+        "https://www.cna.com.tw/news/aipl/202610200123.aspx",
+        "https://www.cna.com.tw/news/aipl/202610200123.aspx"
+      ]
+    }
+  ]
+}
