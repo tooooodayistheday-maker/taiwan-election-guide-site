@@ -1,5 +1,66 @@
 [
   {
+    "entry_id": "election-night-2026-11-13-r01",
+    "kind": "manual",
+    "session_label": "election-night-2026-11-13・第1輪",
+    "date": "2026-11-13",
+    "checked_at": "2026-11-13T23:05:24.893409+08:00",
+    "county_scope": [
+      "南投縣",
+      "雲林縣"
+    ],
+    "accepted_facts": 0,
+    "updated_people": 0,
+    "summary": "加開時段第1輪：新增0項通過來源核對的資料；另查核兩則選舉話題。",
+    "official_checks": [
+      {
+        "url": "https://web.cec.gov.tw/ntec",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/ylec",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/central",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aloc/202611090076.aspx",
+        "title": "本輪原始資料來源"
+      }
+    ],
+    "limitations": [
+      "局部來源查核，不代表全體候選人背景已完整核實。",
+      "司法、爭議與資格新線索僅保留待查，不自動修改標籤。"
+    ],
+    "review_leads_count": 0,
+    "rejected_count": 2,
+    "changes": [],
+    "topic_updates": [
+      {
+        "id": "nantou-official-election-forums-20261110",
+        "title": "南投公告公辦政見會時程，縣長場18日上午登場",
+        "kind": "new",
+        "summary": "南投縣選委會11月10日公告列載，本屆公辦電視政見發表會安排於11月18日至20日辦理；本次確認首頁公告，附件細節仍待核讀。",
+        "sources": [
+          "https://web.cec.gov.tw/ntec",
+          "https://www.cna.com.tw/news/aipl/202611125002.aspx"
+        ]
+      },
+      {
+        "id": "election-ai-information-20261020",
+        "title": "中選會說明深偽影音通報機制，候選人可提出移除請求",
+        "kind": "progress",
+        "summary": "中央社11月12日報導，中選會說明已設防制專案小組，並與數發部合作，透過選舉AI深偽訊息通報網協助候選人通報及提出移除請求。這是機制說明，未證明個案已移除。",
+        "sources": [
+          "https://www.cna.com.tw/news/aipl/202611120161.aspx",
+          "https://web.cec.gov.tw/central"
+        ]
+      }
+    ]
+  },
+  {
     "entry_id": "election-night-2026-11-12-r04",
     "kind": "manual",
     "session_label": "election-night-2026-11-12・第4輪",

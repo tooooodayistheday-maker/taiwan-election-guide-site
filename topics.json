@@ -3,6 +3,142 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "nantou-official-election-forums-20261110",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "南投公告公辦政見會時程，縣長場18日上午登場",
+      "shortTitle": "南投公辦政見會時程",
+      "category": "每日選舉話題",
+      "county": "南投縣",
+      "date": "2026-11-10",
+      "summary": "南投縣選委會11月10日公告列載，本屆公辦電視政見發表會安排於11月18日至20日辦理；本次確認首頁公告，附件細節仍待核讀。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "南投縣選委會11月10日公告列載，本屆公辦電視政見發表會安排於11月18日至20日辦理；本次確認首頁公告，附件細節仍待核讀。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/ntec"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "中央社11月12日整理指出，南投縣長場安排於11月18日上午10時，每人發言15分鐘，發言順序由現場抽籤決定。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611125002.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點是職別、場次與收看入口。縣長場與議員分區場次應分別確認；目前僅有預定安排，後續仍須核對官方附件、臨時異動及完整回看資料。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/ntec",
+            "https://www.cna.com.tw/news/aipl/202611125002.aspx"
+          ]
+        }
+      ],
+      "question": "官方是否提供各選區完整場次、直播入口與播出後回看連結？",
+      "checkedAt": "2026-11-13",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "f34a360276ca31815dbdefe91cd77b3c2e52e054c0c87c15e26f4c352db94ef7"
+      ]
+    },
+    {
+      "id": "election-ai-information-20261020",
+      "title": "中選會說明深偽影音通報機制，候選人可提出移除請求",
+      "shortTitle": "深偽影音通報與處理",
+      "symbol": "✦",
+      "category": "每日選舉話題",
+      "county": null,
+      "districts": [],
+      "relatedNames": [],
+      "date": "2026-11-12",
+      "checkedAt": "2026-11-13",
+      "dailyUpdateKind": "progress",
+      "summary": "中央社11月12日報導，中選會說明已設防制專案小組，並與數發部合作，透過選舉AI深偽訊息通報網協助候選人通報及提出移除請求。這是機制說明，未證明個案已移除。",
+      "steps": [
+        {
+          "speaker": "新聞記錄（來源性質）",
+          "text": "中央社10月20日引述未具名國安人士的簡報說法，指AI被用於假帳號與分眾訊息投放。這是新聞轉述的情報評估，本站未獨立驗證其全部原始資料。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
+          ]
+        },
+        {
+          "speaker": "報導列出的風險",
+          "text": "報導轉述的操作包括依族群設計訊息、滲透同溫層、打擊政治參與意願，以及用民生爭議挑動情緒。這些是風險描述，不能自動歸因於某一候選人或支持者。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
+          ]
+        },
+        {
+          "speaker": "尚待核實",
+          "text": "本次未取得帳號逐筆清單、平台調查結論或可重現的完整資料；因此不在候選人頁加入與此相關的司法或犯罪標籤。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
+          ]
+        },
+        {
+          "speaker": "本站判讀",
+          "text": "看到大量相似貼文時，先追最早出處、完整影音及可核對文件，再確認日期與上下文。單看帳號立場、頭像或境外註冊線索，不足以證明個別帳號是假帳號或受指揮。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
+          ]
+        },
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社11月9日報導，中選會推出防制深偽影音宣導，由主委入鏡並邀宣導大使，提醒民眾查證選務資訊及留意投票注意事項。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611090059.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "10月20日既有報導轉述國安人士對AI假帳號及分眾訊息操作的評估。此次可確認的新內容為中選會宣導措施，個別帳號或影音的真偽仍需證據。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點為宣導措施與個案查證的銜接。閱讀疑似選務影音時，應比對原始發布機關、完整內容及日期，現有來源尚不足以認定特定候選人或帳號涉及操弄。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611090059.aspx",
+            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
+          ]
+        },
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社11月12日報導，中選會說明已設防制專案小組，並與數發部合作，透過選舉AI深偽訊息通報網協助候選人通報及提出移除請求。這是機制說明，未證明個案已移除。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611120161.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "中選會首頁列載11月12日競選活動規範提醒，將深偽影音防範與選舉期間應遵守事項一併公告。既有話題記錄的11月9日宣導措施保留原日期。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/central"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點是宣導如何銜接實際通報。此次新增的是11月12日對跨部會處理機制的公開說明；申請條件、證據要求、處理期限與平台回應仍須核對，不能由通報推定影音已被認定不實。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611120161.aspx",
+            "https://web.cec.gov.tw/central"
+          ]
+        }
+      ],
+      "question": "候選人提出通報與移除請求時，須備哪些證據，如何追蹤處理結果？",
+      "eventDate": "2026-10-20",
+      "dailyEvidenceFingerprints": [
+        "15119b7f35c3c95c17420aadc9ed1508d9429923f2ba0cb9e5091fb77a32f382",
+        "cd297001f1dde473e96b99bb2930a74ac7bb0aa71caa804de5f53afde1fd8a20"
+      ]
+    },
+    {
       "id": "keelung-debate-invitation-estimate-20261021",
       "county": "基隆市",
       "districts": [],
@@ -596,77 +732,6 @@
       "dailyUpdateKind": "review",
       "dailyEvidenceFingerprints": [
         "40833167d4e7edc0a58061b9fcd42ad4023dbed928c393be5ddf96b6becff917"
-      ]
-    },
-    {
-      "id": "election-ai-information-20261020",
-      "title": "中選會推出深偽防制宣導，提醒查證選務影音",
-      "shortTitle": "AI深偽選務查證",
-      "symbol": "✦",
-      "category": "每日選舉話題",
-      "county": null,
-      "districts": [],
-      "relatedNames": [],
-      "date": "2026-11-09",
-      "checkedAt": "2026-11-11",
-      "dailyUpdateKind": "progress",
-      "summary": "中央社11月9日報導，中選會推出防制深偽影音宣導，由主委入鏡並邀宣導大使，提醒民眾查證選務資訊及留意投票注意事項。",
-      "steps": [
-        {
-          "speaker": "新聞記錄（來源性質）",
-          "text": "中央社10月20日引述未具名國安人士的簡報說法，指AI被用於假帳號與分眾訊息投放。這是新聞轉述的情報評估，本站未獨立驗證其全部原始資料。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
-          ]
-        },
-        {
-          "speaker": "報導列出的風險",
-          "text": "報導轉述的操作包括依族群設計訊息、滲透同溫層、打擊政治參與意願，以及用民生爭議挑動情緒。這些是風險描述，不能自動歸因於某一候選人或支持者。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
-          ]
-        },
-        {
-          "speaker": "尚待核實",
-          "text": "本次未取得帳號逐筆清單、平台調查結論或可重現的完整資料；因此不在候選人頁加入與此相關的司法或犯罪標籤。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
-          ]
-        },
-        {
-          "speaker": "本站判讀",
-          "text": "看到大量相似貼文時，先追最早出處、完整影音及可核對文件，再確認日期與上下文。單看帳號立場、頭像或境外註冊線索，不足以證明個別帳號是假帳號或受指揮。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
-          ]
-        },
-        {
-          "speaker": "本次進度與來源說法",
-          "text": "中央社11月9日報導，中選會推出防制深偽影音宣導，由主委入鏡並邀宣導大使，提醒民眾查證選務資訊及留意投票注意事項。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202611090059.aspx"
-          ]
-        },
-        {
-          "speaker": "背景脈絡",
-          "text": "10月20日既有報導轉述國安人士對AI假帳號及分眾訊息操作的評估。此次可確認的新內容為中選會宣導措施，個別帳號或影音的真偽仍需證據。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
-          ]
-        },
-        {
-          "speaker": "判讀重點（本站整理）",
-          "text": "本站判讀重點為宣導措施與個案查證的銜接。閱讀疑似選務影音時，應比對原始發布機關、完整內容及日期，現有來源尚不足以認定特定候選人或帳號涉及操弄。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202611090059.aspx",
-            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
-          ]
-        }
-      ],
-      "question": "收到聲稱變更投票規則的影片時，你會如何找到選委會原始公告核對？",
-      "eventDate": "2026-10-20",
-      "dailyEvidenceFingerprints": [
-        "15119b7f35c3c95c17420aadc9ed1508d9429923f2ba0cb9e5091fb77a32f382"
       ]
     },
     {
