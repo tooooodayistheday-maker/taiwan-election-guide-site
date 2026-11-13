@@ -1,0 +1,59 @@
+{
+  "date": "2026-11-13",
+  "checked_at": "2026-11-13T10:03:07.952030+08:00",
+  "county_scope": [
+    "基隆市",
+    "新竹市",
+    "臺中市"
+  ],
+  "accepted_facts": 0,
+  "updated_people": 0,
+  "summary": "本日完成局部來源查核；新增通過逐條原文核對的資料 0 項。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/central",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://web.cec.gov.tw/klec",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://web.cec.gov.tw/hcec",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://www.taichung.gov.tw/3411469/post",
+      "title": "本次查核來源頁"
+    }
+  ],
+  "limitations": [
+    "本次為局部來源查核，不代表所有縣市或候選人已完整核實。",
+    "本次沒有自動改動司法、爭議、資格及名冊；新線索只保留在私人待核紀錄。"
+  ],
+  "review_leads_count": 0,
+  "rejected_count": 1,
+  "changes": [],
+  "topic_updates": [
+    {
+      "id": "keelung-debate-invitation-estimate-20261021",
+      "title": "基隆市長辯論已舉行，通勤主張如何比較？",
+      "kind": "review",
+      "summary": "來源複核：本次無新增可確認進度。",
+      "sources": [
+        "https://www.cna.com.tw/news/aloc/202611100118.aspx",
+        "https://www.cna.com.tw/news/aloc/202610210162.aspx"
+      ]
+    },
+    {
+      "id": "taichung-official-election-tv-forums-20261111",
+      "title": "臺中公布公辦政見會時程，市長場11月17日直播",
+      "kind": "review",
+      "summary": "來源複核：本次無新增可確認進度。",
+      "sources": [
+        "https://www.taichung.gov.tw/3411469/post",
+        "https://www.cna.com.tw/news/aloc/202611110125.aspx"
+      ]
+    }
+  ]
+}
