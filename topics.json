@@ -1,7 +1,102 @@
 {
-  "checkedAt": "2026-11-13",
+  "checkedAt": "2026-11-14",
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
+    {
+      "id": "hualien-youth-advisory-representation-20261112",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "魏嘉賢提大專青年代表參與縣政，遴選與回應機制待說明",
+      "shortTitle": "花蓮青年參與縣政主張",
+      "category": "每日選舉話題",
+      "county": "花蓮縣",
+      "date": "2026-11-12",
+      "summary": "中央社11月12日報導，魏嘉賢主張強化青年諮詢，讓縣內大專院校推薦青年代表參與公共決策。這是選舉中的政策提案，尚非已實施制度。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社11月12日報導，魏嘉賢主張強化青年諮詢，讓縣內大專院校推薦青年代表參與公共決策。這是選舉中的政策提案，尚非已實施制度。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611120320.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "報導記錄他在東華大學青年論壇交流縣政願景，並回應學生對參選差異的提問；未列完整代表遴選及運作方案。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611120320.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：應釐清推薦資格、席次、任期、非在學青年的參與途徑，以及縣府如何公開回應建議。諮詢參與不能直接等同取得法定決策權。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611120320.aspx",
+            "https://www.cna.com.tw/news/aipl/202611120320.aspx"
+          ]
+        }
+      ],
+      "question": "青年代表如何產生，未在大專院校就讀者如何參與，縣府又如何公開追蹤建議的處理結果？",
+      "checkedAt": "2026-11-14",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "6c84f2d75ee9cb75017677d87fc1f691fdb6f4cfd0b6fb558ed2d43b18be371e"
+      ]
+    },
+    {
+      "id": "national-voting-eligibility-online-query-20261110",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "投票資格線上查詢開放至11月12日",
+      "shortTitle": "投票資格查詢與更正",
+      "category": "每日選舉話題",
+      "county": null,
+      "date": "2026-11-10",
+      "summary": "內政部11月10日公告，11月10日至12日提供地方選舉及公投投票資格線上查詢。民眾也可至戶籍地公所閱覽名冊，發現錯誤時申請更正。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "內政部11月10日公告，11月10日至12日提供地方選舉及公投投票資格線上查詢。民眾也可至戶籍地公所閱覽名冊，發現錯誤時申請更正。",
+          "sourceUrls": [
+            "https://www.moi.gov.tw/News_Content.aspx?n=2&s=342902"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "中央社同日報導，另有11月23日至28日的投票所地點線上查詢服務。投票資格查詢與投票地點查詢各有開放期間。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611100317.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點為查詢時程與受理機關。資格疑義及名冊錯誤應交由戶籍地公所核對，本站戶籍導引所呈現的地理資訊不足以判定個人的投票資格。",
+          "sourceUrls": [
+            "https://www.moi.gov.tw/News_Content.aspx?n=2&s=342902",
+            "https://www.cna.com.tw/news/aipl/202611100317.aspx"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-11-14重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://www.moi.gov.tw/News_Content.aspx?n=2&s=343110",
+            "https://www.moi.gov.tw/News_Content.aspx?n=2&s=343110"
+          ]
+        }
+      ],
+      "question": "你是否已在開放期間核對投票資格，並確認名冊資料有誤時的更正窗口？",
+      "checkedAt": "2026-11-14",
+      "dailyUpdateKind": "review",
+      "dailyEvidenceFingerprints": [
+        "ddc7e80e07d46d5cef6a0af924a1e89cf6ec31953ed738dbd44ee82b8424937e",
+        "9edfda4eda6fa3bfa8502149a84892fec0644570e0de3f7f16be09657d04abed",
+        "d7f9e5add6d41de59a79622aee1a942852d6ec9d5a8b61e4eb9d56d63b168f84",
+        "2ae45e110aa5323b122fca6703769197616c6c5976034ca3fd64c5200d3dcb7b"
+      ]
+    },
     {
       "id": "nantou-official-election-forums-20261110",
       "symbol": "◇",
@@ -630,58 +725,6 @@
       "dailyUpdateKind": "review",
       "dailyEvidenceFingerprints": [
         "190980eb06a74c02ef1c4c4222fe5bf0cc089df5c3b4ce2f7e402346d6f5b750"
-      ]
-    },
-    {
-      "id": "national-voting-eligibility-online-query-20261110",
-      "symbol": "◇",
-      "relatedNames": [],
-      "districts": [],
-      "title": "投票資格線上查詢開放至11月12日",
-      "shortTitle": "投票資格查詢與更正",
-      "category": "每日選舉話題",
-      "county": null,
-      "date": "2026-11-10",
-      "summary": "內政部11月10日公告，11月10日至12日提供地方選舉及公投投票資格線上查詢。民眾也可至戶籍地公所閱覽名冊，發現錯誤時申請更正。",
-      "steps": [
-        {
-          "speaker": "本次進度與來源說法",
-          "text": "內政部11月10日公告，11月10日至12日提供地方選舉及公投投票資格線上查詢。民眾也可至戶籍地公所閱覽名冊，發現錯誤時申請更正。",
-          "sourceUrls": [
-            "https://www.moi.gov.tw/News_Content.aspx?n=2&s=342902"
-          ]
-        },
-        {
-          "speaker": "背景脈絡",
-          "text": "中央社同日報導，另有11月23日至28日的投票所地點線上查詢服務。投票資格查詢與投票地點查詢各有開放期間。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202611100317.aspx"
-          ]
-        },
-        {
-          "speaker": "判讀重點（本站整理）",
-          "text": "本站判讀重點為查詢時程與受理機關。資格疑義及名冊錯誤應交由戶籍地公所核對，本站戶籍導引所呈現的地理資訊不足以判定個人的投票資格。",
-          "sourceUrls": [
-            "https://www.moi.gov.tw/News_Content.aspx?n=2&s=342902",
-            "https://www.cna.com.tw/news/aipl/202611100317.aspx"
-          ]
-        },
-        {
-          "speaker": "每日來源複核",
-          "text": "2026-11-12重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
-          "sourceUrls": [
-            "https://www.moi.gov.tw/News_Content.aspx?n=2&s=342902",
-            "https://www.moi.gov.tw/News_Content.aspx?n=2&s=343110"
-          ]
-        }
-      ],
-      "question": "你是否已在開放期間核對投票資格，並確認名冊資料有誤時的更正窗口？",
-      "checkedAt": "2026-11-12",
-      "dailyUpdateKind": "review",
-      "dailyEvidenceFingerprints": [
-        "ddc7e80e07d46d5cef6a0af924a1e89cf6ec31953ed738dbd44ee82b8424937e",
-        "9edfda4eda6fa3bfa8502149a84892fec0644570e0de3f7f16be09657d04abed",
-        "d7f9e5add6d41de59a79622aee1a942852d6ec9d5a8b61e4eb9d56d63b168f84"
       ]
     },
     {
