@@ -1,0 +1,89 @@
+{
+  "entry_id": "election-night-2026-11-14-r02",
+  "kind": "manual",
+  "session_label": "election-night-2026-11-14・第2輪",
+  "date": "2026-11-15",
+  "checked_at": "2026-11-15T06:10:04.784052+08:00",
+  "county_scope": [
+    "臺北市",
+    "新北市"
+  ],
+  "accepted_facts": 1,
+  "updated_people": 1,
+  "summary": "加開時段第2輪：新增1項通過來源核對的資料；另查核兩則選舉話題。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/central/article/list/11150?page=1",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/mect",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/tpcec",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/tpcec/article/65778",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/tpcec/article/65575",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.northguan-nsa.gov.tw/USER/article.aspx?Lang=1&SNo=04008677",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aloc/202611120136.aspx",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aloc/202611130094.aspx",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aloc/202611130125.aspx",
+      "title": "本輪原始資料來源"
+    }
+  ],
+  "limitations": [
+    "局部來源查核，不代表全體候選人背景已完整核實。",
+    "司法、爭議與資格新線索僅保留待查，不自動修改標籤。"
+  ],
+  "review_leads_count": 2,
+  "rejected_count": 3,
+  "changes": [
+    {
+      "name": "陳語倢",
+      "county": "新北市",
+      "field": "experience",
+      "text": "黃國昌立法委員辦公室陳語倢主任",
+      "url": "https://www.northguan-nsa.gov.tw/USER/article.aspx?Lang=1&SNo=04008677"
+    }
+  ],
+  "topic_updates": [
+    {
+      "id": "taipei-civic-boulevard-stitching-policy-20261112",
+      "title": "沈伯洋提市民大道橋下空間改造，方案仍待徵詢",
+      "kind": "new",
+      "summary": "中央社11月12日報導，沈伯洋提出改善市民大道高架橋下空間的構想，以華山等三處作模擬基地，方向包括移除阻隔、改善跨越動線及轉化既有設施；他表示示意方案尚非定案，若當選將再蒐集意見。",
+      "sources": [
+        "https://www.cna.com.tw/news/aloc/202611120151.aspx",
+        "https://www.cna.com.tw/news/aloc/202611130269.aspx"
+      ]
+    },
+    {
+      "id": "new-taipei-civil-service-retention-policy-20261113",
+      "title": "新北政見會談公務人力，制度減壓與福利如何落實？",
+      "kind": "new",
+      "summary": "中央社11月13日報導，新北市長政見會討論公務人力流失。李四川主張簡化制度、鬆綁法令；蘇巧慧提出科技簡化流程、上任百日內擬定流程簡化指引，並研擬交通補助及職務宿舍。",
+      "sources": [
+        "https://www.cna.com.tw/news/aloc/202611130116.aspx",
+        "https://web.cec.gov.tw/tpcec/article/65575"
+      ]
+    }
+  ]
+}

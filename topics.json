@@ -3,6 +3,90 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "taipei-civic-boulevard-stitching-policy-20261112",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "沈伯洋提市民大道橋下空間改造，方案仍待徵詢",
+      "shortTitle": "市民大道橋下改造主張",
+      "category": "每日選舉話題",
+      "county": "臺北市",
+      "date": "2026-11-12",
+      "summary": "中央社11月12日報導，沈伯洋提出改善市民大道高架橋下空間的構想，以華山等三處作模擬基地，方向包括移除阻隔、改善跨越動線及轉化既有設施；他表示示意方案尚非定案，若當選將再蒐集意見。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社11月12日報導，沈伯洋提出改善市民大道高架橋下空間的構想，以華山等三處作模擬基地，方向包括移除阻隔、改善跨越動線及轉化既有設施；他表示示意方案尚非定案，若當選將再蒐集意見。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611120151.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "中央社11月13日另報導臺北市長公辦政見會安排，市長場訂於14日、21日舉行，讓選民可搭配完整發言比較候選人的市政方案；該報導本身不是橋下改造的核定文件。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611130269.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：模擬基地與示意圖仍屬競選提案。應追蹤橋下設施管理權責、交通與行人安全、跨局處協調、預算及公眾參與程序，並區分短期空間整理與需要工程審議的跨越設施。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611120151.aspx",
+            "https://www.cna.com.tw/news/aloc/202611130269.aspx"
+          ]
+        }
+      ],
+      "question": "各模擬基地的主管機關、預算來源及市民參與時程，何時能公開？",
+      "checkedAt": "2026-11-15",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "cc600989a27c1bf07d7908e9358cf9479e500b976ddcd85b486068b5170db142"
+      ]
+    },
+    {
+      "id": "new-taipei-civil-service-retention-policy-20261113",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "新北政見會談公務人力，制度減壓與福利如何落實？",
+      "shortTitle": "新北公務人力政策比較",
+      "category": "每日選舉話題",
+      "county": "新北市",
+      "date": "2026-11-13",
+      "summary": "中央社11月13日報導，新北市長政見會討論公務人力流失。李四川主張簡化制度、鬆綁法令；蘇巧慧提出科技簡化流程、上任百日內擬定流程簡化指引，並研擬交通補助及職務宿舍。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社11月13日報導，新北市長政見會討論公務人力流失。李四川主張簡化制度、鬆綁法令；蘇巧慧提出科技簡化流程、上任百日內擬定流程簡化指引，並研擬交通補助及職務宿舍。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611130116.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "新北市選委會原頁事前公告11月13日辦理市長公辦電視辯論式政見會，並提供日程附件。中央社後續正文記錄當日活動與候選人回答，兩者分別支持選務安排及政策發言。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/tpcec/article/65575"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：候選人的減壓與福利承諾仍待方案化。應分辨地方可調整的作業流程與需要中央修法的制度，核對宿舍房源、補助對象、年度成本，以及百日指引如何衡量減少工作負擔。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611130116.aspx",
+            "https://web.cec.gov.tw/tpcec/article/65575"
+          ]
+        }
+      ],
+      "question": "哪些流程可由市府直接簡化，哪些需中央修法？福利經費與留才成效將如何公開？",
+      "checkedAt": "2026-11-15",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "311e5125060a01b7b1270dde6ecbfe6a413897263baab4a66ddbbc0cec61a48a"
+      ]
+    },
+    {
       "id": "taichung-official-election-tv-forums-20261111",
       "symbol": "◇",
       "relatedNames": [],
