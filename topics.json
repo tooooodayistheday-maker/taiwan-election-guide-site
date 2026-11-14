@@ -1,7 +1,162 @@
 {
-  "checkedAt": "2026-11-14",
+  "checkedAt": "2026-11-15",
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
+    {
+      "id": "taichung-official-election-tv-forums-20261111",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "臺中公布公辦政見會時程，市長場11月17日直播",
+      "shortTitle": "臺中公辦政見會時程",
+      "category": "每日選舉話題",
+      "county": "臺中市",
+      "date": "2026-11-11",
+      "summary": "臺中市政府11月11日公布市長公辦政見會將於11月17日晚間7時採辯論形式舉行，選委會的YouTube平台將同步直播。市議員政見會安排在11月18日至22日分區播出。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "臺中市政府11月11日公布市長公辦政見會將於11月17日晚間7時採辯論形式舉行，選委會的YouTube平台將同步直播。市議員政見會安排在11月18日至22日分區播出。",
+          "sourceUrls": [
+            "https://cdn.www.taichung.gov.tw/3411469/post"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "中央社同日報導，市長場另安排11月24日晚間6時在電視重播。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611110125.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點是公辦場的收看安排。市長場有直播與重播，議員場按選區排播。選委會已說明提供手語翻譯，仍可核對各區頻道、確切時段及播出後的回看入口。",
+          "sourceUrls": [
+            "https://cdn.www.taichung.gov.tw/3411469/post",
+            "https://www.cna.com.tw/news/aloc/202611110125.aspx"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-11-15重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611110125.aspx",
+            "https://www.cna.com.tw/news/aloc/202611110125.aspx"
+          ]
+        }
+      ],
+      "question": "選委會是否會集中公布各選區播出表與回看連結？",
+      "checkedAt": "2026-11-15",
+      "dailyUpdateKind": "review",
+      "dailyEvidenceFingerprints": [
+        "556f4e12bfe6aa0fbbf2cec59a4ddf8e54229ddf1ccea4ea5a7eb374886290dc",
+        "f6f41289e7d06234b4c44b3e30a8deb793647f4d8c47cfdce15e0c91e047a954",
+        "8c16b703d1a884bf3ee4415e32a761a6428b2d10983daecc3c80c8e8f26d4ef1",
+        "7d944ee0e47a7940460e96b0421b0d8fefb47a5da75c0fa6e0250947ee56213d"
+      ]
+    },
+    {
+      "id": "election-ai-information-20261020",
+      "title": "中選會說明深偽影音通報機制，候選人可提出移除請求",
+      "shortTitle": "深偽影音通報與處理",
+      "symbol": "✦",
+      "category": "每日選舉話題",
+      "county": null,
+      "districts": [],
+      "relatedNames": [],
+      "date": "2026-11-12",
+      "checkedAt": "2026-11-15",
+      "dailyUpdateKind": "review",
+      "summary": "中央社11月12日報導，中選會說明已設防制專案小組，並與數發部合作，透過選舉AI深偽訊息通報網協助候選人通報及提出移除請求。這是機制說明，未證明個案已移除。",
+      "steps": [
+        {
+          "speaker": "新聞記錄（來源性質）",
+          "text": "中央社10月20日引述未具名國安人士的簡報說法，指AI被用於假帳號與分眾訊息投放。這是新聞轉述的情報評估，本站未獨立驗證其全部原始資料。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
+          ]
+        },
+        {
+          "speaker": "報導列出的風險",
+          "text": "報導轉述的操作包括依族群設計訊息、滲透同溫層、打擊政治參與意願，以及用民生爭議挑動情緒。這些是風險描述，不能自動歸因於某一候選人或支持者。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
+          ]
+        },
+        {
+          "speaker": "尚待核實",
+          "text": "本次未取得帳號逐筆清單、平台調查結論或可重現的完整資料；因此不在候選人頁加入與此相關的司法或犯罪標籤。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
+          ]
+        },
+        {
+          "speaker": "本站判讀",
+          "text": "看到大量相似貼文時，先追最早出處、完整影音及可核對文件，再確認日期與上下文。單看帳號立場、頭像或境外註冊線索，不足以證明個別帳號是假帳號或受指揮。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
+          ]
+        },
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社11月9日報導，中選會推出防制深偽影音宣導，由主委入鏡並邀宣導大使，提醒民眾查證選務資訊及留意投票注意事項。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611090059.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "10月20日既有報導轉述國安人士對AI假帳號及分眾訊息操作的評估。此次可確認的新內容為中選會宣導措施，個別帳號或影音的真偽仍需證據。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點為宣導措施與個案查證的銜接。閱讀疑似選務影音時，應比對原始發布機關、完整內容及日期，現有來源尚不足以認定特定候選人或帳號涉及操弄。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611090059.aspx",
+            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
+          ]
+        },
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社11月12日報導，中選會說明已設防制專案小組，並與數發部合作，透過選舉AI深偽訊息通報網協助候選人通報及提出移除請求。這是機制說明，未證明個案已移除。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611120161.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "中選會首頁列載11月12日競選活動規範提醒，將深偽影音防範與選舉期間應遵守事項一併公告。既有話題記錄的11月9日宣導措施保留原日期。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/central"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點是宣導如何銜接實際通報。此次新增的是11月12日對跨部會處理機制的公開說明；申請條件、證據要求、處理期限與平台回應仍須核對，不能由通報推定影音已被認定不實。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611120161.aspx",
+            "https://web.cec.gov.tw/central"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-11-15重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611120161.aspx",
+            "https://www.cna.com.tw/news/aipl/202611120161.aspx"
+          ]
+        }
+      ],
+      "question": "候選人提出通報與移除請求時，須備哪些證據，如何追蹤處理結果？",
+      "eventDate": "2026-10-20",
+      "dailyEvidenceFingerprints": [
+        "15119b7f35c3c95c17420aadc9ed1508d9429923f2ba0cb9e5091fb77a32f382",
+        "cd297001f1dde473e96b99bb2930a74ac7bb0aa71caa804de5f53afde1fd8a20"
+      ]
+    },
     {
       "id": "hualien-youth-advisory-representation-20261112",
       "symbol": "◇",
@@ -140,100 +295,6 @@
       ]
     },
     {
-      "id": "election-ai-information-20261020",
-      "title": "中選會說明深偽影音通報機制，候選人可提出移除請求",
-      "shortTitle": "深偽影音通報與處理",
-      "symbol": "✦",
-      "category": "每日選舉話題",
-      "county": null,
-      "districts": [],
-      "relatedNames": [],
-      "date": "2026-11-12",
-      "checkedAt": "2026-11-13",
-      "dailyUpdateKind": "progress",
-      "summary": "中央社11月12日報導，中選會說明已設防制專案小組，並與數發部合作，透過選舉AI深偽訊息通報網協助候選人通報及提出移除請求。這是機制說明，未證明個案已移除。",
-      "steps": [
-        {
-          "speaker": "新聞記錄（來源性質）",
-          "text": "中央社10月20日引述未具名國安人士的簡報說法，指AI被用於假帳號與分眾訊息投放。這是新聞轉述的情報評估，本站未獨立驗證其全部原始資料。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
-          ]
-        },
-        {
-          "speaker": "報導列出的風險",
-          "text": "報導轉述的操作包括依族群設計訊息、滲透同溫層、打擊政治參與意願，以及用民生爭議挑動情緒。這些是風險描述，不能自動歸因於某一候選人或支持者。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
-          ]
-        },
-        {
-          "speaker": "尚待核實",
-          "text": "本次未取得帳號逐筆清單、平台調查結論或可重現的完整資料；因此不在候選人頁加入與此相關的司法或犯罪標籤。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
-          ]
-        },
-        {
-          "speaker": "本站判讀",
-          "text": "看到大量相似貼文時，先追最早出處、完整影音及可核對文件，再確認日期與上下文。單看帳號立場、頭像或境外註冊線索，不足以證明個別帳號是假帳號或受指揮。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
-          ]
-        },
-        {
-          "speaker": "本次進度與來源說法",
-          "text": "中央社11月9日報導，中選會推出防制深偽影音宣導，由主委入鏡並邀宣導大使，提醒民眾查證選務資訊及留意投票注意事項。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202611090059.aspx"
-          ]
-        },
-        {
-          "speaker": "背景脈絡",
-          "text": "10月20日既有報導轉述國安人士對AI假帳號及分眾訊息操作的評估。此次可確認的新內容為中選會宣導措施，個別帳號或影音的真偽仍需證據。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
-          ]
-        },
-        {
-          "speaker": "判讀重點（本站整理）",
-          "text": "本站判讀重點為宣導措施與個案查證的銜接。閱讀疑似選務影音時，應比對原始發布機關、完整內容及日期，現有來源尚不足以認定特定候選人或帳號涉及操弄。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202611090059.aspx",
-            "https://www.cna.com.tw/news/aipl/202610200060.aspx"
-          ]
-        },
-        {
-          "speaker": "本次進度與來源說法",
-          "text": "中央社11月12日報導，中選會說明已設防制專案小組，並與數發部合作，透過選舉AI深偽訊息通報網協助候選人通報及提出移除請求。這是機制說明，未證明個案已移除。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202611120161.aspx"
-          ]
-        },
-        {
-          "speaker": "背景脈絡",
-          "text": "中選會首頁列載11月12日競選活動規範提醒，將深偽影音防範與選舉期間應遵守事項一併公告。既有話題記錄的11月9日宣導措施保留原日期。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/central"
-          ]
-        },
-        {
-          "speaker": "判讀重點（本站整理）",
-          "text": "本站判讀重點是宣導如何銜接實際通報。此次新增的是11月12日對跨部會處理機制的公開說明；申請條件、證據要求、處理期限與平台回應仍須核對，不能由通報推定影音已被認定不實。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202611120161.aspx",
-            "https://web.cec.gov.tw/central"
-          ]
-        }
-      ],
-      "question": "候選人提出通報與移除請求時，須備哪些證據，如何追蹤處理結果？",
-      "eventDate": "2026-10-20",
-      "dailyEvidenceFingerprints": [
-        "15119b7f35c3c95c17420aadc9ed1508d9429923f2ba0cb9e5091fb77a32f382",
-        "cd297001f1dde473e96b99bb2930a74ac7bb0aa71caa804de5f53afde1fd8a20"
-      ]
-    },
-    {
       "id": "keelung-debate-invitation-estimate-20261021",
       "county": "基隆市",
       "districts": [],
@@ -308,58 +369,6 @@
         "71a59244f8866f6def9a9177ea568a4315b5be4b59ad22b48f878af51569e02f",
         "c816e360d3f41444cd3d694d677de66cbf2966e6a61777dc3f9fb6332ba109aa",
         "09d7a23976769b3092eaabeb102aa2eb38d3d118f68b88dbf56c192be838d989"
-      ]
-    },
-    {
-      "id": "taichung-official-election-tv-forums-20261111",
-      "symbol": "◇",
-      "relatedNames": [],
-      "districts": [],
-      "title": "臺中公布公辦政見會時程，市長場11月17日直播",
-      "shortTitle": "臺中公辦政見會時程",
-      "category": "每日選舉話題",
-      "county": "臺中市",
-      "date": "2026-11-11",
-      "summary": "臺中市政府11月11日公布市長公辦政見會將於11月17日晚間7時採辯論形式舉行，選委會的YouTube平台將同步直播。市議員政見會安排在11月18日至22日分區播出。",
-      "steps": [
-        {
-          "speaker": "本次進度與來源說法",
-          "text": "臺中市政府11月11日公布市長公辦政見會將於11月17日晚間7時採辯論形式舉行，選委會的YouTube平台將同步直播。市議員政見會安排在11月18日至22日分區播出。",
-          "sourceUrls": [
-            "https://cdn.www.taichung.gov.tw/3411469/post"
-          ]
-        },
-        {
-          "speaker": "背景脈絡",
-          "text": "中央社同日報導，市長場另安排11月24日晚間6時在電視重播。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202611110125.aspx"
-          ]
-        },
-        {
-          "speaker": "判讀重點（本站整理）",
-          "text": "本站判讀重點是公辦場的收看安排。市長場有直播與重播，議員場按選區排播。選委會已說明提供手語翻譯，仍可核對各區頻道、確切時段及播出後的回看入口。",
-          "sourceUrls": [
-            "https://cdn.www.taichung.gov.tw/3411469/post",
-            "https://www.cna.com.tw/news/aloc/202611110125.aspx"
-          ]
-        },
-        {
-          "speaker": "每日來源複核",
-          "text": "2026-11-13重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
-          "sourceUrls": [
-            "https://www.taichung.gov.tw/3411469/post",
-            "https://www.cna.com.tw/news/aloc/202611110125.aspx"
-          ]
-        }
-      ],
-      "question": "選委會是否會集中公布各選區播出表與回看連結？",
-      "checkedAt": "2026-11-13",
-      "dailyUpdateKind": "review",
-      "dailyEvidenceFingerprints": [
-        "556f4e12bfe6aa0fbbf2cec59a4ddf8e54229ddf1ccea4ea5a7eb374886290dc",
-        "f6f41289e7d06234b4c44b3e30a8deb793647f4d8c47cfdce15e0c91e047a954",
-        "8c16b703d1a884bf3ee4415e32a761a6428b2d10983daecc3c80c8e8f26d4ef1"
       ]
     },
     {

@@ -1,5 +1,82 @@
 [
   {
+    "entry_id": "election-night-2026-11-14-r03",
+    "kind": "manual",
+    "session_label": "election-night-2026-11-14・第3輪",
+    "date": "2026-11-15",
+    "checked_at": "2026-11-15T00:04:14.627489+08:00",
+    "county_scope": [
+      "桃園市",
+      "臺中市"
+    ],
+    "accepted_facts": 1,
+    "updated_people": 1,
+    "summary": "加開時段第3輪：新增1項通過來源核對的資料；另查核兩則選舉話題。",
+    "official_checks": [
+      {
+        "url": "https://web.cec.gov.tw/tyec",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/tyec/article/65648",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/tcec/article/list/332?beginDate=&endDate=&keyword=&page=1",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/central",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.fuxing.tycg.gov.tw/cp.aspx?n=7103",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aipl/202611030133.aspx",
+        "title": "本輪原始資料來源"
+      }
+    ],
+    "limitations": [
+      "局部來源查核，不代表全體候選人背景已完整核實。",
+      "司法、爭議與資格新線索僅保留待查，不自動修改標籤。"
+    ],
+    "review_leads_count": 2,
+    "rejected_count": 2,
+    "changes": [
+      {
+        "name": "余文源",
+        "county": "桃園市",
+        "field": "experience",
+        "text": "代表：余文源",
+        "url": "https://www.fuxing.tycg.gov.tw/cp.aspx?n=7103"
+      }
+    ],
+    "topic_updates": [
+      {
+        "id": "taichung-official-election-tv-forums-20261111",
+        "title": "臺中公布公辦政見會時程，市長場11月17日直播",
+        "kind": "review",
+        "summary": "來源複核：本次無新增可確認進度。",
+        "sources": [
+          "https://www.cna.com.tw/news/aloc/202611110125.aspx",
+          "https://www.cna.com.tw/news/aloc/202611110125.aspx"
+        ]
+      },
+      {
+        "id": "election-ai-information-20261020",
+        "title": "中選會說明深偽影音通報機制，候選人可提出移除請求",
+        "kind": "review",
+        "summary": "來源複核：本次無新增可確認進度。",
+        "sources": [
+          "https://www.cna.com.tw/news/aipl/202611120161.aspx",
+          "https://www.cna.com.tw/news/aipl/202611120161.aspx"
+        ]
+      }
+    ]
+  },
+  {
     "entry_id": "election-night-2026-11-13-r03",
     "kind": "manual",
     "session_label": "election-night-2026-11-13・第3輪",
