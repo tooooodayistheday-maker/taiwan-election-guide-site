@@ -1,5 +1,82 @@
 [
   {
+    "entry_id": "election-night-2026-11-14-r01",
+    "kind": "manual",
+    "session_label": "election-night-2026-11-14・第1輪",
+    "date": "2026-11-15",
+    "checked_at": "2026-11-15T06:04:07.834609+08:00",
+    "county_scope": [
+      "金門縣",
+      "連江縣"
+    ],
+    "accepted_facts": 1,
+    "updated_people": 1,
+    "summary": "加開時段第1輪：新增1項通過來源核對的資料；另查核兩則選舉話題。",
+    "official_checks": [
+      {
+        "url": "https://web.cec.gov.tw/kmec",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/lcec",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/kmec/article/65563",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/kmec/article/65457",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.matsu-news.gov.tw/news/article/206301",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.kmdn.gov.tw/1117/1271/1272/590686/",
+        "title": "本輪原始資料來源"
+      }
+    ],
+    "limitations": [
+      "局部來源查核，不代表全體候選人背景已完整核實。",
+      "司法、爭議與資格新線索僅保留待查，不自動修改標籤。"
+    ],
+    "review_leads_count": 2,
+    "rejected_count": 5,
+    "changes": [
+      {
+        "name": "林志東",
+        "county": "連江縣",
+        "field": "experience",
+        "text": "過去擔任港務處長、公所秘書等要職",
+        "url": "https://www.matsu-news.gov.tw/news/article/206301"
+      }
+    ],
+    "topic_updates": [
+      {
+        "id": "taichung-official-election-tv-forums-20261111",
+        "title": "臺中公布公辦政見會時程，市長場11月17日直播",
+        "kind": "review",
+        "summary": "來源複核：本次無新增可確認進度。",
+        "sources": [
+          "https://www.cna.com.tw/news/aloc/202611110125.aspx",
+          "https://www.cna.com.tw/news/aloc/202611110125.aspx"
+        ]
+      },
+      {
+        "id": "hualien-youth-advisory-representation-20261112",
+        "title": "魏嘉賢提大專青年代表參與縣政，遴選與回應機制待說明",
+        "kind": "review",
+        "summary": "來源複核：本次無新增可確認進度。",
+        "sources": [
+          "https://www.cna.com.tw/news/aipl/202611120320.aspx",
+          "https://www.cna.com.tw/news/aipl/202611120320.aspx"
+        ]
+      }
+    ]
+  },
+  {
     "entry_id": "election-night-2026-11-14-r03",
     "kind": "manual",
     "session_label": "election-night-2026-11-14・第3輪",

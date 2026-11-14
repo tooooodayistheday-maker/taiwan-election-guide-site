@@ -52,7 +52,59 @@
         "556f4e12bfe6aa0fbbf2cec59a4ddf8e54229ddf1ccea4ea5a7eb374886290dc",
         "f6f41289e7d06234b4c44b3e30a8deb793647f4d8c47cfdce15e0c91e047a954",
         "8c16b703d1a884bf3ee4415e32a761a6428b2d10983daecc3c80c8e8f26d4ef1",
-        "7d944ee0e47a7940460e96b0421b0d8fefb47a5da75c0fa6e0250947ee56213d"
+        "7d944ee0e47a7940460e96b0421b0d8fefb47a5da75c0fa6e0250947ee56213d",
+        "65cc5dfb7ff0bd4a7d066d8f8105766032ca6e8658ce5340779a009927848baa"
+      ]
+    },
+    {
+      "id": "hualien-youth-advisory-representation-20261112",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "魏嘉賢提大專青年代表參與縣政，遴選與回應機制待說明",
+      "shortTitle": "花蓮青年參與縣政主張",
+      "category": "每日選舉話題",
+      "county": "花蓮縣",
+      "date": "2026-11-12",
+      "summary": "中央社11月12日報導，魏嘉賢主張強化青年諮詢，讓縣內大專院校推薦青年代表參與公共決策。這是選舉中的政策提案，尚非已實施制度。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社11月12日報導，魏嘉賢主張強化青年諮詢，讓縣內大專院校推薦青年代表參與公共決策。這是選舉中的政策提案，尚非已實施制度。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611120320.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "報導記錄他在東華大學青年論壇交流縣政願景，並回應學生對參選差異的提問；未列完整代表遴選及運作方案。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611120320.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：應釐清推薦資格、席次、任期、非在學青年的參與途徑，以及縣府如何公開回應建議。諮詢參與不能直接等同取得法定決策權。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611120320.aspx",
+            "https://www.cna.com.tw/news/aipl/202611120320.aspx"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-11-15重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611120320.aspx",
+            "https://www.cna.com.tw/news/aipl/202611120320.aspx"
+          ]
+        }
+      ],
+      "question": "青年代表如何產生，未在大專院校就讀者如何參與，縣府又如何公開追蹤建議的處理結果？",
+      "checkedAt": "2026-11-15",
+      "dailyUpdateKind": "review",
+      "dailyEvidenceFingerprints": [
+        "6c84f2d75ee9cb75017677d87fc1f691fdb6f4cfd0b6fb558ed2d43b18be371e",
+        "ac20d05510b756ade91bfc3cae362ddf25f0d3166af74f9fdf03fc565ee218d0"
       ]
     },
     {
@@ -155,48 +207,6 @@
       "dailyEvidenceFingerprints": [
         "15119b7f35c3c95c17420aadc9ed1508d9429923f2ba0cb9e5091fb77a32f382",
         "cd297001f1dde473e96b99bb2930a74ac7bb0aa71caa804de5f53afde1fd8a20"
-      ]
-    },
-    {
-      "id": "hualien-youth-advisory-representation-20261112",
-      "symbol": "◇",
-      "relatedNames": [],
-      "districts": [],
-      "title": "魏嘉賢提大專青年代表參與縣政，遴選與回應機制待說明",
-      "shortTitle": "花蓮青年參與縣政主張",
-      "category": "每日選舉話題",
-      "county": "花蓮縣",
-      "date": "2026-11-12",
-      "summary": "中央社11月12日報導，魏嘉賢主張強化青年諮詢，讓縣內大專院校推薦青年代表參與公共決策。這是選舉中的政策提案，尚非已實施制度。",
-      "steps": [
-        {
-          "speaker": "本次進度與來源說法",
-          "text": "中央社11月12日報導，魏嘉賢主張強化青年諮詢，讓縣內大專院校推薦青年代表參與公共決策。這是選舉中的政策提案，尚非已實施制度。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202611120320.aspx"
-          ]
-        },
-        {
-          "speaker": "背景脈絡",
-          "text": "報導記錄他在東華大學青年論壇交流縣政願景，並回應學生對參選差異的提問；未列完整代表遴選及運作方案。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202611120320.aspx"
-          ]
-        },
-        {
-          "speaker": "判讀重點（本站整理）",
-          "text": "本站判讀重點：應釐清推薦資格、席次、任期、非在學青年的參與途徑，以及縣府如何公開回應建議。諮詢參與不能直接等同取得法定決策權。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202611120320.aspx",
-            "https://www.cna.com.tw/news/aipl/202611120320.aspx"
-          ]
-        }
-      ],
-      "question": "青年代表如何產生，未在大專院校就讀者如何參與，縣府又如何公開追蹤建議的處理結果？",
-      "checkedAt": "2026-11-14",
-      "dailyUpdateKind": "new",
-      "dailyEvidenceFingerprints": [
-        "6c84f2d75ee9cb75017677d87fc1f691fdb6f4cfd0b6fb558ed2d43b18be371e"
       ]
     },
     {
