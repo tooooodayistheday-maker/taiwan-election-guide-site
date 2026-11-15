@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-15",
+  "checked_at": "2026-11-15T10:03:05.853538+08:00",
+  "county_scope": [
+    "苗栗縣",
+    "彰化縣"
+  ],
+  "accepted_facts": 1,
+  "updated_people": 1,
+  "summary": "本日完成局部來源查核；新增通過逐條原文核對的資料 1 項。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/central",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://web.cec.gov.tw/mlec",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://web.cec.gov.tw/chec",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1014059&sms=9462",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://www.ly.gov.tw/EngPages/Detail.aspx?nodeid=4961&pid=23831",
+      "title": "本次查核來源頁"
+    }
+  ],
+  "limitations": [
+    "本次為局部來源查核，不代表所有縣市或候選人已完整核實。",
+    "本次沒有自動改動司法、爭議、資格及名冊；新線索只保留在私人待核紀錄。"
+  ],
+  "review_leads_count": 1,
+  "rejected_count": 2,
+  "changes": [
+    {
+      "name": "顧勝敏",
+      "county": "彰化縣",
+      "field": "education",
+      "text": "畢業於中山醫學大學",
+      "url": "https://www.ly.gov.tw/EngPages/Detail.aspx?nodeid=4961&pid=23831"
+    }
+  ],
+  "topic_updates": [
+    {
+      "id": "miaoli-official-election-forums-20261112",
+      "title": "苗栗公布公辦政見會安排，縣長場19日、24日直播",
+      "kind": "review",
+      "summary": "來源複核：本次無新增可確認進度。",
+      "sources": [
+        "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1014059&sms=9462",
+        "https://web.cec.gov.tw/mlec"
+      ]
+    },
+    {
+      "id": "changhua-industry-transition-policy-20261109",
+      "title": "魏平政提產業轉型與單一窗口，執行條件如何確認？",
+      "kind": "review",
+      "summary": "來源複核：本次無新增可確認進度。",
+      "sources": [
+        "https://www.cna.com.tw/news/aloc/202611090094.aspx",
+        "https://www.cna.com.tw/news/aipl/202611020237.aspx"
+      ]
+    }
+  ]
+}
