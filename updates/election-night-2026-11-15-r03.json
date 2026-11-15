@@ -1,0 +1,113 @@
+{
+  "entry_id": "election-night-2026-11-15-r03",
+  "kind": "manual",
+  "session_label": "election-night-2026-11-15・第3輪",
+  "date": "2026-11-16",
+  "checked_at": "2026-11-16T00:04:47.673568+08:00",
+  "county_scope": [
+    "苗栗縣",
+    "彰化縣"
+  ],
+  "accepted_facts": 5,
+  "updated_people": 3,
+  "summary": "加開時段第3輪：新增5項通過來源核對的資料；另查核兩則選舉話題。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/chec",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/mlec/article/65791",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1014059&sms=9462",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.moi.gov.tw/LocalOfficial_Content.aspx?TYP=KND0003&_PARENT_ID=ER11112KC00098&_TYP=REP&n=575",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.juolan.gov.tw/News_Content.aspx?n=3172&s=154658",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.chccouncil.gov.tw/?aid=52&pid=95",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.chcg.gov.tw/TSO/huatan/04bulletin/bulletin02_con.aspx?bull_id=438876",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202611030133.aspx",
+      "title": "本輪原始資料來源"
+    }
+  ],
+  "limitations": [
+    "局部來源查核，不代表全體候選人背景已完整核實。",
+    "司法、爭議與資格新線索僅保留待查，不自動修改標籤。"
+  ],
+  "review_leads_count": 0,
+  "rejected_count": 1,
+  "changes": [
+    {
+      "name": "徐裕逢",
+      "county": "苗栗縣",
+      "field": "education",
+      "text": "1.國立彰化師範大學工業教育與技術學系碩士。 2.國立屏東科技大學學士。",
+      "url": "https://www.moi.gov.tw/LocalOfficial_Content.aspx?TYP=KND0003&_PARENT_ID=ER11112KC00098&_TYP=REP&n=575"
+    },
+    {
+      "name": "徐裕逢",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "HELLO中平FB社群創辦人",
+      "url": "https://www.moi.gov.tw/LocalOfficial_Content.aspx?TYP=KND0003&_PARENT_ID=ER11112KC00098&_TYP=REP&n=575"
+    },
+    {
+      "name": "詹秉憲",
+      "county": "苗栗縣",
+      "field": "experience",
+      "text": "峨崙廟管理委員會主任委員",
+      "url": "https://www.juolan.gov.tw/News_Content.aspx?n=3172&s=154658"
+    },
+    {
+      "name": "陳文賓",
+      "county": "彰化縣",
+      "field": "education",
+      "text": "中州科技大學",
+      "url": "https://www.chccouncil.gov.tw/?aid=52&pid=95"
+    },
+    {
+      "name": "陳文賓",
+      "county": "彰化縣",
+      "field": "experience",
+      "text": "彰化市第 19 屆市民代表會主席",
+      "url": "https://www.chccouncil.gov.tw/?aid=52&pid=95"
+    }
+  ],
+  "topic_updates": [
+    {
+      "id": "changhua-welfare-shopping-credit-policy-20261113",
+      "title": "魏平政提提高長青卡折抵，既有制度與競選承諾須分開",
+      "kind": "new",
+      "summary": "中央社11月13日報導，魏平政提出當選後將長青幸福卡農漁會消費折抵提高至500元，同場另提長者敬老金及健保費補助。這些是競選方案，尚非本輪確認已可申領的新增福利。",
+      "sources": [
+        "https://www.cna.com.tw/news/aipl/202611130112.aspx",
+        "https://www.chcg.gov.tw/TSO/huatan/04bulletin/bulletin02_con.aspx?bull_id=438876"
+      ]
+    },
+    {
+      "id": "miaoli-official-election-forums-20261112",
+      "title": "苗栗公布公辦政見會安排，縣長場19日、24日直播",
+      "kind": "review",
+      "summary": "來源複核：本次無新增可確認進度。",
+      "sources": [
+        "https://www.cna.com.tw/news/aloc/202611120155.aspx",
+        "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1014059&sms=9462"
+      ]
+    }
+  ]
+}
