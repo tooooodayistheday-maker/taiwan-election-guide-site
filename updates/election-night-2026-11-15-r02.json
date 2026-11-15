@@ -1,0 +1,77 @@
+{
+  "entry_id": "election-night-2026-11-15-r02",
+  "kind": "manual",
+  "session_label": "election-night-2026-11-15・第2輪",
+  "date": "2026-11-15",
+  "checked_at": "2026-11-15T23:34:23.391846+08:00",
+  "county_scope": [
+    "嘉義市",
+    "新竹縣"
+  ],
+  "accepted_facts": 0,
+  "updated_people": 0,
+  "summary": "加開時段第2輪：新增0項通過來源核對的資料；另查核兩則選舉話題。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/cyec",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cec.gov.tw/hccec",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/central",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/cyec/sitemap",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/hccec/sitemap",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/central/article/61722",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202611140117.aspx",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202609240202.aspx",
+      "title": "本輪原始資料來源"
+    }
+  ],
+  "limitations": [
+    "局部來源查核，不代表全體候選人背景已完整核實。",
+    "司法、爭議與資格新線索僅保留待查，不自動修改標籤。"
+  ],
+  "review_leads_count": 0,
+  "rejected_count": 3,
+  "changes": [],
+  "topic_updates": [
+    {
+      "id": "chiayi-city-affordable-housing-policy-20261112",
+      "title": "張啓楷提青年可負擔住宅，財源與取得方式待說明",
+      "kind": "new",
+      "summary": "中央社11月12日報導，張啓楷提出青年可負擔住宅方向，並表示要鼓勵建商捐建社宅；張善政到場分享桃園的住宅制度經驗。",
+      "sources": [
+        "https://www.cna.com.tw/news/aipl/202611120242.aspx",
+        "https://web.cec.gov.tw/cyec"
+      ]
+    },
+    {
+      "id": "hsinchu-county-public-piano-policy-20261111",
+      "title": "鄭朝方提公共鋼琴，公共空間設置與維護如何安排？",
+      "kind": "review",
+      "summary": "來源複核：本次無新增可確認進度。",
+      "sources": [
+        "https://www.cna.com.tw/news/aipl/202611110269.aspx",
+        "https://www.cna.com.tw/news/aloc/202611100229.aspx"
+      ]
+    }
+  ]
+}
