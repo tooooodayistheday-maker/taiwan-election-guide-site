@@ -1,5 +1,86 @@
 [
   {
+    "entry_id": "election-night-2026-11-15-r01",
+    "kind": "manual",
+    "session_label": "election-night-2026-11-15・第1輪",
+    "date": "2026-11-15",
+    "checked_at": "2026-11-15T23:05:21.931480+08:00",
+    "county_scope": [
+      "基隆市",
+      "新竹市"
+    ],
+    "accepted_facts": 1,
+    "updated_people": 1,
+    "summary": "加開時段第1輪：新增1項通過來源核對的資料；另查核兩則選舉話題。",
+    "official_checks": [
+      {
+        "url": "https://web.cec.gov.tw/klec",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/hcec",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/central",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/central/article/list/11150?page=1",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.klcg.gov.tw/tw/klcg1/3168-278039.html",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aloc/202309050239.aspx",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aipl/202611030133.aspx",
+        "title": "本輪原始資料來源"
+      }
+    ],
+    "limitations": [
+      "局部來源查核，不代表全體候選人背景已完整核實。",
+      "司法、爭議與資格新線索僅保留待查，不自動修改標籤。"
+    ],
+    "review_leads_count": 1,
+    "rejected_count": 4,
+    "changes": [
+      {
+        "name": "錢康明",
+        "county": "新竹市",
+        "field": "experience",
+        "text": "曾任台中國家歌劇院評鑑暨評議委員、藍天空劇團藝術總監",
+        "url": "https://www.cna.com.tw/news/aloc/202309050239.aspx"
+      }
+    ],
+    "topic_updates": [
+      {
+        "id": "indigenous-election-language-access-20261113",
+        "title": "中選會推出17族語宣導，投票服務措施如何適用？",
+        "kind": "new",
+        "summary": "中央社11月13日報導，中選會推出17族族語選務海報，說明投票日期、時間及應攜證件，並介紹原住民投票服務調整。",
+        "sources": [
+          "https://www.cna.com.tw/news/aipl/202611130204.aspx",
+          "https://web.cec.gov.tw/central"
+        ]
+      },
+      {
+        "id": "keelung-debate-invitation-estimate-20261021",
+        "title": "基隆市長辯論已舉行，通勤主張如何比較？",
+        "kind": "review",
+        "summary": "來源複核：本次無新增可確認進度。",
+        "sources": [
+          "https://www.cna.com.tw/news/aloc/202611100118.aspx",
+          "https://www.cna.com.tw/news/aloc/202611100118.aspx"
+        ]
+      }
+    ]
+  },
+  {
     "entry_id": "election-night-2026-11-14-r02",
     "kind": "manual",
     "session_label": "election-night-2026-11-14・第2輪",
