@@ -3,6 +3,107 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "nantou-official-election-forums-20261110",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "南投公告公辦政見會時程，縣長場18日上午登場",
+      "shortTitle": "南投公辦政見會時程",
+      "category": "每日選舉話題",
+      "county": "南投縣",
+      "date": "2026-11-10",
+      "summary": "南投縣選委會11月10日公告列載，本屆公辦電視政見發表會安排於11月18日至20日辦理；本次確認首頁公告，附件細節仍待核讀。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "南投縣選委會11月10日公告列載，本屆公辦電視政見發表會安排於11月18日至20日辦理；本次確認首頁公告，附件細節仍待核讀。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/ntec"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "中央社11月12日整理指出，南投縣長場安排於11月18日上午10時，每人發言15分鐘，發言順序由現場抽籤決定。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611125002.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點是職別、場次與收看入口。縣長場與議員分區場次應分別確認；目前僅有預定安排，後續仍須核對官方附件、臨時異動及完整回看資料。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/ntec",
+            "https://www.cna.com.tw/news/aipl/202611125002.aspx"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-11-16重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/ntec",
+            "https://www.cna.com.tw/news/aipl/202611125002.aspx"
+          ]
+        }
+      ],
+      "question": "官方是否提供各選區完整場次、直播入口與播出後回看連結？",
+      "checkedAt": "2026-11-16",
+      "dailyUpdateKind": "review",
+      "dailyEvidenceFingerprints": [
+        "f34a360276ca31815dbdefe91cd77b3c2e52e054c0c87c15e26f4c352db94ef7"
+      ]
+    },
+    {
+      "id": "indigenous-election-language-access-20261113",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "中選會推出17族語宣導，投票服務措施如何適用？",
+      "shortTitle": "族語宣導與投票服務",
+      "category": "每日選舉話題",
+      "county": null,
+      "date": "2026-11-13",
+      "summary": "中央社11月13日報導，中選會推出17族族語選務海報，說明投票日期、時間及應攜證件，並介紹原住民投票服務調整。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社11月13日報導，中選會推出17族族語選務海報，說明投票日期、時間及應攜證件，並介紹原住民投票服務調整。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611130204.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "中選會首頁將族語宣導列為11月13日消息。中央社正文另說明六都原住民投票所的名冊、領票處及引導措施，並提及村里僅一名原住民選舉人的投票秘密保障安排。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/central"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：族語資訊與投票所作業措施的適用範圍不同，不能由六都措施推定全台配置相同。選民仍應依正式通知與選務機關指示確認領票及投票地點，不能從姓名或地址推定原住民資格。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611130204.aspx",
+            "https://web.cec.gov.tw/central"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-11-16重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/central",
+            "https://www.cna.com.tw/news/aipl/202611130204.aspx"
+          ]
+        }
+      ],
+      "question": "各地選委會如何提供族語資料，並向適用不同投票安排的選民清楚說明？",
+      "checkedAt": "2026-11-16",
+      "dailyUpdateKind": "review",
+      "dailyEvidenceFingerprints": [
+        "900a5afdd7a14476cd4e48dc37c8bb0d7c9081915686bd56df09f41377972b12",
+        "4ca186193c58c135bf33dfe585cbfba030ffa3f7863b4af0db93cd34edfc448e"
+      ]
+    },
+    {
       "id": "changhua-welfare-shopping-credit-policy-20261113",
       "symbol": "◇",
       "relatedNames": [],
@@ -187,48 +288,6 @@
       "dailyEvidenceFingerprints": [
         "aa2246c1e8bb5e49ab676b49c62afe8e2cc89b503af6aee9b6aa6600103dce3c",
         "0d631854b90f5e6cb033cc3b9d651d936e7dd7db1e34ebbf009b68392a83c7f5"
-      ]
-    },
-    {
-      "id": "indigenous-election-language-access-20261113",
-      "symbol": "◇",
-      "relatedNames": [],
-      "districts": [],
-      "title": "中選會推出17族語宣導，投票服務措施如何適用？",
-      "shortTitle": "族語宣導與投票服務",
-      "category": "每日選舉話題",
-      "county": null,
-      "date": "2026-11-13",
-      "summary": "中央社11月13日報導，中選會推出17族族語選務海報，說明投票日期、時間及應攜證件，並介紹原住民投票服務調整。",
-      "steps": [
-        {
-          "speaker": "本次進度與來源說法",
-          "text": "中央社11月13日報導，中選會推出17族族語選務海報，說明投票日期、時間及應攜證件，並介紹原住民投票服務調整。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202611130204.aspx"
-          ]
-        },
-        {
-          "speaker": "背景脈絡",
-          "text": "中選會首頁將族語宣導列為11月13日消息。中央社正文另說明六都原住民投票所的名冊、領票處及引導措施，並提及村里僅一名原住民選舉人的投票秘密保障安排。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/central"
-          ]
-        },
-        {
-          "speaker": "判讀重點（本站整理）",
-          "text": "本站判讀重點：族語資訊與投票所作業措施的適用範圍不同，不能由六都措施推定全台配置相同。選民仍應依正式通知與選務機關指示確認領票及投票地點，不能從姓名或地址推定原住民資格。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202611130204.aspx",
-            "https://web.cec.gov.tw/central"
-          ]
-        }
-      ],
-      "question": "各地選委會如何提供族語資料，並向適用不同投票安排的選民清楚說明？",
-      "checkedAt": "2026-11-15",
-      "dailyUpdateKind": "new",
-      "dailyEvidenceFingerprints": [
-        "900a5afdd7a14476cd4e48dc37c8bb0d7c9081915686bd56df09f41377972b12"
       ]
     },
     {
@@ -701,48 +760,6 @@
         "9edfda4eda6fa3bfa8502149a84892fec0644570e0de3f7f16be09657d04abed",
         "d7f9e5add6d41de59a79622aee1a942852d6ec9d5a8b61e4eb9d56d63b168f84",
         "2ae45e110aa5323b122fca6703769197616c6c5976034ca3fd64c5200d3dcb7b"
-      ]
-    },
-    {
-      "id": "nantou-official-election-forums-20261110",
-      "symbol": "◇",
-      "relatedNames": [],
-      "districts": [],
-      "title": "南投公告公辦政見會時程，縣長場18日上午登場",
-      "shortTitle": "南投公辦政見會時程",
-      "category": "每日選舉話題",
-      "county": "南投縣",
-      "date": "2026-11-10",
-      "summary": "南投縣選委會11月10日公告列載，本屆公辦電視政見發表會安排於11月18日至20日辦理；本次確認首頁公告，附件細節仍待核讀。",
-      "steps": [
-        {
-          "speaker": "本次進度與來源說法",
-          "text": "南投縣選委會11月10日公告列載，本屆公辦電視政見發表會安排於11月18日至20日辦理；本次確認首頁公告，附件細節仍待核讀。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/ntec"
-          ]
-        },
-        {
-          "speaker": "背景脈絡",
-          "text": "中央社11月12日整理指出，南投縣長場安排於11月18日上午10時，每人發言15分鐘，發言順序由現場抽籤決定。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202611125002.aspx"
-          ]
-        },
-        {
-          "speaker": "判讀重點（本站整理）",
-          "text": "本站判讀重點是職別、場次與收看入口。縣長場與議員分區場次應分別確認；目前僅有預定安排，後續仍須核對官方附件、臨時異動及完整回看資料。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/ntec",
-            "https://www.cna.com.tw/news/aipl/202611125002.aspx"
-          ]
-        }
-      ],
-      "question": "官方是否提供各選區完整場次、直播入口與播出後回看連結？",
-      "checkedAt": "2026-11-13",
-      "dailyUpdateKind": "new",
-      "dailyEvidenceFingerprints": [
-        "f34a360276ca31815dbdefe91cd77b3c2e52e054c0c87c15e26f4c352db94ef7"
       ]
     },
     {
