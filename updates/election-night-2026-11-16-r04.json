@@ -1,0 +1,89 @@
+{
+  "entry_id": "election-night-2026-11-16-r04",
+  "kind": "manual",
+  "session_label": "election-night-2026-11-16・第4輪",
+  "date": "2026-11-17",
+  "checked_at": "2026-11-17T00:35:30.271712+08:00",
+  "county_scope": [
+    "金門縣",
+    "連江縣"
+  ],
+  "accepted_facts": 1,
+  "updated_people": 1,
+  "summary": "加開時段第4輪：新增1項通過來源核對的資料；另查核兩則選舉話題。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/kmec",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/lcec",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/kmec/article/63672",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.beigan.gov.tw/Chhtml/content/2196",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.matsu-news.gov.tw/news/article/209756",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.kmdn.gov.tw/1117/1271/1272/591447",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/ilec?Lang=zh-tw",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/central/article/65794",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202611030297.aspx",
+      "title": "本輪原始資料來源"
+    }
+  ],
+  "limitations": [
+    "局部來源查核，不代表全體候選人背景已完整核實。",
+    "司法、爭議與資格新線索僅保留待查，不自動修改標籤。"
+  ],
+  "review_leads_count": 0,
+  "rejected_count": 1,
+  "changes": [
+    {
+      "name": "陳樂禮",
+      "county": "連江縣",
+      "field": "experience",
+      "text": "莒光鄉長陳樂禮",
+      "url": "https://www.matsu-news.gov.tw/news/article/209756"
+    }
+  ],
+  "topic_updates": [
+    {
+      "id": "yilan-official-election-forums-20261112",
+      "title": "宜蘭公告公辦政見會，縣長場安排18日與21日",
+      "kind": "review",
+      "summary": "來源複核：本次無新增可確認進度。",
+      "sources": [
+        "https://web.cec.gov.tw/ilec?Lang=zh-tw",
+        "https://www.cna.com.tw/news/aipl/202611125002.aspx"
+      ]
+    },
+    {
+      "id": "kinmen-whitepaper-draft-consultation-20261001",
+      "title": "金門政策白皮書：草案徵詢、發布承諾與定案要分開",
+      "kind": "review",
+      "summary": "來源複核：本次無新增可確認進度。",
+      "sources": [
+        "https://www.cna.com.tw/news/aipl/202610010173.aspx",
+        "https://www.kmdn.gov.tw/1117/1271/1272/591447"
+      ]
+    }
+  ]
+}

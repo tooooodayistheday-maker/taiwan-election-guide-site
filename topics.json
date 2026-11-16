@@ -1,5 +1,5 @@
 {
-  "checkedAt": "2026-11-16",
+  "checkedAt": "2026-11-17",
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
@@ -35,13 +35,74 @@
             "https://web.cec.gov.tw/ilec?Lang=zh-tw",
             "https://www.cna.com.tw/news/aipl/202611125002.aspx"
           ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-11-17重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/ilec?Lang=zh-tw",
+            "https://www.cna.com.tw/news/aipl/202611125002.aspx"
+          ]
         }
       ],
       "question": "各場正式播出時間、收看入口及完整回看資料，選委會將如何提供？",
-      "checkedAt": "2026-11-16",
-      "dailyUpdateKind": "new",
+      "checkedAt": "2026-11-17",
+      "dailyUpdateKind": "review",
       "dailyEvidenceFingerprints": [
-        "7719d9f861da645151d3ed3efd5349024d02e8c1b05dd9a2fa568f8740074d8c"
+        "7719d9f861da645151d3ed3efd5349024d02e8c1b05dd9a2fa568f8740074d8c",
+        "a49b9ff7d9cc4b7ed600907eb1d38503debca483e8fc206cb8d611c1da111e75"
+      ]
+    },
+    {
+      "id": "kinmen-whitepaper-draft-consultation-20261001",
+      "county": "金門縣",
+      "districts": [],
+      "relatedNames": [
+        "梁文韜",
+        "陳玉珍"
+      ],
+      "date": "2026-10-01",
+      "title": "金門政策白皮書：草案徵詢、發布承諾與定案要分開",
+      "shortTitle": "白皮書草案與中央權責",
+      "category": "政策公開與檢驗",
+      "summary": "10/1梁文韜公布芻議並規劃徵詢至10/21、11月初出最終版；陳玉珍陣營稱按規劃分項發布。10/22補入背景，未取得最終版，不提前視為定案。",
+      "steps": [
+        {
+          "speaker": "草案的時間與內容",
+          "text": "梁文韜公開跨領域白皮書芻議，包含金廈和平主張。原報導把意見徵詢及最終版日期分列；徵詢期屆滿不等於最終版已發布。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610010173.aspx"
+          ]
+        },
+        {
+          "speaker": "另一陣營如何說",
+          "text": "陳玉珍辦公室表示，能以立委職務爭取者先向中央爭取，需縣府推動者列未來政策，並將依規劃公布不同領域主張。這是陣營說明，非完整方案已交付的證明。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610010173.aspx"
+          ]
+        },
+        {
+          "speaker": "本站追問",
+          "text": "兩岸談判涉及中央權責，候選人亦承認不能強迫中央；比較時應核對地方可做事項、協調機制與正式版本，不把縣長當選視為談判必然成立。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610010173.aspx"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-11-17重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610010173.aspx",
+            "https://www.kmdn.gov.tw/1117/1271/1272/591447"
+          ]
+        }
+      ],
+      "question": "你希望白皮書用什麼格式，清楚交代地方權限、經費與執行時程？",
+      "dailyUpdateKind": "review",
+      "symbol": "◇",
+      "checkedAt": "2026-11-17",
+      "dailyEvidenceFingerprints": [
+        "2694cb75edc85b4b0d575b7eccd86d52f4089243b9a77fe9909d26a261ca1db6"
       ]
     },
     {
@@ -2371,47 +2432,6 @@
         }
       ],
       "question": "你最想先看到哪個具體工程的經費、期程與責任分工？",
-      "dailyUpdateKind": "background",
-      "symbol": "◇",
-      "checkedAt": "2026-10-22"
-    },
-    {
-      "id": "kinmen-whitepaper-draft-consultation-20261001",
-      "county": "金門縣",
-      "districts": [],
-      "relatedNames": [
-        "梁文韜",
-        "陳玉珍"
-      ],
-      "date": "2026-10-01",
-      "title": "金門政策白皮書：草案徵詢、發布承諾與定案要分開",
-      "shortTitle": "白皮書草案與中央權責",
-      "category": "政策公開與檢驗",
-      "summary": "10/1梁文韜公布芻議並規劃徵詢至10/21、11月初出最終版；陳玉珍陣營稱按規劃分項發布。10/22補入背景，未取得最終版，不提前視為定案。",
-      "steps": [
-        {
-          "speaker": "草案的時間與內容",
-          "text": "梁文韜公開跨領域白皮書芻議，包含金廈和平主張。原報導把意見徵詢及最終版日期分列；徵詢期屆滿不等於最終版已發布。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610010173.aspx"
-          ]
-        },
-        {
-          "speaker": "另一陣營如何說",
-          "text": "陳玉珍辦公室表示，能以立委職務爭取者先向中央爭取，需縣府推動者列未來政策，並將依規劃公布不同領域主張。這是陣營說明，非完整方案已交付的證明。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610010173.aspx"
-          ]
-        },
-        {
-          "speaker": "本站追問",
-          "text": "兩岸談判涉及中央權責，候選人亦承認不能強迫中央；比較時應核對地方可做事項、協調機制與正式版本，不把縣長當選視為談判必然成立。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610010173.aspx"
-          ]
-        }
-      ],
-      "question": "你希望白皮書用什麼格式，清楚交代地方權限、經費與執行時程？",
       "dailyUpdateKind": "background",
       "symbol": "◇",
       "checkedAt": "2026-10-22"
