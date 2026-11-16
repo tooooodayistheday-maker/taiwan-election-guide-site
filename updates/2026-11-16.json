@@ -1,0 +1,62 @@
+{
+  "date": "2026-11-16",
+  "checked_at": "2026-11-16T10:04:01.966410+08:00",
+  "county_scope": [
+    "南投縣",
+    "雲林縣"
+  ],
+  "accepted_facts": 0,
+  "updated_people": 0,
+  "summary": "本日完成局部來源查核；新增通過逐條原文核對的資料 0 項。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/ntec",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://web.cec.gov.tw/ntec/article/65647",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://web.cec.gov.tw/ylec",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://web.cec.gov.tw/central",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://web.cec.gov.tw/central/article/list/11150?page=1",
+      "title": "本次查核來源頁"
+    }
+  ],
+  "limitations": [
+    "本次為局部來源查核，不代表所有縣市或候選人已完整核實。",
+    "本次沒有自動改動司法、爭議、資格及名冊；新線索只保留在私人待核紀錄。"
+  ],
+  "review_leads_count": 0,
+  "rejected_count": 5,
+  "changes": [],
+  "topic_updates": [
+    {
+      "id": "nantou-official-election-forums-20261110",
+      "title": "南投公告公辦政見會時程，縣長場18日上午登場",
+      "kind": "review",
+      "summary": "來源複核：本次無新增可確認進度。",
+      "sources": [
+        "https://web.cec.gov.tw/ntec/article/65647",
+        "https://www.cna.com.tw/news/aipl/202611125002.aspx"
+      ]
+    },
+    {
+      "id": "indigenous-election-language-access-20261113",
+      "title": "中選會推出17族語宣導，投票服務措施如何適用？",
+      "kind": "review",
+      "summary": "來源複核：本次無新增可確認進度。",
+      "sources": [
+        "https://www.cna.com.tw/news/aipl/202611130204.aspx",
+        "https://web.cec.gov.tw/central/article/list/11150?page=1"
+      ]
+    }
+  ]
+}

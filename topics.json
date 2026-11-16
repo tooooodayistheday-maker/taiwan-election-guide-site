@@ -40,7 +40,7 @@
           "speaker": "每日來源複核",
           "text": "2026-11-16重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
           "sourceUrls": [
-            "https://web.cec.gov.tw/ntec",
+            "https://web.cec.gov.tw/ntec/article/65647",
             "https://www.cna.com.tw/news/aipl/202611125002.aspx"
           ]
         }
@@ -49,7 +49,8 @@
       "checkedAt": "2026-11-16",
       "dailyUpdateKind": "review",
       "dailyEvidenceFingerprints": [
-        "f34a360276ca31815dbdefe91cd77b3c2e52e054c0c87c15e26f4c352db94ef7"
+        "f34a360276ca31815dbdefe91cd77b3c2e52e054c0c87c15e26f4c352db94ef7",
+        "1ebd20e1b58d731e93d9ba92f83b9b3c0b242d9e49fe6eeb29e7df87f59d41f3"
       ]
     },
     {
@@ -90,8 +91,8 @@
           "speaker": "每日來源複核",
           "text": "2026-11-16重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
           "sourceUrls": [
-            "https://web.cec.gov.tw/central",
-            "https://www.cna.com.tw/news/aipl/202611130204.aspx"
+            "https://www.cna.com.tw/news/aipl/202611130204.aspx",
+            "https://web.cec.gov.tw/central/article/list/11150?page=1"
           ]
         }
       ],
