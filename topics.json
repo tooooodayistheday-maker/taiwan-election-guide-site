@@ -3,6 +3,100 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "chiayi-county-official-election-forums-20261113",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "嘉義縣列出公辦政見會時間表，場次內容待核",
+      "shortTitle": "嘉義縣公辦政見會公告",
+      "category": "每日選舉話題",
+      "county": "嘉義縣",
+      "date": "2026-11-13",
+      "summary": "嘉義縣選委會最新消息列表列出11月13日發布的縣長及縣議員公辦電視政見會播出時間表。本輪確認公告存在，具體播出時段仍待附件核對。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "嘉義縣選委會最新消息列表列出11月13日發布的縣長及縣議員公辦電視政見會播出時間表。本輪確認公告存在，具體播出時段仍待附件核對。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/cycec/article/list/555?beginDate=&endDate=&keyword=&page=1"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "選委會首頁也列出同日鄉鎮市長公辦政見會的場次、時間與地點公告，顯示不同職別分別提供資訊。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/cycec"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：應依職別查閱各自附件，區分錄影、播出與現場辦理時間；目前證據不足以公布確切場次或收看管道，也不能推定所有候選人均出席。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/cycec/article/list/555?beginDate=&endDate=&keyword=&page=1",
+            "https://web.cec.gov.tw/cycec"
+          ]
+        }
+      ],
+      "question": "各職別的確切場次、播出管道及候選人參與方式，附件如何規定？",
+      "checkedAt": "2026-11-16",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "6b1a2df1a021740a72dd369bdca49a1d2f782d25e92cf90281111ddefac202ec"
+      ]
+    },
+    {
+      "id": "indigenous-election-language-access-20261113",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "中選會推出17族語宣導，投票服務措施如何適用？",
+      "shortTitle": "族語宣導與投票服務",
+      "category": "每日選舉話題",
+      "county": null,
+      "date": "2026-11-13",
+      "summary": "中央社11月13日報導，中選會推出17族族語選務海報，說明投票日期、時間及應攜證件，並介紹原住民投票服務調整。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社11月13日報導，中選會推出17族族語選務海報，說明投票日期、時間及應攜證件，並介紹原住民投票服務調整。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611130204.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "中選會首頁將族語宣導列為11月13日消息。中央社正文另說明六都原住民投票所的名冊、領票處及引導措施，並提及村里僅一名原住民選舉人的投票秘密保障安排。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/central"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：族語資訊與投票所作業措施的適用範圍不同，不能由六都措施推定全台配置相同。選民仍應依正式通知與選務機關指示確認領票及投票地點，不能從姓名或地址推定原住民資格。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611130204.aspx",
+            "https://web.cec.gov.tw/central"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-11-16重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/central/article/list/11150?page=1",
+            "https://www.cna.com.tw/news/aipl/202611130204.aspx"
+          ]
+        }
+      ],
+      "question": "各地選委會如何提供族語資料，並向適用不同投票安排的選民清楚說明？",
+      "checkedAt": "2026-11-16",
+      "dailyUpdateKind": "review",
+      "dailyEvidenceFingerprints": [
+        "900a5afdd7a14476cd4e48dc37c8bb0d7c9081915686bd56df09f41377972b12",
+        "4ca186193c58c135bf33dfe585cbfba030ffa3f7863b4af0db93cd34edfc448e",
+        "03b170a81f2304e3f31dee484bf51c487136a068e33be82491415d9efd1f18ad"
+      ]
+    },
+    {
       "id": "nantou-official-election-forums-20261110",
       "symbol": "◇",
       "relatedNames": [],
@@ -51,57 +145,6 @@
       "dailyEvidenceFingerprints": [
         "f34a360276ca31815dbdefe91cd77b3c2e52e054c0c87c15e26f4c352db94ef7",
         "1ebd20e1b58d731e93d9ba92f83b9b3c0b242d9e49fe6eeb29e7df87f59d41f3"
-      ]
-    },
-    {
-      "id": "indigenous-election-language-access-20261113",
-      "symbol": "◇",
-      "relatedNames": [],
-      "districts": [],
-      "title": "中選會推出17族語宣導，投票服務措施如何適用？",
-      "shortTitle": "族語宣導與投票服務",
-      "category": "每日選舉話題",
-      "county": null,
-      "date": "2026-11-13",
-      "summary": "中央社11月13日報導，中選會推出17族族語選務海報，說明投票日期、時間及應攜證件，並介紹原住民投票服務調整。",
-      "steps": [
-        {
-          "speaker": "本次進度與來源說法",
-          "text": "中央社11月13日報導，中選會推出17族族語選務海報，說明投票日期、時間及應攜證件，並介紹原住民投票服務調整。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202611130204.aspx"
-          ]
-        },
-        {
-          "speaker": "背景脈絡",
-          "text": "中選會首頁將族語宣導列為11月13日消息。中央社正文另說明六都原住民投票所的名冊、領票處及引導措施，並提及村里僅一名原住民選舉人的投票秘密保障安排。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/central"
-          ]
-        },
-        {
-          "speaker": "判讀重點（本站整理）",
-          "text": "本站判讀重點：族語資訊與投票所作業措施的適用範圍不同，不能由六都措施推定全台配置相同。選民仍應依正式通知與選務機關指示確認領票及投票地點，不能從姓名或地址推定原住民資格。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202611130204.aspx",
-            "https://web.cec.gov.tw/central"
-          ]
-        },
-        {
-          "speaker": "每日來源複核",
-          "text": "2026-11-16重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202611130204.aspx",
-            "https://web.cec.gov.tw/central/article/list/11150?page=1"
-          ]
-        }
-      ],
-      "question": "各地選委會如何提供族語資料，並向適用不同投票安排的選民清楚說明？",
-      "checkedAt": "2026-11-16",
-      "dailyUpdateKind": "review",
-      "dailyEvidenceFingerprints": [
-        "900a5afdd7a14476cd4e48dc37c8bb0d7c9081915686bd56df09f41377972b12",
-        "4ca186193c58c135bf33dfe585cbfba030ffa3f7863b4af0db93cd34edfc448e"
       ]
     },
     {

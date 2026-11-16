@@ -1,5 +1,82 @@
 [
   {
+    "entry_id": "election-night-2026-11-16-r01",
+    "kind": "manual",
+    "session_label": "election-night-2026-11-16・第1輪",
+    "date": "2026-11-16",
+    "checked_at": "2026-11-16T23:04:50.112787+08:00",
+    "county_scope": [
+      "嘉義縣",
+      "屏東縣"
+    ],
+    "accepted_facts": 0,
+    "updated_people": 0,
+    "summary": "加開時段第1輪：新增0項通過來源核對的資料；另查核兩則選舉話題。",
+    "official_checks": [
+      {
+        "url": "https://web.cec.gov.tw/cycec",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/cycec/article/list/555?beginDate=&endDate=&keyword=&page=1",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/ptec",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.moi.gov.tw/LocalOfficial_Content.aspx?TYP=KND0003&_PARENT_ID=ER11112QC00146&_TYP=REP&n=575",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.moi.gov.tw/LocalOfficial_Content.aspx?TYP=KND0003&_PARENT_ID=ER11112QC00091&_TYP=REP&n=575",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/central/article/list/11150?page=1",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aipl/202611090143.aspx",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aloc/202609120129.aspx",
+        "title": "本輪原始資料來源"
+      }
+    ],
+    "limitations": [
+      "局部來源查核，不代表全體候選人背景已完整核實。",
+      "司法、爭議與資格新線索僅保留待查，不自動修改標籤。"
+    ],
+    "review_leads_count": 1,
+    "rejected_count": 2,
+    "changes": [],
+    "topic_updates": [
+      {
+        "id": "chiayi-county-official-election-forums-20261113",
+        "title": "嘉義縣列出公辦政見會時間表，場次內容待核",
+        "kind": "new",
+        "summary": "嘉義縣選委會最新消息列表列出11月13日發布的縣長及縣議員公辦電視政見會播出時間表。本輪確認公告存在，具體播出時段仍待附件核對。",
+        "sources": [
+          "https://web.cec.gov.tw/cycec/article/list/555?beginDate=&endDate=&keyword=&page=1",
+          "https://web.cec.gov.tw/cycec"
+        ]
+      },
+      {
+        "id": "indigenous-election-language-access-20261113",
+        "title": "中選會推出17族語宣導，投票服務措施如何適用？",
+        "kind": "review",
+        "summary": "來源複核：本次無新增可確認進度。",
+        "sources": [
+          "https://web.cec.gov.tw/central/article/list/11150?page=1",
+          "https://www.cna.com.tw/news/aipl/202611130204.aspx"
+        ]
+      }
+    ]
+  },
+  {
     "entry_id": "election-night-2026-11-15-r04",
     "kind": "manual",
     "session_label": "election-night-2026-11-15・第4輪",
