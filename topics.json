@@ -3,6 +3,125 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "yilan-official-election-forums-20261112",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "宜蘭公告公辦政見會，縣長場安排18日與21日",
+      "shortTitle": "宜蘭公辦政見會時程",
+      "category": "每日選舉話題",
+      "county": "宜蘭縣",
+      "date": "2026-11-12",
+      "summary": "宜蘭縣選委會11月12日消息列出，本屆縣長及縣議員公辦電視政見發表會安排於11月18日至21日期間辦理。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "宜蘭縣選委會11月12日消息列出，本屆縣長及縣議員公辦電視政見發表會安排於11月18日至21日期間辦理。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/ilec?Lang=zh-tw"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "中央社11月12日整理、14日更新的報導指出，宜蘭縣長場分別安排於18日與21日，採兩輪發言，每輪12分鐘。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611125002.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：縣長場與議員各選區場次須分別核對。此次確認的是預定安排，附件及播出頻道仍待核讀，不能推定活動已完成或所有候選人已出席。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/ilec?Lang=zh-tw",
+            "https://www.cna.com.tw/news/aipl/202611125002.aspx"
+          ]
+        }
+      ],
+      "question": "各場正式播出時間、收看入口及完整回看資料，選委會將如何提供？",
+      "checkedAt": "2026-11-16",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "7719d9f861da645151d3ed3efd5349024d02e8c1b05dd9a2fa568f8740074d8c"
+      ]
+    },
+    {
+      "id": "hualien-policy-exchange",
+      "title": "花蓮政見交流邀請延伸至南區，實際出席仍待核",
+      "shortTitle": "花蓮南區政見交流邀請",
+      "category": "每日選舉話題",
+      "symbol": "◇",
+      "county": "花蓮縣",
+      "districts": [],
+      "relatedNames": [
+        "魏嘉賢",
+        "游淑貞",
+        "張峻"
+      ],
+      "date": "2026-11-11",
+      "summary": "中央社11月11日報導，魏嘉賢預告13日晚間在玉里鎮協天宮前廣場辦南區政見發表會，並印製公開邀請卡邀另外3名參選人交流。新進度是具體場地、時間及邀請方式的公開說明。",
+      "steps": [
+        {
+          "speaker": "事件背景",
+          "text": "魏嘉賢10/16邀其他花蓮縣長參選人共同辦政見發表會，表示時間、地點與形式均願配合。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610160329.aspx"
+          ]
+        },
+        {
+          "speaker": "陣營回應",
+          "text": "游淑貞團隊表示以公辦政見發表會為主；張峻團隊表示正在籌備競總活動，當時尚未討論這項邀請。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610160329.aspx"
+          ]
+        },
+        {
+          "speaker": "待核對事項",
+          "text": "報導未確認共同交流會的日期或形式。後續應核對是否成局，以及各陣營提供政策全文、提問與回應的方式。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610160329.aspx"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-10-27重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610160329.aspx",
+            "https://www.cna.com.tw/news/aipl/202609260132.aspx"
+          ]
+        },
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社11月11日報導，魏嘉賢預告13日晚間在玉里鎮協天宮前廣場辦南區政見發表會，並印製公開邀請卡邀另外3名參選人交流。新進度是具體場地、時間及邀請方式的公開說明。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611110250.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "10月16日魏嘉賢曾提出共同舉辦政見交流；當時游淑貞團隊表示以公辦政見會為主，張峻團隊表示尚未討論邀請。這些回應保留原事件日期。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610160329.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：候選人自行邀辦交流與選委會公辦政見會的主辦權責不同。本次來源仍屬事前預告，不能因13日已過就寫成共同交流已舉行；須再核對實際出席、活動紀錄及完整政策問答。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611110250.aspx",
+            "https://www.cna.com.tw/news/aipl/202610160329.aspx"
+          ]
+        }
+      ],
+      "question": "南區活動是否實際舉行、哪些人出席，是否提供完整影音與各陣營答覆？",
+      "checkedAt": "2026-11-16",
+      "dailyUpdateKind": "progress",
+      "dailyEvidenceFingerprints": [
+        "193ecd19dbb283ee721d8b9a8c190a235cdf1b2c5be4601f964b9547c5285040",
+        "c99d51f49cdbca71739ec79d7e5701331ec87663fa438d3ef92567889a922d4f"
+      ],
+      "eventDate": "2026-10-16"
+    },
+    {
       "id": "chiayi-county-official-election-forums-20261113",
       "symbol": "◇",
       "relatedNames": [],
@@ -2023,59 +2142,6 @@
       "dailyUpdateKind": "new",
       "dailyEvidenceFingerprints": [
         "41f5740c3f4d073de8a96aaed6332747ede56f28aa09cc95526b8e8234efddcc"
-      ]
-    },
-    {
-      "id": "hualien-policy-exchange",
-      "title": "花蓮共同政見交流邀請，各陣營如何回應？",
-      "shortTitle": "公開政見交流與選民知情",
-      "category": "民主與媒體",
-      "symbol": "◇",
-      "county": "花蓮縣",
-      "districts": [],
-      "relatedNames": [
-        "魏嘉賢",
-        "游淑貞",
-        "張峻"
-      ],
-      "date": "2026-10-16",
-      "summary": "區分自行邀辦的交流會、公辦政見發表會與線上政策資訊，不把尚未確定的活動寫成已舉行。",
-      "steps": [
-        {
-          "speaker": "事件背景",
-          "text": "魏嘉賢10/16邀其他花蓮縣長參選人共同辦政見發表會，表示時間、地點與形式均願配合。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610160329.aspx"
-          ]
-        },
-        {
-          "speaker": "陣營回應",
-          "text": "游淑貞團隊表示以公辦政見發表會為主；張峻團隊表示正在籌備競總活動，當時尚未討論這項邀請。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610160329.aspx"
-          ]
-        },
-        {
-          "speaker": "待核對事項",
-          "text": "報導未確認共同交流會的日期或形式。後續應核對是否成局，以及各陣營提供政策全文、提問與回應的方式。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610160329.aspx"
-          ]
-        },
-        {
-          "speaker": "每日來源複核",
-          "text": "2026-10-27重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610160329.aspx",
-            "https://www.cna.com.tw/news/aipl/202609260132.aspx"
-          ]
-        }
-      ],
-      "question": "你希望候選人透過辯論、政見發表、書面答覆或線上問答，回答哪些共同問題？",
-      "checkedAt": "2026-10-27",
-      "dailyUpdateKind": "review",
-      "dailyEvidenceFingerprints": [
-        "193ecd19dbb283ee721d8b9a8c190a235cdf1b2c5be4601f964b9547c5285040"
       ]
     },
     {

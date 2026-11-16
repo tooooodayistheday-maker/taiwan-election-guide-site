@@ -1,5 +1,90 @@
 [
   {
+    "entry_id": "election-night-2026-11-16-r02",
+    "kind": "manual",
+    "session_label": "election-night-2026-11-16・第2輪",
+    "date": "2026-11-16",
+    "checked_at": "2026-11-16T23:34:14.750911+08:00",
+    "county_scope": [
+      "宜蘭縣",
+      "花蓮縣"
+    ],
+    "accepted_facts": 0,
+    "updated_people": 0,
+    "summary": "加開時段第2輪：新增0項通過來源核對的資料；另查核兩則選舉話題。",
+    "official_checks": [
+      {
+        "url": "https://web.cec.gov.tw/ilec?Lang=zh-tw",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/hlec",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/ilec/article/65436",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://bulletin.cec.gov.tw/?action=sitemap",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://jiaosi.e-land.gov.tw/cp.aspx?n=7817",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://changemaker.yda.gov.tw/Lesson?u=424",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/central/article/65794",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aipl/202611150172.aspx",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aloc/202611060106.aspx",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aloc/202609160241.aspx",
+        "title": "本輪原始資料來源"
+      }
+    ],
+    "limitations": [
+      "局部來源查核，不代表全體候選人背景已完整核實。",
+      "司法、爭議與資格新線索僅保留待查，不自動修改標籤。"
+    ],
+    "review_leads_count": 1,
+    "rejected_count": 3,
+    "changes": [],
+    "topic_updates": [
+      {
+        "id": "yilan-official-election-forums-20261112",
+        "title": "宜蘭公告公辦政見會，縣長場安排18日與21日",
+        "kind": "new",
+        "summary": "宜蘭縣選委會11月12日消息列出，本屆縣長及縣議員公辦電視政見發表會安排於11月18日至21日期間辦理。",
+        "sources": [
+          "https://web.cec.gov.tw/ilec?Lang=zh-tw",
+          "https://www.cna.com.tw/news/aipl/202611125002.aspx"
+        ]
+      },
+      {
+        "id": "hualien-policy-exchange",
+        "title": "花蓮政見交流邀請延伸至南區，實際出席仍待核",
+        "kind": "progress",
+        "summary": "中央社11月11日報導，魏嘉賢預告13日晚間在玉里鎮協天宮前廣場辦南區政見發表會，並印製公開邀請卡邀另外3名參選人交流。新進度是具體場地、時間及邀請方式的公開說明。",
+        "sources": [
+          "https://www.cna.com.tw/news/aloc/202611110250.aspx",
+          "https://www.cna.com.tw/news/aipl/202610160329.aspx"
+        ]
+      }
+    ]
+  },
+  {
     "entry_id": "election-night-2026-11-16-r01",
     "kind": "manual",
     "session_label": "election-night-2026-11-16・第1輪",
