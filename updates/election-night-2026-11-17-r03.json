@@ -1,0 +1,69 @@
+{
+  "entry_id": "election-night-2026-11-17-r03",
+  "kind": "manual",
+  "session_label": "election-night-2026-11-17・第3輪",
+  "date": "2026-11-18",
+  "checked_at": "2026-11-18T00:04:16.261879+08:00",
+  "county_scope": [
+    "臺南市",
+    "高雄市"
+  ],
+  "accepted_facts": 0,
+  "updated_people": 0,
+  "summary": "加開時段第3輪：新增0項通過來源核對的資料；另查核兩則選舉話題。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/tnec",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/khec",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/central",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202611050186.aspx",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aloc/202611140142.aspx",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aloc/202611140167.aspx",
+      "title": "本輪原始資料來源"
+    }
+  ],
+  "limitations": [
+    "局部來源查核，不代表全體候選人背景已完整核實。",
+    "司法、爭議與資格新線索僅保留待查，不自動修改標籤。"
+  ],
+  "review_leads_count": 2,
+  "rejected_count": 3,
+  "changes": [],
+  "topic_updates": [
+    {
+      "id": "tainan-mayoral-public-forum-20261117",
+      "title": "臺南首場市長政見會舉行，主張進入具體方案比對",
+      "kind": "new",
+      "summary": "臺南市長首場公辦電視政見會17日晚間舉行，4名候選人依抽籤順序發言。報導記載葉人文提出特色公園翻修與兒童保護方向，謝龍介說明婚育宅及長者福利等主張。",
+      "sources": [
+        "https://www.cna.com.tw/news/aipl/202611170310.aspx",
+        "https://www.cna.com.tw/news/aloc/202611130134.aspx"
+      ]
+    },
+    {
+      "id": "election-poll-publication-ban-20261118",
+      "title": "11月18日起進入選舉民調禁令期間，轉傳亦須留意",
+      "kind": "new",
+      "summary": "高雄市選委會11月17日首頁公告提醒，18日起不得散布選舉民調，並點出LINE及網路轉傳的風險。本輪確認公告列表標題及日期，未核讀其附件。",
+      "sources": [
+        "https://web.cec.gov.tw/khec",
+        "https://www.cna.com.tw/news/aipl/202611120161.aspx"
+      ]
+    }
+  ]
+}

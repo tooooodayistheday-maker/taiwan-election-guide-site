@@ -1,7 +1,91 @@
 {
-  "checkedAt": "2026-11-17",
+  "checkedAt": "2026-11-18",
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
+    {
+      "id": "tainan-mayoral-public-forum-20261117",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "臺南首場市長政見會舉行，主張進入具體方案比對",
+      "shortTitle": "臺南市長政見會",
+      "category": "每日選舉話題",
+      "county": "臺南市",
+      "date": "2026-11-17",
+      "summary": "臺南市長首場公辦電視政見會17日晚間舉行，4名候選人依抽籤順序發言。報導記載葉人文提出特色公園翻修與兒童保護方向，謝龍介說明婚育宅及長者福利等主張。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "臺南市長首場公辦電視政見會17日晚間舉行，4名候選人依抽籤順序發言。報導記載葉人文提出特色公園翻修與兒童保護方向，謝龍介說明婚育宅及長者福利等主張。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611170310.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "11月13日的選務報導預告市長政見會分17日、20日兩場，每人發言20分鐘；議員部分採錄影重播，安排19日至27日陸續播出。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611130134.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：首場已舉行，第二場仍屬預定時程。住宅、福利與公園方案應分別核對地方權限、土地或設施盤點、年度財源及任期里程碑，不能把競選發言當成已實施措施。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611170310.aspx",
+            "https://www.cna.com.tw/news/aloc/202611130134.aspx"
+          ]
+        }
+      ],
+      "question": "候選人能否在第二場前公開各方案的適用對象、年度成本與執行時程，方便選民逐項比較？",
+      "checkedAt": "2026-11-18",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "aadc0ec1fed6b763cdbb694eccc66498b65ae777386eb0495289a83937fb9491"
+      ]
+    },
+    {
+      "id": "election-poll-publication-ban-20261118",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "11月18日起進入選舉民調禁令期間，轉傳亦須留意",
+      "shortTitle": "選舉民調禁令期間",
+      "category": "每日選舉話題",
+      "county": null,
+      "date": "2026-11-17",
+      "summary": "高雄市選委會11月17日首頁公告提醒，18日起不得散布選舉民調，並點出LINE及網路轉傳的風險。本輪確認公告列表標題及日期，未核讀其附件。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "高雄市選委會11月17日首頁公告提醒，18日起不得散布選舉民調，並點出LINE及網路轉傳的風險。本輪確認公告列表標題及日期，未核讀其附件。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/khec"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "中央社11月12日報導中選會說明，自18日零時至投票時間截止前，不得發布、報導、散布、評論或引述有關選舉的民意調查。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611120161.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：這是選務資訊規範，與候選人政策比較不同。應注意禁令起訖與傳播行為，不以舊調查或轉傳形式推定可以發布；本提案不重刊任何支持度或排名。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/khec",
+            "https://www.cna.com.tw/news/aipl/202611120161.aspx"
+          ]
+        }
+      ],
+      "question": "選務宣導能否提供清楚案例，讓一般使用者辨識群組轉傳及引述舊民調的適用規範？",
+      "checkedAt": "2026-11-18",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "c37e872ce06a775e5459063ce3912ccb55f9869d70f0e634948c856cfa63dc8f"
+      ]
+    },
     {
       "id": "taoyuan-mayoral-policy-forum-20261117",
       "symbol": "◇",
