@@ -1,0 +1,58 @@
+{
+  "date": "2026-11-17",
+  "checked_at": "2026-11-17T10:03:41.203125+08:00",
+  "county_scope": [
+    "嘉義縣",
+    "屏東縣"
+  ],
+  "accepted_facts": 0,
+  "updated_people": 0,
+  "summary": "本日完成局部來源查核；新增通過逐條原文核對的資料 0 項。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/cycec",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://web.cec.gov.tw/ptec",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://www.cyscc.gov.tw/Parliamentary_Content/315/14152/",
+      "title": "本次查核來源頁"
+    },
+    {
+      "url": "https://web.cec.gov.tw/central",
+      "title": "本次查核來源頁"
+    }
+  ],
+  "limitations": [
+    "本次為局部來源查核，不代表所有縣市或候選人已完整核實。",
+    "本次沒有自動改動司法、爭議、資格及名冊；新線索只保留在私人待核紀錄。"
+  ],
+  "review_leads_count": 3,
+  "rejected_count": 6,
+  "changes": [],
+  "topic_updates": [
+    {
+      "id": "chiayi-county-official-election-forums-20261113",
+      "title": "嘉義縣列出公辦政見會時間表，場次內容待核",
+      "kind": "review",
+      "summary": "來源複核：本次無新增可確認進度。",
+      "sources": [
+        "https://web.cec.gov.tw/cycec/article/list/555?beginDate=&endDate=&keyword=&page=1",
+        "https://web.cec.gov.tw/cycec"
+      ]
+    },
+    {
+      "id": "yilan-official-election-forums-20261112",
+      "title": "宜蘭公告公辦政見會，縣長場安排18日與21日",
+      "kind": "review",
+      "summary": "來源複核：本次無新增可確認進度。",
+      "sources": [
+        "https://web.cec.gov.tw/ilec?Lang=zh-tw",
+        "https://www.cna.com.tw/news/aipl/202611125002.aspx"
+      ]
+    }
+  ]
+}

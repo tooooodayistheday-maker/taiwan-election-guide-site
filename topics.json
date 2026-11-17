@@ -3,6 +3,57 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "chiayi-county-official-election-forums-20261113",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "嘉義縣列出公辦政見會時間表，場次內容待核",
+      "shortTitle": "嘉義縣公辦政見會公告",
+      "category": "每日選舉話題",
+      "county": "嘉義縣",
+      "date": "2026-11-13",
+      "summary": "嘉義縣選委會最新消息列表列出11月13日發布的縣長及縣議員公辦電視政見會播出時間表。本輪確認公告存在，具體播出時段仍待附件核對。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "嘉義縣選委會最新消息列表列出11月13日發布的縣長及縣議員公辦電視政見會播出時間表。本輪確認公告存在，具體播出時段仍待附件核對。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/cycec/article/list/555?beginDate=&endDate=&keyword=&page=1"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "選委會首頁也列出同日鄉鎮市長公辦政見會的場次、時間與地點公告，顯示不同職別分別提供資訊。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/cycec"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：應依職別查閱各自附件，區分錄影、播出與現場辦理時間；目前證據不足以公布確切場次或收看管道，也不能推定所有候選人均出席。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/cycec/article/list/555?beginDate=&endDate=&keyword=&page=1",
+            "https://web.cec.gov.tw/cycec"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-11-17重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/cycec/article/list/555?beginDate=&endDate=&keyword=&page=1",
+            "https://web.cec.gov.tw/cycec"
+          ]
+        }
+      ],
+      "question": "各職別的確切場次、播出管道及候選人參與方式，附件如何規定？",
+      "checkedAt": "2026-11-17",
+      "dailyUpdateKind": "review",
+      "dailyEvidenceFingerprints": [
+        "6b1a2df1a021740a72dd369bdca49a1d2f782d25e92cf90281111ddefac202ec",
+        "f2b1341788dd1cd62eaea294eca98792a99be2a9d640918e8cd042e496f6edc9"
+      ]
+    },
+    {
       "id": "yilan-official-election-forums-20261112",
       "symbol": "◇",
       "relatedNames": [],
@@ -50,7 +101,8 @@
       "dailyUpdateKind": "review",
       "dailyEvidenceFingerprints": [
         "7719d9f861da645151d3ed3efd5349024d02e8c1b05dd9a2fa568f8740074d8c",
-        "a49b9ff7d9cc4b7ed600907eb1d38503debca483e8fc206cb8d611c1da111e75"
+        "a49b9ff7d9cc4b7ed600907eb1d38503debca483e8fc206cb8d611c1da111e75",
+        "280ae08a341134e409f826cd7a4848294947dbcf20baa385348662a00a292077"
       ]
     },
     {
@@ -181,48 +233,6 @@
         "c99d51f49cdbca71739ec79d7e5701331ec87663fa438d3ef92567889a922d4f"
       ],
       "eventDate": "2026-10-16"
-    },
-    {
-      "id": "chiayi-county-official-election-forums-20261113",
-      "symbol": "◇",
-      "relatedNames": [],
-      "districts": [],
-      "title": "嘉義縣列出公辦政見會時間表，場次內容待核",
-      "shortTitle": "嘉義縣公辦政見會公告",
-      "category": "每日選舉話題",
-      "county": "嘉義縣",
-      "date": "2026-11-13",
-      "summary": "嘉義縣選委會最新消息列表列出11月13日發布的縣長及縣議員公辦電視政見會播出時間表。本輪確認公告存在，具體播出時段仍待附件核對。",
-      "steps": [
-        {
-          "speaker": "本次進度與來源說法",
-          "text": "嘉義縣選委會最新消息列表列出11月13日發布的縣長及縣議員公辦電視政見會播出時間表。本輪確認公告存在，具體播出時段仍待附件核對。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/cycec/article/list/555?beginDate=&endDate=&keyword=&page=1"
-          ]
-        },
-        {
-          "speaker": "背景脈絡",
-          "text": "選委會首頁也列出同日鄉鎮市長公辦政見會的場次、時間與地點公告，顯示不同職別分別提供資訊。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/cycec"
-          ]
-        },
-        {
-          "speaker": "判讀重點（本站整理）",
-          "text": "本站判讀重點：應依職別查閱各自附件，區分錄影、播出與現場辦理時間；目前證據不足以公布確切場次或收看管道，也不能推定所有候選人均出席。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/cycec/article/list/555?beginDate=&endDate=&keyword=&page=1",
-            "https://web.cec.gov.tw/cycec"
-          ]
-        }
-      ],
-      "question": "各職別的確切場次、播出管道及候選人參與方式，附件如何規定？",
-      "checkedAt": "2026-11-16",
-      "dailyUpdateKind": "new",
-      "dailyEvidenceFingerprints": [
-        "6b1a2df1a021740a72dd369bdca49a1d2f782d25e92cf90281111ddefac202ec"
-      ]
     },
     {
       "id": "indigenous-election-language-access-20261113",
