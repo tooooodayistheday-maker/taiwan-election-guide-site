@@ -1,5 +1,90 @@
 [
   {
+    "entry_id": "election-night-2026-11-17-r01",
+    "kind": "manual",
+    "session_label": "election-night-2026-11-17・第1輪",
+    "date": "2026-11-17",
+    "checked_at": "2026-11-17T23:05:20.641498+08:00",
+    "county_scope": [
+      "臺北市",
+      "新北市"
+    ],
+    "accepted_facts": 1,
+    "updated_people": 1,
+    "summary": "加開時段第1輪：新增1項通過來源核對的資料；另查核兩則選舉話題。",
+    "official_checks": [
+      {
+        "url": "https://web.cec.gov.tw/mect",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/tpcec",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/central",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/mect/article/37064",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/central/article/65794",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.ly.gov.tw/EngPages/Detail.aspx?nodeid=4923&pid=13445",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aloc/202611130125.aspx",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aloc/202611130094.aspx",
+        "title": "本輪原始資料來源"
+      }
+    ],
+    "limitations": [
+      "局部來源查核，不代表全體候選人背景已完整核實。",
+      "司法、爭議與資格新線索僅保留待查，不自動修改標籤。"
+    ],
+    "review_leads_count": 4,
+    "rejected_count": 5,
+    "changes": [
+      {
+        "name": "朱政騏",
+        "county": "臺北市",
+        "field": "education",
+        "text": "台大博士生",
+        "url": "https://www.ly.gov.tw/EngPages/Detail.aspx?nodeid=4923&pid=13445"
+      }
+    ],
+    "topic_updates": [
+      {
+        "id": "taipei-election-bulletin-voter-eligibility-correction-20261117",
+        "title": "臺北議員公報更正選舉人資格文字，名冊與公報須分辨",
+        "kind": "new",
+        "summary": "中央社報導，北市議員公報誤載已刪除的受監護宣告排除規定，選委會已印製勘誤表並請地方張貼；選委會表示，選舉人名冊依修法後規定編造。",
+        "sources": [
+          "https://www.cna.com.tw/news/aloc/202611170296.aspx",
+          "https://web.cec.gov.tw/mect"
+        ]
+      },
+      {
+        "id": "new-resident-multilingual-election-information-20261117",
+        "title": "中選會新增六種新住民語言選務宣導，資訊可近性如何確認？",
+        "kind": "new",
+        "summary": "中選會將選務廣告字幕及手機入場、深偽影音宣導海報製作成越南語、印尼語、泰語、柬埔寨語、菲律賓語及英語版本，並邀新住民意見領袖協助傳播。",
+        "sources": [
+          "https://www.cna.com.tw/news/aipl/202611170270.aspx",
+          "https://web.cec.gov.tw/central"
+        ]
+      }
+    ]
+  },
+  {
     "entry_id": "election-night-2026-11-16-r04",
     "kind": "manual",
     "session_label": "election-night-2026-11-16・第4輪",

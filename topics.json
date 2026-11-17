@@ -3,6 +3,90 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "taipei-election-bulletin-voter-eligibility-correction-20261117",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "臺北議員公報更正選舉人資格文字，名冊與公報須分辨",
+      "shortTitle": "臺北公報選舉人資格更正",
+      "category": "每日選舉話題",
+      "county": "臺北市",
+      "date": "2026-11-17",
+      "summary": "中央社報導，北市議員公報誤載已刪除的受監護宣告排除規定，選委會已印製勘誤表並請地方張貼；選委會表示，選舉人名冊依修法後規定編造。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社報導，北市議員公報誤載已刪除的受監護宣告排除規定，選委會已印製勘誤表並請地方張貼；選委會表示，選舉人名冊依修法後規定編造。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611170296.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "臺北市選委會首頁同日列出議員第1至第6選舉區公報選舉人資格更正公告，可確認更正範圍的公告標題；附件尚待核讀。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/mect"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點是區分公報印刷錯誤、勘誤通知與實際選舉人名冊。後續應確認更正資訊是否送達各區里，以及選民如何查證個人投票資訊，不以公報舊文字判斷個人有無投票權。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611170296.aspx",
+            "https://web.cec.gov.tw/mect"
+          ]
+        }
+      ],
+      "question": "選委會如何確保收到舊版公報的選民，也能及時取得更正資訊與查詢協助？",
+      "checkedAt": "2026-11-17",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "237e26f112dd5d670baacbcb25027065abc4511b992e579fbc5a5db4f948419f"
+      ]
+    },
+    {
+      "id": "new-resident-multilingual-election-information-20261117",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "中選會新增六種新住民語言選務宣導，資訊可近性如何確認？",
+      "shortTitle": "新住民多語選務宣導",
+      "category": "每日選舉話題",
+      "county": null,
+      "date": "2026-11-17",
+      "summary": "中選會將選務廣告字幕及手機入場、深偽影音宣導海報製作成越南語、印尼語、泰語、柬埔寨語、菲律賓語及英語版本，並邀新住民意見領袖協助傳播。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中選會將選務廣告字幕及手機入場、深偽影音宣導海報製作成越南語、印尼語、泰語、柬埔寨語、菲律賓語及英語版本，並邀新住民意見領袖協助傳播。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611170270.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "中選會首頁11月17日列出新住民合作宣導消息；這與11月13日原住民族17族語宣導是不同公告，不將兩者重複當作同一事件的新進展。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/central"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點是多語素材能否被需要者找到、理解及使用。影片與海報發布不等於已改善所有人的投票障礙，也不代表特定新住民個人具投票資格；仍應確認素材入口及詢問協助方式。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611170270.aspx",
+            "https://web.cec.gov.tw/central"
+          ]
+        }
+      ],
+      "question": "多語素材除社群分享外，是否也能在地方選務與服務窗口方便取得？",
+      "checkedAt": "2026-11-17",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "7121f375c012b59e70d6ad5096f9c53385e8337d8622de297e79094a871a5641"
+      ]
+    },
+    {
       "id": "chiayi-county-official-election-forums-20261113",
       "symbol": "◇",
       "relatedNames": [],
