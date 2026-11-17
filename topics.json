@@ -3,6 +3,125 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "hsinchu-city-official-election-tv-forums-20261116",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "新竹市公告公辦電視政見會，播出細節待核",
+      "shortTitle": "竹市公辦政見會公告",
+      "category": "每日選舉話題",
+      "county": "新竹市",
+      "date": "2026-11-16",
+      "summary": "新竹市選委會首頁列出11月16日公辦電視政見發表會訊息，對象包括本屆市長及議員選舉。本輪尚未取得完整播出時程。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "新竹市選委會首頁列出11月16日公辦電視政見發表會訊息，對象包括本屆市長及議員選舉。本輪尚未取得完整播出時程。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/hcec"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "中央社11月12日發布、11月14日更新的整理，說明首長及議員公辦政見會陸續舉辦；其中新竹市欄位當時仍待公布，查詢時應另核地方選委會公告。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611125002.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：官方公告已提供新的查詢入口，但僅憑首頁標題不能推定播出日期、頻道、提問方式或候選人出席情形，應補核公告附件。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/hcec",
+            "https://www.cna.com.tw/news/aipl/202611125002.aspx"
+          ]
+        }
+      ],
+      "question": "完整播出時程、觀看管道及各場程序是否已有可公開查閱的附件？",
+      "checkedAt": "2026-11-18",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "ae91bf4471ef352192c8d847dfd7914ffd9c856b9299c13912ef4c321a3f1b2b"
+      ]
+    },
+    {
+      "id": "keelung-debate-invitation-estimate-20261021",
+      "county": "基隆市",
+      "districts": [],
+      "relatedNames": [
+        "謝國樑",
+        "童子瑋"
+      ],
+      "date": "2026-11-10",
+      "title": "基隆市長辯論已舉行，通勤主張如何比較？",
+      "shortTitle": "基隆市長辯論登場",
+      "category": "每日選舉話題",
+      "summary": "11月10日，謝國樑與童子瑋參加基隆市長選舉直播辯論。謝國樑在申論中回顧任內建設，童子瑋提出通勤接駁、市區公車改善與各區發展構想。",
+      "steps": [
+        {
+          "speaker": "可以確認的發言",
+          "text": "中央社記載謝國樑在受訪時提出同台辯論捷運等議題，並表達自己對選情的估計。本站只把它列為本人公開發言。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610210162.aspx"
+          ]
+        },
+        {
+          "speaker": "還不能確認什麼",
+          "text": "這篇採訪沒有載明雙方共同敲定的場次、規則或日期，也未提供這個估票範圍對應的新調查方法。因此不能據此寫成辯論已排定，或全體選民支持度。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610210162.aspx"
+          ]
+        },
+        {
+          "speaker": "本站追問",
+          "text": "後續應核對各陣營回覆、主辦方正式公告與完整回看；若引用民調，另列委託單位、時間、抽樣及未表態者處理。候選人的自估不能代替實際投票結果。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610210162.aspx"
+          ]
+        },
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "11月10日，謝國樑與童子瑋參加基隆市長選舉直播辯論。謝國樑在申論中回顧任內建設，童子瑋提出通勤接駁、市區公車改善與各區發展構想。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611100118.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "10月21日，謝國樑受訪時公開邀童子瑋上節目辯論捷運等議題，並在同場訪問談到自己對得票率的估計。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610210162.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點是把兩人說法對照到各自的執行條件。國道客運接駁需要核對路線許可、業者運能與經費來源，市區公車改善則可追蹤車輛汰換、駕駛員額和班次。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611100118.aspx",
+            "https://www.cna.com.tw/news/aloc/202610210162.aspx"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-11-18重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611100118.aspx",
+            "https://www.cna.com.tw/news/aloc/202610210162.aspx"
+          ]
+        }
+      ],
+      "question": "兩人能否提出尖峰班次、預估成本與市府可執行的時間表？",
+      "symbol": "◇",
+      "checkedAt": "2026-11-18",
+      "dailyUpdateKind": "review",
+      "eventDate": "2026-10-21",
+      "dailyEvidenceFingerprints": [
+        "71a59244f8866f6def9a9177ea568a4315b5be4b59ad22b48f878af51569e02f",
+        "c816e360d3f41444cd3d694d677de66cbf2966e6a61777dc3f9fb6332ba109aa",
+        "09d7a23976769b3092eaabeb102aa2eb38d3d118f68b88dbf56c192be838d989"
+      ]
+    },
+    {
       "id": "tainan-mayoral-public-forum-20261117",
       "symbol": "◇",
       "relatedNames": [],
@@ -810,83 +929,6 @@
       "dailyEvidenceFingerprints": [
         "aa2246c1e8bb5e49ab676b49c62afe8e2cc89b503af6aee9b6aa6600103dce3c",
         "0d631854b90f5e6cb033cc3b9d651d936e7dd7db1e34ebbf009b68392a83c7f5"
-      ]
-    },
-    {
-      "id": "keelung-debate-invitation-estimate-20261021",
-      "county": "基隆市",
-      "districts": [],
-      "relatedNames": [
-        "謝國樑",
-        "童子瑋"
-      ],
-      "date": "2026-11-10",
-      "title": "基隆市長辯論已舉行，通勤主張如何比較？",
-      "shortTitle": "基隆市長辯論登場",
-      "category": "每日選舉話題",
-      "summary": "11月10日，謝國樑與童子瑋參加基隆市長選舉直播辯論。謝國樑在申論中回顧任內建設，童子瑋提出通勤接駁、市區公車改善與各區發展構想。",
-      "steps": [
-        {
-          "speaker": "可以確認的發言",
-          "text": "中央社記載謝國樑在受訪時提出同台辯論捷運等議題，並表達自己對選情的估計。本站只把它列為本人公開發言。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610210162.aspx"
-          ]
-        },
-        {
-          "speaker": "還不能確認什麼",
-          "text": "這篇採訪沒有載明雙方共同敲定的場次、規則或日期，也未提供這個估票範圍對應的新調查方法。因此不能據此寫成辯論已排定，或全體選民支持度。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610210162.aspx"
-          ]
-        },
-        {
-          "speaker": "本站追問",
-          "text": "後續應核對各陣營回覆、主辦方正式公告與完整回看；若引用民調，另列委託單位、時間、抽樣及未表態者處理。候選人的自估不能代替實際投票結果。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610210162.aspx"
-          ]
-        },
-        {
-          "speaker": "本次進度與來源說法",
-          "text": "11月10日，謝國樑與童子瑋參加基隆市長選舉直播辯論。謝國樑在申論中回顧任內建設，童子瑋提出通勤接駁、市區公車改善與各區發展構想。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202611100118.aspx"
-          ]
-        },
-        {
-          "speaker": "背景脈絡",
-          "text": "10月21日，謝國樑受訪時公開邀童子瑋上節目辯論捷運等議題，並在同場訪問談到自己對得票率的估計。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610210162.aspx"
-          ]
-        },
-        {
-          "speaker": "判讀重點（本站整理）",
-          "text": "本站判讀重點是把兩人說法對照到各自的執行條件。國道客運接駁需要核對路線許可、業者運能與經費來源，市區公車改善則可追蹤車輛汰換、駕駛員額和班次。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202611100118.aspx",
-            "https://www.cna.com.tw/news/aloc/202610210162.aspx"
-          ]
-        },
-        {
-          "speaker": "每日來源複核",
-          "text": "2026-11-15重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202611100118.aspx",
-            "https://www.cna.com.tw/news/aloc/202611100118.aspx"
-          ]
-        }
-      ],
-      "question": "兩人能否提出尖峰班次、預估成本與市府可執行的時間表？",
-      "symbol": "◇",
-      "checkedAt": "2026-11-15",
-      "dailyUpdateKind": "review",
-      "eventDate": "2026-10-21",
-      "dailyEvidenceFingerprints": [
-        "71a59244f8866f6def9a9177ea568a4315b5be4b59ad22b48f878af51569e02f",
-        "c816e360d3f41444cd3d694d677de66cbf2966e6a61777dc3f9fb6332ba109aa",
-        "09d7a23976769b3092eaabeb102aa2eb38d3d118f68b88dbf56c192be838d989"
       ]
     },
     {
