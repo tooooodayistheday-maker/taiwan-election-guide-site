@@ -1,7 +1,124 @@
 {
-  "checkedAt": "2026-11-18",
+  "checkedAt": "2026-11-19",
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
+    {
+      "id": "nantou-official-election-forums-20261110",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "南投縣長政見會已舉行，垃圾治理方案進入比較",
+      "shortTitle": "南投政見會垃圾治理比較",
+      "category": "每日選舉話題",
+      "county": "南投縣",
+      "date": "2026-11-18",
+      "summary": "中央社11月18日報導確認南投縣長公辦電視政見會已舉行，許淑華與温世政分別就垃圾處理提出說明，既有話題可由預定時程更新為實際舉行。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "南投縣選委會11月10日公告列載，本屆公辦電視政見發表會安排於11月18日至20日辦理；本次確認首頁公告，附件細節仍待核讀。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/ntec"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "中央社11月12日整理指出，南投縣長場安排於11月18日上午10時，每人發言15分鐘，發言順序由現場抽籤決定。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611125002.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點是職別、場次與收看入口。縣長場與議員分區場次應分別確認；目前僅有預定安排，後續仍須核對官方附件、臨時異動及完整回看資料。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/ntec",
+            "https://www.cna.com.tw/news/aipl/202611125002.aspx"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-11-16重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/ntec/article/65647",
+            "https://www.cna.com.tw/news/aipl/202611125002.aspx"
+          ]
+        },
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社11月18日報導確認南投縣長公辦電視政見會已舉行，許淑華與温世政分別就垃圾處理提出說明，既有話題可由預定時程更新為實際舉行。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611180142.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "原先選委會公告安排11月18日至20日辦理公辦電視政見會，並提供行事曆附件；縣長場與議員分區場次應分別核對。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/ntec/article/65647"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：垃圾產生量、既有堆置量、處理設施容量及減量估算須使用一致基準，再比較許可程序、成本、污染控制與完成時間。候選人提出的數據與可行性判斷仍須主管機關及原始文件交叉核實。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611180142.aspx",
+            "https://web.cec.gov.tw/ntec/article/65647"
+          ]
+        }
+      ],
+      "question": "兩種治理方案能否公開同一期間的垃圾量、設施許可容量、完整成本與分年執行時程？",
+      "checkedAt": "2026-11-19",
+      "dailyUpdateKind": "progress",
+      "dailyEvidenceFingerprints": [
+        "f34a360276ca31815dbdefe91cd77b3c2e52e054c0c87c15e26f4c352db94ef7",
+        "1ebd20e1b58d731e93d9ba92f83b9b3c0b242d9e49fe6eeb29e7df87f59d41f3",
+        "520af09e03f0e848e7925ed604e55a1a0e30484f86e7bfa59ca50394755ef7ff"
+      ],
+      "eventDate": "2026-11-10"
+    },
+    {
+      "id": "yunlin-official-mayoral-forum-video-20261118",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "雲林選委會列出縣長政見會影片訊息",
+      "shortTitle": "雲林縣長政見會影片訊息",
+      "category": "每日選舉話題",
+      "county": "雲林縣",
+      "date": "2026-11-18",
+      "summary": "雲林縣選委會首頁列出11月18日縣長公辦政見會YouTube線上影片訊息。本次確認官方公告存在，尚未核對影片內容與完整性。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "雲林縣選委會首頁列出11月18日縣長公辦政見會YouTube線上影片訊息。本次確認官方公告存在，尚未核對影片內容與完整性。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/ylec"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "中央社11月9日報導選委會當日辦理縣長政見會錄影，並說明預定11月18日至27日公開播出；錄影日期與影片公告日期應分開呈現。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611090076.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：後續應確認官方連結、完整發言、候選人順序及字幕，讓選民以相同條件比較政策。影片訊息上架不代表主張已獲核定，也不能據首頁標題判斷每人的發言內容。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/ylec",
+            "https://www.cna.com.tw/news/aloc/202611090076.aspx"
+          ]
+        }
+      ],
+      "question": "官方是否提供完整影片、候選人時間標記及字幕，方便核對主張的財源、權責與實施條件？",
+      "checkedAt": "2026-11-19",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "77ea6ad9299fa978c8d08195df4a6ac8ff87940907c75d4f963c30964cc769d6"
+      ]
+    },
     {
       "id": "changhua-public-debate-format-20261015",
       "symbol": "◇",
@@ -830,57 +947,6 @@
         "900a5afdd7a14476cd4e48dc37c8bb0d7c9081915686bd56df09f41377972b12",
         "4ca186193c58c135bf33dfe585cbfba030ffa3f7863b4af0db93cd34edfc448e",
         "03b170a81f2304e3f31dee484bf51c487136a068e33be82491415d9efd1f18ad"
-      ]
-    },
-    {
-      "id": "nantou-official-election-forums-20261110",
-      "symbol": "◇",
-      "relatedNames": [],
-      "districts": [],
-      "title": "南投公告公辦政見會時程，縣長場18日上午登場",
-      "shortTitle": "南投公辦政見會時程",
-      "category": "每日選舉話題",
-      "county": "南投縣",
-      "date": "2026-11-10",
-      "summary": "南投縣選委會11月10日公告列載，本屆公辦電視政見發表會安排於11月18日至20日辦理；本次確認首頁公告，附件細節仍待核讀。",
-      "steps": [
-        {
-          "speaker": "本次進度與來源說法",
-          "text": "南投縣選委會11月10日公告列載，本屆公辦電視政見發表會安排於11月18日至20日辦理；本次確認首頁公告，附件細節仍待核讀。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/ntec"
-          ]
-        },
-        {
-          "speaker": "背景脈絡",
-          "text": "中央社11月12日整理指出，南投縣長場安排於11月18日上午10時，每人發言15分鐘，發言順序由現場抽籤決定。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202611125002.aspx"
-          ]
-        },
-        {
-          "speaker": "判讀重點（本站整理）",
-          "text": "本站判讀重點是職別、場次與收看入口。縣長場與議員分區場次應分別確認；目前僅有預定安排，後續仍須核對官方附件、臨時異動及完整回看資料。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/ntec",
-            "https://www.cna.com.tw/news/aipl/202611125002.aspx"
-          ]
-        },
-        {
-          "speaker": "每日來源複核",
-          "text": "2026-11-16重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/ntec/article/65647",
-            "https://www.cna.com.tw/news/aipl/202611125002.aspx"
-          ]
-        }
-      ],
-      "question": "官方是否提供各選區完整場次、直播入口與播出後回看連結？",
-      "checkedAt": "2026-11-16",
-      "dailyUpdateKind": "review",
-      "dailyEvidenceFingerprints": [
-        "f34a360276ca31815dbdefe91cd77b3c2e52e054c0c87c15e26f4c352db94ef7",
-        "1ebd20e1b58d731e93d9ba92f83b9b3c0b242d9e49fe6eeb29e7df87f59d41f3"
       ]
     },
     {

@@ -1,0 +1,65 @@
+{
+  "entry_id": "election-night-2026-11-18-r03",
+  "kind": "manual",
+  "session_label": "election-night-2026-11-18・第3輪",
+  "date": "2026-11-19",
+  "checked_at": "2026-11-19T06:09:45.978483+08:00",
+  "county_scope": [
+    "南投縣",
+    "雲林縣"
+  ],
+  "accepted_facts": 0,
+  "updated_people": 0,
+  "summary": "加開時段第3輪：新增0項通過來源核對的資料；另查核兩則選舉話題。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/central",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/ntec",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/ylec",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/ntec/article/65647",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aloc/202611050213.aspx",
+      "title": "本輪原始資料來源"
+    }
+  ],
+  "limitations": [
+    "局部來源查核，不代表全體候選人背景已完整核實。",
+    "司法、爭議與資格新線索僅保留待查，不自動修改標籤。"
+  ],
+  "review_leads_count": 2,
+  "rejected_count": 8,
+  "changes": [],
+  "topic_updates": [
+    {
+      "id": "nantou-official-election-forums-20261110",
+      "title": "南投縣長政見會已舉行，垃圾治理方案進入比較",
+      "kind": "progress",
+      "summary": "中央社11月18日報導確認南投縣長公辦電視政見會已舉行，許淑華與温世政分別就垃圾處理提出說明，既有話題可由預定時程更新為實際舉行。",
+      "sources": [
+        "https://www.cna.com.tw/news/aloc/202611180142.aspx",
+        "https://web.cec.gov.tw/ntec/article/65647"
+      ]
+    },
+    {
+      "id": "yunlin-official-mayoral-forum-video-20261118",
+      "title": "雲林選委會列出縣長政見會影片訊息",
+      "kind": "new",
+      "summary": "雲林縣選委會首頁列出11月18日縣長公辦政見會YouTube線上影片訊息。本次確認官方公告存在，尚未核對影片內容與完整性。",
+      "sources": [
+        "https://web.cec.gov.tw/ylec",
+        "https://www.cna.com.tw/news/aloc/202611090076.aspx"
+      ]
+    }
+  ]
+}
