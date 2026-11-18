@@ -3,6 +3,135 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "changhua-public-debate-format-20261015",
+      "symbol": "◇",
+      "county": "彰化縣",
+      "districts": [],
+      "relatedNames": [
+        "魏平政",
+        "陳素月",
+        "邱建富",
+        "陳重嘉"
+      ],
+      "title": "彰化選委會刊出今日縣長政見會直播公告",
+      "shortTitle": "彰化政見會直播公告",
+      "category": "每日選舉話題",
+      "date": "2026-11-18",
+      "checkedAt": "2026-11-18",
+      "summary": "彰化縣選委會首頁新增縣長公辦電視政見發表會網路直播公告，標示11月18日上午10時開始，補足既有話題尚缺確切日期及時間的資訊。",
+      "steps": [
+        {
+          "speaker": "選委會確認到哪裡",
+          "text": "依10/15原始採訪，公辦活動規劃申論、發問人提問及結論，沒有參選人交互詰問。報導僅列預計11月，本輪未取得確切日、時及播出頻道公告。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610150202.aspx"
+          ]
+        },
+        {
+          "speaker": "法規中的辯論形式",
+          "text": "現行實施辦法第18條之1，將候選人達三分之二同意列為以辯論方式辦理的條件，程序由主持人說明、政見申論、發問人發問及結論組成；不能只憑「辯論」一詞推定有交互詰問。",
+          "sourceUrls": [
+            "https://law.cec.gov.tw/LawContent.aspx?id=FL002023"
+          ]
+        },
+        {
+          "speaker": "另辦提議與各方回應",
+          "text": "邱建富提議另辦並協助籌款；魏平政表示第三方場次規則可協商；陳素月團隊對公正媒體邀全體參選人、由公正人士提問表示會參加；陳重嘉表示樂見公開辯論。這些回應尚不等於共同主辦、日期或規則已敲定。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610150202.aspx"
+          ]
+        },
+        {
+          "speaker": "接下來如何檢驗",
+          "text": "後續可核對正式日程、完整回看、各人等時回答及提問方式，再比較政策財源和執行條件。本輪是補入10/15事件，不冒稱10/21出現新的協商結果。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610150202.aspx",
+            "https://law.cec.gov.tw/LawContent.aspx?id=FL002023"
+          ]
+        },
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "彰化縣選委會首頁新增縣長公辦電視政見發表會網路直播公告，標示11月18日上午10時開始，補足既有話題尚缺確切日期及時間的資訊。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/chec?Lang=zh-tw"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "實施辦法列有主持人說明、政見申論、發問人提問與結論等辯論程序；個別場次仍須對照正式規則及完整紀錄。",
+          "sourceUrls": [
+            "https://law.cec.gov.tw/LawContent.aspx?id=FL002023"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：目前確認官方刊出直播安排，尚未核讀完整影音或逐字稿，不能據此判定所有候選人已出席或比較發言內容。後續宜保留完整回看入口，再核對主張的權責、財源及實施條件。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/chec?Lang=zh-tw",
+            "https://law.cec.gov.tw/LawContent.aspx?id=FL002023"
+          ]
+        }
+      ],
+      "question": "選委會是否提供完整回看、字幕與各階段時間，方便選民以相同標準比較政策？",
+      "dailyUpdateKind": "progress",
+      "eventDate": "2026-10-15",
+      "dailyEvidenceFingerprints": [
+        "5da5f8bafdcc86c1debf70146a45ddd4968ab887527b4e953c20250cbe22ca4c"
+      ]
+    },
+    {
+      "id": "miaoli-official-election-forums-20261112",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "苗栗公布公辦政見會安排，縣長場19日、24日直播",
+      "shortTitle": "苗栗公辦政見會時程",
+      "category": "每日選舉話題",
+      "county": "苗栗縣",
+      "date": "2026-11-12",
+      "summary": "苗栗縣選委會11月12日說明，縣長公辦政見會安排11月19日、24日上午10時於有線電視及官方YouTube直播，另有重播。部分議員選區採錄播，七個鄉鎮市另辦首長政見會。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "苗栗縣選委會11月12日說明，縣長公辦政見會安排11月19日、24日上午10時於有線電視及官方YouTube直播，另有重播。部分議員選區採錄播，七個鄉鎮市另辦首長政見會。",
+          "sourceUrls": [
+            "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1014059&sms=9462"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "苗栗縣選委會首頁亦將公辦政見會消息列為11月12日公告，可與縣府刊載的詳細場次說明交叉核對。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/mlec"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：縣長直播、議員錄播及鄉鎮市現場活動的收看方式不同，應依職別與選區確認時間；公告排程不代表已播出，後續仍須核對完整回看及實際出席。",
+          "sourceUrls": [
+            "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1014059&sms=9462",
+            "https://web.cec.gov.tw/mlec"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-11-18重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1014059&sms=9462",
+            "https://web.cec.gov.tw/mlec/article/list/10942?beginDate=&endDate=&keyword=&page=1"
+          ]
+        }
+      ],
+      "question": "你所在選區的政見會何時播出，是否提供完整回看與無障礙收看方式？",
+      "checkedAt": "2026-11-18",
+      "dailyUpdateKind": "review",
+      "dailyEvidenceFingerprints": [
+        "955bfb53ef6851542e1ec6d5e745cb8ed5081f845ac4ab38e99345e002b1383c",
+        "3a3b6bf6a1d8454cf3f4f773dd513bc03b58b25cedab081fd73fa6a3b4d7ebc8",
+        "f10e465eac953a9d29a3aaf0b94c6c94b4308c0402d032b0ce05833304c7ff3b"
+      ]
+    },
+    {
       "id": "yilan-official-election-forums-20261112",
       "symbol": "◇",
       "relatedNames": [],
@@ -794,58 +923,6 @@
       "dailyUpdateKind": "new",
       "dailyEvidenceFingerprints": [
         "87db8b6a860af07157a080673e001d68aed994bf7a8e719195bcc6c719323c31"
-      ]
-    },
-    {
-      "id": "miaoli-official-election-forums-20261112",
-      "symbol": "◇",
-      "relatedNames": [],
-      "districts": [],
-      "title": "苗栗公布公辦政見會安排，縣長場19日、24日直播",
-      "shortTitle": "苗栗公辦政見會時程",
-      "category": "每日選舉話題",
-      "county": "苗栗縣",
-      "date": "2026-11-12",
-      "summary": "苗栗縣選委會11月12日說明，縣長公辦政見會安排11月19日、24日上午10時於有線電視及官方YouTube直播，另有重播。部分議員選區採錄播，七個鄉鎮市另辦首長政見會。",
-      "steps": [
-        {
-          "speaker": "本次進度與來源說法",
-          "text": "苗栗縣選委會11月12日說明，縣長公辦政見會安排11月19日、24日上午10時於有線電視及官方YouTube直播，另有重播。部分議員選區採錄播，七個鄉鎮市另辦首長政見會。",
-          "sourceUrls": [
-            "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1014059&sms=9462"
-          ]
-        },
-        {
-          "speaker": "背景脈絡",
-          "text": "苗栗縣選委會首頁亦將公辦政見會消息列為11月12日公告，可與縣府刊載的詳細場次說明交叉核對。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/mlec"
-          ]
-        },
-        {
-          "speaker": "判讀重點（本站整理）",
-          "text": "本站判讀重點：縣長直播、議員錄播及鄉鎮市現場活動的收看方式不同，應依職別與選區確認時間；公告排程不代表已播出，後續仍須核對完整回看及實際出席。",
-          "sourceUrls": [
-            "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1014059&sms=9462",
-            "https://web.cec.gov.tw/mlec"
-          ]
-        },
-        {
-          "speaker": "每日來源複核",
-          "text": "2026-11-16重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202611120155.aspx",
-            "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1014059&sms=9462"
-          ]
-        }
-      ],
-      "question": "你所在選區的政見會何時播出，是否提供完整回看與無障礙收看方式？",
-      "checkedAt": "2026-11-16",
-      "dailyUpdateKind": "review",
-      "dailyEvidenceFingerprints": [
-        "955bfb53ef6851542e1ec6d5e745cb8ed5081f845ac4ab38e99345e002b1383c",
-        "3a3b6bf6a1d8454cf3f4f773dd513bc03b58b25cedab081fd73fa6a3b4d7ebc8",
-        "f10e465eac953a9d29a3aaf0b94c6c94b4308c0402d032b0ce05833304c7ff3b"
       ]
     },
     {
@@ -2989,57 +3066,6 @@
       "question": "你希望哪些通勤瓶頸優先改善，並公開什麼進度資料？",
       "checkedAt": "2026-10-21",
       "dailyUpdateKind": "review"
-    },
-    {
-      "id": "changhua-public-debate-format-20261015",
-      "symbol": "◇",
-      "county": "彰化縣",
-      "districts": [],
-      "relatedNames": [
-        "魏平政",
-        "陳素月",
-        "邱建富",
-        "陳重嘉"
-      ],
-      "title": "彰化縣長公辦辯論：由發問人提問，沒有候選人交互詰問",
-      "shortTitle": "公辦辯論形式與另辦提議",
-      "category": "選舉程序與政策檢驗",
-      "date": "2026-10-15",
-      "checkedAt": "2026-10-21",
-      "summary": "10/15選委會向中央社說明，參選人同意數已達門檻，預計11月辦理公辦電視辯論；另由陣營提議的辯論不等於已定案。",
-      "steps": [
-        {
-          "speaker": "選委會確認到哪裡",
-          "text": "依10/15原始採訪，公辦活動規劃申論、發問人提問及結論，沒有參選人交互詰問。報導僅列預計11月，本輪未取得確切日、時及播出頻道公告。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610150202.aspx"
-          ]
-        },
-        {
-          "speaker": "法規中的辯論形式",
-          "text": "現行實施辦法第18條之1，將候選人達三分之二同意列為以辯論方式辦理的條件，程序由主持人說明、政見申論、發問人發問及結論組成；不能只憑「辯論」一詞推定有交互詰問。",
-          "sourceUrls": [
-            "https://law.cec.gov.tw/LawContent.aspx?id=FL002023"
-          ]
-        },
-        {
-          "speaker": "另辦提議與各方回應",
-          "text": "邱建富提議另辦並協助籌款；魏平政表示第三方場次規則可協商；陳素月團隊對公正媒體邀全體參選人、由公正人士提問表示會參加；陳重嘉表示樂見公開辯論。這些回應尚不等於共同主辦、日期或規則已敲定。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610150202.aspx"
-          ]
-        },
-        {
-          "speaker": "接下來如何檢驗",
-          "text": "後續可核對正式日程、完整回看、各人等時回答及提問方式，再比較政策財源和執行條件。本輪是補入10/15事件，不冒稱10/21出現新的協商結果。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610150202.aspx",
-            "https://law.cec.gov.tw/LawContent.aspx?id=FL002023"
-          ]
-        }
-      ],
-      "question": "你最希望每位候選人以相同時間回答哪一項彰化公共政策問題？",
-      "dailyUpdateKind": "new"
     },
     {
       "id": "hsinchu-watershed-monitoring",

@@ -1,0 +1,81 @@
+{
+  "entry_id": "election-night-2026-11-18-r02",
+  "kind": "manual",
+  "session_label": "election-night-2026-11-18・第2輪",
+  "date": "2026-11-18",
+  "checked_at": "2026-11-18T23:34:45.956311+08:00",
+  "county_scope": [
+    "苗栗縣",
+    "彰化縣"
+  ],
+  "accepted_facts": 1,
+  "updated_people": 1,
+  "summary": "加開時段第2輪：新增1項通過來源核對的資料；另查核兩則選舉話題。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/mlec?Lang=zh-tw",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/mlec/article/list/10942?beginDate=&endDate=&keyword=&page=1",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/chec?Lang=zh-tw",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/central",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1014059&sms=9462",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.lukang.gov.tw/content/index?Parser=1,5,34",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://law.cec.gov.tw/LawContent.aspx?id=FL002023",
+      "title": "本輪原始資料來源"
+    }
+  ],
+  "limitations": [
+    "局部來源查核，不代表全體候選人背景已完整核實。",
+    "司法、爭議與資格新線索僅保留待查，不自動修改標籤。"
+  ],
+  "review_leads_count": 3,
+  "rejected_count": 6,
+  "changes": [
+    {
+      "name": "許志宏",
+      "county": "彰化縣",
+      "field": "experience",
+      "text": "鹿港鎮第18屆鎮長",
+      "url": "https://www.lukang.gov.tw/content/index?Parser=1,5,34"
+    }
+  ],
+  "topic_updates": [
+    {
+      "id": "changhua-public-debate-format-20261015",
+      "title": "彰化選委會刊出今日縣長政見會直播公告",
+      "kind": "progress",
+      "summary": "彰化縣選委會首頁新增縣長公辦電視政見發表會網路直播公告，標示11月18日上午10時開始，補足既有話題尚缺確切日期及時間的資訊。",
+      "sources": [
+        "https://web.cec.gov.tw/chec?Lang=zh-tw",
+        "https://law.cec.gov.tw/LawContent.aspx?id=FL002023"
+      ]
+    },
+    {
+      "id": "miaoli-official-election-forums-20261112",
+      "title": "苗栗公布公辦政見會安排，縣長場19日、24日直播",
+      "kind": "review",
+      "summary": "來源複核：本次無新增可確認進度。",
+      "sources": [
+        "https://www.miaoli.gov.tw/News_Content2.aspx?n=285&s=1014059&sms=9462",
+        "https://web.cec.gov.tw/mlec/article/list/10942?beginDate=&endDate=&keyword=&page=1"
+      ]
+    }
+  ]
+}
