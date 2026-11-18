@@ -3,6 +3,110 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "yilan-official-election-forums-20261112",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "宜蘭公告公辦政見會，縣長場安排18日與21日",
+      "shortTitle": "宜蘭公辦政見會時程",
+      "category": "每日選舉話題",
+      "county": "宜蘭縣",
+      "date": "2026-11-12",
+      "summary": "宜蘭縣選委會11月12日消息列出，本屆縣長及縣議員公辦電視政見發表會安排於11月18日至21日期間辦理。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "宜蘭縣選委會11月12日消息列出，本屆縣長及縣議員公辦電視政見發表會安排於11月18日至21日期間辦理。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/ilec?Lang=zh-tw"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "中央社11月12日整理、14日更新的報導指出，宜蘭縣長場分別安排於18日與21日，採兩輪發言，每輪12分鐘。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611125002.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：縣長場與議員各選區場次須分別核對。此次確認的是預定安排，附件及播出頻道仍待核讀，不能推定活動已完成或所有候選人已出席。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/ilec?Lang=zh-tw",
+            "https://www.cna.com.tw/news/aipl/202611125002.aspx"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-11-18重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/ilec",
+            "https://www.cna.com.tw/news/aipl/202611125002.aspx"
+          ]
+        }
+      ],
+      "question": "各場正式播出時間、收看入口及完整回看資料，選委會將如何提供？",
+      "checkedAt": "2026-11-18",
+      "dailyUpdateKind": "review",
+      "dailyEvidenceFingerprints": [
+        "7719d9f861da645151d3ed3efd5349024d02e8c1b05dd9a2fa568f8740074d8c",
+        "a49b9ff7d9cc4b7ed600907eb1d38503debca483e8fc206cb8d611c1da111e75",
+        "280ae08a341134e409f826cd7a4848294947dbcf20baa385348662a00a292077",
+        "009630c8ce5ff91403ad666102baee66de849ea17291d5d422c61ebf32d1ef63"
+      ]
+    },
+    {
+      "id": "new-resident-multilingual-election-information-20261117",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "中選會新增六種新住民語言選務宣導，資訊可近性如何確認？",
+      "shortTitle": "新住民多語選務宣導",
+      "category": "每日選舉話題",
+      "county": null,
+      "date": "2026-11-17",
+      "summary": "中選會將選務廣告字幕及手機入場、深偽影音宣導海報製作成越南語、印尼語、泰語、柬埔寨語、菲律賓語及英語版本，並邀新住民意見領袖協助傳播。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中選會將選務廣告字幕及手機入場、深偽影音宣導海報製作成越南語、印尼語、泰語、柬埔寨語、菲律賓語及英語版本，並邀新住民意見領袖協助傳播。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611170270.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "中選會首頁11月17日列出新住民合作宣導消息；這與11月13日原住民族17族語宣導是不同公告，不將兩者重複當作同一事件的新進展。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/central"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點是多語素材能否被需要者找到、理解及使用。影片與海報發布不等於已改善所有人的投票障礙，也不代表特定新住民個人具投票資格；仍應確認素材入口及詢問協助方式。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611170270.aspx",
+            "https://web.cec.gov.tw/central"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-11-18重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/central",
+            "https://web.cec.gov.tw/central"
+          ]
+        }
+      ],
+      "question": "多語素材除社群分享外，是否也能在地方選務與服務窗口方便取得？",
+      "checkedAt": "2026-11-18",
+      "dailyUpdateKind": "review",
+      "dailyEvidenceFingerprints": [
+        "7121f375c012b59e70d6ad5096f9c53385e8337d8622de297e79094a871a5641",
+        "33002f5860843b88f7e1e5fb163c51c58236ca2ebe1d6d7fad94170d8a9a61fc"
+      ]
+    },
+    {
       "id": "hsinchu-city-official-election-tv-forums-20261116",
       "symbol": "◇",
       "relatedNames": [],
@@ -368,48 +472,6 @@
       ]
     },
     {
-      "id": "new-resident-multilingual-election-information-20261117",
-      "symbol": "◇",
-      "relatedNames": [],
-      "districts": [],
-      "title": "中選會新增六種新住民語言選務宣導，資訊可近性如何確認？",
-      "shortTitle": "新住民多語選務宣導",
-      "category": "每日選舉話題",
-      "county": null,
-      "date": "2026-11-17",
-      "summary": "中選會將選務廣告字幕及手機入場、深偽影音宣導海報製作成越南語、印尼語、泰語、柬埔寨語、菲律賓語及英語版本，並邀新住民意見領袖協助傳播。",
-      "steps": [
-        {
-          "speaker": "本次進度與來源說法",
-          "text": "中選會將選務廣告字幕及手機入場、深偽影音宣導海報製作成越南語、印尼語、泰語、柬埔寨語、菲律賓語及英語版本，並邀新住民意見領袖協助傳播。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202611170270.aspx"
-          ]
-        },
-        {
-          "speaker": "背景脈絡",
-          "text": "中選會首頁11月17日列出新住民合作宣導消息；這與11月13日原住民族17族語宣導是不同公告，不將兩者重複當作同一事件的新進展。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/central"
-          ]
-        },
-        {
-          "speaker": "判讀重點（本站整理）",
-          "text": "本站判讀重點是多語素材能否被需要者找到、理解及使用。影片與海報發布不等於已改善所有人的投票障礙，也不代表特定新住民個人具投票資格；仍應確認素材入口及詢問協助方式。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202611170270.aspx",
-            "https://web.cec.gov.tw/central"
-          ]
-        }
-      ],
-      "question": "多語素材除社群分享外，是否也能在地方選務與服務窗口方便取得？",
-      "checkedAt": "2026-11-17",
-      "dailyUpdateKind": "new",
-      "dailyEvidenceFingerprints": [
-        "7121f375c012b59e70d6ad5096f9c53385e8337d8622de297e79094a871a5641"
-      ]
-    },
-    {
       "id": "chiayi-county-official-election-forums-20261113",
       "symbol": "◇",
       "relatedNames": [],
@@ -458,58 +520,6 @@
       "dailyEvidenceFingerprints": [
         "6b1a2df1a021740a72dd369bdca49a1d2f782d25e92cf90281111ddefac202ec",
         "f2b1341788dd1cd62eaea294eca98792a99be2a9d640918e8cd042e496f6edc9"
-      ]
-    },
-    {
-      "id": "yilan-official-election-forums-20261112",
-      "symbol": "◇",
-      "relatedNames": [],
-      "districts": [],
-      "title": "宜蘭公告公辦政見會，縣長場安排18日與21日",
-      "shortTitle": "宜蘭公辦政見會時程",
-      "category": "每日選舉話題",
-      "county": "宜蘭縣",
-      "date": "2026-11-12",
-      "summary": "宜蘭縣選委會11月12日消息列出，本屆縣長及縣議員公辦電視政見發表會安排於11月18日至21日期間辦理。",
-      "steps": [
-        {
-          "speaker": "本次進度與來源說法",
-          "text": "宜蘭縣選委會11月12日消息列出，本屆縣長及縣議員公辦電視政見發表會安排於11月18日至21日期間辦理。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/ilec?Lang=zh-tw"
-          ]
-        },
-        {
-          "speaker": "背景脈絡",
-          "text": "中央社11月12日整理、14日更新的報導指出，宜蘭縣長場分別安排於18日與21日，採兩輪發言，每輪12分鐘。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202611125002.aspx"
-          ]
-        },
-        {
-          "speaker": "判讀重點（本站整理）",
-          "text": "本站判讀重點：縣長場與議員各選區場次須分別核對。此次確認的是預定安排，附件及播出頻道仍待核讀，不能推定活動已完成或所有候選人已出席。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/ilec?Lang=zh-tw",
-            "https://www.cna.com.tw/news/aipl/202611125002.aspx"
-          ]
-        },
-        {
-          "speaker": "每日來源複核",
-          "text": "2026-11-17重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/ilec?Lang=zh-tw",
-            "https://www.cna.com.tw/news/aipl/202611125002.aspx"
-          ]
-        }
-      ],
-      "question": "各場正式播出時間、收看入口及完整回看資料，選委會將如何提供？",
-      "checkedAt": "2026-11-17",
-      "dailyUpdateKind": "review",
-      "dailyEvidenceFingerprints": [
-        "7719d9f861da645151d3ed3efd5349024d02e8c1b05dd9a2fa568f8740074d8c",
-        "a49b9ff7d9cc4b7ed600907eb1d38503debca483e8fc206cb8d611c1da111e75",
-        "280ae08a341134e409f826cd7a4848294947dbcf20baa385348662a00a292077"
       ]
     },
     {

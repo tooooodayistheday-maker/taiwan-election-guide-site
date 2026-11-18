@@ -126,6 +126,68 @@
     ]
   },
   {
+    "date": "2026-11-18",
+    "checked_at": "2026-11-18T10:03:21.309006+08:00",
+    "county_scope": [
+      "宜蘭縣",
+      "花蓮縣"
+    ],
+    "accepted_facts": 0,
+    "updated_people": 0,
+    "summary": "本日完成局部來源查核；新增通過逐條原文核對的資料 0 項。",
+    "official_checks": [
+      {
+        "url": "https://web.cec.gov.tw/ilec",
+        "title": "本次查核來源頁"
+      },
+      {
+        "url": "https://web.cec.gov.tw/hlec",
+        "title": "本次查核來源頁"
+      },
+      {
+        "url": "https://web.cec.gov.tw/central",
+        "title": "本次查核來源頁"
+      },
+      {
+        "url": "https://www.ly.gov.tw/Pages/List.aspx?nodeid=46767",
+        "title": "本次查核來源頁"
+      },
+      {
+        "url": "https://www.moi.gov.tw/LocalOfficial_Content.aspx?TYP=KND0003&_PARENT_ID=ER11112UC00016&_TYP=REP&n=575",
+        "title": "本次查核來源頁"
+      }
+    ],
+    "limitations": [
+      "本次為局部來源查核，不代表所有縣市或候選人已完整核實。",
+      "本次沒有自動改動司法、爭議、資格及名冊；新線索只保留在私人待核紀錄。"
+    ],
+    "review_leads_count": 2,
+    "rejected_count": 1,
+    "changes": [],
+    "topic_updates": [
+      {
+        "id": "yilan-official-election-forums-20261112",
+        "title": "宜蘭公告公辦政見會，縣長場安排18日與21日",
+        "kind": "review",
+        "summary": "來源複核：本次無新增可確認進度。",
+        "sources": [
+          "https://web.cec.gov.tw/ilec",
+          "https://www.cna.com.tw/news/aipl/202611125002.aspx"
+        ]
+      },
+      {
+        "id": "new-resident-multilingual-election-information-20261117",
+        "title": "中選會新增六種新住民語言選務宣導，資訊可近性如何確認？",
+        "kind": "review",
+        "summary": "來源複核：本次無新增可確認進度。",
+        "sources": [
+          "https://web.cec.gov.tw/central",
+          "https://web.cec.gov.tw/central"
+        ]
+      }
+    ]
+  },
+  {
     "entry_id": "election-night-2026-11-17-r02",
     "kind": "manual",
     "session_label": "election-night-2026-11-17・第2輪",
