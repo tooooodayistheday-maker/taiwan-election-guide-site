@@ -1,0 +1,65 @@
+{
+  "entry_id": "election-night-2026-11-18-r04",
+  "kind": "manual",
+  "session_label": "election-night-2026-11-18・第4輪",
+  "date": "2026-11-19",
+  "checked_at": "2026-11-19T06:16:30.955039+08:00",
+  "county_scope": [
+    "嘉義縣",
+    "屏東縣"
+  ],
+  "accepted_facts": 0,
+  "updated_people": 0,
+  "summary": "加開時段第4輪：新增0項通過來源核對的資料；另查核兩則選舉話題。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/central",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/cycec",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/cycec/article/list/555?beginDate=&endDate=&keyword=&page=1",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/ptec",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202611090143.aspx",
+      "title": "本輪原始資料來源"
+    }
+  ],
+  "limitations": [
+    "局部來源查核，不代表全體候選人背景已完整核實。",
+    "司法、爭議與資格新線索僅保留待查，不自動修改標籤。"
+  ],
+  "review_leads_count": 2,
+  "rejected_count": 7,
+  "changes": [],
+  "topic_updates": [
+    {
+      "id": "chiayi-county-official-election-forums-20261113",
+      "title": "嘉義縣首場縣長政見會已舉行，產業與社福方案待比較",
+      "kind": "progress",
+      "summary": "中央社11月18日報導確認嘉義縣首場縣長公辦電視政見會已舉行。蔡易餘談產業發展所需水電及人才，吳品叡以長者照顧、育兒與青年支持提出縣政方向。",
+      "sources": [
+        "https://www.cna.com.tw/news/aipl/202611180159.aspx",
+        "https://web.cec.gov.tw/cycec/article/list/555?beginDate=&endDate=&keyword=&page=1"
+      ]
+    },
+    {
+      "id": "pingtung-mayoral-public-forum-20261118",
+      "title": "屏東縣長首場政見會舉行，福利與教育主張如何落實？",
+      "kind": "new",
+      "summary": "中央社11月18日報導，蘇清泉與周春米均出席屏東縣長首場公辦政見會。蘇清泉提出擴大福利及教育資源運用，周春米說明施政並表達未來四年持續推動產業、建設與福利的方向。",
+      "sources": [
+        "https://www.cna.com.tw/news/aloc/202611180137.aspx",
+        "https://web.cec.gov.tw/ptec"
+      ]
+    }
+  ]
+}

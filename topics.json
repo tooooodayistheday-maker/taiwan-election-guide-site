@@ -3,6 +3,123 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "chiayi-county-official-election-forums-20261113",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "嘉義縣首場縣長政見會已舉行，產業與社福方案待比較",
+      "shortTitle": "嘉縣政見會進入方案比較",
+      "category": "每日選舉話題",
+      "county": "嘉義縣",
+      "date": "2026-11-18",
+      "summary": "中央社11月18日報導確認嘉義縣首場縣長公辦電視政見會已舉行。蔡易餘談產業發展所需水電及人才，吳品叡以長者照顧、育兒與青年支持提出縣政方向。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "嘉義縣選委會最新消息列表列出11月13日發布的縣長及縣議員公辦電視政見會播出時間表。本輪確認公告存在，具體播出時段仍待附件核對。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/cycec/article/list/555?beginDate=&endDate=&keyword=&page=1"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "選委會首頁也列出同日鄉鎮市長公辦政見會的場次、時間與地點公告，顯示不同職別分別提供資訊。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/cycec"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：應依職別查閱各自附件，區分錄影、播出與現場辦理時間；目前證據不足以公布確切場次或收看管道，也不能推定所有候選人均出席。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/cycec/article/list/555?beginDate=&endDate=&keyword=&page=1",
+            "https://web.cec.gov.tw/cycec"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-11-17重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/cycec/article/list/555?beginDate=&endDate=&keyword=&page=1",
+            "https://web.cec.gov.tw/cycec"
+          ]
+        },
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社11月18日報導確認嘉義縣首場縣長公辦電視政見會已舉行。蔡易餘談產業發展所需水電及人才，吳品叡以長者照顧、育兒與青年支持提出縣政方向。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611180159.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "嘉義縣選委會最新消息列表保留11月13日縣長政見會播出時間表公告。既有話題原先確認的是排程，本次取得活動已舉行的報導。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/cycec/article/list/555?beginDate=&endDate=&keyword=&page=1"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：產業方案應分別核對用水、供電、人才及中央地方權責；社福方案則須說明適用對象、年度成本與固定財源。政見會發言不代表建設或補助已核定。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611180159.aspx",
+            "https://web.cec.gov.tw/cycec/article/list/555?beginDate=&endDate=&keyword=&page=1"
+          ]
+        }
+      ],
+      "question": "各項產業與社福主張，能否提出分年預算、主管機關及可追蹤的完成時程？",
+      "checkedAt": "2026-11-19",
+      "dailyUpdateKind": "progress",
+      "dailyEvidenceFingerprints": [
+        "6b1a2df1a021740a72dd369bdca49a1d2f782d25e92cf90281111ddefac202ec",
+        "f2b1341788dd1cd62eaea294eca98792a99be2a9d640918e8cd042e496f6edc9",
+        "b5886a33fbbdbe96b36bab46189e37ac77b2237016aaf1038e4ee0fccc197d41"
+      ],
+      "eventDate": "2026-11-13"
+    },
+    {
+      "id": "pingtung-mayoral-public-forum-20261118",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "屏東縣長首場政見會舉行，福利與教育主張如何落實？",
+      "shortTitle": "屏東政見會談福利教育",
+      "category": "每日選舉話題",
+      "county": "屏東縣",
+      "date": "2026-11-18",
+      "summary": "中央社11月18日報導，蘇清泉與周春米均出席屏東縣長首場公辦政見會。蘇清泉提出擴大福利及教育資源運用，周春米說明施政並表達未來四年持續推動產業、建設與福利的方向。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社11月18日報導，蘇清泉與周春米均出席屏東縣長首場公辦政見會。蘇清泉提出擴大福利及教育資源運用，周春米說明施政並表達未來四年持續推動產業、建設與福利的方向。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611180137.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "屏東縣選委會首頁列出11月17日候選人名單公告。本次確認公告存在，名單附件仍須另行核讀，不以政見會報導替代正式名冊比對。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/ptec"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：應區分既有施政、預定措施及新增承諾，逐項核對補助門檻、財源與生效時間。跨校師資及大專資源整合也需說明教育主管權責、人力與執行條件。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611180137.aspx",
+            "https://web.cec.gov.tw/ptec"
+          ]
+        }
+      ],
+      "question": "福利擴大及教育資源整合各需多少經費，哪些可由縣府決定，哪些仍須中央或學校協作？",
+      "checkedAt": "2026-11-19",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "084d8023ca60e3030635ac61e33d5e54b48f344a2a14e9bf07f206c9f5f03008"
+      ]
+    },
+    {
       "id": "nantou-official-election-forums-20261110",
       "symbol": "◇",
       "relatedNames": [],
@@ -715,57 +832,6 @@
       "dailyUpdateKind": "new",
       "dailyEvidenceFingerprints": [
         "237e26f112dd5d670baacbcb25027065abc4511b992e579fbc5a5db4f948419f"
-      ]
-    },
-    {
-      "id": "chiayi-county-official-election-forums-20261113",
-      "symbol": "◇",
-      "relatedNames": [],
-      "districts": [],
-      "title": "嘉義縣列出公辦政見會時間表，場次內容待核",
-      "shortTitle": "嘉義縣公辦政見會公告",
-      "category": "每日選舉話題",
-      "county": "嘉義縣",
-      "date": "2026-11-13",
-      "summary": "嘉義縣選委會最新消息列表列出11月13日發布的縣長及縣議員公辦電視政見會播出時間表。本輪確認公告存在，具體播出時段仍待附件核對。",
-      "steps": [
-        {
-          "speaker": "本次進度與來源說法",
-          "text": "嘉義縣選委會最新消息列表列出11月13日發布的縣長及縣議員公辦電視政見會播出時間表。本輪確認公告存在，具體播出時段仍待附件核對。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/cycec/article/list/555?beginDate=&endDate=&keyword=&page=1"
-          ]
-        },
-        {
-          "speaker": "背景脈絡",
-          "text": "選委會首頁也列出同日鄉鎮市長公辦政見會的場次、時間與地點公告，顯示不同職別分別提供資訊。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/cycec"
-          ]
-        },
-        {
-          "speaker": "判讀重點（本站整理）",
-          "text": "本站判讀重點：應依職別查閱各自附件，區分錄影、播出與現場辦理時間；目前證據不足以公布確切場次或收看管道，也不能推定所有候選人均出席。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/cycec/article/list/555?beginDate=&endDate=&keyword=&page=1",
-            "https://web.cec.gov.tw/cycec"
-          ]
-        },
-        {
-          "speaker": "每日來源複核",
-          "text": "2026-11-17重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/cycec/article/list/555?beginDate=&endDate=&keyword=&page=1",
-            "https://web.cec.gov.tw/cycec"
-          ]
-        }
-      ],
-      "question": "各職別的確切場次、播出管道及候選人參與方式，附件如何規定？",
-      "checkedAt": "2026-11-17",
-      "dailyUpdateKind": "review",
-      "dailyEvidenceFingerprints": [
-        "6b1a2df1a021740a72dd369bdca49a1d2f782d25e92cf90281111ddefac202ec",
-        "f2b1341788dd1cd62eaea294eca98792a99be2a9d640918e8cd042e496f6edc9"
       ]
     },
     {
