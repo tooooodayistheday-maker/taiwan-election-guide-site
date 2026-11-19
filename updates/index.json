@@ -1,5 +1,97 @@
 [
   {
+    "entry_id": "election-night-2026-11-19-r03",
+    "kind": "manual",
+    "session_label": "election-night-2026-11-19・第3輪",
+    "date": "2026-11-20",
+    "checked_at": "2026-11-20T06:09:06.638505+08:00",
+    "county_scope": [
+      "金門縣",
+      "連江縣"
+    ],
+    "accepted_facts": 2,
+    "updated_people": 2,
+    "summary": "加開時段第3輪：新增2項通過來源核對的資料；另查核兩則選舉話題。",
+    "official_checks": [
+      {
+        "url": "https://web.cec.gov.tw/kmec",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/lcec",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.beigan.gov.tw/Chhtml/content/2196",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/central/article/65794",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/central/article/61722",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.matsu-news.gov.tw/news/article/244065",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.matsu-news.gov.tw/news/article/244151",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aipl/202611180144.aspx",
+        "title": "本輪原始資料來源"
+      }
+    ],
+    "limitations": [
+      "局部來源查核，不代表全體候選人背景已完整核實。",
+      "司法、爭議與資格新線索僅保留待查，不自動修改標籤。"
+    ],
+    "review_leads_count": 2,
+    "rejected_count": 5,
+    "changes": [
+      {
+        "name": "林惠萍",
+        "county": "連江縣",
+        "field": "experience",
+        "text": "前縣議員林惠萍",
+        "url": "https://www.matsu-news.gov.tw/news/article/244065"
+      },
+      {
+        "name": "馮印才",
+        "county": "連江縣",
+        "field": "experience",
+        "text": "東引船舶股份有限公司負責人馮印才",
+        "url": "https://www.matsu-news.gov.tw/news/article/244151"
+      }
+    ],
+    "topic_updates": [
+      {
+        "id": "lienchiang-hospital-model-policy-20261002",
+        "title": "連江醫療政見延伸至後送與癌症補助，執行條件待核",
+        "kind": "progress",
+        "summary": "中央社報導，曹爾元在11月18日公辦政見會除重申縣立醫院改制部立，也提出調整離島病患後送方式及癌症醫療補助，讓既有醫院體制話題增加可追問的服務內容。",
+        "sources": [
+          "https://www.cna.com.tw/news/aloc/202611180245.aspx",
+          "https://www.cna.com.tw/news/aloc/202610020294.aspx"
+        ]
+      },
+      {
+        "id": "election-poll-publication-ban-20261118",
+        "title": "11月18日起進入選舉民調禁令期間，轉傳亦須留意",
+        "kind": "review",
+        "summary": "來源複核：本次無新增可確認進度。",
+        "sources": [
+          "https://www.cna.com.tw/news/aipl/202611120161.aspx",
+          "https://web.cec.gov.tw/central/article/65794"
+        ]
+      }
+    ]
+  },
+  {
     "entry_id": "election-night-2026-11-19-r01",
     "kind": "manual",
     "session_label": "election-night-2026-11-19・第1輪",

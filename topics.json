@@ -1,7 +1,125 @@
 {
-  "checkedAt": "2026-11-19",
+  "checkedAt": "2026-11-20",
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
+    {
+      "id": "lienchiang-hospital-model-policy-20261002",
+      "county": "連江縣",
+      "districts": [],
+      "relatedNames": [
+        "曹爾元",
+        "王忠銘"
+      ],
+      "date": "2026-11-18",
+      "title": "連江醫療政見延伸至後送與癌症補助，執行條件待核",
+      "shortTitle": "連江醫療主張新增後送與補助",
+      "category": "每日選舉話題",
+      "summary": "中央社報導，曹爾元在11月18日公辦政見會除重申縣立醫院改制部立，也提出調整離島病患後送方式及癌症醫療補助，讓既有醫院體制話題增加可追問的服務內容。",
+      "steps": [
+        {
+          "speaker": "曹爾元主張改制",
+          "text": "認為改制有助專科人力流動與照護品質，並需協商醫保生返鄉服務和衛生所支援；他質疑並存兩院可能造成資源分散。上述為候選人判斷。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610020294.aspx"
+          ]
+        },
+        {
+          "speaker": "王忠銘主張保留再新設",
+          "text": "支持在保留縣立醫院下另設部立，也強調重大傷病後送。其理由包括在地醫事人員、既有支援制度與預算彈性，並非反對部立醫院本身。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610020294.aspx"
+          ]
+        },
+        {
+          "speaker": "本站追問",
+          "text": "應請中央與地方說明醫師配置、急重症後送、院所分工、建置及常年營運費用，避免只比較「部立」名稱。現有資料不足以認定哪案一定較省錢或較有效。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610020294.aspx"
+          ]
+        },
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社報導，曹爾元在11月18日公辦政見會除重申縣立醫院改制部立，也提出調整離島病患後送方式及癌症醫療補助，讓既有醫院體制話題增加可追問的服務內容。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611180245.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "10月2日報導呈現兩種方向：曹爾元主張既有縣立醫院改制，王忠銘則傾向另設部立醫院並保留縣立醫院。原事件日期仍為10月2日，本次進展是11月18日新增的服務主張。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202610020294.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：後送路線需核對接收醫院、運輸及醫療評估機制；補助需確認適用資格、額度與財源。新增主張不代表醫院改制或後送制度已獲核定。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611180245.aspx",
+            "https://www.cna.com.tw/news/aloc/202610020294.aspx"
+          ]
+        }
+      ],
+      "question": "後送調整與癌症補助各由哪些機關執行，適用條件、財源及預定時程是否有完整方案？",
+      "dailyUpdateKind": "progress",
+      "symbol": "◇",
+      "checkedAt": "2026-11-20",
+      "eventDate": "2026-10-02",
+      "dailyEvidenceFingerprints": [
+        "a45ba1d120afd576cf0377053315c1aaa0c9e46286d83c682d18aaa984de50ff"
+      ]
+    },
+    {
+      "id": "election-poll-publication-ban-20261118",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "11月18日起進入選舉民調禁令期間，轉傳亦須留意",
+      "shortTitle": "選舉民調禁令期間",
+      "category": "每日選舉話題",
+      "county": null,
+      "date": "2026-11-17",
+      "summary": "高雄市選委會11月17日首頁公告提醒，18日起不得散布選舉民調，並點出LINE及網路轉傳的風險。本輪確認公告列表標題及日期，未核讀其附件。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "高雄市選委會11月17日首頁公告提醒，18日起不得散布選舉民調，並點出LINE及網路轉傳的風險。本輪確認公告列表標題及日期，未核讀其附件。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/khec"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "中央社11月12日報導中選會說明，自18日零時至投票時間截止前，不得發布、報導、散布、評論或引述有關選舉的民意調查。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611120161.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：這是選務資訊規範，與候選人政策比較不同。應注意禁令起訖與傳播行為，不以舊調查或轉傳形式推定可以發布；本提案不重刊任何支持度或排名。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/khec",
+            "https://www.cna.com.tw/news/aipl/202611120161.aspx"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-11-20重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611120161.aspx",
+            "https://web.cec.gov.tw/central/article/65794"
+          ]
+        }
+      ],
+      "question": "選務宣導能否提供清楚案例，讓一般使用者辨識群組轉傳及引述舊民調的適用規範？",
+      "checkedAt": "2026-11-20",
+      "dailyUpdateKind": "review",
+      "dailyEvidenceFingerprints": [
+        "c37e872ce06a775e5459063ce3912ccb55f9869d70f0e634948c856cfa63dc8f",
+        "1e53c8ab5b93fc49509332a241f891248dfa92df58f9c5098dcd33a7457b9d84"
+      ]
+    },
     {
       "id": "yilan-official-election-forums-20261112",
       "symbol": "◇",
@@ -694,48 +812,6 @@
       "dailyUpdateKind": "new",
       "dailyEvidenceFingerprints": [
         "aadc0ec1fed6b763cdbb694eccc66498b65ae777386eb0495289a83937fb9491"
-      ]
-    },
-    {
-      "id": "election-poll-publication-ban-20261118",
-      "symbol": "◇",
-      "relatedNames": [],
-      "districts": [],
-      "title": "11月18日起進入選舉民調禁令期間，轉傳亦須留意",
-      "shortTitle": "選舉民調禁令期間",
-      "category": "每日選舉話題",
-      "county": null,
-      "date": "2026-11-17",
-      "summary": "高雄市選委會11月17日首頁公告提醒，18日起不得散布選舉民調，並點出LINE及網路轉傳的風險。本輪確認公告列表標題及日期，未核讀其附件。",
-      "steps": [
-        {
-          "speaker": "本次進度與來源說法",
-          "text": "高雄市選委會11月17日首頁公告提醒，18日起不得散布選舉民調，並點出LINE及網路轉傳的風險。本輪確認公告列表標題及日期，未核讀其附件。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/khec"
-          ]
-        },
-        {
-          "speaker": "背景脈絡",
-          "text": "中央社11月12日報導中選會說明，自18日零時至投票時間截止前，不得發布、報導、散布、評論或引述有關選舉的民意調查。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202611120161.aspx"
-          ]
-        },
-        {
-          "speaker": "判讀重點（本站整理）",
-          "text": "本站判讀重點：這是選務資訊規範，與候選人政策比較不同。應注意禁令起訖與傳播行為，不以舊調查或轉傳形式推定可以發布；本提案不重刊任何支持度或排名。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/khec",
-            "https://www.cna.com.tw/news/aipl/202611120161.aspx"
-          ]
-        }
-      ],
-      "question": "選務宣導能否提供清楚案例，讓一般使用者辨識群組轉傳及引述舊民調的適用規範？",
-      "checkedAt": "2026-11-18",
-      "dailyUpdateKind": "new",
-      "dailyEvidenceFingerprints": [
-        "c37e872ce06a775e5459063ce3912ccb55f9869d70f0e634948c856cfa63dc8f"
       ]
     },
     {
@@ -3003,47 +3079,6 @@
         }
       ],
       "question": "你最想先看到哪個具體工程的經費、期程與責任分工？",
-      "dailyUpdateKind": "background",
-      "symbol": "◇",
-      "checkedAt": "2026-10-22"
-    },
-    {
-      "id": "lienchiang-hospital-model-policy-20261002",
-      "county": "連江縣",
-      "districts": [],
-      "relatedNames": [
-        "曹爾元",
-        "王忠銘"
-      ],
-      "date": "2026-10-02",
-      "title": "馬祖醫療要改制還是新設？兩種部立醫院主張比較",
-      "shortTitle": "縣立改制與保留新設",
-      "category": "醫療與離島生活",
-      "summary": "曹爾元主張縣立醫院改制部立；王忠銘主張保留縣立並新設部立、改善後送。10/22補入10/2原始採訪背景，未取得中央核定或醫院改制新進度。",
-      "steps": [
-        {
-          "speaker": "曹爾元主張改制",
-          "text": "認為改制有助專科人力流動與照護品質，並需協商醫保生返鄉服務和衛生所支援；他質疑並存兩院可能造成資源分散。上述為候選人判斷。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610020294.aspx"
-          ]
-        },
-        {
-          "speaker": "王忠銘主張保留再新設",
-          "text": "支持在保留縣立醫院下另設部立，也強調重大傷病後送。其理由包括在地醫事人員、既有支援制度與預算彈性，並非反對部立醫院本身。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610020294.aspx"
-          ]
-        },
-        {
-          "speaker": "本站追問",
-          "text": "應請中央與地方說明醫師配置、急重症後送、院所分工、建置及常年營運費用，避免只比較「部立」名稱。現有資料不足以認定哪案一定較省錢或較有效。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202610020294.aspx"
-          ]
-        }
-      ],
-      "question": "對你而言，醫療改革最優先的指標是留住醫師、等候時間，還是後送可靠度？",
       "dailyUpdateKind": "background",
       "symbol": "◇",
       "checkedAt": "2026-10-22"
