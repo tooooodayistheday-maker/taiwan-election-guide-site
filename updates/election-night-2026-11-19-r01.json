@@ -1,0 +1,61 @@
+{
+  "entry_id": "election-night-2026-11-19-r01",
+  "kind": "manual",
+  "session_label": "election-night-2026-11-19・第1輪",
+  "date": "2026-11-19",
+  "checked_at": "2026-11-19T23:03:49.951922+08:00",
+  "county_scope": [
+    "宜蘭縣",
+    "花蓮縣"
+  ],
+  "accepted_facts": 0,
+  "updated_people": 0,
+  "summary": "加開時段第1輪：新增0項通過來源核對的資料；另查核兩則選舉話題。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/ilec",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/hlec",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://bulletin.cec.gov.tw/?dir=01%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1%2F04%E7%B8%A3%E5%B8%82%E9%95%B7%2F115%E5%B9%B4",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aipl/202611120320.aspx",
+      "title": "本輪原始資料來源"
+    }
+  ],
+  "limitations": [
+    "局部來源查核，不代表全體候選人背景已完整核實。",
+    "司法、爭議與資格新線索僅保留待查，不自動修改標籤。"
+  ],
+  "review_leads_count": 3,
+  "rejected_count": 3,
+  "changes": [],
+  "topic_updates": [
+    {
+      "id": "yilan-official-election-forums-20261112",
+      "title": "宜蘭首場縣長政見會已舉行，後續仍須核對完整政策",
+      "kind": "progress",
+      "summary": "中央社11月18日報導確認，宜蘭首場縣長公辦政見會已舉行，五名候選人均到場發表政見。既有話題可由預定安排更新為實際舉行。",
+      "sources": [
+        "https://www.cna.com.tw/news/aipl/202611180330.aspx",
+        "https://web.cec.gov.tw/ilec"
+      ]
+    },
+    {
+      "id": "taipei-yilan-cooperation-memorandum-20261117",
+      "title": "沈伯洋與林國漳簽北宜合作備忘錄，平台權責待說明",
+      "kind": "new",
+      "summary": "中央社11月17日報導，沈伯洋與林國漳簽署北宜生活圈合作備忘錄。林國漳提出當選後三個月成立協作平台，推動產業、交通及住宅合作，並定期公布進度。這是競選承諾。",
+      "sources": [
+        "https://www.cna.com.tw/news/aloc/202611170082.aspx",
+        "https://www.cna.com.tw/news/aipl/202611160285.aspx"
+      ]
+    }
+  ]
+}

@@ -3,6 +3,125 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "yilan-official-election-forums-20261112",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "宜蘭首場縣長政見會已舉行，後續仍須核對完整政策",
+      "shortTitle": "宜蘭首場政見會已舉行",
+      "category": "每日選舉話題",
+      "county": "宜蘭縣",
+      "date": "2026-11-18",
+      "summary": "中央社11月18日報導確認，宜蘭首場縣長公辦政見會已舉行，五名候選人均到場發表政見。既有話題可由預定安排更新為實際舉行。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "宜蘭縣選委會11月12日消息列出，本屆縣長及縣議員公辦電視政見發表會安排於11月18日至21日期間辦理。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/ilec?Lang=zh-tw"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "中央社11月12日整理、14日更新的報導指出，宜蘭縣長場分別安排於18日與21日，採兩輪發言，每輪12分鐘。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611125002.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：縣長場與議員各選區場次須分別核對。此次確認的是預定安排，附件及播出頻道仍待核讀，不能推定活動已完成或所有候選人已出席。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/ilec?Lang=zh-tw",
+            "https://www.cna.com.tw/news/aipl/202611125002.aspx"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-11-18重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/ilec",
+            "https://www.cna.com.tw/news/aipl/202611125002.aspx"
+          ]
+        },
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社11月18日報導確認，宜蘭首場縣長公辦政見會已舉行，五名候選人均到場發表政見。既有話題可由預定安排更新為實際舉行。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611180330.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "宜蘭縣選委會首頁保留11月12日公告，安排縣長及縣議員公辦電視政見會於11月18日至21日期間辦理。公告時程與活動實際舉行分別由官方列表及後續採訪報導支持。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/ilec"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：本次確認首場活動及出席情形，不代表後續場次已完成。報導主要記錄交鋒，政策比較仍須取得完整影音或逐字內容，核對承諾的權責、財源與執行時間。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611180330.aspx",
+            "https://web.cec.gov.tw/ilec"
+          ]
+        }
+      ],
+      "question": "選委會將如何提供完整回看與各候選人的政策全文，方便選民逐項比較？",
+      "checkedAt": "2026-11-19",
+      "dailyUpdateKind": "progress",
+      "dailyEvidenceFingerprints": [
+        "7719d9f861da645151d3ed3efd5349024d02e8c1b05dd9a2fa568f8740074d8c",
+        "a49b9ff7d9cc4b7ed600907eb1d38503debca483e8fc206cb8d611c1da111e75",
+        "280ae08a341134e409f826cd7a4848294947dbcf20baa385348662a00a292077",
+        "009630c8ce5ff91403ad666102baee66de849ea17291d5d422c61ebf32d1ef63",
+        "e50e44aa0aee7148ba2eb77bcd74f03e167c86dbabfb9dea2e416131143a750f"
+      ],
+      "eventDate": "2026-11-12"
+    },
+    {
+      "id": "taipei-yilan-cooperation-memorandum-20261117",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "沈伯洋與林國漳簽北宜合作備忘錄，平台權責待說明",
+      "shortTitle": "北宜合作備忘錄與協作平台",
+      "category": "每日選舉話題",
+      "county": null,
+      "date": "2026-11-17",
+      "summary": "中央社11月17日報導，沈伯洋與林國漳簽署北宜生活圈合作備忘錄。林國漳提出當選後三個月成立協作平台，推動產業、交通及住宅合作，並定期公布進度。這是競選承諾。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社11月17日報導，沈伯洋與林國漳簽署北宜生活圈合作備忘錄。林國漳提出當選後三個月成立協作平台，推動產業、交通及住宅合作，並定期公布進度。這是競選承諾。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611170082.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "中央社11月16日報導記錄林國漳預告將在政見會提出縣政藍圖；隔日合作備忘錄則提供跨縣市平台及成立期限的具體主張，屬不同於政見會排程的政策事件。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611160285.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：候選人簽署備忘錄尚非政府核定計畫。應釐清平台成員、決策及公開機制，區分地方可協作事項與需中央核定的高鐵建設，並核對交通、住宅及產業措施各自的財源與時程。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611170082.aspx",
+            "https://www.cna.com.tw/news/aipl/202611160285.aspx"
+          ]
+        }
+      ],
+      "question": "協作平台成立後，哪些事項由地方直接執行，哪些須中央核定，進度將如何公開？",
+      "checkedAt": "2026-11-19",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "0096f9f48a6c81b38293ab022bcbae28b41b8d3850c323c62db606679eb16cb9"
+      ]
+    },
+    {
       "id": "chiayi-county-official-election-forums-20261113",
       "symbol": "◇",
       "relatedNames": [],
@@ -363,59 +482,6 @@
         "955bfb53ef6851542e1ec6d5e745cb8ed5081f845ac4ab38e99345e002b1383c",
         "3a3b6bf6a1d8454cf3f4f773dd513bc03b58b25cedab081fd73fa6a3b4d7ebc8",
         "f10e465eac953a9d29a3aaf0b94c6c94b4308c0402d032b0ce05833304c7ff3b"
-      ]
-    },
-    {
-      "id": "yilan-official-election-forums-20261112",
-      "symbol": "◇",
-      "relatedNames": [],
-      "districts": [],
-      "title": "宜蘭公告公辦政見會，縣長場安排18日與21日",
-      "shortTitle": "宜蘭公辦政見會時程",
-      "category": "每日選舉話題",
-      "county": "宜蘭縣",
-      "date": "2026-11-12",
-      "summary": "宜蘭縣選委會11月12日消息列出，本屆縣長及縣議員公辦電視政見發表會安排於11月18日至21日期間辦理。",
-      "steps": [
-        {
-          "speaker": "本次進度與來源說法",
-          "text": "宜蘭縣選委會11月12日消息列出，本屆縣長及縣議員公辦電視政見發表會安排於11月18日至21日期間辦理。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/ilec?Lang=zh-tw"
-          ]
-        },
-        {
-          "speaker": "背景脈絡",
-          "text": "中央社11月12日整理、14日更新的報導指出，宜蘭縣長場分別安排於18日與21日，採兩輪發言，每輪12分鐘。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202611125002.aspx"
-          ]
-        },
-        {
-          "speaker": "判讀重點（本站整理）",
-          "text": "本站判讀重點：縣長場與議員各選區場次須分別核對。此次確認的是預定安排，附件及播出頻道仍待核讀，不能推定活動已完成或所有候選人已出席。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/ilec?Lang=zh-tw",
-            "https://www.cna.com.tw/news/aipl/202611125002.aspx"
-          ]
-        },
-        {
-          "speaker": "每日來源複核",
-          "text": "2026-11-18重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/ilec",
-            "https://www.cna.com.tw/news/aipl/202611125002.aspx"
-          ]
-        }
-      ],
-      "question": "各場正式播出時間、收看入口及完整回看資料，選委會將如何提供？",
-      "checkedAt": "2026-11-18",
-      "dailyUpdateKind": "review",
-      "dailyEvidenceFingerprints": [
-        "7719d9f861da645151d3ed3efd5349024d02e8c1b05dd9a2fa568f8740074d8c",
-        "a49b9ff7d9cc4b7ed600907eb1d38503debca483e8fc206cb8d611c1da111e75",
-        "280ae08a341134e409f826cd7a4848294947dbcf20baa385348662a00a292077",
-        "009630c8ce5ff91403ad666102baee66de849ea17291d5d422c61ebf32d1ef63"
       ]
     },
     {
