@@ -3,6 +3,99 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "taipei-new-taipei-bus-pass-399-policy-20261119",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "李四川與蔣萬安提雙北公車399定期票，財源與路網待核",
+      "shortTitle": "雙北公車399定期票主張",
+      "category": "每日選舉話題",
+      "county": null,
+      "date": "2026-11-19",
+      "summary": "中央社11月19日報導，李四川與蔣萬安提出雙北公車月票方案，規劃30天不限次數搭乘，並表示將檢討路線與班次。這是公開政策主張，報導未確認正式實施日期。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社11月19日報導，李四川與蔣萬安提出雙北公車月票方案，規劃30天不限次數搭乘，並表示將檢討路線與班次。這是公開政策主張，報導未確認正式實施日期。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611190127.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "同日另一篇報導記錄兩人聯合車掃，李四川表示未來將在交通、教育及文化合作。公車票價方案是合作主張中的具體措施，仍須與實際核定及執行情形分開。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611190345.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：須核對票種適用路線、補貼財源、雙北分攤及上路時程。票價優惠與班次、駕駛人力及路網調整須分別驗證，不能由提出方案推定服務已改善。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611190127.aspx",
+            "https://www.cna.com.tw/news/aloc/202611190345.aspx"
+          ]
+        }
+      ],
+      "question": "兩市將如何分攤補貼，並確保優惠票價同時維持班次與駕駛合理工時？",
+      "checkedAt": "2026-11-20",
+      "dailyUpdateKind": "new",
+      "dailyEvidenceFingerprints": [
+        "53ee7336c8cb388a3cedbbbee658f786d7881ed5889c95bb472405471903f264"
+      ]
+    },
+    {
+      "id": "taipei-election-bulletin-voter-eligibility-correction-20261117",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "臺北議員公報更正選舉人資格文字，名冊與公報須分辨",
+      "shortTitle": "臺北公報選舉人資格更正",
+      "category": "每日選舉話題",
+      "county": "臺北市",
+      "date": "2026-11-17",
+      "summary": "中央社報導，北市議員公報誤載已刪除的受監護宣告排除規定，選委會已印製勘誤表並請地方張貼；選委會表示，選舉人名冊依修法後規定編造。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社報導，北市議員公報誤載已刪除的受監護宣告排除規定，選委會已印製勘誤表並請地方張貼；選委會表示，選舉人名冊依修法後規定編造。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611170296.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "臺北市選委會首頁同日列出議員第1至第6選舉區公報選舉人資格更正公告，可確認更正範圍的公告標題；附件尚待核讀。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/mect"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點是區分公報印刷錯誤、勘誤通知與實際選舉人名冊。後續應確認更正資訊是否送達各區里，以及選民如何查證個人投票資訊，不以公報舊文字判斷個人有無投票權。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611170296.aspx",
+            "https://web.cec.gov.tw/mect"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-11-20重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611170296.aspx",
+            "https://web.cec.gov.tw/mect"
+          ]
+        }
+      ],
+      "question": "選委會如何確保收到舊版公報的選民，也能及時取得更正資訊與查詢協助？",
+      "checkedAt": "2026-11-20",
+      "dailyUpdateKind": "review",
+      "dailyEvidenceFingerprints": [
+        "237e26f112dd5d670baacbcb25027065abc4511b992e579fbc5a5db4f948419f",
+        "928378825d23a8002b1c44750de5604087ff9dcdde51f3561f2b694d3ada8001"
+      ]
+    },
+    {
       "id": "lienchiang-hospital-model-policy-20261002",
       "county": "連江縣",
       "districts": [],
@@ -933,48 +1026,6 @@
         "90b746c46adb6f68e9fbda9a6fa97c923ffd42d9b2d098868e4b4855abdec114"
       ],
       "eventDate": "2026-11-11"
-    },
-    {
-      "id": "taipei-election-bulletin-voter-eligibility-correction-20261117",
-      "symbol": "◇",
-      "relatedNames": [],
-      "districts": [],
-      "title": "臺北議員公報更正選舉人資格文字，名冊與公報須分辨",
-      "shortTitle": "臺北公報選舉人資格更正",
-      "category": "每日選舉話題",
-      "county": "臺北市",
-      "date": "2026-11-17",
-      "summary": "中央社報導，北市議員公報誤載已刪除的受監護宣告排除規定，選委會已印製勘誤表並請地方張貼；選委會表示，選舉人名冊依修法後規定編造。",
-      "steps": [
-        {
-          "speaker": "本次進度與來源說法",
-          "text": "中央社報導，北市議員公報誤載已刪除的受監護宣告排除規定，選委會已印製勘誤表並請地方張貼；選委會表示，選舉人名冊依修法後規定編造。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202611170296.aspx"
-          ]
-        },
-        {
-          "speaker": "背景脈絡",
-          "text": "臺北市選委會首頁同日列出議員第1至第6選舉區公報選舉人資格更正公告，可確認更正範圍的公告標題；附件尚待核讀。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/mect"
-          ]
-        },
-        {
-          "speaker": "判讀重點（本站整理）",
-          "text": "本站判讀重點是區分公報印刷錯誤、勘誤通知與實際選舉人名冊。後續應確認更正資訊是否送達各區里，以及選民如何查證個人投票資訊，不以公報舊文字判斷個人有無投票權。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202611170296.aspx",
-            "https://web.cec.gov.tw/mect"
-          ]
-        }
-      ],
-      "question": "選委會如何確保收到舊版公報的選民，也能及時取得更正資訊與查詢協助？",
-      "checkedAt": "2026-11-17",
-      "dailyUpdateKind": "new",
-      "dailyEvidenceFingerprints": [
-        "237e26f112dd5d670baacbcb25027065abc4511b992e579fbc5a5db4f948419f"
-      ]
     },
     {
       "id": "kinmen-whitepaper-draft-consultation-20261001",

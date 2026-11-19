@@ -1,5 +1,70 @@
 [
   {
+    "entry_id": "election-night-2026-11-19-r04",
+    "kind": "manual",
+    "session_label": "election-night-2026-11-19・第4輪",
+    "date": "2026-11-20",
+    "checked_at": "2026-11-20T06:15:25.727390+08:00",
+    "county_scope": [
+      "臺北市",
+      "新北市"
+    ],
+    "accepted_facts": 0,
+    "updated_people": 0,
+    "summary": "加開時段第4輪：新增0項通過來源核對的資料；另查核兩則選舉話題。",
+    "official_checks": [
+      {
+        "url": "https://web.cec.gov.tw/mect",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://web.cec.gov.tw/tpcec",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aloc/202610310046.aspx",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aloc/202611170082.aspx",
+        "title": "本輪原始資料來源"
+      },
+      {
+        "url": "https://www.cna.com.tw/news/aipl/202611070171.aspx",
+        "title": "本輪原始資料來源"
+      }
+    ],
+    "limitations": [
+      "局部來源查核，不代表全體候選人背景已完整核實。",
+      "司法、爭議與資格新線索僅保留待查，不自動修改標籤。"
+    ],
+    "review_leads_count": 0,
+    "rejected_count": 5,
+    "changes": [],
+    "topic_updates": [
+      {
+        "id": "taipei-new-taipei-bus-pass-399-policy-20261119",
+        "title": "李四川與蔣萬安提雙北公車399定期票，財源與路網待核",
+        "kind": "new",
+        "summary": "中央社11月19日報導，李四川與蔣萬安提出雙北公車月票方案，規劃30天不限次數搭乘，並表示將檢討路線與班次。這是公開政策主張，報導未確認正式實施日期。",
+        "sources": [
+          "https://www.cna.com.tw/news/aipl/202611190127.aspx",
+          "https://www.cna.com.tw/news/aloc/202611190345.aspx"
+        ]
+      },
+      {
+        "id": "taipei-election-bulletin-voter-eligibility-correction-20261117",
+        "title": "臺北議員公報更正選舉人資格文字，名冊與公報須分辨",
+        "kind": "review",
+        "summary": "來源複核：本次無新增可確認進度。",
+        "sources": [
+          "https://www.cna.com.tw/news/aloc/202611170296.aspx",
+          "https://web.cec.gov.tw/mect"
+        ]
+      }
+    ]
+  },
+  {
     "entry_id": "election-night-2026-11-19-r03",
     "kind": "manual",
     "session_label": "election-night-2026-11-19・第3輪",
