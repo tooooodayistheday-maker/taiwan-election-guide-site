@@ -3,6 +3,108 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "kaohsiung-ai-governance-education-20261101",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "高雄AI政見比較：產業、治理與全民學習如何落實？",
+      "shortTitle": "高雄AI產業與教育政見",
+      "category": "每日選舉話題",
+      "county": "高雄市",
+      "date": "2026-11-01",
+      "summary": "中央社11月1日整理高雄市長選戰AI主張：賴瑞隆著重產業專區與城市資訊應用，柯志恩強調不同年齡層的學習資源，也提出防汛及公共自行車調度應用。這是政策比較報導，並非各項方案當日首次提出。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社11月1日整理高雄市長選戰AI主張：賴瑞隆著重產業專區與城市資訊應用，柯志恩強調不同年齡層的學習資源，也提出防汛及公共自行車調度應用。這是政策比較報導，並非各項方案當日首次提出。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611010013.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "10月12日中央社已報導兩人的AI產業布局與科技生活應用主張。今日報導可補充治理及教育面向，不能把先前方案重新描述為首次宣布。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202610120149.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：應追問產業土地與能源條件、跨機關資料使用權限、個資保護、教育師資與設備財源，以及防汛和調度系統的驗證方式。競選方案不能直接視為建置完成或已有成效。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611010013.aspx",
+            "https://www.cna.com.tw/news/aipl/202610120149.aspx"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-11-21重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611010013.aspx",
+            "https://www.cna.com.tw/news/aipl/202610120149.aspx"
+          ]
+        }
+      ],
+      "question": "候選人能否提出各項AI方案的主管機關、年度預算、執行時程與公開驗收指標？",
+      "checkedAt": "2026-11-21",
+      "dailyUpdateKind": "review",
+      "dailyEvidenceFingerprints": [
+        "44347cb61beab0be0553d69cfa4f7c8dfa87e78eff951f4ef4bb0312fae39803",
+        "9a8ede635c0b8b8dec8ec97a89f44016604097c305d2955eb051a393e1ce638b"
+      ]
+    },
+    {
+      "id": "election-poll-publication-ban-20261118",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "11月18日起進入選舉民調禁令期間，轉傳亦須留意",
+      "shortTitle": "選舉民調禁令期間",
+      "category": "每日選舉話題",
+      "county": null,
+      "date": "2026-11-17",
+      "summary": "高雄市選委會11月17日首頁公告提醒，18日起不得散布選舉民調，並點出LINE及網路轉傳的風險。本輪確認公告列表標題及日期，未核讀其附件。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "高雄市選委會11月17日首頁公告提醒，18日起不得散布選舉民調，並點出LINE及網路轉傳的風險。本輪確認公告列表標題及日期，未核讀其附件。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/khec"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "中央社11月12日報導中選會說明，自18日零時至投票時間截止前，不得發布、報導、散布、評論或引述有關選舉的民意調查。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611120161.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：這是選務資訊規範，與候選人政策比較不同。應注意禁令起訖與傳播行為，不以舊調查或轉傳形式推定可以發布；本提案不重刊任何支持度或排名。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/khec",
+            "https://www.cna.com.tw/news/aipl/202611120161.aspx"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-11-21重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/khec",
+            "https://www.cna.com.tw/news/aipl/202611120161.aspx"
+          ]
+        }
+      ],
+      "question": "選務宣導能否提供清楚案例，讓一般使用者辨識群組轉傳及引述舊民調的適用規範？",
+      "checkedAt": "2026-11-21",
+      "dailyUpdateKind": "review",
+      "dailyEvidenceFingerprints": [
+        "c37e872ce06a775e5459063ce3912ccb55f9869d70f0e634948c856cfa63dc8f",
+        "1e53c8ab5b93fc49509332a241f891248dfa92df58f9c5098dcd33a7457b9d84"
+      ]
+    },
+    {
       "id": "taoyuan-mayoral-policy-forum-20261117",
       "symbol": "◇",
       "relatedNames": [],
@@ -312,57 +414,6 @@
       "eventDate": "2026-10-02",
       "dailyEvidenceFingerprints": [
         "a45ba1d120afd576cf0377053315c1aaa0c9e46286d83c682d18aaa984de50ff"
-      ]
-    },
-    {
-      "id": "election-poll-publication-ban-20261118",
-      "symbol": "◇",
-      "relatedNames": [],
-      "districts": [],
-      "title": "11月18日起進入選舉民調禁令期間，轉傳亦須留意",
-      "shortTitle": "選舉民調禁令期間",
-      "category": "每日選舉話題",
-      "county": null,
-      "date": "2026-11-17",
-      "summary": "高雄市選委會11月17日首頁公告提醒，18日起不得散布選舉民調，並點出LINE及網路轉傳的風險。本輪確認公告列表標題及日期，未核讀其附件。",
-      "steps": [
-        {
-          "speaker": "本次進度與來源說法",
-          "text": "高雄市選委會11月17日首頁公告提醒，18日起不得散布選舉民調，並點出LINE及網路轉傳的風險。本輪確認公告列表標題及日期，未核讀其附件。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/khec"
-          ]
-        },
-        {
-          "speaker": "背景脈絡",
-          "text": "中央社11月12日報導中選會說明，自18日零時至投票時間截止前，不得發布、報導、散布、評論或引述有關選舉的民意調查。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202611120161.aspx"
-          ]
-        },
-        {
-          "speaker": "判讀重點（本站整理）",
-          "text": "本站判讀重點：這是選務資訊規範，與候選人政策比較不同。應注意禁令起訖與傳播行為，不以舊調查或轉傳形式推定可以發布；本提案不重刊任何支持度或排名。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/khec",
-            "https://www.cna.com.tw/news/aipl/202611120161.aspx"
-          ]
-        },
-        {
-          "speaker": "每日來源複核",
-          "text": "2026-11-20重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202611120161.aspx",
-            "https://web.cec.gov.tw/central/article/65794"
-          ]
-        }
-      ],
-      "question": "選務宣導能否提供清楚案例，讓一般使用者辨識群組轉傳及引述舊民調的適用規範？",
-      "checkedAt": "2026-11-20",
-      "dailyUpdateKind": "review",
-      "dailyEvidenceFingerprints": [
-        "c37e872ce06a775e5459063ce3912ccb55f9869d70f0e634948c856cfa63dc8f",
-        "1e53c8ab5b93fc49509332a241f891248dfa92df58f9c5098dcd33a7457b9d84"
       ]
     },
     {
@@ -2365,48 +2416,6 @@
       "dailyUpdateKind": "new",
       "dailyEvidenceFingerprints": [
         "bbb54a290e072aadde0489ffe99678f78a0ebcdbccc95297c614d7952922bc85"
-      ]
-    },
-    {
-      "id": "kaohsiung-ai-governance-education-20261101",
-      "symbol": "◇",
-      "relatedNames": [],
-      "districts": [],
-      "title": "高雄AI政見比較：產業、治理與全民學習如何落實？",
-      "shortTitle": "高雄AI產業與教育政見",
-      "category": "每日選舉話題",
-      "county": "高雄市",
-      "date": "2026-11-01",
-      "summary": "中央社11月1日整理高雄市長選戰AI主張：賴瑞隆著重產業專區與城市資訊應用，柯志恩強調不同年齡層的學習資源，也提出防汛及公共自行車調度應用。這是政策比較報導，並非各項方案當日首次提出。",
-      "steps": [
-        {
-          "speaker": "本次進度與來源說法",
-          "text": "中央社11月1日整理高雄市長選戰AI主張：賴瑞隆著重產業專區與城市資訊應用，柯志恩強調不同年齡層的學習資源，也提出防汛及公共自行車調度應用。這是政策比較報導，並非各項方案當日首次提出。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202611010013.aspx"
-          ]
-        },
-        {
-          "speaker": "背景脈絡",
-          "text": "10月12日中央社已報導兩人的AI產業布局與科技生活應用主張。今日報導可補充治理及教育面向，不能把先前方案重新描述為首次宣布。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202610120149.aspx"
-          ]
-        },
-        {
-          "speaker": "判讀重點（本站整理）",
-          "text": "本站判讀重點：應追問產業土地與能源條件、跨機關資料使用權限、個資保護、教育師資與設備財源，以及防汛和調度系統的驗證方式。競選方案不能直接視為建置完成或已有成效。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202611010013.aspx",
-            "https://www.cna.com.tw/news/aipl/202610120149.aspx"
-          ]
-        }
-      ],
-      "question": "候選人能否提出各項AI方案的主管機關、年度預算、執行時程與公開驗收指標？",
-      "checkedAt": "2026-11-01",
-      "dailyUpdateKind": "new",
-      "dailyEvidenceFingerprints": [
-        "44347cb61beab0be0553d69cfa4f7c8dfa87e78eff951f4ef4bb0312fae39803"
       ]
     },
     {
