@@ -1,7 +1,159 @@
 {
-  "checkedAt": "2026-11-20",
+  "checkedAt": "2026-11-21",
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
+    {
+      "id": "taoyuan-mayoral-policy-forum-20261117",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "桃園市長政見會舉行，交通方案與執行條件待比對",
+      "shortTitle": "桃園市長政見會",
+      "category": "每日選舉話題",
+      "county": "桃園市",
+      "date": "2026-11-17",
+      "summary": "桃園市長公辦電視政見會17日舉行，張善政與黃世杰就交通及公車治理提出說明。報導另記載住宅、醫療與文化觀光方向，需區分既有施政、自述成果及未來承諾。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "桃園市長公辦電視政見會17日舉行，張善政與黃世杰就交通及公車治理提出說明。報導另記載住宅、醫療與文化觀光方向，需區分既有施政、自述成果及未來承諾。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611170053.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "桃園市選委會首頁列有11月6日發布的公辦政見會日程表。本輪確認列表標題及日期，尚未逐項核讀日程附件。",
+          "sourceUrls": [
+            "https://web.cec.gov.tw/tyec"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：公車資訊、路網與運能應分別檢視；住宅承諾則需核對中央地方分工、供給時程及適用家庭。候選人的成效自述及對手質疑，仍須原始資料佐證。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611170053.aspx",
+            "https://web.cec.gov.tw/tyec"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-11-21重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611170053.aspx",
+            "https://web.cec.gov.tw/tyec"
+          ]
+        }
+      ],
+      "question": "各項交通與住宅方案的年度預算、中央協作事項及任期內里程碑，能否提出可公開追蹤的清單？",
+      "checkedAt": "2026-11-21",
+      "dailyUpdateKind": "review",
+      "dailyEvidenceFingerprints": [
+        "ca32553bab8f759bd66f1ef3758273ed2b9e2c2407a7783ed40c8fa41d85840f",
+        "8c044d1cfd09bea5521dbb97594b9b67329f67f7c946d7aaf22084d7d6a793c2"
+      ]
+    },
+    {
+      "id": "taichung-official-election-tv-forums-20261111",
+      "symbol": "◇",
+      "relatedNames": [],
+      "districts": [],
+      "title": "臺中政見會後續：何欣純說明超巨蛋交通評估範圍",
+      "shortTitle": "超巨蛋交通評估說明",
+      "category": "每日選舉話題",
+      "county": "臺中市",
+      "date": "2026-11-18",
+      "summary": "中央社11月18日報導，何欣純在政見會後說明支持延續巨蛋及台灣超巨蛋建設，所談評估聚焦周邊交通與人潮疏散。這是候選人的後續說明，並非交通配套已完成。",
+      "steps": [
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "臺中市政府11月11日公布市長公辦政見會將於11月17日晚間7時採辯論形式舉行，選委會的YouTube平台將同步直播。市議員政見會安排在11月18日至22日分區播出。",
+          "sourceUrls": [
+            "https://cdn.www.taichung.gov.tw/3411469/post"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "中央社同日報導，市長場另安排11月24日晚間6時在電視重播。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611110125.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點是公辦場的收看安排。市長場有直播與重播，議員場按選區排播。選委會已說明提供手語翻譯，仍可核對各區頻道、確切時段及播出後的回看入口。",
+          "sourceUrls": [
+            "https://cdn.www.taichung.gov.tw/3411469/post",
+            "https://www.cna.com.tw/news/aloc/202611110125.aspx"
+          ]
+        },
+        {
+          "speaker": "每日來源複核",
+          "text": "2026-11-15重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611110125.aspx",
+            "https://www.cna.com.tw/news/aloc/202611110125.aspx"
+          ]
+        },
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "臺中市長公辦電視政見會17日晚間舉行，既有話題從預告時程進入實際發言階段。報導記載何欣純提出交通、產業及福利方向，江啟臣提出城市國際化等轉型主張。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611170313.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "11月11日的選委會說明已預告市長場採辯論形式，安排申論、公正人士提問與結論；市議員場次另訂18日至22日分區播出。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611110125.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：這次新增的是發表會已舉行及具體發言紀錄。捷運、機場與產業投資涉及中央地方協作，福利承諾涉及持續財源，均應與既有計畫及新增預算分開核對。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aipl/202611170313.aspx",
+            "https://www.cna.com.tw/news/aloc/202611110125.aspx"
+          ]
+        },
+        {
+          "speaker": "本次進度與來源說法",
+          "text": "中央社11月18日報導，何欣純在政見會後說明支持延續巨蛋及台灣超巨蛋建設，所談評估聚焦周邊交通與人潮疏散。這是候選人的後續說明，並非交通配套已完成。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611180169.aspx"
+          ]
+        },
+        {
+          "speaker": "背景脈絡",
+          "text": "11月17日公辦政見會已讓候選人回答上任後優先政策及預算配置問題。既有話題已收錄發表會舉行，本次沿用原ID補入翌日的具體說明。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611170312.aspx"
+          ]
+        },
+        {
+          "speaker": "判讀重點（本站整理）",
+          "text": "本站判讀重點：場館契約、建設延續與周邊交通評估屬不同工作。應追蹤交通主管機關、營運方及市府的分工、評估期程、疏散需求與配套財源，不能把支持建設視為所有營運問題已有解答。",
+          "sourceUrls": [
+            "https://www.cna.com.tw/news/aloc/202611180169.aspx",
+            "https://www.cna.com.tw/news/aloc/202611170312.aspx"
+          ]
+        }
+      ],
+      "question": "場館周邊交通與疏散評估由誰負責、何時公開，新增公車或其他接駁服務的財源如何安排？",
+      "checkedAt": "2026-11-21",
+      "dailyUpdateKind": "progress",
+      "dailyEvidenceFingerprints": [
+        "556f4e12bfe6aa0fbbf2cec59a4ddf8e54229ddf1ccea4ea5a7eb374886290dc",
+        "f6f41289e7d06234b4c44b3e30a8deb793647f4d8c47cfdce15e0c91e047a954",
+        "8c16b703d1a884bf3ee4415e32a761a6428b2d10983daecc3c80c8e8f26d4ef1",
+        "7d944ee0e47a7940460e96b0421b0d8fefb47a5da75c0fa6e0250947ee56213d",
+        "65cc5dfb7ff0bd4a7d066d8f8105766032ca6e8658ce5340779a009927848baa",
+        "90b746c46adb6f68e9fbda9a6fa97c923ffd42d9b2d098868e4b4855abdec114",
+        "3890d83a06f69b9a4404ddd1830d05d5a9e3fc1446da7528bc56f69e7bf96ac1"
+      ],
+      "eventDate": "2026-11-11"
+    },
     {
       "id": "taipei-new-taipei-bus-pass-399-policy-20261119",
       "symbol": "◇",
@@ -906,126 +1058,6 @@
       "dailyEvidenceFingerprints": [
         "aadc0ec1fed6b763cdbb694eccc66498b65ae777386eb0495289a83937fb9491"
       ]
-    },
-    {
-      "id": "taoyuan-mayoral-policy-forum-20261117",
-      "symbol": "◇",
-      "relatedNames": [],
-      "districts": [],
-      "title": "桃園市長政見會舉行，交通方案與執行條件待比對",
-      "shortTitle": "桃園市長政見會",
-      "category": "每日選舉話題",
-      "county": "桃園市",
-      "date": "2026-11-17",
-      "summary": "桃園市長公辦電視政見會17日舉行，張善政與黃世杰就交通及公車治理提出說明。報導另記載住宅、醫療與文化觀光方向，需區分既有施政、自述成果及未來承諾。",
-      "steps": [
-        {
-          "speaker": "本次進度與來源說法",
-          "text": "桃園市長公辦電視政見會17日舉行，張善政與黃世杰就交通及公車治理提出說明。報導另記載住宅、醫療與文化觀光方向，需區分既有施政、自述成果及未來承諾。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202611170053.aspx"
-          ]
-        },
-        {
-          "speaker": "背景脈絡",
-          "text": "桃園市選委會首頁列有11月6日發布的公辦政見會日程表。本輪確認列表標題及日期，尚未逐項核讀日程附件。",
-          "sourceUrls": [
-            "https://web.cec.gov.tw/tyec"
-          ]
-        },
-        {
-          "speaker": "判讀重點（本站整理）",
-          "text": "本站判讀重點：公車資訊、路網與運能應分別檢視；住宅承諾則需核對中央地方分工、供給時程及適用家庭。候選人的成效自述及對手質疑，仍須原始資料佐證。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202611170053.aspx",
-            "https://web.cec.gov.tw/tyec"
-          ]
-        }
-      ],
-      "question": "各項交通與住宅方案的年度預算、中央協作事項及任期內里程碑，能否提出可公開追蹤的清單？",
-      "checkedAt": "2026-11-17",
-      "dailyUpdateKind": "new",
-      "dailyEvidenceFingerprints": [
-        "ca32553bab8f759bd66f1ef3758273ed2b9e2c2407a7783ed40c8fa41d85840f"
-      ]
-    },
-    {
-      "id": "taichung-official-election-tv-forums-20261111",
-      "symbol": "◇",
-      "relatedNames": [],
-      "districts": [],
-      "title": "臺中市長政見會已舉行，交通社福與國際化方案待追問",
-      "shortTitle": "臺中政見會進入主張比對",
-      "category": "每日選舉話題",
-      "county": "臺中市",
-      "date": "2026-11-17",
-      "summary": "臺中市長公辦電視政見會17日晚間舉行，既有話題從預告時程進入實際發言階段。報導記載何欣純提出交通、產業及福利方向，江啟臣提出城市國際化等轉型主張。",
-      "steps": [
-        {
-          "speaker": "本次進度與來源說法",
-          "text": "臺中市政府11月11日公布市長公辦政見會將於11月17日晚間7時採辯論形式舉行，選委會的YouTube平台將同步直播。市議員政見會安排在11月18日至22日分區播出。",
-          "sourceUrls": [
-            "https://cdn.www.taichung.gov.tw/3411469/post"
-          ]
-        },
-        {
-          "speaker": "背景脈絡",
-          "text": "中央社同日報導，市長場另安排11月24日晚間6時在電視重播。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202611110125.aspx"
-          ]
-        },
-        {
-          "speaker": "判讀重點（本站整理）",
-          "text": "本站判讀重點是公辦場的收看安排。市長場有直播與重播，議員場按選區排播。選委會已說明提供手語翻譯，仍可核對各區頻道、確切時段及播出後的回看入口。",
-          "sourceUrls": [
-            "https://cdn.www.taichung.gov.tw/3411469/post",
-            "https://www.cna.com.tw/news/aloc/202611110125.aspx"
-          ]
-        },
-        {
-          "speaker": "每日來源複核",
-          "text": "2026-11-15重新核對公開來源；本次未新增可確認的新進度，原事件日期與既有敘述保留。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202611110125.aspx",
-            "https://www.cna.com.tw/news/aloc/202611110125.aspx"
-          ]
-        },
-        {
-          "speaker": "本次進度與來源說法",
-          "text": "臺中市長公辦電視政見會17日晚間舉行，既有話題從預告時程進入實際發言階段。報導記載何欣純提出交通、產業及福利方向，江啟臣提出城市國際化等轉型主張。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202611170313.aspx"
-          ]
-        },
-        {
-          "speaker": "背景脈絡",
-          "text": "11月11日的選委會說明已預告市長場採辯論形式，安排申論、公正人士提問與結論；市議員場次另訂18日至22日分區播出。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aloc/202611110125.aspx"
-          ]
-        },
-        {
-          "speaker": "判讀重點（本站整理）",
-          "text": "本站判讀重點：這次新增的是發表會已舉行及具體發言紀錄。捷運、機場與產業投資涉及中央地方協作，福利承諾涉及持續財源，均應與既有計畫及新增預算分開核對。",
-          "sourceUrls": [
-            "https://www.cna.com.tw/news/aipl/202611170313.aspx",
-            "https://www.cna.com.tw/news/aloc/202611110125.aspx"
-          ]
-        }
-      ],
-      "question": "候選人能否將政見會主張列成權責、財源、時程及衡量指標，讓選民比較任期內可完成的工作？",
-      "checkedAt": "2026-11-17",
-      "dailyUpdateKind": "progress",
-      "dailyEvidenceFingerprints": [
-        "556f4e12bfe6aa0fbbf2cec59a4ddf8e54229ddf1ccea4ea5a7eb374886290dc",
-        "f6f41289e7d06234b4c44b3e30a8deb793647f4d8c47cfdce15e0c91e047a954",
-        "8c16b703d1a884bf3ee4415e32a761a6428b2d10983daecc3c80c8e8f26d4ef1",
-        "7d944ee0e47a7940460e96b0421b0d8fefb47a5da75c0fa6e0250947ee56213d",
-        "65cc5dfb7ff0bd4a7d066d8f8105766032ca6e8658ce5340779a009927848baa",
-        "90b746c46adb6f68e9fbda9a6fa97c923ffd42d9b2d098868e4b4855abdec114"
-      ],
-      "eventDate": "2026-11-11"
     },
     {
       "id": "kinmen-whitepaper-draft-consultation-20261001",

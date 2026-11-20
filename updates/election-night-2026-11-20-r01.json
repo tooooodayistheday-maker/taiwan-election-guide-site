@@ -1,0 +1,69 @@
+{
+  "entry_id": "election-night-2026-11-20-r01",
+  "kind": "manual",
+  "session_label": "election-night-2026-11-20・第1輪",
+  "date": "2026-11-21",
+  "checked_at": "2026-11-21T06:03:48.621311+08:00",
+  "county_scope": [
+    "桃園市",
+    "臺中市"
+  ],
+  "accepted_facts": 0,
+  "updated_people": 0,
+  "summary": "加開時段第1輪：新增0項通過來源核對的資料；另查核兩則選舉話題。",
+  "official_checks": [
+    {
+      "url": "https://web.cec.gov.tw/tyec",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cec.gov.tw/tcec",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://bulletin.cec.gov.tw/?dir=01%E9%81%B8%E8%88%89%E5%85%AC%E5%A0%B1%2F05%E7%9B%B4%E8%BD%84%E5%B8%82%E8%AD%B0%E5%93%A1%2F115%E5%B9%B4%2F03%E8%87%BA%E4%B8%AD%E5%B8%82",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://web.cec.gov.tw/central/article/65794",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aloc/202611170325.aspx",
+      "title": "本輪原始資料來源"
+    },
+    {
+      "url": "https://www.cna.com.tw/news/aloc/202611170315.aspx",
+      "title": "本輪原始資料來源"
+    }
+  ],
+  "limitations": [
+    "局部來源查核，不代表全體候選人背景已完整核實。",
+    "司法、爭議與資格新線索僅保留待查，不自動修改標籤。"
+  ],
+  "review_leads_count": 2,
+  "rejected_count": 2,
+  "changes": [],
+  "topic_updates": [
+    {
+      "id": "taoyuan-mayoral-policy-forum-20261117",
+      "title": "桃園市長政見會舉行，交通方案與執行條件待比對",
+      "kind": "review",
+      "summary": "來源複核：本次無新增可確認進度。",
+      "sources": [
+        "https://www.cna.com.tw/news/aipl/202611170053.aspx",
+        "https://web.cec.gov.tw/tyec"
+      ]
+    },
+    {
+      "id": "taichung-official-election-tv-forums-20261111",
+      "title": "臺中政見會後續：何欣純說明超巨蛋交通評估範圍",
+      "kind": "progress",
+      "summary": "中央社11月18日報導，何欣純在政見會後說明支持延續巨蛋及台灣超巨蛋建設，所談評估聚焦周邊交通與人潮疏散。這是候選人的後續說明，並非交通配套已完成。",
+      "sources": [
+        "https://www.cna.com.tw/news/aloc/202611180169.aspx",
+        "https://www.cna.com.tw/news/aloc/202611170312.aspx"
+      ]
+    }
+  ]
+}
