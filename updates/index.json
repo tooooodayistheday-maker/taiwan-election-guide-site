@@ -1,5 +1,157 @@
 [
   {
+    "entry_id": "keelung-bulletins-2026-11-21-manual",
+    "kind": "manual",
+    "session_label": "基隆市長、暖暖區議員、暖西里與暖暖里公報補核",
+    "date": "2026-11-21",
+    "checked_at": "2026-11-21T23:01:11.956902+08:00",
+    "county_scope": [
+      "基隆市"
+    ],
+    "accepted_facts": 80,
+    "updated_people": 13,
+    "summary": "逐欄核對4份2026官方選舉公報，補充13位候選人本屆基本資料、學經歷及80則政見整理；另比對11/17市長與議員正式名單。",
+    "official_checks": [
+      {
+        "url": "https://bulletin.cec.gov.tw/01選舉公報/04縣市長/115年/基隆市市長.pdf",
+        "title": "115年基隆市第20屆市長選舉公報"
+      },
+      {
+        "url": "https://bulletin.cec.gov.tw/01選舉公報/06縣市議員/115年/18基隆市/06基隆市第六選舉區.pdf",
+        "title": "115年基隆市議會第21屆議員第6選舉區公報"
+      },
+      {
+        "url": "https://eebulletin.cec.gov.tw/115/18基隆市/03村里長/暖暖區/暖西里.pdf",
+        "title": "115年基隆市暖暖區暖西里第23屆里長選舉公報"
+      },
+      {
+        "url": "https://eebulletin.cec.gov.tw/115/18基隆市/03村里長/暖暖區/暖暖里.pdf",
+        "title": "115年基隆市暖暖區暖暖里第23屆里長選舉公報"
+      },
+      {
+        "url": "https://web.cec.gov.tw/api/file/48974f89-1dc7-40b8-91bd-8c631c4ff0e5.pdf",
+        "title": "11月17日正式市長與議員候選人名單"
+      }
+    ],
+    "limitations": [
+      "80項計數僅指新增公報政見主題整理，非全部欄位的事實項目數或政策優劣評分。",
+      "公報個人資料、政見與成果均為候選人自填，非學位、現職、成果的獨立認證。",
+      "一般議員第6選區為暖暖區；原住民選區另有身分條件，不以村里推定。",
+      "保留既有具來源主張與司法狀態；未取得充分佐證的學位真偽、完整司法背景、聯絡與社群資訊維持待核。",
+      "村里長正式名單依日程11/22公告，另待公告複核；本次不藉公報推定資格結論。"
+    ],
+    "coverage_change": {
+      "new_biographies": 4,
+      "new_policy_profiles": 9
+    },
+    "changes": [
+      {
+        "id": "kl-m-001",
+        "name": "謝國樑",
+        "county": "基隆市",
+        "field": "officialBulletin",
+        "text": "核對本屆3號、出生資料、5項學歷／在學資訊、7項經歷與9項公報政見主題；自述與獨立查核分開。",
+        "url": "https://bulletin.cec.gov.tw/01選舉公報/04縣市長/115年/基隆市市長.pdf#page=1"
+      },
+      {
+        "id": "kl-m-002",
+        "name": "魏造文",
+        "county": "基隆市",
+        "field": "officialBulletin",
+        "text": "核對本屆2號、出生資料、1項學歷／在學資訊、4項經歷與3項公報政見主題；自述與獨立查核分開。",
+        "url": "https://bulletin.cec.gov.tw/01選舉公報/04縣市長/115年/基隆市市長.pdf#page=1"
+      },
+      {
+        "id": "kl-m-003",
+        "name": "童子瑋",
+        "county": "基隆市",
+        "field": "officialBulletin",
+        "text": "核對本屆1號、出生資料、5項學歷／在學資訊、8項經歷與6項公報政見主題；自述與獨立查核分開。",
+        "url": "https://bulletin.cec.gov.tw/01選舉公報/04縣市長/115年/基隆市市長.pdf#page=1"
+      },
+      {
+        "id": "kl-c-045",
+        "name": "連恩典",
+        "county": "基隆市",
+        "field": "officialBulletin",
+        "text": "核對本屆1號、出生資料、4項學歷／在學資訊、4項經歷與4項公報政見主題；自述與獨立查核分開。",
+        "url": "https://bulletin.cec.gov.tw/01選舉公報/06縣市議員/115年/18基隆市/06基隆市第六選舉區.pdf#page=1"
+      },
+      {
+        "id": "kl-c-044",
+        "name": "莫璦緁",
+        "county": "基隆市",
+        "field": "officialBulletin",
+        "text": "核對本屆2號、出生資料、1項學歷／在學資訊、5項經歷與6項公報政見主題；自述與獨立查核分開。",
+        "url": "https://bulletin.cec.gov.tw/01選舉公報/06縣市議員/115年/18基隆市/06基隆市第六選舉區.pdf#page=1"
+      },
+      {
+        "id": "kl-c-046",
+        "name": "蔡長宏",
+        "county": "基隆市",
+        "field": "officialBulletin",
+        "text": "核對本屆3號、出生資料、1項學歷／在學資訊、9項經歷與6項公報政見主題；自述與獨立查核分開。",
+        "url": "https://bulletin.cec.gov.tw/01選舉公報/06縣市議員/115年/18基隆市/06基隆市第六選舉區.pdf#page=1"
+      },
+      {
+        "id": "kl-c-048",
+        "name": "朱書昕",
+        "county": "基隆市",
+        "field": "officialBulletin",
+        "text": "核對本屆4號、出生資料、5項學歷／在學資訊、3項經歷與4項公報政見主題；自述與獨立查核分開。",
+        "url": "https://bulletin.cec.gov.tw/01選舉公報/06縣市議員/115年/18基隆市/06基隆市第六選舉區.pdf#page=1"
+      },
+      {
+        "id": "kl-c-047",
+        "name": "陳冠羽",
+        "county": "基隆市",
+        "field": "officialBulletin",
+        "text": "核對本屆5號、出生資料、2項學歷／在學資訊、4項經歷與9項公報政見主題；自述與獨立查核分開。",
+        "url": "https://bulletin.cec.gov.tw/01選舉公報/06縣市議員/115年/18基隆市/06基隆市第六選舉區.pdf#page=1"
+      },
+      {
+        "id": "kl-v-098",
+        "name": "詹凱傑",
+        "county": "基隆市",
+        "field": "officialBulletin",
+        "text": "核對本屆1號、出生資料、1項學歷／在學資訊、2項經歷與3項公報政見主題；自述與獨立查核分開。",
+        "url": "https://eebulletin.cec.gov.tw/115/18基隆市/03村里長/暖暖區/暖西里.pdf#page=1"
+      },
+      {
+        "id": "kl-v-097",
+        "name": "王奕荃",
+        "county": "基隆市",
+        "field": "officialBulletin",
+        "text": "核對本屆2號、出生資料、4項學歷／在學資訊、6項經歷與9項公報政見主題；自述與獨立查核分開。",
+        "url": "https://eebulletin.cec.gov.tw/115/18基隆市/03村里長/暖暖區/暖西里.pdf#page=1"
+      },
+      {
+        "id": "kl-v-094",
+        "name": "陳歷翔",
+        "county": "基隆市",
+        "field": "officialBulletin",
+        "text": "核對本屆1號、出生資料、1項學歷／在學資訊、2項經歷與5項公報政見主題；自述與獨立查核分開。",
+        "url": "https://eebulletin.cec.gov.tw/115/18基隆市/03村里長/暖暖區/暖暖里.pdf#page=1"
+      },
+      {
+        "id": "kl-v-092",
+        "name": "簡桂香",
+        "county": "基隆市",
+        "field": "officialBulletin",
+        "text": "核對本屆2號、出生資料、1項學歷／在學資訊、11項經歷與8項公報政見主題；自述與獨立查核分開。",
+        "url": "https://eebulletin.cec.gov.tw/115/18基隆市/03村里長/暖暖區/暖暖里.pdf#page=1"
+      },
+      {
+        "id": "kl-v-093",
+        "name": "黃雍容",
+        "county": "基隆市",
+        "field": "officialBulletin",
+        "text": "核對本屆3號、出生資料、3項學歷／在學資訊、3項經歷與8項公報政見主題；自述與獨立查核分開。",
+        "url": "https://eebulletin.cec.gov.tw/115/18基隆市/03村里長/暖暖區/暖暖里.pdf#page=1"
+      }
+    ]
+  },
+  {
     "entry_id": "election-night-2026-11-20-r03",
     "kind": "manual",
     "session_label": "election-night-2026-11-20・第3輪",
