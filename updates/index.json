@@ -1,5 +1,89 @@
 [
   {
+    "entry_id": "keelung-indigenous-bulletin-2026-11-21-manual",
+    "kind": "manual",
+    "session_label": "續補6位原住民議員公報；保留身分限制",
+    "date": "2026-11-21",
+    "checked_at": "2026-11-21T23:07:25.333176+08:00",
+    "county_scope": [
+      "基隆市"
+    ],
+    "accepted_facts": 66,
+    "updated_people": 6,
+    "summary": "續核第8、9選區官方公報，補充6位平地／山地原住民議員候選人的本屆基本資料、學經歷及66則政見主題。合併前一批，本次共19位、146則公報政見整理。",
+    "official_checks": [
+      {
+        "url": "https://bulletin.cec.gov.tw/01選舉公報/06縣市議員/115年/18基隆市/0809基隆市第八第九選舉區.pdf#page=1",
+        "title": "115年基隆市議會第21屆議員第8、9選舉區公報（PDF第1頁；印刷頁次4）",
+        "checkedAt": "2026-11-21",
+        "limitation": "官方刊登候選人自填資料，非學位、任職、施政成果或國籍的獨立認證。公報未註明發布日期。"
+      },
+      {
+        "url": "https://web.cec.gov.tw/api/file/48974f89-1dc7-40b8-91bd-8c631c4ff0e5.pdf#page=1",
+        "title": "基隆市選委會2026-11-17正式議員候選人名單（姓名號次交叉核對）",
+        "checkedAt": "2026-11-21"
+      }
+    ],
+    "limitations": [
+      "平地原住民第8選區及山地原住民第9選區均涵蓋基隆市全境，但須相應身分，不能僅由村里推定投票資格。",
+      "66項計數僅為公報政見主題整理；候選人自述不等於學位、現職或施政成果已獨立認證。",
+      "公報未列的給付週期、資格、金額與財源未自行補出；死刑等中央權責與地方議員可執行事項分開。",
+      "未改動司法分類與資格狀態；同名裁判及無搜尋結果均不能證明有罪或無前科。"
+    ],
+    "review_leads_count": 0,
+    "rejected_count": 0,
+    "changes": [
+      {
+        "id": "kl-c-056",
+        "name": "拔耐．茹妮老王",
+        "county": "基隆市",
+        "field": "officialBulletin",
+        "text": "核對本屆公報基本資料、2項學歷／在學資訊、7項經歷與10項政見；保留原住民選區身分條件。",
+        "url": "https://bulletin.cec.gov.tw/01選舉公報/06縣市議員/115年/18基隆市/0809基隆市第八第九選舉區.pdf#page=1"
+      },
+      {
+        "id": "kl-c-055",
+        "name": "陳明建",
+        "county": "基隆市",
+        "field": "officialBulletin",
+        "text": "核對本屆公報基本資料、5項學歷／在學資訊、5項經歷與10項政見；保留原住民選區身分條件。",
+        "url": "https://bulletin.cec.gov.tw/01選舉公報/06縣市議員/115年/18基隆市/0809基隆市第八第九選舉區.pdf#page=1"
+      },
+      {
+        "id": "kl-c-059",
+        "name": "林崇道 Motu Quyat",
+        "county": "基隆市",
+        "field": "officialBulletin",
+        "text": "核對本屆公報基本資料、3項學歷／在學資訊、8項經歷與18項政見；保留原住民選區身分條件。",
+        "url": "https://bulletin.cec.gov.tw/01選舉公報/06縣市議員/115年/18基隆市/0809基隆市第八第九選舉區.pdf#page=1"
+      },
+      {
+        "id": "kl-c-058",
+        "name": "徐馬政妘",
+        "county": "基隆市",
+        "field": "officialBulletin",
+        "text": "核對本屆公報基本資料、1項學歷／在學資訊、1項經歷與11項政見；保留原住民選區身分條件。",
+        "url": "https://bulletin.cec.gov.tw/01選舉公報/06縣市議員/115年/18基隆市/0809基隆市第八第九選舉區.pdf#page=1"
+      },
+      {
+        "id": "kl-c-057",
+        "name": "高願孝",
+        "county": "基隆市",
+        "field": "officialBulletin",
+        "text": "核對本屆公報基本資料、3項學歷／在學資訊、3項經歷與10項政見；保留原住民選區身分條件。",
+        "url": "https://bulletin.cec.gov.tw/01選舉公報/06縣市議員/115年/18基隆市/0809基隆市第八第九選舉區.pdf#page=1"
+      },
+      {
+        "id": "kl-c-060",
+        "name": "高李茂俊",
+        "county": "基隆市",
+        "field": "officialBulletin",
+        "text": "核對本屆公報基本資料、3項學歷／在學資訊、5項經歷與7項政見；保留原住民選區身分條件。",
+        "url": "https://bulletin.cec.gov.tw/01選舉公報/06縣市議員/115年/18基隆市/0809基隆市第八第九選舉區.pdf#page=1"
+      }
+    ]
+  },
+  {
     "entry_id": "keelung-bulletins-2026-11-21-manual",
     "kind": "manual",
     "session_label": "基隆市長、暖暖區議員、暖西里與暖暖里公報補核",
