@@ -1,5 +1,261 @@
 [
   {
+    "entry_id": "keelung-background-2026-11-21-manual",
+    "kind": "manual",
+    "session_label": "19位背景補查與政見檢核",
+    "date": "2026-11-21",
+    "checked_at": "2026-11-21T23:48:53.691533+08:00",
+    "county_scope": [
+      "基隆市"
+    ],
+    "accepted_facts": 14,
+    "updated_people": 19,
+    "summary": "逐人新增查核筆記：11位取得部分公報外學經歷／服務來源、2筆法院程序結果及1筆具回應的學術爭議；另為146項公報政見列權限、成本與時程檢核問題。未知項目仍明列，不宣稱完整背景皆已核實。",
+    "official_checks": [
+      {
+        "url": "https://thesis.lib.nccu.edu.tw/thesis/detail/f5821245bd8e9916be99d5eaed239331/?seq=2",
+        "title": "政治大學博碩士論文系統：引渡困境之檢討",
+        "checkedAt": "2026-11-21"
+      },
+      {
+        "url": "https://www.klcg.gov.tw/tw/klcg1/3168-321556.html",
+        "title": "基隆市政府：116年度總預算案記者會，2026-08-27"
+      },
+      {
+        "url": "https://www.dorts.ntpc.gov.tw/news/indexInfo/P9z2z3NNdrDp",
+        "title": "新北市政府捷運工程局，2026-10-13"
+      },
+      {
+        "url": "https://www.kmc.gov.tw/index.php/news/nb/407-ji-long-shi-yi-hui75zhou-nian-hui-qing",
+        "title": "基隆市議會75周年會慶，2025-10-23",
+        "checkedAt": "2026-11-21"
+      },
+      {
+        "url": "https://www.kmc.gov.tw/index.php/mac/mi/klnn/297-klnn-02",
+        "title": "基隆市議會：連恩典議員資訊",
+        "checkedAt": "2026-11-21",
+        "limitation": ""
+      },
+      {
+        "url": "https://www.kmc.gov.tw/index.php/mac/mi/klnn/298-klnn-03",
+        "title": "基隆市議會：陳冠羽議員資訊",
+        "checkedAt": "2026-11-21",
+        "limitation": ""
+      },
+      {
+        "url": "https://www.kmc.gov.tw/index.php/mac/mi/pn/303-pa-01",
+        "title": "基隆市議會：陳明建議員資訊",
+        "checkedAt": "2026-11-21",
+        "limitation": ""
+      },
+      {
+        "url": "https://www.klcg.gov.tw/wSite/public/Attachment/01704/f1777860999910.pdf",
+        "title": "基隆市政府115年施政報告，第123頁",
+        "checkedAt": "2026-11-21",
+        "limitation": "",
+        "pdfPage": 132
+      },
+      {
+        "url": "https://www.klchb.klcg.gov.tw/tw/klchbklnn/1672-300684.html",
+        "title": "暖暖區衛生所：無菸環境活動，2025-05-06",
+        "checkedAt": "2026-11-21",
+        "limitation": ""
+      },
+      {
+        "url": "https://www.klfd.klcg.gov.tw/tw/klfd1/2024-275580.html",
+        "title": "基隆市消防局：信義區水保講習，2023-08-17",
+        "checkedAt": "2026-11-21",
+        "limitation": ""
+      },
+      {
+        "url": "https://www.klfd.klcg.gov.tw/tw/klfd1/2025-128867.html",
+        "title": "基隆市消防局：信義宣導分隊訓練，2021-10-24",
+        "checkedAt": "2026-11-21",
+        "limitation": ""
+      },
+      {
+        "url": "https://www.kiwanis.org.tw/upload/docDB/20251022140943iH3q.pdf",
+        "title": "基隆國際同濟會第48屆開會通知（PDF第1頁）",
+        "checkedAt": "2026-11-21",
+        "limitation": ""
+      },
+      {
+        "url": "https://communitykeelung.klcg.gov.tw/News_Content.aspx?n=7985&s=7679",
+        "title": "基隆市社區總體營造：義建社區發展協會",
+        "checkedAt": "2026-11-21",
+        "limitation": ""
+      },
+      {
+        "url": "https://www.klfd.klcg.gov.tw/tw/klfd1/2024-272352.html",
+        "title": "基隆市消防局：避難收容處所演練，2023-06-20",
+        "checkedAt": "2026-11-21",
+        "limitation": ""
+      }
+    ],
+    "limitations": [
+      "5位里長個別資格審定原始公告仍待補，不由公告日期推定資格。",
+      "公開來源初查不是無前科證明；同名案件未併入，民事及駁回程序不作刑事定罪。",
+      "學位、在學、現職與施政成效仍逐項保留待證；學術指控不等於正式審查結論。",
+      "146項檢核問題不是新增146項已實現政績或已核定預算。"
+    ],
+    "review_leads_count": 0,
+    "rejected_count": 0,
+    "changes": [
+      {
+        "id": "kl-m-001",
+        "name": "謝國樑",
+        "county": "基隆市",
+        "field": "backgroundReview",
+        "text": "新增逐人補查筆記：1組部分學經歷佐證、保留未取得證明與資格核對限制，並列9項政見檢核問題。",
+        "url": "https://web.cec.gov.tw/api/file/48974f89-1dc7-40b8-91bd-8c631c4ff0e5.pdf"
+      },
+      {
+        "id": "kl-m-002",
+        "name": "魏造文",
+        "county": "基隆市",
+        "field": "backgroundReview",
+        "text": "新增逐人補查筆記：0組部分學經歷佐證、保留未取得證明與資格核對限制，並列3項政見檢核問題。",
+        "url": "https://web.cec.gov.tw/api/file/48974f89-1dc7-40b8-91bd-8c631c4ff0e5.pdf"
+      },
+      {
+        "id": "kl-m-003",
+        "name": "童子瑋",
+        "county": "基隆市",
+        "field": "backgroundReview",
+        "text": "新增逐人補查筆記：1組部分學經歷佐證、保留未取得證明與資格核對限制，並列6項政見檢核問題。",
+        "url": "https://web.cec.gov.tw/api/file/48974f89-1dc7-40b8-91bd-8c631c4ff0e5.pdf"
+      },
+      {
+        "id": "kl-c-044",
+        "name": "莫璦緁",
+        "county": "基隆市",
+        "field": "backgroundReview",
+        "text": "新增逐人補查筆記：0組部分學經歷佐證、保留未取得證明與資格核對限制，並列6項政見檢核問題。",
+        "url": "https://web.cec.gov.tw/api/file/48974f89-1dc7-40b8-91bd-8c631c4ff0e5.pdf"
+      },
+      {
+        "id": "kl-c-045",
+        "name": "連恩典",
+        "county": "基隆市",
+        "field": "backgroundReview",
+        "text": "新增逐人補查筆記：1組部分學經歷佐證、保留未取得證明與資格核對限制，並列4項政見檢核問題。",
+        "url": "https://web.cec.gov.tw/api/file/48974f89-1dc7-40b8-91bd-8c631c4ff0e5.pdf"
+      },
+      {
+        "id": "kl-c-046",
+        "name": "蔡長宏",
+        "county": "基隆市",
+        "field": "backgroundReview",
+        "text": "新增逐人補查筆記：0組部分學經歷佐證、保留未取得證明與資格核對限制，並列6項政見檢核問題。",
+        "url": "https://web.cec.gov.tw/api/file/48974f89-1dc7-40b8-91bd-8c631c4ff0e5.pdf"
+      },
+      {
+        "id": "kl-c-047",
+        "name": "陳冠羽",
+        "county": "基隆市",
+        "field": "backgroundReview",
+        "text": "新增逐人補查筆記：1組部分學經歷佐證、保留未取得證明與資格核對限制，並列9項政見檢核問題。",
+        "url": "https://web.cec.gov.tw/api/file/48974f89-1dc7-40b8-91bd-8c631c4ff0e5.pdf"
+      },
+      {
+        "id": "kl-c-048",
+        "name": "朱書昕",
+        "county": "基隆市",
+        "field": "backgroundReview",
+        "text": "新增逐人補查筆記：0組部分學經歷佐證、保留未取得證明與資格核對限制，並列4項政見檢核問題。",
+        "url": "https://web.cec.gov.tw/api/file/48974f89-1dc7-40b8-91bd-8c631c4ff0e5.pdf"
+      },
+      {
+        "id": "kl-c-055",
+        "name": "陳明建",
+        "county": "基隆市",
+        "field": "backgroundReview",
+        "text": "新增逐人補查筆記：1組部分學經歷佐證、保留未取得證明與資格核對限制，並列10項政見檢核問題。",
+        "url": "https://web.cec.gov.tw/api/file/48974f89-1dc7-40b8-91bd-8c631c4ff0e5.pdf"
+      },
+      {
+        "id": "kl-c-056",
+        "name": "拔耐．茹妮老王",
+        "county": "基隆市",
+        "field": "backgroundReview",
+        "text": "新增逐人補查筆記：1組部分學經歷佐證、保留未取得證明與資格核對限制，並列10項政見檢核問題。",
+        "url": "https://web.cec.gov.tw/api/file/48974f89-1dc7-40b8-91bd-8c631c4ff0e5.pdf"
+      },
+      {
+        "id": "kl-c-057",
+        "name": "高願孝",
+        "county": "基隆市",
+        "field": "backgroundReview",
+        "text": "新增逐人補查筆記：0組部分學經歷佐證、保留未取得證明與資格核對限制，並列10項政見檢核問題。",
+        "url": "https://web.cec.gov.tw/api/file/48974f89-1dc7-40b8-91bd-8c631c4ff0e5.pdf"
+      },
+      {
+        "id": "kl-c-058",
+        "name": "徐馬政妘",
+        "county": "基隆市",
+        "field": "backgroundReview",
+        "text": "新增逐人補查筆記：0組部分學經歷佐證、保留未取得證明與資格核對限制，並列11項政見檢核問題。",
+        "url": "https://web.cec.gov.tw/api/file/48974f89-1dc7-40b8-91bd-8c631c4ff0e5.pdf"
+      },
+      {
+        "id": "kl-c-059",
+        "name": "林崇道 Motu Quyat",
+        "county": "基隆市",
+        "field": "backgroundReview",
+        "text": "新增逐人補查筆記：1組部分學經歷佐證、保留未取得證明與資格核對限制，並列18項政見檢核問題。",
+        "url": "https://web.cec.gov.tw/api/file/48974f89-1dc7-40b8-91bd-8c631c4ff0e5.pdf"
+      },
+      {
+        "id": "kl-c-060",
+        "name": "高李茂俊",
+        "county": "基隆市",
+        "field": "backgroundReview",
+        "text": "新增逐人補查筆記：0組部分學經歷佐證、保留未取得證明與資格核對限制，並列7項政見檢核問題。",
+        "url": "https://web.cec.gov.tw/api/file/48974f89-1dc7-40b8-91bd-8c631c4ff0e5.pdf"
+      },
+      {
+        "id": "kl-v-092",
+        "name": "簡桂香",
+        "county": "基隆市",
+        "field": "backgroundReview",
+        "text": "新增逐人補查筆記：1組部分學經歷佐證、保留未取得證明與資格核對限制，並列8項政見檢核問題。",
+        "url": "https://eebulletin.cec.gov.tw/115/18基隆市/03村里長/暖暖區/暖暖里.pdf#page=1"
+      },
+      {
+        "id": "kl-v-093",
+        "name": "黃雍容",
+        "county": "基隆市",
+        "field": "backgroundReview",
+        "text": "新增逐人補查筆記：0組部分學經歷佐證、保留未取得證明與資格核對限制，並列8項政見檢核問題。",
+        "url": "https://eebulletin.cec.gov.tw/115/18基隆市/03村里長/暖暖區/暖暖里.pdf#page=1"
+      },
+      {
+        "id": "kl-v-094",
+        "name": "陳歷翔",
+        "county": "基隆市",
+        "field": "backgroundReview",
+        "text": "新增逐人補查筆記：1組部分學經歷佐證、保留未取得證明與資格核對限制，並列5項政見檢核問題。",
+        "url": "https://eebulletin.cec.gov.tw/115/18基隆市/03村里長/暖暖區/暖暖里.pdf#page=1"
+      },
+      {
+        "id": "kl-v-097",
+        "name": "王奕荃",
+        "county": "基隆市",
+        "field": "backgroundReview",
+        "text": "新增逐人補查筆記：1組部分學經歷佐證、保留未取得證明與資格核對限制，並列9項政見檢核問題。",
+        "url": "https://eebulletin.cec.gov.tw/115/18基隆市/03村里長/暖暖區/暖西里.pdf#page=1"
+      },
+      {
+        "id": "kl-v-098",
+        "name": "詹凱傑",
+        "county": "基隆市",
+        "field": "backgroundReview",
+        "text": "新增逐人補查筆記：1組部分學經歷佐證、保留未取得證明與資格核對限制，並列3項政見檢核問題。",
+        "url": "https://eebulletin.cec.gov.tw/115/18基隆市/03村里長/暖暖區/暖西里.pdf#page=1"
+      }
+    ]
+  },
+  {
     "entry_id": "keelung-indigenous-bulletin-2026-11-21-manual",
     "kind": "manual",
     "session_label": "續補6位原住民議員公報；保留身分限制",
