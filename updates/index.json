@@ -1,5 +1,26 @@
 [
   {
+    "entry_id": "mingjian-site-explanation-2026-11-22",
+    "kind": "manual",
+    "session_label": "說清楚為何選新民村",
+    "date": "2026-11-22",
+    "checked_at": "2026-11-22T18:03:40.464812+08:00",
+    "county_scope": [
+      "南投縣"
+    ],
+    "accepted_facts": 0,
+    "updated_people": 0,
+    "summary": "補充新民村場址的具體選址理由，區分初期六場址比較、後續修正權重與36筆替代提案；不把評分清冊當成完整得分表。",
+    "article_url": "https://tooooodayistheday-maker.github.io/taiwan-election-guide-site/topics/mingjian-tea/#site-scale",
+    "changes": [
+      {
+        "field": "article",
+        "text": "縣府為什麼選新民村？看中的是土地與設廠條件",
+        "url": "https://tooooodayistheday-maker.github.io/taiwan-election-guide-site/topics/mingjian-tea/#site-scale"
+      }
+    ]
+  },
+  {
     "entry_id": "mingjian-tea-2026-11-22-manual",
     "kind": "manual",
     "session_label": "名間茶葉事件完整專題",
