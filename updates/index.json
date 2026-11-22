@@ -1,5 +1,26 @@
 [
   {
+    "entry_id": "mingjian-plain-language-2026-11-22",
+    "kind": "manual",
+    "session_label": "名間專題白話重寫",
+    "date": "2026-11-22",
+    "checked_at": "2026-11-22T18:12:21.092980+08:00",
+    "county_scope": [
+      "南投縣"
+    ],
+    "accepted_facts": 0,
+    "updated_people": 0,
+    "summary": "全篇改以短段與小標解釋環評、茶菁、選址和補助；用100台斤示例拆解中央與縣府出資、茶農與收購端分配，保留主張歸屬與日期限制。",
+    "article_url": "https://tooooodayistheday-maker.github.io/taiwan-election-guide-site/topics/mingjian-tea/",
+    "changes": [
+      {
+        "field": "article",
+        "text": "名間專題閱讀與補助解釋精修",
+        "url": "https://tooooodayistheday-maker.github.io/taiwan-election-guide-site/topics/mingjian-tea/#subsidy"
+      }
+    ]
+  },
+  {
     "entry_id": "mingjian-site-explanation-2026-11-22",
     "kind": "manual",
     "session_label": "說清楚為何選新民村",
