@@ -1,5 +1,25 @@
 [
   {
+    "entry_id": "mingjian-context-20261122",
+    "kind": "manual",
+    "date": "2026-11-22",
+    "checked_at": "2026-11-22T21:31:37.267426+08:00",
+    "session_label": "名間選址與垃圾去向補充",
+    "county_scope": [
+      "南投縣"
+    ],
+    "accepted_facts": 0,
+    "updated_people": 0,
+    "summary": "補入初期6處候選地、官方36筆主替代方案清冊、六座廠的歷史代燒紀錄與環境監測判讀；反向整理名間茶5品牌12茶品，分清全國出口背景與名間國別占比缺口。",
+    "article_url": "https://tooooodayistheday-maker.github.io/taiwan-election-guide-site/topics/mingjian-tea/",
+    "limitations": [
+      "36筆是提案清冊，非36處已完成同條件評分的可建地。",
+      "歷史代燒紀錄不是2026年完整合約及逐廠流量。",
+      "煙道、周界與各介質結果分開列；仁武及鹿草完整近期數值保留待核。",
+      "名間鄉目的國及出貨占比資料不足，不推估。"
+    ]
+  },
+  {
     "entry_id": "tea-origins-supplement-20261122",
     "kind": "manual",
     "date": "2026-11-22",
