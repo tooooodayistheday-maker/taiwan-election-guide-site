@@ -1,5 +1,25 @@
 [
   {
+    "entry_id": "mingjian-site-ranking-20261122",
+    "kind": "manual",
+    "date": "2026-11-22",
+    "checked_at": "2026-11-22T21:48:37.704127+08:00",
+    "session_label": "選址類型與原始六址順位",
+    "county_scope": [
+      "南投縣"
+    ],
+    "accepted_facts": 0,
+    "updated_people": 0,
+    "summary": "36筆提案逐筆加入地點類型及順位狀態；核讀官方原始六址評分，補入75、65、58、55、45、40分排序、每址位置、土地、周邊及未選理由。區分原評比第2名、正式備用廠址與後續新提案。",
+    "article_url": "https://tooooodayistheday-maker.github.io/taiwan-election-guide-site/topics/mingjian-tea/#site-ranking",
+    "limitations": [
+      "No confirmed formal fallback designation",
+      "No complete verified 36-proposal rescoring under revised weights",
+      "Later proposal parcel boundaries may differ from initial survey",
+      "福德最大高差版本有差異，本頁只保留逾5m"
+    ]
+  },
+  {
     "entry_id": "mingjian-context-20261122",
     "kind": "manual",
     "date": "2026-11-22",
