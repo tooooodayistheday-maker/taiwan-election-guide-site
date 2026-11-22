@@ -1,5 +1,24 @@
 [
   {
+    "entry_id": "mingjian-eia-explainer-20261122",
+    "kind": "manual",
+    "date": "2026-11-22",
+    "checked_at": "2026-11-22T22:23:25.801352+08:00",
+    "session_label": "兩階段環評細節",
+    "county_scope": [
+      "南投縣"
+    ],
+    "accepted_facts": 0,
+    "updated_people": 0,
+    "summary": "補入一二階環評對照、名間一階三項正式要求、二階六步驟與七組閱讀問題；更新可確認進度，分開一般流程、待評估事項與已完成結果。",
+    "article_url": "https://tooooodayistheday-maker.github.io/taiwan-election-guide-site/topics/mingjian-tea/#eia-stages",
+    "limitations": [
+      "一般流程圖不表示個案所有步驟已完成。",
+      "範疇文件列調查項目，不等於已取得最終結果。",
+      "縣長預估或說法不等於最終核定及正式許可。"
+    ]
+  },
+  {
     "entry_id": "mingjian-site-ranking-20261122",
     "kind": "manual",
     "date": "2026-11-22",
