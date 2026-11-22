@@ -1,7 +1,51 @@
 {
-  "checkedAt": "2026-11-21",
+  "checkedAt": "2026-11-22",
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
+    {
+      "id": "mingjian-tea-incinerator-20261122",
+      "title": "名間的茶，到底發生什麼事？",
+      "shortTitle": "名間茶葉事件全解讀",
+      "category": "地方治理與產業",
+      "symbol": "◇",
+      "county": "南投縣",
+      "districts": [
+        "名間鄉"
+      ],
+      "relatedNames": [
+        "許淑華",
+        "温世政",
+        "陳翰立"
+      ],
+      "date": "2026-11-18",
+      "checkedAt": "2026-11-22",
+      "summary": "從焚化爐選址、環評爭議，到茶菁跌價與補助卡關：一篇拆開環境、產業和行政程序的來龍去脈。",
+      "steps": [
+        {
+          "speaker": "完整專題・先從這裡閱讀",
+          "text": "已整理成獨立長文：從茶產業、焚化爐選址，到環評時間線、茶菁價格與補助卡點；附逐段來源及尚未確認事項。下方連結可直接閱讀。",
+          "sourceUrls": [
+            "https://tooooodayistheday-maker.github.io/taiwan-election-guide-site/topics/mingjian-tea/"
+          ]
+        },
+        {
+          "speaker": "三條線要分開",
+          "text": "環境風險評估、產地市場信任與短期收購補助互相關聯，但不是同一種證據。不能由茶價下跌直接推定茶葉已遭污染，也不能用局部試驗概括所有長期風險。",
+          "sourceUrls": [
+            "https://www.ntepb.gov.tw/df_ufiles/sub8/南投縣垃圾處理及再生能源中心健康風險評估規劃及範疇說明會(定稿).pdf",
+            "https://news.pts.org.tw/article/830718"
+          ]
+        },
+        {
+          "speaker": "最近核對的補助進度",
+          "text": "11月18日報導仍有未撥款與執行方案分歧。本文列出原2+1與縣府3+1主張，並保留程序待核；沒有將承諾補助寫成已入帳。",
+          "sourceUrls": [
+            "https://www.sjtv.com.tw/articles/125076"
+          ]
+        }
+      ],
+      "question": "支持或反對之前，哪些環境、價格、執行進度資料應先公開？"
+    },
     {
       "id": "hsinchu-city-official-election-tv-forums-20261116",
       "symbol": "◇",
