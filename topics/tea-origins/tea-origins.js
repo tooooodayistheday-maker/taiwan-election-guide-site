@@ -48,6 +48,15 @@
       filter();
     });
   }
+  for (const link of document.querySelectorAll('.pending a[href^="#"]')) {
+    link.addEventListener('click', () => {
+      search.value = '';
+      brand.value = '';
+      country.value = '';
+      mingjian.checked = false;
+      filter();
+    });
+  }
   form.hidden = false;
   filter();
 })();

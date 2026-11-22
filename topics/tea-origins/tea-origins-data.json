@@ -1,7 +1,7 @@
 {
   "title": "一杯手搖，茶從哪裡來？",
   "checkedAt": "2026-11-22",
-  "scope": "在台灣販售的手搖茶飲；依可取得的品牌官方及公開溯源資料逐品項整理。不是全市場普查，也不是每一批次的抽驗。",
+  "scope": "在台灣販售的手搖茶飲；依品牌官方、政府公開登錄及具名門市自行刊登資料整理。每筆標明資料範圍，不是全市場普查或每一批次的抽驗。",
   "sources": {
     "magic": {
       "label": "茶之魔手｜安全認證・茶葉來源地",
@@ -212,6 +212,55 @@
       "kind": "政府茶區地理資料",
       "version": "2026-11-22查詢",
       "note": "梨山、八仙山茶區屬臺中市和平區；杉林溪茶的竹山鎮大鞍茶區說明。僅作品牌已具名茶區的行政區對照，不證明批次茶園位置。"
+    },
+    "anice-table": {
+      "label": "一沐日｜官方熱量糖度表・茶葉來源欄",
+      "url": "https://www.aniceholiday.com.tw/uploads/editor/files/20260525一沐日糖分表.jpg",
+      "kind": "品牌官方標示圖",
+      "version": "官網FAQ現行連結；檔名20260525；2026-11-22核讀",
+      "note": "逐列核讀底部茶葉來源；蕎麥屬穀物，不列入茶樹茶葉來源。"
+    },
+    "50lan-fushou": {
+      "label": "50嵐新莊福壽店｜門市Foodpanda飲品產地標示",
+      "url": "https://www.foodpanda.com.tw/restaurant/h2jz/50lan-xin-zhuang-fu-shou-dian/reviews",
+      "kind": "門市自行刊登的外送菜單",
+      "version": "2026-11-22讀取公開菜單",
+      "note": "資料範圍限新莊福壽店；50嵐分區經營，不概括全台或每一批次。"
+    },
+    "dayungs-yanhe": {
+      "label": "大苑子土城延和店｜公開茶葉原產地清單",
+      "url": "https://www.foodpanda.com.tw/en/restaurant/z1nw/da-yuan-zi-tu-cheng-yan-he-dian",
+      "kind": "門市自行刊登的外送菜單",
+      "version": "2026-11-22查詢；搜尋服務提供之菜單索引內容",
+      "note": "完整原產地清單由搜尋服務索引提供；直接抓取遇存取限制。保留適用門市，不保證今日在售品項或所有門市配方。"
+    },
+    "dejeng-taoyuan": {
+      "label": "桃食安心｜得正香橙春烏龍・茶底食材登錄",
+      "url": "https://food-safety.tycg.gov.tw/TYFoodProductDetail.aspx?id=8fb869ff-8833-ef11-a201-005056b7f485&n=1075&pid=703c0b7d-0c44-ef11-a201-005056b7f485&sms=0",
+      "kind": "政府平台業者食材登錄",
+      "version": "2026-11-22讀取原頁",
+      "note": "春烏龍與焙烏龍食材欄列國產。不是以整杯飲品製造地推定茶葉；不推廣至全台批次。"
+    },
+    "dejeng-taoyuan-fruit": {
+      "label": "桃食安心｜得正雙柚金烏龍・焙烏龍食材登錄",
+      "url": "https://food-safety.tycg.gov.tw/TYFoodProductDetail.aspx?id=8fb869ff-8833-ef11-a201-005056b7f485&n=1075&pid=53eb24a7-6996-ef11-a202-005056b7f485&sms=0",
+      "kind": "政府平台業者食材登錄",
+      "version": "2026-11-22讀取原頁",
+      "note": "焙烏龍原料列國產；果漿越南不是茶葉越南。原頁與搜尋快取的水果產地及更新日期亦有版本差異。"
+    },
+    "dejeng-taipei": {
+      "label": "臺北食材登錄｜得正雙柚金烏龍・來源或工廠欄",
+      "url": "https://foodtracer.health.gov.taipei/UniPages/CustPageView?company_id=83591086&fid=98e445de-1314-4f3c-99bb-0abd8d7c5296&itemno=33&mid=e85a79c7-cd54-4aa5-9719-c8a9d0e575ce",
+      "kind": "政府平台業者食材登錄",
+      "version": "2026-11-22查詢搜尋服務所提供之公開頁面內容",
+      "note": "焙烏龍列台中／印尼；欄名為來源或工廠，且不同於桃園登錄，不能直接當作統一種植地或自行判定哪一平台錯誤。"
+    },
+    "teatop-taste": {
+      "label": "TEA TOP｜高山青茶官方產地介紹",
+      "url": "https://www.teatop.com.tw/taste/",
+      "kind": "品牌官方茶品介紹",
+      "version": "2026-11-22查詢",
+      "note": "具名第一味高山青茶明言嚴選南投名間春冬茶；只補這一款，不將其他台灣茶一併標名間。"
     }
   },
   "brands": [
@@ -243,7 +292,7 @@
     {
       "id": "teatop",
       "name": "TEA TOP第一味",
-      "note": "PDF第4頁列茶葉產地；品牌發源於名間，不等於下列每一款台灣茶都已查到名間。"
+      "note": "PDF提供國別；另從官方高山青茶具名介紹補到南投名間。其餘五筆台灣茶未公開鄉鎮，保留缺口。"
     },
     {
       "id": "kebuke",
@@ -284,6 +333,26 @@
       "id": "presotea",
       "name": "鮮茶道",
       "note": "只將能從商品文字確認茶葉來自台灣的梨山烏龍列入；其他原料表若僅列「來源或工廠」，不直接視為茶樹種植地。"
+    },
+    {
+      "id": "anice",
+      "name": "一沐日",
+      "note": "官方FAQ現行熱量表底部有完整的六類原料來源；本頁列茶樹茶葉的五類，蕎麥另列排除說明。台灣部分未公開縣市與鄉鎮。"
+    },
+    {
+      "id": "50lan",
+      "name": "50嵐",
+      "note": "本輪新增新莊福壽店公開菜單的四款純茶；適用範圍限該門市，不能當成全台50嵐的統一配方。"
+    },
+    {
+      "id": "dayungs",
+      "name": "大苑子",
+      "note": "補入土城延和店公開原產地清單。來源為外送平台門市自行刊登資料的搜尋索引；不推定全台門市相同，亦不保證清單每款今日仍在售。"
+    },
+    {
+      "id": "dejeng",
+      "name": "得正",
+      "note": "先列桃園食材登錄中能對應到具名飲品的茶底；臺北平台另列來源或工廠資訊，兩者尚不能合併為全台種植地結論。"
     }
   ],
   "items": [
@@ -982,12 +1051,13 @@
       "countries": [
         "台灣"
       ],
-      "local": "台灣部分：PDF未逐項公開縣市、鄉鎮",
+      "local": "南投縣名間鄉",
       "sources": [
-        "teatop"
+        "teatop",
+        "teatop-taste"
       ],
-      "note": "",
-      "mingjian": false,
+      "note": "官方「品味好茶」具名高山青茶明列嚴選南投名間春冬茶；其餘茶款不因此一起標名間。",
+      "mingjian": true,
       "evidenceLevel": "茶品級"
     },
     {
@@ -1604,6 +1674,254 @@
       "note": "品牌明列「台灣南投松柏嶺」；鄉鎮以政府茶區介紹對照，不代表已查到批次茶園位置。",
       "mingjian": true,
       "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "anice-01",
+      "brand": "anice",
+      "name": "輕香烏龍綠",
+      "countries": [
+        "越南",
+        "印尼"
+      ],
+      "local": "更細產區未公開",
+      "sources": [
+        "anice-table"
+      ],
+      "note": "依官方圖茶葉來源欄，國別順序照原圖保留。",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "anice-02",
+      "brand": "anice",
+      "name": "糯米香茶",
+      "countries": [
+        "越南"
+      ],
+      "local": "更細產區未公開",
+      "sources": [
+        "anice-table"
+      ],
+      "note": "依官方圖茶葉來源欄，國別順序照原圖保留。",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "anice-03",
+      "brand": "anice",
+      "name": "島韻紅茶（紅茶茶底）",
+      "countries": [
+        "越南",
+        "台灣"
+      ],
+      "local": "台灣部分：縣市、鄉鎮未公開",
+      "sources": [
+        "anice-table"
+      ],
+      "note": "依官方圖茶葉來源欄，國別順序照原圖保留。",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "anice-04",
+      "brand": "anice",
+      "name": "炭焙烏龍（烏龍茶底）",
+      "countries": [
+        "越南",
+        "台灣"
+      ],
+      "local": "台灣部分：縣市、鄉鎮未公開",
+      "sources": [
+        "anice-table"
+      ],
+      "note": "依官方圖茶葉來源欄，國別順序照原圖保留。",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "anice-05",
+      "brand": "anice",
+      "name": "手採高山青（青茶茶底）",
+      "countries": [
+        "台灣",
+        "越南"
+      ],
+      "local": "台灣部分：縣市、鄉鎮未公開",
+      "sources": [
+        "anice-table"
+      ],
+      "note": "依官方圖茶葉來源欄，國別順序照原圖保留。",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "50lan-01",
+      "brand": "50lan",
+      "name": "阿薩姆紅茶",
+      "countries": [
+        "斯里蘭卡"
+      ],
+      "local": "更細產區未公開",
+      "sources": [
+        "50lan-fushou"
+      ],
+      "note": "新莊福壽店菜單版本；不代表全台50嵐，購買時核對當店當批標示。",
+      "mingjian": false,
+      "evidenceLevel": "茶品級・單店範圍"
+    },
+    {
+      "id": "50lan-02",
+      "brand": "50lan",
+      "name": "茉莉綠茶",
+      "countries": [
+        "越南"
+      ],
+      "local": "更細產區未公開",
+      "sources": [
+        "50lan-fushou"
+      ],
+      "note": "新莊福壽店菜單版本；不代表全台50嵐，購買時核對當店當批標示。",
+      "mingjian": false,
+      "evidenceLevel": "茶品級・單店範圍"
+    },
+    {
+      "id": "50lan-03",
+      "brand": "50lan",
+      "name": "四季春青茶",
+      "countries": [
+        "台灣",
+        "越南"
+      ],
+      "local": "台灣部分：縣市、鄉鎮未公開",
+      "sources": [
+        "50lan-fushou"
+      ],
+      "note": "新莊福壽店菜單版本；不代表全台50嵐，購買時核對當店當批標示。",
+      "mingjian": false,
+      "evidenceLevel": "茶品級・單店範圍"
+    },
+    {
+      "id": "50lan-04",
+      "brand": "50lan",
+      "name": "黃金烏龍",
+      "countries": [
+        "台灣",
+        "越南"
+      ],
+      "local": "台灣部分：縣市、鄉鎮未公開",
+      "sources": [
+        "50lan-fushou"
+      ],
+      "note": "新莊福壽店菜單版本；不代表全台50嵐，購買時核對當店當批標示。",
+      "mingjian": false,
+      "evidenceLevel": "茶品級・單店範圍"
+    },
+    {
+      "id": "dayungs-01",
+      "brand": "dayungs",
+      "name": "文山青茶",
+      "countries": [
+        "台灣"
+      ],
+      "local": "台灣部分：縣市、鄉鎮未公開",
+      "sources": [
+        "dayungs-yanhe"
+      ],
+      "note": "土城延和店公開原料清單的索引版本；未確認全部門市及今日在售狀態，不由「文山」茶名補成坪林。",
+      "mingjian": false,
+      "evidenceLevel": "茶品級・單店索引"
+    },
+    {
+      "id": "dayungs-02",
+      "brand": "dayungs",
+      "name": "纖活綠茶",
+      "countries": [
+        "台灣"
+      ],
+      "local": "台灣部分：縣市、鄉鎮未公開",
+      "sources": [
+        "dayungs-yanhe"
+      ],
+      "note": "土城延和店公開原料清單的索引版本；未確認全部門市及今日在售狀態，不由「文山」茶名補成坪林。",
+      "mingjian": false,
+      "evidenceLevel": "茶品級・單店索引"
+    },
+    {
+      "id": "dayungs-03",
+      "brand": "dayungs",
+      "name": "茉香綠茶茶底",
+      "countries": [
+        "台灣",
+        "越南"
+      ],
+      "local": "台灣部分：縣市、鄉鎮未公開",
+      "sources": [
+        "dayungs-yanhe"
+      ],
+      "note": "土城延和店公開原料清單的索引版本；未確認全部門市及今日在售狀態，不由「文山」茶名補成坪林。",
+      "mingjian": false,
+      "evidenceLevel": "茶品級・單店索引"
+    },
+    {
+      "id": "dayungs-04",
+      "brand": "dayungs",
+      "name": "古城錫蘭紅茶",
+      "countries": [
+        "斯里蘭卡"
+      ],
+      "local": "更細產區未公開",
+      "sources": [
+        "dayungs-yanhe"
+      ],
+      "note": "土城延和店公開原料清單的索引版本；未確認全部門市及今日在售狀態，不由「文山」茶名補成坪林。",
+      "mingjian": false,
+      "evidenceLevel": "茶品級・單店索引"
+    },
+    {
+      "id": "dayungs-05",
+      "brand": "dayungs",
+      "name": "鐵觀音茶底",
+      "countries": [
+        "台灣"
+      ],
+      "local": "台灣部分：縣市、鄉鎮未公開",
+      "sources": [
+        "dayungs-yanhe"
+      ],
+      "note": "土城延和店公開原料清單的索引版本；未確認全部門市及今日在售狀態，不由「文山」茶名補成坪林。",
+      "mingjian": false,
+      "evidenceLevel": "茶品級・單店索引"
+    },
+    {
+      "id": "dejeng-01",
+      "brand": "dejeng",
+      "name": "香橙春烏龍中的春烏龍茶底（桃園登錄）",
+      "countries": [
+        "台灣"
+      ],
+      "local": "縣市、鄉鎮未公開",
+      "sources": [
+        "dejeng-taoyuan"
+      ],
+      "note": "桃園平台該飲品的春烏龍食材列國產；此筆只記錄該登錄範圍，不是全品牌統一來源。",
+      "mingjian": false,
+      "evidenceLevel": "具名飲品茶底・區域登錄"
+    },
+    {
+      "id": "dejeng-02",
+      "brand": "dejeng",
+      "name": "雙柚金烏龍中的焙烏龍茶底（桃園登錄）",
+      "countries": [
+        "台灣"
+      ],
+      "local": "縣市、鄉鎮未公開",
+      "sources": [
+        "dejeng-taoyuan-fruit",
+        "dejeng-taipei"
+      ],
+      "note": "桃園平台焙烏龍列國產；臺北同名飲品的「來源或工廠」欄另列台中／印尼。版本及欄位意義待業者釐清，不以台中寫成茶園所在地。",
+      "mingjian": false,
+      "evidenceLevel": "具名飲品茶底・版本待釐清"
     }
   ],
   "contextRegistrations": [
@@ -1621,31 +1939,34 @@
   "pending": [
     {
       "brand": "一沐日",
-      "text": "官網有過往杉林溪茶王與日本茶粉的介紹，但這是歷史商品回顧；現行台北大安店頁未提供逐品項完整茶葉產地。本輪不以舊產品或茶粉加工廠位置，代替今天門市的原料來源。",
+      "text": "已補入官方標示圖的五類茶底國別；台灣部分的縣市、鄉鎮尚未公開，尚不能判斷是否名間。",
       "sources": [
-        "anice-menu",
-        "anice"
+        "anice-table"
       ]
     },
     {
       "brand": "得正",
-      "text": "已查官方原茶品項，尚未取得能逐一對應現行茶品的完整產地表。保留待核對，不由「烏龍」或品牌理念推定國別。",
+      "text": "已補桃園平台具名飲品的春烏龍、焙烏龍茶底登錄。臺北平台另寫台中／印尼，且欄名含工廠；尚不能斷言全台統一種植地。紅茶、綠茶、其他烏龍茶底及鄉鎮仍待補。",
       "sources": [
-        "dejeng"
+        "dejeng-taoyuan",
+        "dejeng-taoyuan-fruit",
+        "dejeng-taipei"
       ]
     },
     {
       "brand": "大苑子",
-      "text": "官網公開許多鮮果資訊，但水果的台灣產地不等於茶葉也在同一地種植。逐茶品茶葉來源尚待取得足夠的現行依據。",
+      "text": "已補土城延和店公開清單五筆國別；門市現行完整茶單、全台一致性及國產茶鄉鎮仍待確認。來源採門市菜單索引，不冒稱直接取得當批原料。",
       "sources": [
+        "dayungs-yanhe",
         "dayungs"
       ]
     },
     {
       "brand": "50嵐",
-      "text": "採分區經營，單店菜單及不同年度的抽驗資料可能不同。政府食材登錄頁本輪回傳維護中，尚未完成現行分區逐茶品核對；不把某門市資料概括為全台來源。",
+      "text": "已補新莊福壽店四款純茶。全台採分區經營，各區與其他門市來源仍待逐一核對；台灣部分未公開茶園縣市鄉鎮。",
       "sources": [
-        "50lan"
+        "50lan",
+        "50lan-fushou"
       ]
     }
   ],
@@ -1653,6 +1974,8 @@
     "COMEBUY鮮萃大麥紅茶的澳洲大麥不能確認為茶葉國別，未列入該茶品。",
     "麻古蕎麥綠寶石的南非來源可能屬蕎麥原料，未當成茶葉國別。",
     "鮮茶道一番抹茶奶綠食材表的台灣是「來源或工廠」欄，不能單憑此欄推成抹茶種植於台灣。",
-    "TEA TOP烏龍綠茶列中國（桂花），未把花材來源寫成茶葉來源；該複合欄位未另列成一筆。"
-  ]
+    "TEA TOP烏龍綠茶列中國（桂花），未把花材來源寫成茶葉來源；該複合欄位未另列成一筆。",
+    "一沐日官方表的蕎麥來源為中國、台灣；屬穀物，未列成茶樹茶葉的國別紀錄。"
+  ],
+  "lastSupplementedAt": "2026-11-22T20:45:27.327186+08:00"
 }
