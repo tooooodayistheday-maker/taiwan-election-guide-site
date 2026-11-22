@@ -1,0 +1,1658 @@
+{
+  "title": "一杯手搖，茶從哪裡來？",
+  "checkedAt": "2026-11-22",
+  "scope": "在台灣販售的手搖茶飲；依可取得的品牌官方及公開溯源資料逐品項整理。不是全市場普查，也不是每一批次的抽驗。",
+  "sources": {
+    "magic": {
+      "label": "茶之魔手｜安全認證・茶葉來源地",
+      "url": "https://www.teamagichand.com.tw/certified/",
+      "kind": "品牌官網",
+      "version": "2026-11-22查詢",
+      "note": "來源地與生產製造分欄；普洱不可因在台製造，就當作台灣種植茶。"
+    },
+    "unocha": {
+      "label": "農糧署公開溯源頁｜烏弄原生茶飲・0611000139",
+      "url": "https://qrc.afa.gov.tw/blog/0611000139",
+      "kind": "公開溯源登錄",
+      "version": "2026-11-22即時頁面",
+      "note": "為業者登錄資料，不是政府對每批產品另作產地認證；本次原頁與搜尋快取的屏東鄉鎮不同，採實際取得原頁的內埔鄉。"
+    },
+    "wootea": {
+      "label": "五桐號｜官方飲品標示表",
+      "url": "https://www.wootea.com/upload/menu_b/ALL_menu_26K19_9vbeqrk43b.jpg",
+      "kind": "品牌官方標示表",
+      "version": "2026/11版",
+      "note": "逐列目視核讀；未將水果、糖、乳品或蕎麥產地當作茶葉產地。"
+    },
+    "guiji": {
+      "label": "龜記｜全品項熱量與茶葉產地表",
+      "url": "https://www.guiji-group.com/upload_file/productMenu/productMenu_667ec1007f960472d67eab4b4c47f084.jpg",
+      "kind": "品牌官方標示表",
+      "version": "全2611版",
+      "note": "產地欄的龜記錫蘭對應紅茶茶底；未僅用新舊品名推定配方。"
+    },
+    "comebuy": {
+      "label": "COMEBUY｜飲品資訊與茶葉產地",
+      "url": "https://www.comebuy2002.com.tw/safety_promise-detail/calorie01/",
+      "kind": "品牌官方標示表",
+      "version": "2026-09-10圖表；官網2026-09-11刊登",
+      "note": "圖片逐列核對；列有兩種產地版本者分開說明，不推定同一杯全數混用。大麥、玫瑰等原料不併算茶葉國別。"
+    },
+    "teatop": {
+      "label": "TEA TOP｜現場調製飲品標示・北部下載",
+      "url": "https://www.teatop.com.tw/download/0/Calorimeter_North/",
+      "kind": "品牌官方PDF",
+      "version": "PDF標示202608",
+      "note": "第4頁茶葉產地；國產品項未提供逐品項鄉鎮，品牌發源名間不等於所有茶都產名間。"
+    },
+    "kebuke": {
+      "label": "可不可｜官方菜單原料產地",
+      "url": "https://kebuke.com/menu/",
+      "kind": "品牌官網",
+      "version": "2026-11-22查詢",
+      "note": ""
+    },
+    "kebuke-black": {
+      "label": "可不可｜熟成紅茶",
+      "url": "https://kebuke.com/product/signature-black-tea/",
+      "kind": "品牌官網",
+      "version": "2026-11-22查詢",
+      "note": ""
+    },
+    "milksha": {
+      "label": "迷客夏｜純茶飲品介紹",
+      "url": "https://www.milksha.com/products_detail.php?cID=1",
+      "kind": "品牌官網",
+      "version": "2026-11-22查詢",
+      "note": "只收錄頁面明確說出來源的品項；未由阿薩姆品名自行推定大正紅茶的國別。"
+    },
+    "chingshin-green": {
+      "label": "清心福全｜特級綠茶原料表",
+      "url": "https://www.chingshin.tw/product/finest-green-tea",
+      "kind": "品牌官網",
+      "version": "2026-11-22查詢",
+      "note": ""
+    },
+    "chingshin-black": {
+      "label": "清心福全｜錫蘭紅茶原料表",
+      "url": "https://www.chingshin.tw/product/ceylon-black-tea",
+      "kind": "品牌官網",
+      "version": "2026-11-22查詢",
+      "note": "原料表列印度、印尼；照實保留品名與產地，不由「錫蘭」二字替換成斯里蘭卡。"
+    },
+    "chingshin-seasons": {
+      "label": "清心福全｜原鄉四季原料表",
+      "url": "https://www.chingshin.tw/product/taiwan-four-seasons-oolong-tea",
+      "kind": "品牌官網",
+      "version": "2026-11-22查詢",
+      "note": ""
+    },
+    "sunbay": {
+      "label": "山焙｜官方茶品介紹",
+      "url": "https://www.sunbaytea.com.tw/",
+      "kind": "品牌官網",
+      "version": "2026-11-22查詢",
+      "note": "官網寫明金烏厚茶選自鹿谷、羅賓紅茶選自魚池；不把品牌位於名間當成所有茶品原產地。"
+    },
+    "sunbay-spring": {
+      "label": "山焙｜春花青茶",
+      "url": "https://www.sunbaytea.com.tw/products-detail/spring-flower-green-tea/",
+      "kind": "品牌官網",
+      "version": "2026-11-22查詢",
+      "note": ""
+    },
+    "anice": {
+      "label": "一沐日｜年度經典飲品回顧",
+      "url": "https://www.aniceholiday.com.tw/annual-drinks/",
+      "kind": "品牌官網",
+      "version": "2024-06-28歷史品項介紹",
+      "note": "屬歷史商品敘述，不拿來保證現行菜單批次；現行門市標示另核對。"
+    },
+    "wooyo": {
+      "label": "吾悠茶所｜官方產地地圖",
+      "url": "https://wooyotea.com/",
+      "kind": "品牌官網",
+      "version": "2026-11-22查詢",
+      "note": "依官方地圖的茶品與地名配對；糖、乳品與蕎麥不列入茶葉產地。"
+    },
+    "macu": {
+      "label": "麻古茶坊｜新鮮食材",
+      "url": "https://www.macutea.com.tw/fresh.php",
+      "kind": "品牌官網",
+      "version": "2026-11-22查詢",
+      "note": "僅是品牌層級台灣茶敘述，未提供全部茶品逐項國別、縣市與鄉鎮。"
+    },
+    "fda": {
+      "label": "食藥署｜茶葉原產地標示說明",
+      "url": "https://www.fda.gov.tw/Tc/PublishOtherEpaperContent.aspx?id=1639&tid=5766",
+      "kind": "政府說明",
+      "version": "第1097期・2026-09-25",
+      "note": "茶葉原產地依採集或收割地；國家標示不是單一農園或安全風險判定。"
+    },
+    "wootea-trace": {
+      "label": "農糧署公開溯源頁｜柏元實業・0211000243",
+      "url": "https://qrc.afa.gov.tw/blog/0211000243",
+      "kind": "公開溯源登錄",
+      "version": "2026-11-22查詢",
+      "note": "僅茶製品－茶的公司層級登錄，未一一連到五桐號具名茶飲。"
+    },
+    "comebuy-trace": {
+      "label": "農糧署公開溯源頁｜長沂國際・0211000191",
+      "url": "https://qrc.afa.gov.tw/blog/0211000191",
+      "kind": "公開溯源登錄",
+      "version": "2026-11-22查詢",
+      "note": "僅公司層級茶製品－茶登錄，不能把所有COMEBUY茶飲改標名間。"
+    },
+    "macu-chart": {
+      "label": "麻古茶坊｜官方甜度熱量表・底部茶葉產地欄",
+      "url": "https://www.macutea.com.tw/upload_image/calorie/calorie.jpg",
+      "kind": "品牌官方標示表",
+      "version": "2026-11-22查詢",
+      "note": "已核讀底部表格；蜜桃紅茶的果乾中國與蕎麥綠寶石的南非不當成茶葉產地。圖未列明版本日期。"
+    },
+    "wanpo": {
+      "label": "萬波｜官方飲品列表・金萱青茶",
+      "url": "https://wanpotea.com/drink",
+      "kind": "品牌官網",
+      "version": "2026-11-22查詢",
+      "note": "金萱青茶描述明列南投硬枝紅心；未指出鄉鎮，不因品名「埔里甘蔗青」把茶也當成埔里產。"
+    },
+    "presotea-pear": {
+      "label": "鮮茶道｜梨山烏龍茶・個別飲品頁",
+      "url": "https://www.presotea.com/drinks/20260528183241",
+      "kind": "品牌官網",
+      "version": "2026-11-22查詢",
+      "note": "商品文字明寫產自台灣梨山高海拔茶園；食材表列台灣，但未逐筆提供縣市鄉鎮。"
+    },
+    "anice-menu": {
+      "label": "一沐日｜台北大安店現行飲品頁",
+      "url": "https://www.aniceholiday.com.tw/beverages/store/83",
+      "kind": "品牌官網",
+      "version": "2026-11-22查詢",
+      "note": "本輪頁面可核對品項與售價，未提供逐項茶葉採集國別或鄉鎮；不以2024回顧保證2026配方。"
+    },
+    "dejeng": {
+      "label": "得正｜官方飲品頁",
+      "url": "https://dejeng.com/drinks/",
+      "kind": "品牌官網",
+      "version": "2026-11-22查詢",
+      "note": "本輪取得原茶系列品項，未取得可逐項對照的茶葉採集國別及鄉鎮表。"
+    },
+    "dayungs": {
+      "label": "大苑子｜官方飲品頁",
+      "url": "https://www.dayungs.com/product/",
+      "kind": "品牌官網",
+      "version": "2026-11-22查詢",
+      "note": "本輪未取得足以逐茶品對應的完整現行茶葉產地表；水果的產地不直接當作茶葉產地。"
+    },
+    "50lan": {
+      "label": "50嵐｜官方品牌與分區經營說明",
+      "url": "https://xn--50-wg2du59ik3f.tw/",
+      "kind": "品牌官網",
+      "version": "官網註明2022-06-02更新；2026-11-22查詢",
+      "note": "分區經營；未把單一門市或2025抽驗樣品推成2026全台茶葉來源。政府食材登錄頁本輪回傳維護中。"
+    },
+    "kebuke-pdf": {
+      "label": "可不可｜官網18週年常態菜單與飲品標示",
+      "url": "https://kebuke.com/wp-content/uploads/2026/09/2026.09_18週年_官網常態菜單-1.pdf",
+      "kind": "品牌官方PDF",
+      "version": "官網現行下載・2026/09檔案",
+      "note": "已逐頁核讀7頁影像PDF；第6頁紅烏龍茶產地台灣，第7頁春芽綠茶台灣南投、茶花烏龍台灣與越南。"
+    },
+    "songboling-geo": {
+      "label": "參山國家風景區管理處｜名間鄉松柏嶺茶區",
+      "url": "https://www.trimt-nsa.gov.tw/zh-tw/news/3743/",
+      "kind": "政府茶區介紹",
+      "version": "2026-11-22查詢",
+      "note": "只用來對照「南投松柏嶺」的行政區；不證明單一品牌的批次茶園或與預定廠址距離。"
+    },
+    "tbrs-geography": {
+      "label": "農業部茶及飲料作物改良場｜中南部各茶區特色說明",
+      "url": "https://www.tbrs.gov.tw/ws.php?id=4804",
+      "kind": "政府茶區地理資料",
+      "version": "2026-11-22查詢",
+      "note": "梨山、八仙山茶區屬臺中市和平區；杉林溪茶的竹山鎮大鞍茶區說明。僅作品牌已具名茶區的行政區對照，不證明批次茶園位置。"
+    }
+  },
+  "brands": [
+    {
+      "id": "magic",
+      "name": "茶之魔手",
+      "note": "來源地和加工地分開看。這裡只列官網具名茶葉；不將「百分之百台灣茶」廣告概括套用到普洱。"
+    },
+    {
+      "id": "unocha",
+      "name": "烏弄",
+      "note": "採2026-11-22取得的溯源原頁詳細產地表；登錄資料不等於每一批次的原產地鑑定。"
+    },
+    {
+      "id": "wootea",
+      "name": "五桐號",
+      "note": "官方2026/11表；同品牌不同茶底有不同來源。台灣茶未公開鄉鎮的，保持未公開。"
+    },
+    {
+      "id": "guiji",
+      "name": "龜記",
+      "note": "以下依官網茶葉產地欄，未用茶名猜產地；國產茶尚未逐項公開鄉鎮。"
+    },
+    {
+      "id": "comebuy",
+      "name": "COMEBUY",
+      "note": "官網2026-09-10表含替代產地版本；表列非茶原料的國別不視為茶葉國別。"
+    },
+    {
+      "id": "teatop",
+      "name": "TEA TOP第一味",
+      "note": "PDF第4頁列茶葉產地；品牌發源於名間，不等於下列每一款台灣茶都已查到名間。"
+    },
+    {
+      "id": "kebuke",
+      "name": "可不可",
+      "note": "對照官網現行下載的18週年菜單，第6、7頁另列紅烏龍、春芽及茶花烏龍來源。台灣南投仍未細到鄉鎮，不直接標名間。"
+    },
+    {
+      "id": "milksha",
+      "name": "迷客夏",
+      "note": "以下只列官方純茶介紹明確說出來源的品項；其他茶款不單憑品名推定來源。"
+    },
+    {
+      "id": "chingshin",
+      "name": "清心福全",
+      "note": "採現行個別產品原料表；品牌早期介紹或門市舊菜單可能不同，以具名茶品的現行標示核對。"
+    },
+    {
+      "id": "sunbay",
+      "name": "山焙",
+      "note": "品牌來自名間的三億茶行；實際茶品仍按官網所寫茶區分開整理。"
+    },
+    {
+      "id": "wooyo",
+      "name": "吾悠茶所",
+      "note": "品牌官網用地圖列出單一產地；未將鮮乳、糖與蕎麥的地名混入茶葉。"
+    },
+    {
+      "id": "macu",
+      "name": "麻古茶坊",
+      "note": "依官網甜度熱量表底部的逐品項產地欄；與新鮮食材頁的品牌概述分開，不把所有茶都當成台灣茶。"
+    },
+    {
+      "id": "wanpo",
+      "name": "萬波",
+      "note": "這次僅將官網明確指出茶葉產區的金萱青茶列入；「埔里甘蔗青」的地名不能直接當成茶葉產地。"
+    },
+    {
+      "id": "presotea",
+      "name": "鮮茶道",
+      "note": "只將能從商品文字確認茶葉來自台灣的梨山烏龍列入；其他原料表若僅列「來源或工廠」，不直接視為茶樹種植地。"
+    }
+  ],
+  "items": [
+    {
+      "id": "magic-01",
+      "brand": "magic",
+      "name": "台灣靛紅",
+      "countries": [
+        "台灣"
+      ],
+      "local": "南投縣名間鄉",
+      "sources": [
+        "magic"
+      ],
+      "note": "",
+      "mingjian": true,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "magic-02",
+      "brand": "magic",
+      "name": "台灣純綠",
+      "countries": [
+        "台灣"
+      ],
+      "local": "南投縣名間鄉",
+      "sources": [
+        "magic"
+      ],
+      "note": "",
+      "mingjian": true,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "magic-03",
+      "brand": "magic",
+      "name": "台灣青茶",
+      "countries": [
+        "台灣"
+      ],
+      "local": "南投縣名間鄉",
+      "sources": [
+        "magic"
+      ],
+      "note": "",
+      "mingjian": true,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "magic-04",
+      "brand": "magic",
+      "name": "台灣烏龍茶",
+      "countries": [
+        "台灣"
+      ],
+      "local": "南投縣名間鄉",
+      "sources": [
+        "magic"
+      ],
+      "note": "",
+      "mingjian": true,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "magic-05",
+      "brand": "magic",
+      "name": "陳年普洱（官網作「陳年潽洱」）",
+      "countries": [
+        "中國"
+      ],
+      "local": "雲南省臨滄",
+      "sources": [
+        "magic"
+      ],
+      "note": "官網的生產製造欄列台灣；此處列的是茶葉來源地。",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "unocha-01",
+      "brand": "unocha",
+      "name": "名間鄉冬片仔",
+      "countries": [
+        "台灣"
+      ],
+      "local": "南投縣名間鄉",
+      "sources": [
+        "unocha"
+      ],
+      "note": "公開溯源登錄的詳細產地。",
+      "mingjian": true,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "unocha-02",
+      "brand": "unocha",
+      "name": "十八胭脂紅玉",
+      "countries": [
+        "台灣"
+      ],
+      "local": "南投縣名間鄉",
+      "sources": [
+        "unocha"
+      ],
+      "note": "公開溯源登錄的詳細產地。",
+      "mingjian": true,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "unocha-03",
+      "brand": "unocha",
+      "name": "金萱烏龍",
+      "countries": [
+        "台灣"
+      ],
+      "local": "南投縣名間鄉",
+      "sources": [
+        "unocha"
+      ],
+      "note": "公開溯源登錄的詳細產地。",
+      "mingjian": true,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "unocha-04",
+      "brand": "unocha",
+      "name": "茉莉綠茶",
+      "countries": [
+        "台灣"
+      ],
+      "local": "南投縣名間鄉",
+      "sources": [
+        "unocha"
+      ],
+      "note": "公開溯源登錄的詳細產地。",
+      "mingjian": true,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "unocha-05",
+      "brand": "unocha",
+      "name": "手採阿里山金萱",
+      "countries": [
+        "台灣"
+      ],
+      "local": "嘉義縣梅山鄉",
+      "sources": [
+        "unocha"
+      ],
+      "note": "「阿里山」茶名不代表行政區一定是阿里山鄉。",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "unocha-06",
+      "brand": "unocha",
+      "name": "著涎金萱紅",
+      "countries": [
+        "台灣"
+      ],
+      "local": "屏東縣內埔鄉",
+      "sources": [
+        "unocha"
+      ],
+      "note": "本輪取得的公開溯源原頁列為屏東縣內埔鄉。",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "unocha-07",
+      "brand": "unocha",
+      "name": "碧螺春 綠",
+      "countries": [
+        "台灣"
+      ],
+      "local": "屏東縣內埔鄉",
+      "sources": [
+        "unocha"
+      ],
+      "note": "本輪取得的公開溯源原頁列為屏東縣內埔鄉。",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "unocha-08",
+      "brand": "unocha",
+      "name": "阿薩姆煎茶",
+      "countries": [
+        "台灣"
+      ],
+      "local": "屏東縣內埔鄉",
+      "sources": [
+        "unocha"
+      ],
+      "note": "本輪取得的公開溯源原頁列為屏東縣內埔鄉。",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "wootea-01",
+      "brand": "wootea",
+      "name": "經典五桐茶",
+      "countries": [
+        "台灣",
+        "越南"
+      ],
+      "local": "台灣部分：縣市、鄉鎮未公開",
+      "sources": [
+        "wootea"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "wootea-02",
+      "brand": "wootea",
+      "name": "一把青茶",
+      "countries": [
+        "台灣"
+      ],
+      "local": "台灣部分：縣市、鄉鎮未公開",
+      "sources": [
+        "wootea"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "wootea-03",
+      "brand": "wootea",
+      "name": "茉莉香片",
+      "countries": [
+        "越南"
+      ],
+      "local": "更細產區未公開",
+      "sources": [
+        "wootea"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "wootea-04",
+      "brand": "wootea",
+      "name": "老實人紅茶",
+      "countries": [
+        "印度"
+      ],
+      "local": "更細產區未公開",
+      "sources": [
+        "wootea"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "wootea-05",
+      "brand": "wootea",
+      "name": "清香烏龍",
+      "countries": [
+        "台灣",
+        "越南"
+      ],
+      "local": "台灣部分：縣市、鄉鎮未公開",
+      "sources": [
+        "wootea"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "wootea-06",
+      "brand": "wootea",
+      "name": "濃煮奶茶",
+      "countries": [
+        "斯里蘭卡"
+      ],
+      "local": "更細產區未公開",
+      "sources": [
+        "wootea"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "wootea-07",
+      "brand": "wootea",
+      "name": "綠茶凍濃煮奶茶",
+      "countries": [
+        "斯里蘭卡",
+        "越南"
+      ],
+      "local": "更細產區未公開",
+      "sources": [
+        "wootea"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "wootea-08",
+      "brand": "wootea",
+      "name": "鐵觀音奶茶",
+      "countries": [
+        "越南",
+        "台灣"
+      ],
+      "local": "台灣部分：縣市、鄉鎮未公開",
+      "sources": [
+        "wootea"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "wootea-09",
+      "brand": "wootea",
+      "name": "最完美手沖泰奶",
+      "countries": [
+        "泰國"
+      ],
+      "local": "更細產區未公開",
+      "sources": [
+        "wootea"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "guiji-01",
+      "brand": "guiji",
+      "name": "龜記錫蘭・紅茶茶底",
+      "countries": [
+        "斯里蘭卡",
+        "越南"
+      ],
+      "local": "更細產區未公開",
+      "sources": [
+        "guiji"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "guiji-02",
+      "brand": "guiji",
+      "name": "翡翠綠茶",
+      "countries": [
+        "越南"
+      ],
+      "local": "更細產區未公開",
+      "sources": [
+        "guiji"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "guiji-03",
+      "brand": "guiji",
+      "name": "四季春青茶",
+      "countries": [
+        "台灣"
+      ],
+      "local": "台灣部分：縣市、鄉鎮未公開",
+      "sources": [
+        "guiji"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "guiji-04",
+      "brand": "guiji",
+      "name": "三韻紅萱",
+      "countries": [
+        "台灣"
+      ],
+      "local": "台灣部分：縣市、鄉鎮未公開",
+      "sources": [
+        "guiji"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "guiji-05",
+      "brand": "guiji",
+      "name": "三十三茶王",
+      "countries": [
+        "台灣"
+      ],
+      "local": "台灣部分：縣市、鄉鎮未公開",
+      "sources": [
+        "guiji"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "guiji-06",
+      "brand": "guiji",
+      "name": "碎銀普洱茶",
+      "countries": [
+        "中國"
+      ],
+      "local": "更細產區未公開",
+      "sources": [
+        "guiji"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "guiji-07",
+      "brand": "guiji",
+      "name": "花沫烏龍",
+      "countries": [
+        "越南",
+        "台灣"
+      ],
+      "local": "台灣部分：縣市、鄉鎮未公開",
+      "sources": [
+        "guiji"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "guiji-08",
+      "brand": "guiji",
+      "name": "濃乳茶茶底",
+      "countries": [
+        "台灣",
+        "斯里蘭卡",
+        "肯亞"
+      ],
+      "local": "台灣部分：縣市、鄉鎮未公開",
+      "sources": [
+        "guiji"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "guiji-09",
+      "brand": "guiji",
+      "name": "蒸青抹茶粉",
+      "countries": [
+        "台灣"
+      ],
+      "local": "台灣部分：縣市、鄉鎮未公開",
+      "sources": [
+        "guiji"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "comebuy-01",
+      "brand": "comebuy",
+      "name": "錫蘭紅茶",
+      "countries": [
+        "斯里蘭卡"
+      ],
+      "local": "更細產區未公開",
+      "sources": [
+        "comebuy"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "comebuy-02",
+      "brand": "comebuy",
+      "name": "茉莉綠茶",
+      "countries": [
+        "越南"
+      ],
+      "local": "更細產區未公開",
+      "sources": [
+        "comebuy"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "comebuy-03",
+      "brand": "comebuy",
+      "name": "碧螺春綠",
+      "countries": [
+        "越南"
+      ],
+      "local": "更細產區未公開",
+      "sources": [
+        "comebuy"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "comebuy-04",
+      "brand": "comebuy",
+      "name": "玩火",
+      "countries": [
+        "越南"
+      ],
+      "local": "更細產區未公開",
+      "sources": [
+        "comebuy"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "comebuy-05",
+      "brand": "comebuy",
+      "name": "觀音烏綠",
+      "countries": [
+        "越南"
+      ],
+      "local": "更細產區未公開",
+      "sources": [
+        "comebuy"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "comebuy-06",
+      "brand": "comebuy",
+      "name": "四季春",
+      "countries": [
+        "台灣",
+        "越南"
+      ],
+      "local": "台灣部分：縣市、鄉鎮未公開",
+      "sources": [
+        "comebuy"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "comebuy-07",
+      "brand": "comebuy",
+      "name": "桂花四季春",
+      "countries": [
+        "台灣",
+        "越南"
+      ],
+      "local": "台灣部分：縣市、鄉鎮未公開",
+      "sources": [
+        "comebuy"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "comebuy-08",
+      "brand": "comebuy",
+      "name": "金萱烏龍",
+      "countries": [
+        "越南",
+        "台灣"
+      ],
+      "local": "台灣部分：縣市、鄉鎮未公開",
+      "sources": [
+        "comebuy"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "comebuy-09",
+      "brand": "comebuy",
+      "name": "小葉紅茶",
+      "countries": [
+        "台灣"
+      ],
+      "local": "台灣部分：縣市、鄉鎮未公開",
+      "sources": [
+        "comebuy"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "comebuy-10",
+      "brand": "comebuy",
+      "name": "文山包種",
+      "countries": [
+        "台灣"
+      ],
+      "local": "台灣部分：縣市、鄉鎮未公開",
+      "sources": [
+        "comebuy"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "comebuy-11",
+      "brand": "comebuy",
+      "name": "白桃蜜烏龍",
+      "countries": [
+        "台灣"
+      ],
+      "local": "台灣部分：縣市、鄉鎮未公開",
+      "sources": [
+        "comebuy"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "comebuy-12",
+      "brand": "comebuy",
+      "name": "嗨神",
+      "countries": [
+        "越南",
+        "日本"
+      ],
+      "local": "日本部分：靜岡縣；越南次級產區未公開",
+      "sources": [
+        "comebuy"
+      ],
+      "note": "此處依原料產地欄，不由「日式煎茶」製法推定全杯日本茶。",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "comebuy-13",
+      "brand": "comebuy",
+      "name": "斯里蘭卡烏瓦紅茶",
+      "countries": [
+        "斯里蘭卡",
+        "肯亞"
+      ],
+      "local": "官網列兩種版本：斯里蘭卡／斯里蘭卡與肯亞",
+      "sources": [
+        "comebuy"
+      ],
+      "note": "兩種來源版本不代表每杯都混肯亞茶，依當批標示。",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "comebuy-14",
+      "brand": "comebuy",
+      "name": "宇治抹茶",
+      "countries": [
+        "日本"
+      ],
+      "local": "靜岡縣",
+      "sources": [
+        "comebuy"
+      ],
+      "note": "「宇治抹茶」是表列品名，原料產地欄明列日本靜岡縣。",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "teatop-01",
+      "brand": "teatop",
+      "name": "高山青茶",
+      "countries": [
+        "台灣"
+      ],
+      "local": "台灣部分：PDF未逐項公開縣市、鄉鎮",
+      "sources": [
+        "teatop"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "teatop-02",
+      "brand": "teatop",
+      "name": "日月潭紅茶",
+      "countries": [
+        "台灣"
+      ],
+      "local": "台灣部分：PDF未逐項公開縣市、鄉鎮",
+      "sources": [
+        "teatop"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "teatop-03",
+      "brand": "teatop",
+      "name": "大吉嶺紅茶",
+      "countries": [
+        "印度"
+      ],
+      "local": "依PDF國別，未另列次級產區",
+      "sources": [
+        "teatop"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "teatop-04",
+      "brand": "teatop",
+      "name": "冷泡冬片",
+      "countries": [
+        "台灣"
+      ],
+      "local": "台灣部分：PDF未逐項公開縣市、鄉鎮",
+      "sources": [
+        "teatop"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "teatop-05",
+      "brand": "teatop",
+      "name": "奶香金萱",
+      "countries": [
+        "台灣"
+      ],
+      "local": "台灣部分：PDF未逐項公開縣市、鄉鎮",
+      "sources": [
+        "teatop"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "teatop-06",
+      "brand": "teatop",
+      "name": "茉莉綠茶",
+      "countries": [
+        "越南"
+      ],
+      "local": "依PDF國別，未另列次級產區",
+      "sources": [
+        "teatop"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "teatop-07",
+      "brand": "teatop",
+      "name": "108茶王",
+      "countries": [
+        "越南",
+        "台灣"
+      ],
+      "local": "台灣部分：PDF未逐項公開縣市、鄉鎮",
+      "sources": [
+        "teatop"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "teatop-08",
+      "brand": "teatop",
+      "name": "白毫烏龍",
+      "countries": [
+        "越南",
+        "台灣"
+      ],
+      "local": "台灣部分：PDF未逐項公開縣市、鄉鎮",
+      "sources": [
+        "teatop"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "kebuke-01",
+      "brand": "kebuke",
+      "name": "熟成紅茶",
+      "countries": [
+        "斯里蘭卡"
+      ],
+      "local": "次級產區未公開",
+      "sources": [
+        "kebuke-black"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "kebuke-02",
+      "brand": "kebuke",
+      "name": "春芽綠茶",
+      "countries": [
+        "台灣"
+      ],
+      "local": "南投縣；鄉鎮未公開",
+      "sources": [
+        "kebuke-pdf"
+      ],
+      "note": "第7頁明列台灣南投，不以舊菜單或茶種推成名間。",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "milksha-01",
+      "brand": "milksha",
+      "name": "娜杯紅茶",
+      "countries": [
+        "斯里蘭卡"
+      ],
+      "local": "盧哈娜（Ruhuna）產區",
+      "sources": [
+        "milksha"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "milksha-02",
+      "brand": "milksha",
+      "name": "英倫伯爵紅茶",
+      "countries": [
+        "印度",
+        "斯里蘭卡"
+      ],
+      "local": "印度阿薩姆＋斯里蘭卡錫蘭紅茶",
+      "sources": [
+        "milksha"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "milksha-03",
+      "brand": "milksha",
+      "name": "原片初露青茶",
+      "countries": [
+        "台灣"
+      ],
+      "local": "縣市、鄉鎮未公開",
+      "sources": [
+        "milksha"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "chingshin-01",
+      "brand": "chingshin",
+      "name": "特級綠茶",
+      "countries": [
+        "越南",
+        "台灣"
+      ],
+      "local": "台灣部分：縣市、鄉鎮未公開",
+      "sources": [
+        "chingshin-green"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "chingshin-02",
+      "brand": "chingshin",
+      "name": "錫蘭紅茶",
+      "countries": [
+        "印度",
+        "印尼"
+      ],
+      "local": "次級產區未公開",
+      "sources": [
+        "chingshin-black"
+      ],
+      "note": "品名與產地各自保留，未改成斯里蘭卡。",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "chingshin-03",
+      "brand": "chingshin",
+      "name": "原鄉四季",
+      "countries": [
+        "台灣",
+        "越南"
+      ],
+      "local": "台灣部分：縣市、鄉鎮未公開",
+      "sources": [
+        "chingshin-seasons"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "sunbay-01",
+      "brand": "sunbay",
+      "name": "金烏厚茶",
+      "countries": [
+        "台灣"
+      ],
+      "local": "南投縣鹿谷鄉",
+      "sources": [
+        "sunbay"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "sunbay-02",
+      "brand": "sunbay",
+      "name": "羅賓紅茶",
+      "countries": [
+        "台灣"
+      ],
+      "local": "南投縣魚池鄉",
+      "sources": [
+        "sunbay"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "sunbay-03",
+      "brand": "sunbay",
+      "name": "墨赤紅茶",
+      "countries": [
+        "台灣"
+      ],
+      "local": "南投縣竹山鎮・杉林溪茶區",
+      "sources": [
+        "sunbay",
+        "tbrs-geography"
+      ],
+      "note": "品牌列南投杉林溪；行政區對照茶改場對竹山鎮大鞍茶區及杉林溪茶的說明，不等於已查到批次茶園位置。",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "wooyo-01",
+      "brand": "wooyo",
+      "name": "好韻金萱",
+      "countries": [
+        "台灣"
+      ],
+      "local": "南投縣名間鄉",
+      "sources": [
+        "wooyo"
+      ],
+      "note": "",
+      "mingjian": true,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "wooyo-02",
+      "brand": "wooyo",
+      "name": "四季春",
+      "countries": [
+        "台灣"
+      ],
+      "local": "南投縣名間鄉",
+      "sources": [
+        "wooyo"
+      ],
+      "note": "",
+      "mingjian": true,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "wooyo-03",
+      "brand": "wooyo",
+      "name": "吾蜜紅烏龍",
+      "countries": [
+        "台灣"
+      ],
+      "local": "臺東縣鹿野鄉",
+      "sources": [
+        "wooyo"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "wooyo-04",
+      "brand": "wooyo",
+      "name": "東方美人",
+      "countries": [
+        "台灣"
+      ],
+      "local": "新竹縣峨眉鄉",
+      "sources": [
+        "wooyo"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "wooyo-05",
+      "brand": "wooyo",
+      "name": "包種茶",
+      "countries": [
+        "台灣"
+      ],
+      "local": "新北市坪林區",
+      "sources": [
+        "wooyo"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "wooyo-06",
+      "brand": "wooyo",
+      "name": "柚花烏龍茶",
+      "countries": [
+        "台灣"
+      ],
+      "local": "宜蘭縣冬山鄉",
+      "sources": [
+        "wooyo"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "wooyo-07",
+      "brand": "wooyo",
+      "name": "貴妃蜜香紅茶",
+      "countries": [
+        "台灣"
+      ],
+      "local": "南投縣仁愛鄉",
+      "sources": [
+        "wooyo"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "wooyo-08",
+      "brand": "wooyo",
+      "name": "老師傅鐵觀音",
+      "countries": [
+        "台灣"
+      ],
+      "local": "臺北市文山區木柵",
+      "sources": [
+        "wooyo"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "macu-01",
+      "brand": "macu",
+      "name": "綠茶茶底（翡翠綠茶）",
+      "countries": [
+        "越南",
+        "台灣"
+      ],
+      "local": "台灣部分：縣市、鄉鎮未公開",
+      "sources": [
+        "macu-chart"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "macu-02",
+      "brand": "macu",
+      "name": "錫蘭紅茶",
+      "countries": [
+        "斯里蘭卡",
+        "印度"
+      ],
+      "local": "更細產區未公開",
+      "sources": [
+        "macu-chart"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "macu-03",
+      "brand": "macu",
+      "name": "古早味紅茶",
+      "countries": [
+        "印度"
+      ],
+      "local": "更細產區未公開",
+      "sources": [
+        "macu-chart"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "macu-04",
+      "brand": "macu",
+      "name": "紅茶拿鐵",
+      "countries": [
+        "斯里蘭卡"
+      ],
+      "local": "更細產區未公開",
+      "sources": [
+        "macu-chart"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "macu-05",
+      "brand": "macu",
+      "name": "高山金萱茶",
+      "countries": [
+        "台灣"
+      ],
+      "local": "台灣部分：縣市、鄉鎮未公開",
+      "sources": [
+        "macu-chart"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "macu-06",
+      "brand": "macu",
+      "name": "文山青茶",
+      "countries": [
+        "台灣"
+      ],
+      "local": "台灣部分：縣市、鄉鎮未公開",
+      "sources": [
+        "macu-chart"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "macu-07",
+      "brand": "macu",
+      "name": "鐵觀音",
+      "countries": [
+        "越南",
+        "台灣"
+      ],
+      "local": "台灣部分：縣市、鄉鎮未公開",
+      "sources": [
+        "macu-chart"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "macu-08",
+      "brand": "macu",
+      "name": "蜜桃紅茶",
+      "countries": [
+        "斯里蘭卡",
+        "台灣"
+      ],
+      "local": "台灣部分：縣市、鄉鎮未公開",
+      "sources": [
+        "macu-chart"
+      ],
+      "note": "產地表另列果乾中國；此處只列茶葉來源。",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "macu-09",
+      "brand": "macu",
+      "name": "紅萱烏龍",
+      "countries": [
+        "台灣",
+        "印尼"
+      ],
+      "local": "台灣部分：縣市、鄉鎮未公開",
+      "sources": [
+        "macu-chart"
+      ],
+      "note": "",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "wanpo-01",
+      "brand": "wanpo",
+      "name": "金萱青茶",
+      "countries": [
+        "台灣"
+      ],
+      "local": "南投縣；鄉鎮未公開",
+      "sources": [
+        "wanpo"
+      ],
+      "note": "官網寫南投硬枝紅心，沒有明列名間。",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "presotea-01",
+      "brand": "presotea",
+      "name": "梨山烏龍茶",
+      "countries": [
+        "台灣"
+      ],
+      "local": "臺中市和平區・梨山茶區",
+      "sources": [
+        "presotea-pear",
+        "tbrs-geography"
+      ],
+      "note": "品牌文字明言茶葉產自台灣梨山；行政區對照茶改場的梨山茶區說明，不以加工廠所在地代替茶園，也未取得批次茶園位置。",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "kebuke-03",
+      "brand": "kebuke",
+      "name": "紅烏龍茶王",
+      "countries": [
+        "台灣"
+      ],
+      "local": "縣市、鄉鎮未公開",
+      "sources": [
+        "kebuke-pdf"
+      ],
+      "note": "第6頁列紅烏龍茶產地為台灣。",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "kebuke-04",
+      "brand": "kebuke",
+      "name": "茶花輕焙烏龍",
+      "countries": [
+        "台灣",
+        "越南"
+      ],
+      "local": "台灣部分：縣市、鄉鎮未公開",
+      "sources": [
+        "kebuke-pdf"
+      ],
+      "note": "第7頁列茶花烏龍產地台灣、越南。",
+      "mingjian": false,
+      "evidenceLevel": "茶品級"
+    },
+    {
+      "id": "sunbay-04",
+      "brand": "sunbay",
+      "name": "春花青茶",
+      "countries": [
+        "台灣"
+      ],
+      "local": "南投縣名間鄉・松柏嶺茶區",
+      "sources": [
+        "sunbay-spring",
+        "songboling-geo"
+      ],
+      "note": "品牌明列「台灣南投松柏嶺」；鄉鎮以政府茶區介紹對照，不代表已查到批次茶園位置。",
+      "mingjian": true,
+      "evidenceLevel": "茶品級"
+    }
+  ],
+  "contextRegistrations": [
+    {
+      "brand": "五桐號／柏元實業",
+      "source": "wootea-trace",
+      "text": "公司溯源頁將「茶製品－茶」登錄於南投縣名間鄉，但沒有配對到具名茶飲。因此此登錄另列說明，不將一把青茶、五桐茶等直接改標名間。"
+    },
+    {
+      "brand": "COMEBUY／長沂國際",
+      "source": "comebuy-trace",
+      "text": "公司公開溯源頁有名間鄉的「茶製品－茶」項目；未逐一對應現行飲品，不據此將全部台灣茶列為名間。"
+    }
+  ],
+  "pending": [
+    {
+      "brand": "一沐日",
+      "text": "官網有過往杉林溪茶王與日本茶粉的介紹，但這是歷史商品回顧；現行台北大安店頁未提供逐品項完整茶葉產地。本輪不以舊產品或茶粉加工廠位置，代替今天門市的原料來源。",
+      "sources": [
+        "anice-menu",
+        "anice"
+      ]
+    },
+    {
+      "brand": "得正",
+      "text": "已查官方原茶品項，尚未取得能逐一對應現行茶品的完整產地表。保留待核對，不由「烏龍」或品牌理念推定國別。",
+      "sources": [
+        "dejeng"
+      ]
+    },
+    {
+      "brand": "大苑子",
+      "text": "官網公開許多鮮果資訊，但水果的台灣產地不等於茶葉也在同一地種植。逐茶品茶葉來源尚待取得足夠的現行依據。",
+      "sources": [
+        "dayungs"
+      ]
+    },
+    {
+      "brand": "50嵐",
+      "text": "採分區經營，單店菜單及不同年度的抽驗資料可能不同。政府食材登錄頁本輪回傳維護中，尚未完成現行分區逐茶品核對；不把某門市資料概括為全台來源。",
+      "sources": [
+        "50lan"
+      ]
+    }
+  ],
+  "exclusions": [
+    "COMEBUY鮮萃大麥紅茶的澳洲大麥不能確認為茶葉國別，未列入該茶品。",
+    "麻古蕎麥綠寶石的南非來源可能屬蕎麥原料，未當成茶葉國別。",
+    "鮮茶道一番抹茶奶綠食材表的台灣是「來源或工廠」欄，不能單憑此欄推成抹茶種植於台灣。",
+    "TEA TOP烏龍綠茶列中國（桂花），未把花材來源寫成茶葉來源；該複合欄位未另列成一筆。"
+  ]
+}

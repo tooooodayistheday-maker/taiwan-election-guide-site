@@ -1,5 +1,31 @@
 [
   {
+    "entry_id": "tea-origins-2026-11-22-manual",
+    "kind": "manual",
+    "session_label": "手搖茶葉產地區塊",
+    "date": "2026-11-22",
+    "checked_at": "2026-11-22T18:31:57.168042+08:00",
+    "county_scope": [
+      "南投縣"
+    ],
+    "accepted_facts": 0,
+    "updated_people": 0,
+    "summary": "新增手搖茶葉來源查詢：品牌、茶品、國家／地區及已公開鄉鎮逐項列來源；名間茶品醒目標示，公司登錄與個別飲品分開。並於名間專題新增閱讀入口。",
+    "article_url": "https://tooooodayistheday-maker.github.io/taiwan-election-guide-site/topics/tea-origins/",
+    "changes": [
+      {
+        "field": "topic",
+        "text": "手搖茶葉產地筆記與名間專題串連",
+        "url": "https://tooooodayistheday-maker.github.io/taiwan-election-guide-site/topics/tea-origins/"
+      }
+    ],
+    "limitations": [
+      "產地資料為公開揭露，不是每批檢驗或全市場普查。",
+      "明列名間不代表污染或違規，也不代表茶園就在預定廠址附近。",
+      "未公布鄉鎮或未能配對具名飲品的，不補猜。"
+    ]
+  },
+  {
     "entry_id": "mingjian-plain-language-2026-11-22",
     "kind": "manual",
     "session_label": "名間專題白話重寫",
