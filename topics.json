@@ -3,6 +3,48 @@
   "editorialNote": "近期選舉議題編選，非聲量或支持度排名；對話由本站整理，不是真實民眾留言。",
   "topics": [
     {
+      "id": "taipei-shen-citizens-night-cancelled-20261126",
+      "title": "沈伯洋為何取消選前之夜？時間線、路權爭議與網路消息",
+      "shortTitle": "選前之夜取消始末",
+      "category": "選務與公共空間",
+      "symbol": "◇",
+      "county": "臺北市",
+      "districts": [],
+      "relatedNames": [
+        "沈伯洋",
+        "蔣萬安"
+      ],
+      "date": "2026-11-25",
+      "checkedAt": "2026-11-26",
+      "summary": "從仁愛路交管、北平東路日期差異，到蔣陣營讓路權與雙方回應：把已報導事實、當事人說法及仍待核對的資料分開讀。",
+      "steps": [
+        {
+          "speaker": "完整時間線與來源",
+          "text": "從交通影響與取消決定，到場地選擇、北平東路日期爭議與後續回應，已整理為十段專題。",
+          "sourceUrls": [
+            "https://tooooodayistheday-maker.github.io/taiwan-election-guide-site/topics/shen-citizens-night/"
+          ]
+        },
+        {
+          "speaker": "先分開路、廣場與日期",
+          "text": "活動當天路權、前置作業時段與廣場可用性不是同一件事；本文分別呈現雙方說法，不替未公開紀錄下結論。",
+          "sourceUrls": [
+            "https://tooooodayistheday-maker.github.io/taiwan-election-guide-site/topics/shen-citizens-night/#chapter-5",
+            "https://tooooodayistheday-maker.github.io/taiwan-election-guide-site/topics/shen-citizens-night/#chapter-6"
+          ]
+        },
+        {
+          "speaker": "網路消息要核對什麼？",
+          "text": "具名批評、支持評價與可確認事實分開；借用人身分、完整核准紀錄與醫療個案未全部核實，均列出限制。",
+          "sourceUrls": [
+            "https://tooooodayistheday-maker.github.io/taiwan-election-guide-site/topics/shen-citizens-night/#sources",
+            "https://www.threads.com/@tooooodayistheday/post/DgMGFZHE-EK"
+          ]
+        }
+      ],
+      "question": "日期、場地與核准紀錄都核對了，再判斷爭點與責任。"
+    },
+    {
       "id": "mingjian-tea-incinerator-20261122",
       "title": "名間的茶，到底發生什麼事？",
       "shortTitle": "名間茶葉事件全解讀",
